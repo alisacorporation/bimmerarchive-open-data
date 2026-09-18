@@ -131,26 +131,65 @@ async function viewModel(slug) {
   </section></div>`;
 }
 
+let engineSort = 'family';
+try { engineSort = localStorage.getItem('engineSort') || 'family'; } catch {}
+
+function sortEngines(list, mode) {
+  const by = {
+    family: (a, b) => a.family.localeCompare(b.family) || a.code.localeCompare(b.code),
+    code: (a, b) => a.code.localeCompare(b.code),
+    displacement: (a, b) => (b.displacement_cc || 0) - (a.displacement_cc || 0),
+    power: (a, b) => (b.power_kw || 0) - (a.power_kw || 0),
+    year: (a, b) => (a.year_from || 9999) - (b.year_from || 9999),
+  }[mode] || ((a, b) => 0);
+  return [...list].sort(by);
+}
+
 async function viewEngines() {
   const d = await get('engines.json');
-  const fams = [...new Set(d.results.map(e => e.family))].sort((a, b) => a.localeCompare(b));
-  const groups = fams.map(f => {
-    const rows = d.results.filter(e => e.family === f).sort((a, b) => a.code.localeCompare(b.code)).map(e => `
-      <tr>
-        <td class="code"><a href="#/engine/${esc(e.slug)}">${esc(e.code)}</a></td>
-        <td>${e.displacement_cc ? esc(e.displacement_cc) + ' cm³' : '<span class="muted">—</span>'}</td>
-        <td>${e.power_kw ? `${esc(e.power_kw)} kW (${esc(e.power_ps)} PS)` : '<span class="muted">—</span>'}</td>
-        <td>${e.torque_nm ? esc(e.torque_nm) + ' Nm' : '<span class="muted">—</span>'}</td>
-        <td>${dash(e.years)}</td>
-      </tr>`).join('');
-    return `<h3>${esc(f)}</h3><div class="tablewrap"><table>
-      <thead><tr><th>Code</th><th>Displacement</th><th>Power</th><th>Torque</th><th>Built</th></tr></thead>
-      <tbody>${rows}</tbody></table></div>`;
-  }).join('');
+  window.__engines = d.results;
   return `<div class="wrap"><section>
     <h2>Engines</h2>
-    <p class="sub">${d.count} variants in ${fams.length} families.</p>
-    ${groups}</section></div>`;
+    <p class="sub">${d.count} variants.</p>
+    <div class="filters" id="engineSortFilter">
+      <button class="chip${engineSort === 'family' ? ' on' : ''}" data-s="family">By family</button>
+      <button class="chip${engineSort === 'code' ? ' on' : ''}" data-s="code">By code</button>
+      <button class="chip${engineSort === 'displacement' ? ' on' : ''}" data-s="displacement">By displacement</button>
+      <button class="chip${engineSort === 'power' ? ' on' : ''}" data-s="power">By power</button>
+      <button class="chip${engineSort === 'year' ? ' on' : ''}" data-s="year">By year</button>
+    </div>
+    <div id="engineGroups"></div>
+  </section></div>`;
+}
+
+function engineRow(e) {
+  return `<tr>
+    <td class="code"><a href="#/engine/${esc(e.slug)}">${esc(e.code)}</a></td>
+    <td>${e.displacement_cc ? esc(e.displacement_cc) + ' cm³' : '<span class="muted">—</span>'}</td>
+    <td>${e.power_kw ? `${esc(e.power_kw)} kW (${esc(e.power_ps)} PS)` : '<span class="muted">—</span>'}</td>
+    <td>${e.torque_nm ? esc(e.torque_nm) + ' Nm' : '<span class="muted">—</span>'}</td>
+    <td>${dash(e.years)}</td>
+  </tr>`;
+}
+
+function paintEngines() {
+  const g = $('#engineGroups');
+  if (!g || !window.__engines) return;
+  const sorted = sortEngines(window.__engines, engineSort);
+  if (engineSort === 'family') {
+    const fams = [...new Set(sorted.map(e => e.family))];
+    g.innerHTML = fams.map(f => {
+      const rows = sorted.filter(e => e.family === f).map(engineRow).join('');
+      return `<h3>${esc(f)}</h3><div class="tablewrap"><table>
+        <thead><tr><th>Code</th><th>Displacement</th><th>Power</th><th>Torque</th><th>Built</th></tr></thead>
+        <tbody>${rows}</tbody></table></div>`;
+    }).join('');
+  } else {
+    const rows = sorted.map(engineRow).join('');
+    g.innerHTML = `<div class="tablewrap"><table>
+      <thead><tr><th>Code</th><th>Displacement</th><th>Power</th><th>Torque</th><th>Built</th></tr></thead>
+      <tbody>${rows}</tbody></table></div>`;
+  }
 }
 
 async function viewEngine(slug) {
@@ -371,6 +410,18 @@ function wire() {
       if (!b) return;
       bf.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', c === b));
       paintModels(b.dataset.b);
+    });
+  }
+  const esf = $('#engineSortFilter');
+  if (esf) {
+    paintEngines();
+    esf.addEventListener('click', ev => {
+      const b = ev.target.closest('.chip');
+      if (!b) return;
+      engineSort = b.dataset.s;
+      try { localStorage.setItem('engineSort', engineSort); } catch {}
+      esf.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', c === b));
+      paintEngines();
     });
   }
 }
