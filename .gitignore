@@ -1,0 +1,8 @@
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
+
+# Raw harvested HTML — kept locally as provenance, not redistributed.
+# Regenerate with: sh tools/fetch.sh
+cache/

@@ -1,0 +1,286 @@
+code,brand,description,years,production_codes,source
+3200 CS,BMW,BMW 3200 CS,1962 - 1965,1,https://www.bimmerarchive.org/e-code/3200-cs.html
+100,BMW,Isetta,1955 - 1962,1,https://www.bimmerarchive.org/e-code/100.html
+101,BMW,Isetta 250,1955 - 1962,1,https://www.bimmerarchive.org/e-code/101.html
+102,BMW,Isetta 300,1955 - 1962,3,https://www.bimmerarchive.org/e-code/102.html
+103,BMW,Isetta CKD/SKD,1955 - 1962,0,https://www.bimmerarchive.org/e-code/103.html
+107,BMW,700 Sedan,1959 - 1965,3,https://www.bimmerarchive.org/e-code/107.html
+E21,BMW,BMW 3 Series,1975 - 1982,7,https://www.bimmerarchive.org/e-code/e21.html
+E23,BMW,BMW 7 Series Sedan,1977 - 1979,51,https://www.bimmerarchive.org/e-code/e23.html
+E24,BMW,BMW 6 Series Coupe,1976 - 1982,42,https://www.bimmerarchive.org/e-code/e24.html
+E28,BMW,BMW 5 Series Sedan,1981 - 1987,109,https://www.bimmerarchive.org/e-code/e28.html
+E30,BMW,BMW 3 Series Sedan,1982 - 1990,274,https://www.bimmerarchive.org/e-code/e30.html
+E30 (5),BMW,BMW 3 Series Touring,1987 - 1994,22,https://www.bimmerarchive.org/e-code/e30-5.html
+E30 (16),BMW,BMW 3 Series Sedan with All-Wheel Drive,1985 - 1990,10,https://www.bimmerarchive.org/e-code/e30-16.html
+E30 (Z),BMW,BMW Z1 Roadster,1988 - 1991,1,https://www.bimmerarchive.org/e-code/e30-z1.html
+E31,BMW,BMW 8 Series Coupe,1989 - 1999,23,https://www.bimmerarchive.org/e-code/e31.html
+E32,BMW,BMW 7 Series Sedan,1986 - 1994,32,https://www.bimmerarchive.org/e-code/e32.html
+E32 (2),BMW,BMW 7 Series Sedan Long Wheelbase,1987 - 1994,16,https://www.bimmerarchive.org/e-code/e32-2.html
+E32 (3),BMW,BMW 7 Series Sedan High Security,-,1,https://www.bimmerarchive.org/e-code/e32-3.html
+E34,BMW,BMW 5 Series Sedan,1988 - 1995,89,https://www.bimmerarchive.org/e-code/e34.html
+E34 (2),BMW,BMW 5 Series Touring,1990 - 1997,33,https://www.bimmerarchive.org/e-code/e34-2.html
+E36 (2),BMW,BMW 3 Series Coupe,1992 - 1999,51,https://www.bimmerarchive.org/e-code/e36-2.html
+E36 (C),BMW,BMW 3 Series Convertible,1993 - 1999,40,https://www.bimmerarchive.org/e-code/e36-2c.html
+E36 (3),BMW,BMW 3 Series Touring,1995 - 1999,26,https://www.bimmerarchive.org/e-code/e36-3.html
+E36 (4),BMW,BMW 3 Series Sedan,1991 - 1998,125,https://www.bimmerarchive.org/e-code/e36-4.html
+E36 (5),BMW,BMW 3 Series Compact,1994 - 1998,27,https://www.bimmerarchive.org/e-code/e36-5.html
+E36 (7),BMW,BMW Z3 Roadster and M Roadster,1994 - 2002,27,https://www.bimmerarchive.org/e-code/e36-7.html
+E36 (7C),BMW,BMW Z3 Coupe and M Coupe,1997 - 2002,11,https://www.bimmerarchive.org/e-code/e36-7c.html
+E38,BMW,BMW 7 Series Sedan,1994 - 2001,34,https://www.bimmerarchive.org/e-code/e38.html
+E38 (2),BMW,BMW 7 Series Sedan Long Wheelbase,1994 - 2001,24,https://www.bimmerarchive.org/e-code/e38-2.html
+E38 (2 PL),BMW,BMW 7 Series Sedan - Protection Line,-,4,https://www.bimmerarchive.org/e-code/e38-2-pl.html
+E38 (3),BMW,BMW 7 Series Protection,1998 - 2001,4,https://www.bimmerarchive.org/e-code/e38-3.html
+E38 (L7),BMW,BMW L7,1996 - 2001,4,https://www.bimmerarchive.org/e-code/e38-l7.html
+E39,BMW,BMW 5 Series Sedan,1995 - 2003,111,https://www.bimmerarchive.org/e-code/e39.html
+E39 (2),BMW,BMW 5 Series Touring,1997 - 2004,62,https://www.bimmerarchive.org/e-code/e39-2.html
+E46 (2),BMW,BMW 3 Series Coupe,1998 - 2006,27,https://www.bimmerarchive.org/e-code/e46-2.html
+E46 (2FL),BMW,BMW 3 Series Coupe - LCI,-,19,https://www.bimmerarchive.org/e-code/e46-2-lci.html
+E46 (C),BMW,BMW 3 Series Convertible,1998 - 2006,16,https://www.bimmerarchive.org/e-code/e46-2c.html
+E46 (CFL),BMW,BMW 3 Series Convertible - LCI,-,16,https://www.bimmerarchive.org/e-code/e46-c-lci.html
+E46 (3),BMW,BMW 3 Series Touring,1998 - 2005,17,https://www.bimmerarchive.org/e-code/e46-3.html
+E46 (3FL),BMW,BMW 3 Series Touring - LCI,-,30,https://www.bimmerarchive.org/e-code/e46-3-lci.html
+E46 (4),BMW,BMW 3 Series Sedan,1997 - 2005,64,https://www.bimmerarchive.org/e-code/e46-4.html
+E46 (4FL),BMW,BMW 3 Series Sedan - LCI,-,80,https://www.bimmerarchive.org/e-code/e46-4-lci.html
+E46 (5),BMW,BMW 3 Series Compact,2000 - 2004,15,https://www.bimmerarchive.org/e-code/e46-5.html
+E52,BMW,BMW Z8 Roadster,1999 - 2003,2,https://www.bimmerarchive.org/e-code/e52.html
+E53,BMW,BMW X5 - Sports Activity Vehicle,1999 - 2006,22,https://www.bimmerarchive.org/e-code/e53.html
+E60,BMW,BMW 5 Series Sedan,2002 - 2005,74,https://www.bimmerarchive.org/e-code/e60.html
+E60 (M5),BMW,BMW M5 Sedan,2003 - 2009,3,https://www.bimmerarchive.org/e-code/e60-m5.html
+E60 (MUE),BMW,BMW 5 Series Sedan - LCI,2005 - 2010,71,https://www.bimmerarchive.org/e-code/e60n.html
+E61,BMW,BMW 5 Series Touring,2002 - 2007,26,https://www.bimmerarchive.org/e-code/e61.html
+E61 (M5),BMW,BMW M5 Touring,2005 - 2009,2,https://www.bimmerarchive.org/e-code/e61-m5.html
+E61 (MUE),BMW,BMW 5 Series Touring - LCI,2005 - 2010,31,https://www.bimmerarchive.org/e-code/e61n.html
+E63,BMW,BMW 6 Series Coupe,2002 - 2007,8,https://www.bimmerarchive.org/e-code/e63.html
+E63 (M6),BMW,BMW M6 Coupe,2005 - 2010,3,https://www.bimmerarchive.org/e-code/e63-m6.html
+E63 (MUE),BMW,BMW 6 Series Coupe - LCI,2006 - 2011,9,https://www.bimmerarchive.org/e-code/e63n.html
+E64,BMW,BMW 6 Series Convertible,2002 - 2007,8,https://www.bimmerarchive.org/e-code/e64.html
+E64 (M6),BMW,BMW M6 Convertible,2006 - 2010,3,https://www.bimmerarchive.org/e-code/e64-m6.html
+E64 (MUE),BMW,BMW 6 Series Convertible - LCI,2006 - 2012,9,https://www.bimmerarchive.org/e-code/e64n.html
+E65,BMW,BMW 7 Series Sedan,2001 - 2008,26,https://www.bimmerarchive.org/e-code/e65.html
+E66,BMW,BMW 7 Series Long Wheelbase,2001 - 2008,27,https://www.bimmerarchive.org/e-code/e66.html
+E67,BMW,BMW 7 Series Protection,2001 - 2008,8,https://www.bimmerarchive.org/e-code/e67.html
+E68,BMW,BMW 7 Series Hydrogen 7,2005 - 2007,1,https://www.bimmerarchive.org/e-code/e68.html
+E70,BMW,BMW X5 - Sports Activity Vehicle,2006 - 2013,11,https://www.bimmerarchive.org/e-code/e70.html
+E70 (X5M),BMW,BMW X5 M - Sports Activity Vehicle,-,3,https://www.bimmerarchive.org/e-code/e70-x5m.html
+E70 (MUE),BMW,BMW X5 - Sports Activity Vehicle - LCI,-,14,https://www.bimmerarchive.org/e-code/e70-lci.html
+E71,BMW,BMW X6 - Sports Activity Coupe,2008 - 2015,20,https://www.bimmerarchive.org/e-code/e71.html
+E71 (X6M),BMW,BMW X6 M - Sports Activity Coupe,-,3,https://www.bimmerarchive.org/e-code/e71-x6m.html
+E72,BMW,BMW ActiveHybrid X6 - Sports Activity Coupé,2010 - 2015,2,https://www.bimmerarchive.org/e-code/e72.html
+E81,BMW,BMW 1 Series 3-door Sports Hatch,2007 - 2011,24,https://www.bimmerarchive.org/e-code/e81.html
+E82,BMW,BMW 1 Series Coupe,2007 - 2014,22,https://www.bimmerarchive.org/e-code/e82.html
+E82 (MUE),BMW,BMW 1 Series Coupe,-,0,https://www.bimmerarchive.org/e-code/e82-lci.html
+E82 (M),BMW,BMW 1 Series M Coupe,2011 - 2012,3,https://www.bimmerarchive.org/e-code/e82m.html
+E83,BMW,BMW X3 - Sports Activity Vehicle,2003 - 2006,15,https://www.bimmerarchive.org/e-code/e83.html
+E83 (MUE),BMW,BMW X3 - Sports Activity Vehicle - LCI,2006 - 2010,25,https://www.bimmerarchive.org/e-code/e83n.html
+E84,BMW,BMW X1 - Sports Activity Vehicle,2009 - 2016,64,https://www.bimmerarchive.org/e-code/e84.html
+M12,BMW,Zinoro 1E,2014 -,1,https://www.bimmerarchive.org/e-code/m12.html
+E85,BMW,BMW Z4 Roadster,2002 - 2009,18,https://www.bimmerarchive.org/e-code/e85.html
+E85 (M),BMW,BMW Z4 M Roadster,-,3,https://www.bimmerarchive.org/e-code/e85-m.html
+E86,BMW,BMW Z4 Coupe,2006 - 2009,3,https://www.bimmerarchive.org/e-code/e86.html
+E86 (M),BMW,BMW Z4 M Coupe,-,3,https://www.bimmerarchive.org/e-code/e86-m.html
+E87,BMW,BMW 1 Series 5-door Sports Hatch,2004 - 2007,12,https://www.bimmerarchive.org/e-code/e87.html
+E87 (MUE),BMW,BMW 1 Series 5-door Sports Hatch - LCI,2006 - 2011,24,https://www.bimmerarchive.org/e-code/e87n.html
+E88,BMW,BMW 1 Series Convertible,2008 - 2015,24,https://www.bimmerarchive.org/e-code/e88.html
+E89,BMW,BMW Z4 Roadster,2009 - 2016,18,https://www.bimmerarchive.org/e-code/e89.html
+E90,BMW,BMW 3 Series Sedan,2005 - 2012,129,https://www.bimmerarchive.org/e-code/e90.html
+E90 (M3),BMW,BMW M3 Sedan,-,8,https://www.bimmerarchive.org/e-code/e90-m3.html
+E90 (MUE),BMW,BMW 3 Series Sedan - LCI,2008 - 2012,125,https://www.bimmerarchive.org/e-code/e90n.html
+E91,BMW,BMW 3 Series Touring,2005 - 2013,53,https://www.bimmerarchive.org/e-code/e91.html
+E91 (MUE),BMW,BMW 3 Series Touring - LCI,2008 - 2013,50,https://www.bimmerarchive.org/e-code/e91n.html
+E92,BMW,BMW 3 Series Coupe,2006 - 2010,41,https://www.bimmerarchive.org/e-code/e92.html
+E92 (M3),BMW,BMW M3 Coupe,-,6,https://www.bimmerarchive.org/e-code/e92-m3.html
+E92 (MUE),BMW,BMW 3 Series Coupe - LCI,2010 - 2013,40,https://www.bimmerarchive.org/e-code/e92n.html
+E93,BMW,BMW 3 Series Convertible,2007 - 2010,27,https://www.bimmerarchive.org/e-code/e93.html
+E93 (M3),BMW,BMW M3 Convertible,-,6,https://www.bimmerarchive.org/e-code/e93-m3.html
+E93 (MUE),BMW,BMW 3 Series Convertible - LCI,2010 - 2014,27,https://www.bimmerarchive.org/e-code/e93n.html
+F01,BMW,BMW 7 Series Sedan,2008 - 2012,17,https://www.bimmerarchive.org/e-code/f01.html
+F01 (MUE),BMW,BMW 7 Series Sedan - LCI,2012 -,21,https://www.bimmerarchive.org/e-code/f01-lci.html
+F02,BMW,BMW 7 Series Sedan - Long Wheelbase,2008 - 2012,23,https://www.bimmerarchive.org/e-code/f02.html
+F02 (MUE),BMW,BMW 7 Series Sedan - Long Wheelbase - LCI,2012 -,30,https://www.bimmerarchive.org/e-code/f02-lci.html
+F03,BMW,BMW 7 Series Sedan - Protection,2009 - 2012,4,https://www.bimmerarchive.org/e-code/f03.html
+F03 (MUE),BMW,BMW 7 Series Sedan - Protection - LCI,2012 -,3,https://www.bimmerarchive.org/e-code/f03-lci.html
+F04,BMW,BMW 7 Series Sedan - ActiveHybrid,2010 - 2012,4,https://www.bimmerarchive.org/e-code/f04.html
+F06,BMW,BMW 6 Series Gran Coupé,2011 -,14,https://www.bimmerarchive.org/e-code/f06.html
+F06 (M6),BMW,BMW M6 Gran Coupé,2012 -,6,https://www.bimmerarchive.org/e-code/f06-m6.html
+F07,BMW,BMW 5 Series Gran Turismo,2009 - 2012,31,https://www.bimmerarchive.org/e-code/f07.html
+F07 (MUE),BMW,BMW 5 Series Gran Turismo - LCI,2012 -,21,https://www.bimmerarchive.org/e-code/f07-lci.html
+F10,BMW,BMW 5 Series Sedan,2010 - 2013,84,https://www.bimmerarchive.org/e-code/f10.html
+F10 (M5),BMW,BMW M5 Sedan,-,3,https://www.bimmerarchive.org/e-code/f10-m5.html
+F10 (MUE),BMW,BMW 5 Series Sedan - LCI,2013 -,70,https://www.bimmerarchive.org/e-code/f10-lci.html
+F11,BMW,BMW 5 Series Touring,2011 - 2013,38,https://www.bimmerarchive.org/e-code/f11.html
+F11 (MUE),BMW,BMW 5 Series Touring - LCI,2013 -,30,https://www.bimmerarchive.org/e-code/f11-lci.html
+F12,BMW,BMW 6 Series Convertible,2012 - 2019,19,https://www.bimmerarchive.org/e-code/f12.html
+F12 (M6),BMW,BMW M6 Convertible,-,6,https://www.bimmerarchive.org/e-code/f12-m6.html
+F13,BMW,BMW 6 Series Coupe,2011 - 2018,19,https://www.bimmerarchive.org/e-code/f13.html
+F13 (M6),BMW,BMW M6 Coupe,-,6,https://www.bimmerarchive.org/e-code/f13-m6.html
+F15,BMW,BMW X5 - Sports Activity Vehicle,2013 - 2020,39,https://www.bimmerarchive.org/e-code/f15.html
+F16,BMW,BMW X6 - Sports Activity Coupe,2014 -,16,https://www.bimmerarchive.org/e-code/f16.html
+F18,BMW,BMW 5 Series Sedan - Chinese Long Wheelbase,2010 -,8,https://www.bimmerarchive.org/e-code/f18.html
+F18 (MUE),BMW,BMW 5 Series Sedan - Chinese Long Wheelbase - LCI,2013 -,7,https://www.bimmerarchive.org/e-code/f18-lci.html
+F20,BMW,BMW 1 Series 5-door Sports Hatch,2011 - 2015,32,https://www.bimmerarchive.org/e-code/f20.html
+F20 (MUE),BMW,BMW 1 Series 5-door Sports Hatch,2015 - 2018,33,https://www.bimmerarchive.org/e-code/f20-lci.html
+F21,BMW,BMW 1 Series 3-door Sports Hatch,2012 - 2015,25,https://www.bimmerarchive.org/e-code/f21.html
+F21 (MUE),BMW,BMW 1 Series 3-door Sports Hatch,2015 - 2018,27,https://www.bimmerarchive.org/e-code/f21-lci.html
+F22,BMW,BMW 2 Series Coupe,2014 - 2021,28,https://www.bimmerarchive.org/e-code/f22.html
+F22 (MUE),BMW,BMW 2 Series Coupe - LCI,2017 -,0,https://www.bimmerarchive.org/e-code/f22-lci.html
+F23,BMW,BMW 2 Series Convertible,2014 - 2021,20,https://www.bimmerarchive.org/e-code/f23.html
+F23 (MUE),BMW,BMW 2 Series Convertible - LCI,2017 -,0,https://www.bimmerarchive.org/e-code/f23-lci.html
+F25,BMW,BMW X3 - Sports Activity Vehicle,2011 - 2018,51,https://www.bimmerarchive.org/e-code/f25.html
+F25N,BMW,BMW X3 - Sports Activity Vehicle - LCI,2014 -,0,https://www.bimmerarchive.org/e-code/f25n.html
+F26,BMW,BMW X4 - Sports Activity Coupe,2014 - 2021,20,https://www.bimmerarchive.org/e-code/f26.html
+F30,BMW,BMW 3 Series Sedan,2012 - 2019,105,https://www.bimmerarchive.org/e-code/f30.html
+F30 (MUE),BMW,BMW 3 Series Sedan - LCI,-,76,https://www.bimmerarchive.org/e-code/f30-lci.html
+F31,BMW,BMW 3 Series Touring,2012 - 2019,35,https://www.bimmerarchive.org/e-code/f31.html
+F31 (MUE),BMW,BMW 3 Series Touring - LCI,-,31,https://www.bimmerarchive.org/e-code/f31-lci.html
+F32,BMW,BMW 4 Series Coupe,2013 - 2020,35,https://www.bimmerarchive.org/e-code/f32.html
+F33,BMW,BMW 4 Series Convertible,2013 - 2020,26,https://www.bimmerarchive.org/e-code/f33.html
+F34,BMW,BMW 3 Series Gran Turismo,2013 - 2020,38,https://www.bimmerarchive.org/e-code/f34.html
+F35,BMW,BMW 3 Series Sedan - Chinese Long Wheelbase,2015 - 2022,5,https://www.bimmerarchive.org/e-code/f35.html
+F35 (MUE),BMW,BMW 3 Series Sedan - Chinese Long Wheelbase - LCI,-,3,https://www.bimmerarchive.org/e-code/f35-lci.html
+F36,BMW,BMW 4 Series Gran Coupe,2014 -,35,https://www.bimmerarchive.org/e-code/f36.html
+F39,BMW,BMW X2 - Sports Activity Coupe,2018 -,0,https://www.bimmerarchive.org/e-code/f39.html
+F40,BMW,BMW 1 Series,2019 - 2024,0,https://www.bimmerarchive.org/e-code/f40.html
+F44,BMW,BMW 2 Series Gran Coupe,2020 -,0,https://www.bimmerarchive.org/e-code/f44.html
+F45,BMW,BMW 2 Series Active Tourer,2014 - 2021,24,https://www.bimmerarchive.org/e-code/f45.html
+F46,BMW,BMW 2 Series Gran Tourer,2015 - 2022,16,https://www.bimmerarchive.org/e-code/f46.html
+F48,BMW,BMW X1,2015 - 2019,22,https://www.bimmerarchive.org/e-code/f48.html
+F48 (MUE),BMW,BMW X1 (LCI),2019 -,0,https://www.bimmerarchive.org/e-code/f48-lci.html
+F49,BMW,BMW X1 - Long Wheelbase,2016 -,5,https://www.bimmerarchive.org/e-code/f49.html
+F52,BMW,BMW 1 Series Sedan,2016 -,0,https://www.bimmerarchive.org/e-code/f52.html
+F70,BMW,BMW 1 Series 5 door,2024 -,0,https://www.bimmerarchive.org/e-code/f70.html
+F80,BMW,BMW M3 Sedan,2014 - 2020,3,https://www.bimmerarchive.org/e-code/f80.html
+F82,BMW,BMW M4 Coupe,2014 - 2020,5,https://www.bimmerarchive.org/e-code/f82.html
+F83,BMW,BMW M4 Convertible,2014 - 2020,3,https://www.bimmerarchive.org/e-code/f83.html
+F85,BMW,BMW X5 M,2014 - 2020,3,https://www.bimmerarchive.org/e-code/f85.html
+F86,BMW,BMW X6 M,2014 - 2020,3,https://www.bimmerarchive.org/e-code/f86.html
+F87,BMW,BMW M2 Coupe,2015 - 2020,3,https://www.bimmerarchive.org/e-code/f87.html
+F90,BMW,BMW M5 Sedan,2017 - 2020,0,https://www.bimmerarchive.org/e-code/f90.html
+F90 (MUE),BMW,BMW M5 Sedan - LCI,2020 - 2024,0,https://www.bimmerarchive.org/e-code/f90-lci.html
+G01,BMW,BMW X3 - Sports Activity Vehicle,2017 - 2021,0,https://www.bimmerarchive.org/e-code/g01.html
+G01 (MUE),BMW,BMW X3 - Sports Activity Vehicle - LCI,2021 - 2024,0,https://www.bimmerarchive.org/e-code/g01-lci.html
+F97,BMW,BMW X3 M - Sports Activity Vehicle,2019 -,0,https://www.bimmerarchive.org/e-code/f97.html
+F97 (MUE),BMW,BMW X3 M - Sports Activity Vehicle - LCI,2021 -,0,https://www.bimmerarchive.org/e-code/f97-lci.html
+G02,BMW,BMW X4 - Sports Activity Coupe,2018 -,0,https://www.bimmerarchive.org/e-code/g02.html
+G02 (MUE),BMW,BMW X4 - Sports Activity Coupe - LCI,2021 -,0,https://www.bimmerarchive.org/e-code/g02-lci.html
+F98,BMW,BMW X4 M - Sports Activity Coupe,2019 -,0,https://www.bimmerarchive.org/e-code/f98.html
+F98 (MUE),BMW,BMW X4 M - Sports Activity Coupe - LCI,2021 -,0,https://www.bimmerarchive.org/e-code/f98-lci.html
+G05,BMW,BMW X5 - Sports Activity Vehicle,2018 -,0,https://www.bimmerarchive.org/e-code/g05.html
+F95,BMW,BMW X5 M / X5 M Competition,2020 -,0,https://www.bimmerarchive.org/e-code/f95.html
+G05 (MUE),BMW,BMW X5 - Sports Activity Vehicle - LCI,2023 -,0,https://www.bimmerarchive.org/e-code/g05-lci.html
+F95 (MUE),BMW,BMW X5 M Competition - LCI,2023 -,0,https://www.bimmerarchive.org/e-code/f95-lci.html
+G06,BMW,BMW X6 - Sports Activity Coupe,2019 -,0,https://www.bimmerarchive.org/e-code/g06.html
+F96,BMW,BMW X6 M Competition,2020 -,0,https://www.bimmerarchive.org/e-code/f96.html
+G06 (MUE),BMW,BMW X6 - Sports Activity Coupé - LCI,2023 -,0,https://www.bimmerarchive.org/e-code/g06-lci.html
+F96 (MUE),BMW,BMW X6 M Competition - LCI,2023 -,0,https://www.bimmerarchive.org/e-code/f96-lci.html
+G07,BMW,BMW X7 - Sports Activity Vehicle,2018 - 2025,0,https://www.bimmerarchive.org/e-code/g07.html
+G07 (MUE),BMW,BMW X7 - Sports Activity Vehicle - LCI,2022 -,0,https://www.bimmerarchive.org/e-code/g07-lci.html
+G08,BMW,BMW iX3 - Sports Activity Vehicle,2020 - 2021,2,https://www.bimmerarchive.org/e-code/g08.html
+G08 (MUE),BMW,BMW X3 - Sports Activity Vehicle - Long Wheelbase - LCI,2021 -,2,https://www.bimmerarchive.org/e-code/g08-lci.html
+G09,BMW,BMW XM,2022 -,3,https://www.bimmerarchive.org/e-code/g09.html
+G11,BMW,BMW 7 Series Sedan,2015 - 2022,12,https://www.bimmerarchive.org/e-code/g11.html
+G11 (MUE),BMW,BMW 7 Series Sedan - LCI,2019 -,0,https://www.bimmerarchive.org/e-code/g11-lci.html
+G12,BMW,BMW 7 Series Sedan - Long Wheelbase,2015 - 2022,14,https://www.bimmerarchive.org/e-code/g12.html
+G12 (MUE),BMW,BMW 7 Series Sedan - Long Wheelbase - LCI,2019 -,0,https://www.bimmerarchive.org/e-code/g12-lci.html
+G14,BMW,BMW 8 Series Convertible,2019 -,0,https://www.bimmerarchive.org/e-code/g14.html
+F91,BMW,BMW M8 Convertible,2019 -,0,https://www.bimmerarchive.org/e-code/f91.html
+G15,BMW,BMW 8 Series Coupe,2018 -,0,https://www.bimmerarchive.org/e-code/g15.html
+F92,BMW,BMW M8 Coupe,2019 -,0,https://www.bimmerarchive.org/e-code/f92.html
+G16,BMW,BMW 8 Series Gran Coupe,2019 -,0,https://www.bimmerarchive.org/e-code/g16.html
+F93,BMW,BMW M8 Gran Coupe,2020 -,0,https://www.bimmerarchive.org/e-code/f93.html
+G18,BMW,BMW X5 - Chinese Long Wheelbase,2022 -,0,https://www.bimmerarchive.org/e-code/g18.html
+G18 (MUE),BMW,BMW X5 - Chinese Long Wheelbase - LCI,2023 -,0,https://www.bimmerarchive.org/e-code/g18-lci.html
+G20,BMW,BMW 3 Series Sedan,2019 -,0,https://www.bimmerarchive.org/e-code/g20.html
+G20 (MUE),BMW,BMW 3 Series Sedan - LCI,2022 - 2024,0,https://www.bimmerarchive.org/e-code/g20-lci.html
+G20 (MUE2),BMW,BMW 3 Series Sedan - LCI 2,2024 -,0,https://www.bimmerarchive.org/e-code/g20-lci2.html
+G80,BMW,BMW M3 Sedan,2020 -,0,https://www.bimmerarchive.org/e-code/g80.html
+G80 (MUE),BMW,BMW M3 Sedan - LCI,2024 -,0,https://www.bimmerarchive.org/e-code/g20-lci.html
+G21,BMW,BMW 3 Series Touring,2019 -,0,https://www.bimmerarchive.org/e-code/g21.html
+G21 (MUE),BMW,BMW 3 Series Touring - LCI,2022 - 2024,0,https://www.bimmerarchive.org/e-code/g21-lci.html
+G21 (MUE2),BMW,BMW 3 Series Touring - LCI 2,2024 -,0,https://www.bimmerarchive.org/e-code/g21-lci2.html
+G81,BMW,BMW M3 Touring,2022 -,0,https://www.bimmerarchive.org/e-code/g81.html
+G81 (MUE),BMW,BMW M3 Touring - LCI,2024 -,0,https://www.bimmerarchive.org/e-code/g81-lci.html
+G22,BMW,BMW 4 Series Coupe,2020 -,0,https://www.bimmerarchive.org/e-code/g22.html
+G22 (MUE),BMW,BMW 4 Series Coupe - LCI,2024 -,0,https://www.bimmerarchive.org/e-code/g22-lci.html
+G82,BMW,BMW M4 Coupe,2020 -,0,https://www.bimmerarchive.org/e-code/g82.html
+G82 (MUE),BMW,BMW M4 Coupe - LCI,2024 -,0,https://www.bimmerarchive.org/e-code/g82-lci.html
+G23,BMW,BMW 4 Series Convertible,2020 -,0,https://www.bimmerarchive.org/e-code/g23.html
+G23 (MUE),BMW,BMW 4 Series Convertible - LCI,2024 -,0,https://www.bimmerarchive.org/e-code/g23-lci.html
+G83,BMW,BMW M4 Convertible,2021 -,0,https://www.bimmerarchive.org/e-code/g83.html
+G83 (MUE),BMW,BMW M4 Convertible - LCI,2024 -,0,https://www.bimmerarchive.org/e-code/g83-lci.html
+G26,BMW,BMW 4 Series Gran Coupe,2021 - 2024,4,https://www.bimmerarchive.org/e-code/g26.html
+G26 (MUE),BMW,BMW 4 Series Gran Coupe - LCI,2024 -,0,https://www.bimmerarchive.org/e-code/g26-lci.html
+G28,BMW,BMW 3 Series Sedan - Chinese Long Wheelbase,2022 -,0,https://www.bimmerarchive.org/e-code/g28.html
+G29,BMW,BMW Z4 Roadster,2019 -,1,https://www.bimmerarchive.org/e-code/g29.html
+G30,BMW,BMW 5 Series Sedan,2017 - 2020,25,https://www.bimmerarchive.org/e-code/g30.html
+G30 (MUE),BMW,BMW 5 Series Sedan - LCI,2020 - 2024,0,https://www.bimmerarchive.org/e-code/g30-lci.html
+G31,BMW,BMW 5 Series Touring,2017 - 2020,0,https://www.bimmerarchive.org/e-code/g31.html
+G31 (MUE),BMW,BMW 5 Series Touring - LCI,2020 - 2024,0,https://www.bimmerarchive.org/e-code/g31-lci.html
+G32,BMW,BMW 6 Series Gran Turismo,2017 - 2020,0,https://www.bimmerarchive.org/e-code/g32.html
+G32 (MUE),BMW,BMW 6 Series Gran Turismo - LCI,2020 - 2024,0,https://www.bimmerarchive.org/e-code/g32-lci.html
+G38,BMW,BMW 5 Series Sedan - Chinese Long Wheelbase,2017 - 2024,0,https://www.bimmerarchive.org/e-code/g38.html
+G42,BMW,BMW 2 Series Coupe,2021 - 2024,0,https://www.bimmerarchive.org/e-code/g42.html
+G42 (MUE),BMW,BMW 2 Series Coupe - LCI,2024 -,0,https://www.bimmerarchive.org/e-code/g42-lci.html
+G87,BMW,BMW M2,2022 - 2024,3,https://www.bimmerarchive.org/e-code/g87.html
+G87 (MUE),BMW,BMW M2 Coupe - LCI,2024 -,0,https://www.bimmerarchive.org/e-code/g87-lci.html
+G45,BMW,BMW X3 - Sports Activity Vehicle,2024 -,0,https://www.bimmerarchive.org/e-code/g45.html
+G48,BMW,BMW X3 - Sports Activity Vehicle - Long Wheelbase,2024 -,0,https://www.bimmerarchive.org/e-code/g48.html
+G60,BMW,BMW 5 Series Sedan,2023 -,0,https://www.bimmerarchive.org/e-code/g60.html
+G61,BMW,BMW 5 Series Toruing,2024 -,0,https://www.bimmerarchive.org/e-code/g61.html
+G68,BMW,BMW 5 Series Sedan - Chinese Long Wheelbase,2023 -,0,https://www.bimmerarchive.org/e-code/g68.html
+G90,BMW,BMW M5 Sedan,2024 -,0,https://www.bimmerarchive.org/e-code/g90.html
+G70,BMW,BMW 7 Series,2022 -,0,https://www.bimmerarchive.org/e-code/g70.html
+G70 (MUE),BMW,BMW 7 Series,2026 -,0,https://www.bimmerarchive.org/e-code/g70-lci.html
+G73,BMW,BMW 7 Series Sedan - Protection,2023 -,0,https://www.bimmerarchive.org/e-code/g73.html
+U06,BMW,BMW 2 Series Active Tourer,2021 -,0,https://www.bimmerarchive.org/e-code/u06.html
+U10,BMW,BMW X2 - Sports Activity Coupe,2023 -,0,https://www.bimmerarchive.org/e-code/u10.html
+U11,BMW,BMW X1 - Sports Activity Vehicle,2022 -,0,https://www.bimmerarchive.org/e-code/u11.html
+I01,BMW,BMW i3,2013 - 2024,6,https://www.bimmerarchive.org/e-code/i01.html
+I12,BMW,BMW i8 Coupe,2014 - 2018,3,https://www.bimmerarchive.org/e-code/i12.html
+I15,BMW,BMW i8 roadster,2018 -,0,https://www.bimmerarchive.org/e-code/i15.html
+I20,BMW,BMW iX,2021 -,4,https://www.bimmerarchive.org/e-code/i20.html
+NA0,BMW,BMW i3 Sedan,2026 -,0,https://www.bimmerarchive.org/e-code/na0.html
+NA5,BMW,BMW iX3 - Sports Activity Vehicle,2025 -,0,https://www.bimmerarchive.org/e-code/na5.html
+R50 (1),MINI,"MINI One, MINI One D",2000 - 2006,5,https://www.bimmerarchive.org/e-code/r50.html
+R50 (2),MINI,MINI Cooper,2000 - 2006,3,https://www.bimmerarchive.org/e-code/r50-2.html
+R52,MINI,MINI Convertible,2002 - 2008,8,https://www.bimmerarchive.org/e-code/r52.html
+R53,MINI,"MINI Cooper S, MINI Cooper S JCW GP",2000 - 2006,6,https://www.bimmerarchive.org/e-code/r53.html
+R55,MINI,MINI Clubman,2007 - 2014,10,https://www.bimmerarchive.org/e-code/r55.html
+R55 (JCW),MINI,MINI Clubman - John Cooper Works,-,9,https://www.bimmerarchive.org/e-code/r55-jcw.html
+R55 (MUE),MINI,MINI Clubman - LCI,-,16,https://www.bimmerarchive.org/e-code/r55-lci.html
+R56,MINI,MINI,2005 - 2012,12,https://www.bimmerarchive.org/e-code/r56.html
+R56 (BEV),MINI,MINI E,-,1,https://www.bimmerarchive.org/e-code/r56-bev.html
+R56 (JCW),MINI,MINI - John Cooper Works,-,9,https://www.bimmerarchive.org/e-code/r56-jcw.html
+R56 (MUE),MINI,MINI - LCI,-,22,https://www.bimmerarchive.org/e-code/r56-lci.html
+R57,MINI,MINI Convertible,2008 - 2015,6,https://www.bimmerarchive.org/e-code/r57.html
+R57 (JCW),MINI,MINI Convertible - John Cooper Works,-,9,https://www.bimmerarchive.org/e-code/r57-jcw.html
+R57 (MUE),MINI,MINI Convertible - LCI,-,14,https://www.bimmerarchive.org/e-code/r57-mue.html
+R58,MINI,MINI Coupe,2012 - 2019,8,https://www.bimmerarchive.org/e-code/r58.html
+R58 (JCW),MINI,MINI Coupe - John Cooper Works,-,6,https://www.bimmerarchive.org/e-code/r58-jcw.html
+R59,MINI,MINI Roadster,2012 - 2019,8,https://www.bimmerarchive.org/e-code/r59.html
+R59 (JCW),MINI,MINI Roadster - John Cooper Works,-,6,https://www.bimmerarchive.org/e-code/r59-jcw.html
+R60,MINI,MINI Countryman,2010 - 2017,38,https://www.bimmerarchive.org/e-code/r60.html
+R60 (JCW),MINI,MINI Countryman - John Cooper Works,-,3,https://www.bimmerarchive.org/e-code/r60-jcw.html
+R61,MINI,MINI Paceman,2013 - 2020,25,https://www.bimmerarchive.org/e-code/r61.html
+R61 (JCW),MINI,MINI Paceman - John Cooper Works,-,3,https://www.bimmerarchive.org/e-code/r61-jcw.html
+F54,MINI,MINI Clubman,2015 - 2021,16,https://www.bimmerarchive.org/e-code/f54.html
+F55,MINI,MINI 5 door,2015 - 2021,19,https://www.bimmerarchive.org/e-code/f55.html
+F55 (MUE),MINI,MINI 5 door - LCI,2021 -,0,https://www.bimmerarchive.org/e-code/f55-lci.html
+F56,MINI,MINI 3 door,2013 - 2021,23,https://www.bimmerarchive.org/e-code/f56.html
+F56 (MUE),MINI,MINI 3 door - LCI,2021 -,0,https://www.bimmerarchive.org/e-code/f56-lci.html
+F57,MINI,MINI Convertible,2016 - 2021,11,https://www.bimmerarchive.org/e-code/f57.html
+F57 (MUE),MINI,MINI Convertible - LCI,2021 -,0,https://www.bimmerarchive.org/e-code/f57-lci.html
+F60,MINI,MINI Countryman,2017 - 2025,0,https://www.bimmerarchive.org/e-code/f60.html
+J01,MINI,MINI 3 door BEV,2023 -,0,https://www.bimmerarchive.org/e-code/j01.html
+J05,MINI,MINI Aceman,2024 -,0,https://www.bimmerarchive.org/e-code/j05.html
+F65,MINI,MINI 5 door,2024 -,0,https://www.bimmerarchive.org/e-code/f65.html
+F66,MINI,MINI 3 door,2024 -,0,https://www.bimmerarchive.org/e-code/f66.html
+U25,MINI,MINI Countryman,2023 -,0,https://www.bimmerarchive.org/e-code/u25.html
+RR1,Rolls-Royce,Rolls-Royce Phantom,2003 - 2017,4,https://www.bimmerarchive.org/e-code/rr1.html
+RR2,Rolls-Royce,Rolls-Royce Phantom Drophead Coupe,2007 - 2014,5,https://www.bimmerarchive.org/e-code/rr2.html
+RR3,Rolls-Royce,Rolls-Royce Phantom Coupe,2008 - 2015,5,https://www.bimmerarchive.org/e-code/rr3.html
+RR4,Rolls-Royce,Rolls-Royce Ghost,2009 -,4,https://www.bimmerarchive.org/e-code/rr4.html
+RR5,Rolls-Royce,Rolls-Royce Wraith,2013 -,4,https://www.bimmerarchive.org/e-code/rr5.html
+RR6,Rolls-Royce,Rolls-Royce Dawn,2016 -,1,https://www.bimmerarchive.org/e-code/rr6.html
+RR11,Rolls-Royce,Rolls-Royce Phantom,2017 -,0,https://www.bimmerarchive.org/e-code/rr11.html
+RR12,Rolls-Royce,Rolls-Royce Phantom EWB,2017 -,0,https://www.bimmerarchive.org/e-code/rr12.html
+RR25,Rolls-Royce,Rolls-Royce Spectre,2023 -,0,https://www.bimmerarchive.org/e-code/rr25.html

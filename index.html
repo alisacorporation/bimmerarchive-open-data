@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BimmerArchive Open Data — BMW chassis, production and engine codes</title>
+<meta name="description" content="BMW, MINI and Rolls-Royce chassis codes, factory production type keys and engine codes as structured JSON and a free static API. A rescue mirror of bimmerarchive.org.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;600;700&display=swap">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128663;</text></svg>">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="#/">BimmerArchive <span>Open Data</span></a>
+  <nav class="links">
+    <a href="#/models">Chassis</a>
+    <a href="#/codes">Codes</a>
+    <a href="#/engines">Engines</a>
+    <a href="#/api">API</a>
+  </nav>
+  <button id="theme" type="button" title="Toggle theme">◐</button>
+</div></header>
+
+<main id="app"></main>
+
+<footer><div class="wrap">
+  <p>Reference data recovered from Internet Archive snapshots of bimmerarchive.org, which is no
+     longer online. Published as static JSON so it stays reachable without depending on the
+     archive. A research mirror — not an official BMW source.</p>
+  <p>Figures are the original site's own and carry its gaps and errors.</p>
+</div></footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
