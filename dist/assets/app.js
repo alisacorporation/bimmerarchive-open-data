@@ -101,7 +101,7 @@ async function viewModels() {
 function paintModels(brand) {
   const g = $('#modelGrid');
   if (!g) return;
-  const list = window.__models.filter(m => !brand || m.brand === brand);
+  const list = window.__models.filter(m => !brand || m.brand === brand).sort((a, b) => a.code.localeCompare(b.code));
   g.innerHTML = list.map(m => `
     <a class="item" href="#/model/${esc(m.slug)}">
       <b>${esc(m.code)}</b>
@@ -133,9 +133,9 @@ async function viewModel(slug) {
 
 async function viewEngines() {
   const d = await get('engines.json');
-  const fams = [...new Set(d.results.map(e => e.family))];
+  const fams = [...new Set(d.results.map(e => e.family))].sort((a, b) => a.localeCompare(b));
   const groups = fams.map(f => {
-    const rows = d.results.filter(e => e.family === f).map(e => `
+    const rows = d.results.filter(e => e.family === f).sort((a, b) => a.code.localeCompare(b.code)).map(e => `
       <tr>
         <td class="code"><a href="#/engine/${esc(e.slug)}">${esc(e.code)}</a></td>
         <td>${e.displacement_cc ? esc(e.displacement_cc) + ' cm³' : '<span class="muted">—</span>'}</td>
