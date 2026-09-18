@@ -1,1 +1,24 @@
-{"code":"3M61","count":1,"results":[{"code":"3M61","model":"335Li","body":"Sedan","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3m61.html","chassis":"F35","chassis_slug":"f35","brand":"BMW","chassis_description":"BMW 3 Series Sedan - Chinese Long Wheelbase"}]}
+{
+ "code": "3M61",
+ "count": 1,
+ "results": [
+  {
+   "code": "3M61",
+   "model": "335Li",
+   "body": "Sedan",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3m61.html",
+   "chassis": "F35",
+   "chassis_slug": "f35",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan - Chinese Long Wheelbase",
+   "engine_slug": "n55b30m0"
+  }
+ ]
+}

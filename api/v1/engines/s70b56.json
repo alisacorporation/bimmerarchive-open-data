@@ -1,0 +1,23 @@
+{
+ "code": "S70B56",
+ "slug": "s70b56",
+ "family": "S70",
+ "years": "1992 - 1996",
+ "year_from": 1992,
+ "year_to": 1996,
+ "displacement_cc": 5576,
+ "power_kw": 280,
+ "power_ps": 381,
+ "power_rpm": "5300",
+ "torque_nm": 550,
+ "torque_rpm": "4000",
+ "has_detail": false,
+ "construction": "12 Cylinder, 24 Valves, V",
+ "cylinders": 12,
+ "valves": 24,
+ "compression_ratio": "9.8:1",
+ "bore_mm": 86.0,
+ "stroke_mm": 80.0,
+ "fuel": "Super Plus bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/s70b56.html"
+}

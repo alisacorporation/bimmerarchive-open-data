@@ -1,0 +1,23 @@
+{
+ "code": "M52B28",
+ "slug": "m52b28",
+ "family": "M52",
+ "years": "1994 - 2000",
+ "year_from": 1994,
+ "year_to": 2000,
+ "displacement_cc": 2793,
+ "power_kw": 142,
+ "power_ps": 193,
+ "power_rpm": "5300",
+ "torque_nm": 280,
+ "torque_rpm": "3950",
+ "has_detail": false,
+ "construction": "6 Cylinder, 24 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 24,
+ "compression_ratio": "10.2:1",
+ "bore_mm": 84.0,
+ "stroke_mm": 84.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m52b28.html"
+}

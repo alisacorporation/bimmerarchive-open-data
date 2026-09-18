@@ -1,1 +1,24 @@
-{"code":"BV13","count":1,"results":[{"code":"BV13","model":"325CI","body":"Coupe","engine":"M56","power_kw":132,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2002-11","to":"2006-05","source":"https://www.bimmerarchive.org/code/bv13.html","chassis":"E46 (2FL)","chassis_slug":"e46-2-lci","brand":"BMW","chassis_description":"BMW 3 Series Coupe - LCI"}]}
+{
+ "code": "BV13",
+ "count": 1,
+ "results": [
+  {
+   "code": "BV13",
+   "model": "325CI",
+   "body": "Coupe",
+   "engine": "M56",
+   "power_kw": 132,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2002-11",
+   "to": "2006-05",
+   "source": "https://www.bimmerarchive.org/code/bv13.html",
+   "chassis": "E46 (2FL)",
+   "chassis_slug": "e46-2-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe - LCI",
+   "engine_slug": "m56b25"
+  }
+ ]
+}

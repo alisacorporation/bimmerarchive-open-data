@@ -1,1 +1,352 @@
-{"code":"E71","slug":"e71","brand":"BMW","description":"BMW X6 - Sports Activity Coupe","years":"2008 - 2015","year_from":2008,"year_to":2015,"type":"Serie","production_code_count":20,"has_detail":true,"production_codes":[{"code":"FH81","model":"X6 M50d","body":"Sports Activity Coupe","engine":"N57D30S1","power_kw":280,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/fh81.html"},{"code":"FH82","model":"X6 M50d","body":"Sports Activity Coupe","engine":"N57D30S1","power_kw":280,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/fh82.html"},{"code":"FG61","model":"X6 xDrive30d","body":"Sports Activity Coupe","engine":"M57D30O2","power_kw":173,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2007-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/fg61.html"},{"code":"FG62","model":"X6 xDrive30d","body":"Sports Activity Coupe","engine":"M57D30O2","power_kw":173,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2007-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/fg62.html"},{"code":"FH61","model":"X6 xDrive30d","body":"Sports Activity Coupe","engine":"N57D30O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2009-04","to":"2009-11","source":"https://www.bimmerarchive.org/code/fh61.html"},{"code":"FH62","model":"X6 xDrive30d","body":"Sports Activity Coupe","engine":"N57D30O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2009-10","to":"2009-10","source":"https://www.bimmerarchive.org/code/fh62.html"},{"code":"FG01","model":"X6 xDrive35d","body":"Sports Activity Coupe","engine":"M57D30T2","power_kw":210,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2007-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/fg01.html"},{"code":"FG02","model":"X6 xDrive35d","body":"Sports Activity Coupe","engine":"M57D30T2","power_kw":210,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2007-07","to":"2010-02","source":"https://www.bimmerarchive.org/code/fg02.html"},{"code":"FG21","model":"X6 xDrive35i","body":"Sports Activity Coupe","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2009-07","to":"2009-11","source":"https://www.bimmerarchive.org/code/fg21.html"},{"code":"FG22","model":"X6 xDrive35i","body":"Sports Activity Coupe","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2009-07","to":"2009-11","source":"https://www.bimmerarchive.org/code/fg22.html"},{"code":"FG23","model":"X6 xDrive35i","body":"Sports Activity Coupe","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":"2009-07","to":"2009-12","source":"https://www.bimmerarchive.org/code/fg23.html"},{"code":"FG41","model":"X6 xDrive35i","body":"Sports Activity Coupe","engine":"N54B30O0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2007-06","to":"2010-02","source":"https://www.bimmerarchive.org/code/fg41.html"},{"code":"FG42","model":"X6 xDrive35i","body":"Sports Activity Coupe","engine":"N54B30O0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2007-10","to":"2010-02","source":"https://www.bimmerarchive.org/code/fg42.html"},{"code":"FG43","model":"X6 xDrive35i","body":"Sports Activity Coupe","engine":"N54B30O0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":"2007-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/fg43.html"},{"code":"FH01","model":"X6 xDrive40d","body":"Sports Activity Coupe","engine":"N57D30T0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2009-07","to":"2009-12","source":"https://www.bimmerarchive.org/code/fh01.html"},{"code":"FH02","model":"X6 xDrive40d","body":"Sports Activity Coupe","engine":"N57D30T0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2009-09","to":"2009-12","source":"https://www.bimmerarchive.org/code/fh02.html"},{"code":"GZ21","model":"X6 xDrive40i","body":"Sports Activity Coupe","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/gz21.html"},{"code":"FG81","model":"X6 xDrive50i","body":"Sports Activity Coupe","engine":"N63B44O0","power_kw":300,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2007-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/fg81.html"},{"code":"FG82","model":"X6 xDrive50i","body":"Sports Activity Coupe","engine":"N63B44O0","power_kw":300,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2008-01","to":"2010-01","source":"https://www.bimmerarchive.org/code/fg82.html"},{"code":"FG83","model":"X6 xDrive50i","body":"Sports Activity Coupe","engine":"N63B44O0","power_kw":300,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":"2007-10","to":"2010-02","source":"https://www.bimmerarchive.org/code/fg83.html"}],"plants":[{"slug":"bmw-plant-spartanburg","name":"BMW Plant Spartanburg"}],"photos":[{"slug":"3083-241-bmw-x6-xdrive-30i-lci-e71","title":"BMW X6 xDrive30i"},{"slug":"1080-98-bmw-x6-xdrive-35d","title":"BMW X6 Xdrive 35d"},{"slug":"2618-98-bmw-x6-fuenfsitzer","title":"BMW X6 als Fünfsitzer"},{"slug":"1068-98-bmw-x6-xdrive-50i","title":"BMW X6 Xdrive 50i"},{"slug":"3081-241-bmw-x6-xdrive-30i-lci-e71","title":"BMW X6 xDrive30i"},{"slug":"3032-238-bmw-x6-m-50d-e71","title":"BMW X6 M50d"},{"slug":"3085-241-bmw-x6-xdrive-30i-lci-e71","title":"BMW X6 xDrive30i"},{"slug":"3029-238-bmw-x6-m-50d-e71","title":"BMW X6 M50d"},{"slug":"1688-115-der-bmw-3er-xdrive-touring-bmw-x3-bmw-x5-und-bmw-x6","title":"Der BMW 3er xDrive Touring, BMW X3, BMW X5 und BMW X6"},{"slug":"1074-98-bmw-x6-xdrive-35d","title":"BMW X6 Xdrive 35d"},{"slug":"3087-241-bmw-x6-xdrive-30i-lci-e71","title":"BMW X6 xDrive30i"},{"slug":"1071-98-bmw-x6-xdrive-50i","title":"BMW X6 Xdrive 50i"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e71.html"}
+{
+ "code": "E71",
+ "slug": "e71",
+ "brand": "BMW",
+ "description": "BMW X6 - Sports Activity Coupe",
+ "years": "2008 - 2015",
+ "year_from": 2008,
+ "year_to": 2015,
+ "type": "Serie",
+ "production_code_count": 20,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "FH81",
+   "model": "X6 M50d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30S1",
+   "power_kw": 280,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/fh81.html",
+   "engine_slug": "n57d30s1"
+  },
+  {
+   "code": "FH82",
+   "model": "X6 M50d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30S1",
+   "power_kw": 280,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/fh82.html",
+   "engine_slug": "n57d30s1"
+  },
+  {
+   "code": "FG61",
+   "model": "X6 xDrive30d",
+   "body": "Sports Activity Coupe",
+   "engine": "M57D30O2",
+   "power_kw": 173,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2007-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fg61.html",
+   "engine_slug": "m57d30o2-e7x"
+  },
+  {
+   "code": "FG62",
+   "model": "X6 xDrive30d",
+   "body": "Sports Activity Coupe",
+   "engine": "M57D30O2",
+   "power_kw": 173,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fg62.html",
+   "engine_slug": "m57d30o2-e7x"
+  },
+  {
+   "code": "FH61",
+   "model": "X6 xDrive30d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2009-04",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/fh61.html",
+   "engine_slug": "n57d30o0-540"
+  },
+  {
+   "code": "FH62",
+   "model": "X6 xDrive30d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-10",
+   "to": "2009-10",
+   "source": "https://www.bimmerarchive.org/code/fh62.html",
+   "engine_slug": "n57d30o0-540"
+  },
+  {
+   "code": "FG01",
+   "model": "X6 xDrive35d",
+   "body": "Sports Activity Coupe",
+   "engine": "M57D30T2",
+   "power_kw": 210,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2007-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fg01.html",
+   "engine_slug": "m57d30t2"
+  },
+  {
+   "code": "FG02",
+   "model": "X6 xDrive35d",
+   "body": "Sports Activity Coupe",
+   "engine": "M57D30T2",
+   "power_kw": 210,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-07",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fg02.html",
+   "engine_slug": "m57d30t2"
+  },
+  {
+   "code": "FG21",
+   "model": "X6 xDrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2009-07",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/fg21.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "FG22",
+   "model": "X6 xDrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-07",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/fg22.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "FG23",
+   "model": "X6 xDrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2009-07",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/fg23.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "FG41",
+   "model": "X6 xDrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N54B30O0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2007-06",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fg41.html",
+   "engine_slug": "n54b30o0"
+  },
+  {
+   "code": "FG42",
+   "model": "X6 xDrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N54B30O0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-10",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fg42.html",
+   "engine_slug": "n54b30o0"
+  },
+  {
+   "code": "FG43",
+   "model": "X6 xDrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N54B30O0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2007-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fg43.html",
+   "engine_slug": "n54b30o0"
+  },
+  {
+   "code": "FH01",
+   "model": "X6 xDrive40d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30T0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2009-07",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/fh01.html",
+   "engine_slug": "n57d30t0"
+  },
+  {
+   "code": "FH02",
+   "model": "X6 xDrive40d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30T0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-09",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/fh02.html",
+   "engine_slug": "n57d30t0"
+  },
+  {
+   "code": "GZ21",
+   "model": "X6 xDrive40i",
+   "body": "Sports Activity Coupe",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/gz21.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "FG81",
+   "model": "X6 xDrive50i",
+   "body": "Sports Activity Coupe",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2007-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fg81.html",
+   "engine_slug": "n63b44o0"
+  },
+  {
+   "code": "FG82",
+   "model": "X6 xDrive50i",
+   "body": "Sports Activity Coupe",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-01",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/fg82.html",
+   "engine_slug": "n63b44o0"
+  },
+  {
+   "code": "FG83",
+   "model": "X6 xDrive50i",
+   "body": "Sports Activity Coupe",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2007-10",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fg83.html",
+   "engine_slug": "n63b44o0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-spartanburg",
+   "name": "BMW Plant Spartanburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "3083-241-bmw-x6-xdrive-30i-lci-e71",
+   "title": "BMW X6 xDrive30i"
+  },
+  {
+   "slug": "1080-98-bmw-x6-xdrive-35d",
+   "title": "BMW X6 Xdrive 35d"
+  },
+  {
+   "slug": "2618-98-bmw-x6-fuenfsitzer",
+   "title": "BMW X6 als F\u00fcnfsitzer"
+  },
+  {
+   "slug": "1068-98-bmw-x6-xdrive-50i",
+   "title": "BMW X6 Xdrive 50i"
+  },
+  {
+   "slug": "3081-241-bmw-x6-xdrive-30i-lci-e71",
+   "title": "BMW X6 xDrive30i"
+  },
+  {
+   "slug": "3032-238-bmw-x6-m-50d-e71",
+   "title": "BMW X6 M50d"
+  },
+  {
+   "slug": "3085-241-bmw-x6-xdrive-30i-lci-e71",
+   "title": "BMW X6 xDrive30i"
+  },
+  {
+   "slug": "3029-238-bmw-x6-m-50d-e71",
+   "title": "BMW X6 M50d"
+  },
+  {
+   "slug": "1688-115-der-bmw-3er-xdrive-touring-bmw-x3-bmw-x5-und-bmw-x6",
+   "title": "Der BMW 3er xDrive Touring, BMW X3, BMW X5 und BMW X6"
+  },
+  {
+   "slug": "1074-98-bmw-x6-xdrive-35d",
+   "title": "BMW X6 Xdrive 35d"
+  },
+  {
+   "slug": "3087-241-bmw-x6-xdrive-30i-lci-e71",
+   "title": "BMW X6 xDrive30i"
+  },
+  {
+   "slug": "1071-98-bmw-x6-xdrive-50i",
+   "title": "BMW X6 Xdrive 50i"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e71.html"
+}

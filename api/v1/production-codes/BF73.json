@@ -1,1 +1,24 @@
-{"code":"BF73","count":1,"results":[{"code":"BF73","model":"323I","body":"Coupe","engine":"M52","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1996-12","to":"1999-05","source":"https://www.bimmerarchive.org/code/bf73.html","chassis":"E36 (2)","chassis_slug":"e36-2","brand":"BMW","chassis_description":"BMW 3 Series Coupe"}]}
+{
+ "code": "BF73",
+ "count": 1,
+ "results": [
+  {
+   "code": "BF73",
+   "model": "323I",
+   "body": "Coupe",
+   "engine": "M52",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1996-12",
+   "to": "1999-05",
+   "source": "https://www.bimmerarchive.org/code/bf73.html",
+   "chassis": "E36 (2)",
+   "chassis_slug": "e36-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe",
+   "engine_slug": "m52b28"
+  }
+ ]
+}

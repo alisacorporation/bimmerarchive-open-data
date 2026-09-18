@@ -1,1 +1,184 @@
-{"code":"E90 (M3)","slug":"e90-m3","brand":"BMW","description":"BMW M3 Sedan","years":"-","year_from":null,"year_to":null,"type":"Serie","production_code_count":8,"has_detail":true,"production_codes":[{"code":"PM91","model":"M3","body":"Sedan","engine":"S65B40O0","power_kw":309,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-04","to":"2010-02","source":"https://www.bimmerarchive.org/code/pm91.html"},{"code":"PM92","model":"M3","body":"Sedan","engine":"S65B40O0","power_kw":309,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-03","to":"2010-01","source":"https://www.bimmerarchive.org/code/pm92.html"},{"code":"PM93","model":"M3","body":"Sedan","engine":"S65B40O0","power_kw":309,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2008-04","to":"2010-01","source":"https://www.bimmerarchive.org/code/pm93.html"},{"code":"VA91","model":"M3","body":"Sedan","engine":"S65B40O0","power_kw":309,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2007-01","to":"2008-07","source":"https://www.bimmerarchive.org/code/va91.html"},{"code":"VA92","model":"M3","body":"Sedan","engine":"S65B40O0","power_kw":309,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-01","to":"2008-07","source":"https://www.bimmerarchive.org/code/va92.html"},{"code":"VA93","model":"M3","body":"Sedan","engine":"S65B40O0","power_kw":309,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2007-01","to":"2008-07","source":"https://www.bimmerarchive.org/code/va93.html"},{"code":"PK91","model":"M3 CRT","body":"Sedan","engine":"S65B44","power_kw":331,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/pk91.html"},{"code":"PK92","model":"M3 CRT","body":"Sedan","engine":"S65B44","power_kw":331,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/pk92.html"}],"plants":[{"slug":"bmw-plant-munich","name":"BMW Group Plant Munich"}],"photos":[{"slug":"2804-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2803-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2805-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2802-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2797-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2801-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2806-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2793-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2796-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2792-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2794-229-bmw-m3-crt","title":"BMW M3 CRT"},{"slug":"2799-229-bmw-m3-crt","title":"BMW M3 CRT"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e90-m3.html"}
+{
+ "code": "E90 (M3)",
+ "slug": "e90-m3",
+ "brand": "BMW",
+ "description": "BMW M3 Sedan",
+ "years": "-",
+ "year_from": null,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 8,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "PM91",
+   "model": "M3",
+   "body": "Sedan",
+   "engine": "S65B40O0",
+   "power_kw": 309,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-04",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/pm91.html",
+   "engine_slug": "s65b40o0"
+  },
+  {
+   "code": "PM92",
+   "model": "M3",
+   "body": "Sedan",
+   "engine": "S65B40O0",
+   "power_kw": 309,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-03",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/pm92.html",
+   "engine_slug": "s65b40o0"
+  },
+  {
+   "code": "PM93",
+   "model": "M3",
+   "body": "Sedan",
+   "engine": "S65B40O0",
+   "power_kw": 309,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-04",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/pm93.html",
+   "engine_slug": "s65b40o0"
+  },
+  {
+   "code": "VA91",
+   "model": "M3",
+   "body": "Sedan",
+   "engine": "S65B40O0",
+   "power_kw": 309,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2007-01",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/va91.html",
+   "engine_slug": "s65b40o0"
+  },
+  {
+   "code": "VA92",
+   "model": "M3",
+   "body": "Sedan",
+   "engine": "S65B40O0",
+   "power_kw": 309,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-01",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/va92.html",
+   "engine_slug": "s65b40o0"
+  },
+  {
+   "code": "VA93",
+   "model": "M3",
+   "body": "Sedan",
+   "engine": "S65B40O0",
+   "power_kw": 309,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2007-01",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/va93.html",
+   "engine_slug": "s65b40o0"
+  },
+  {
+   "code": "PK91",
+   "model": "M3 CRT",
+   "body": "Sedan",
+   "engine": "S65B44",
+   "power_kw": 331,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/pk91.html",
+   "engine_slug": "s65b44"
+  },
+  {
+   "code": "PK92",
+   "model": "M3 CRT",
+   "body": "Sedan",
+   "engine": "S65B44",
+   "power_kw": 331,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/pk92.html",
+   "engine_slug": "s65b44"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-munich",
+   "name": "BMW Group Plant Munich"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "2804-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2803-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2805-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2802-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2797-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2801-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2806-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2793-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2796-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2792-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2794-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  },
+  {
+   "slug": "2799-229-bmw-m3-crt",
+   "title": "BMW M3 CRT"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e90-m3.html"
+}

@@ -1,1 +1,24 @@
-{"code":"WG93","count":1,"results":[{"code":"WG93","model":"Cooper S","body":"Convertible","engine":"B46M","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/wg93.html","chassis":"F57","chassis_slug":"f57","brand":"MINI","chassis_description":"MINI Convertible"}]}
+{
+ "code": "WG93",
+ "count": 1,
+ "results": [
+  {
+   "code": "WG93",
+   "model": "Cooper S",
+   "body": "Convertible",
+   "engine": "B46M",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/wg93.html",
+   "chassis": "F57",
+   "chassis_slug": "f57",
+   "brand": "MINI",
+   "chassis_description": "MINI Convertible",
+   "engine_slug": "b48a20m0"
+  }
+ ]
+}

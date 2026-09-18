@@ -1,0 +1,23 @@
+{
+ "code": "M30B35",
+ "slug": "m30b35",
+ "family": "M30",
+ "years": "1986 - 1994",
+ "year_from": 1986,
+ "year_to": 1994,
+ "displacement_cc": 3430,
+ "power_kw": 155,
+ "power_ps": 211,
+ "power_rpm": "5700",
+ "torque_nm": 305,
+ "torque_rpm": "4000",
+ "has_detail": false,
+ "construction": "6 Cylinder, 12 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 12,
+ "compression_ratio": "9.0:1",
+ "bore_mm": 92.0,
+ "stroke_mm": 86.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m30b35.html"
+}

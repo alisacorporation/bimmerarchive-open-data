@@ -1,1 +1,79 @@
-{"code":"E38 (3)","slug":"e38-3","brand":"BMW","description":"BMW 7 Series Protection","years":"1998 - 2001","year_from":1998,"year_to":2001,"type":"Serie","production_code_count":4,"has_detail":true,"production_codes":[{"code":"GK42","model":"750I","body":"Sedan","engine":"M73B54","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1996-07","to":"1998-07","source":"https://www.bimmerarchive.org/code/gk42.html"},{"code":"GK01","model":"750iL","body":"Sedan","engine":"M73B54TÜ","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-04","to":"2001-07","source":"https://www.bimmerarchive.org/code/gk01.html"},{"code":"GK41","model":"750iL","body":"Sedan","engine":"M73B54","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1995-03","to":"1998-08","source":"https://www.bimmerarchive.org/code/gk41.html"},{"code":"GK02","model":"750iL facelift","body":"Sedan","engine":"M73/TU","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-04","to":"2001-06","source":"https://www.bimmerarchive.org/code/gk02.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e38-3.html"}
+{
+ "code": "E38 (3)",
+ "slug": "e38-3",
+ "brand": "BMW",
+ "description": "BMW 7 Series Protection",
+ "years": "1998 - 2001",
+ "year_from": 1998,
+ "year_to": 2001,
+ "type": "Serie",
+ "production_code_count": 4,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "GK42",
+   "model": "750I",
+   "body": "Sedan",
+   "engine": "M73B54",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1996-07",
+   "to": "1998-07",
+   "source": "https://www.bimmerarchive.org/code/gk42.html",
+   "engine_slug": "m73b54"
+  },
+  {
+   "code": "GK01",
+   "model": "750iL",
+   "body": "Sedan",
+   "engine": "M73B54T\u00dc",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-04",
+   "to": "2001-07",
+   "source": "https://www.bimmerarchive.org/code/gk01.html",
+   "engine_slug": "m73b54-tu"
+  },
+  {
+   "code": "GK41",
+   "model": "750iL",
+   "body": "Sedan",
+   "engine": "M73B54",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1995-03",
+   "to": "1998-08",
+   "source": "https://www.bimmerarchive.org/code/gk41.html",
+   "engine_slug": "m73b54"
+  },
+  {
+   "code": "GK02",
+   "model": "750iL facelift",
+   "body": "Sedan",
+   "engine": "M73/TU",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-04",
+   "to": "2001-06",
+   "source": "https://www.bimmerarchive.org/code/gk02.html",
+   "engine_slug": "m73b54-tu"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e38-3.html"
+}

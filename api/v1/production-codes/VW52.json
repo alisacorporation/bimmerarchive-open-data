@@ -1,1 +1,24 @@
-{"code":"VW52","count":1,"results":[{"code":"VW52","model":"323I UL","body":"Touring","engine":"N52B25U1","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-09","to":"2008-07","source":"https://www.bimmerarchive.org/code/vw52.html","chassis":"E91","chassis_slug":"e91","brand":"BMW","chassis_description":"BMW 3 Series Touring"}]}
+{
+ "code": "VW52",
+ "count": 1,
+ "results": [
+  {
+   "code": "VW52",
+   "model": "323I UL",
+   "body": "Touring",
+   "engine": "N52B25U1",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/vw52.html",
+   "chassis": "E91",
+   "chassis_slug": "e91",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring",
+   "engine_slug": "n52b25u1"
+  }
+ ]
+}

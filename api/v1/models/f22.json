@@ -1,1 +1,469 @@
-{"code":"F22","slug":"f22","brand":"BMW","description":"BMW 2 Series Coupe","years":"2014 - 2021","year_from":2014,"year_to":2021,"type":"Serie","production_code_count":28,"has_detail":true,"production_codes":[{"code":"1H31","model":"218d","body":"Coupe","engine":"N47D20U1","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1h31.html"},{"code":"1H32","model":"218d","body":"Coupe","engine":"N47D20U1","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1h32.html"},{"code":"2G51","model":"218d","body":"Coupe","engine":"B47U","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2g51.html"},{"code":"2G52","model":"218d","body":"Coupe","engine":"B47U","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2g52.html"},{"code":"2F11","model":"218i","body":"Coupe","engine":"B38B15M0","power_kw":100,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2f11.html"},{"code":"2F12","model":"218i","body":"Coupe","engine":"B38B15M0","power_kw":100,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2f12.html"},{"code":"1H11","model":"220d","body":"Coupe","engine":"N47D20O1","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1h11.html"},{"code":"1H12","model":"220d","body":"Coupe","engine":"N47D20O1","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1h12.html"},{"code":"2G71","model":"220d","body":"Coupe","engine":"B47D20O0","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2g71.html"},{"code":"2G72","model":"220d","body":"Coupe","engine":"B47D20O0","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2g72.html"},{"code":"2G91","model":"220d xDrive","body":"Coupe","engine":"B47D20O0","power_kw":140,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2g91.html"},{"code":"2G92","model":"220d xDrive","body":"Coupe","engine":"B47D20O0","power_kw":140,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2g92.html"},{"code":"1J11","model":"220i","body":"Coupe","engine":"N20B20U0","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1j11.html"},{"code":"1J12","model":"220i","body":"Coupe","engine":"N20B20U0","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1j12.html"},{"code":"1H71","model":"225d","body":"Coupe","engine":"N47D20T1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1h71.html"},{"code":"1H72","model":"225d","body":"Coupe","engine":"N47D20T1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1h72.html"},{"code":"2H11","model":"225d","body":"Coupe","engine":"B47D20T0","power_kw":165,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2h11.html"},{"code":"1F51","model":"228i","body":"Coupe","engine":"N20B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1f51.html"},{"code":"1F52","model":"228i","body":"Coupe","engine":"N20B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1f52.html"},{"code":"1F53","model":"228i","body":"Coupe","engine":"N20B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1f53.html"},{"code":"1F93","model":"228i","body":"Coupe","engine":"N26B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1f93.html"},{"code":"1F73","model":"228i xDrive","body":"Coupe","engine":"N20B20O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1f73.html"},{"code":"1G93","model":"228i xDrive","body":"Coupe","engine":"N26B20O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1g93.html"},{"code":"1J71","model":"M235i","body":"Coupe","engine":"N55B30O0","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1j71.html"},{"code":"1J72","model":"M235i","body":"Coupe","engine":"N55B30O0","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1j72.html"},{"code":"1J73","model":"M235i","body":"Coupe","engine":"N55B30O0","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1j73.html"},{"code":"1J91","model":"M235i xDrive","body":"Coupe","engine":"N55B30O0","power_kw":240,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1j91.html"},{"code":"1J93","model":"M235i xDrive","body":"Coupe","engine":"N55B30O0","power_kw":240,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1j93.html"}],"plants":[{"slug":"bmw-plant-leipzig","name":"BMW Group Plant Leipzig"}],"photos":[{"slug":"4639-298-bmw-2-series-coupe","title":"BMW M235i Coupe"},{"slug":"4661-298-bmw-2-series-coupe","title":"BMW 2 Series Coupe - Sport Line"},{"slug":"4655-298-bmw-2-series-coupe","title":"BMW M235i Coupe"},{"slug":"4660-298-bmw-2-series-coupe","title":"BMW 2 Series Coupe"},{"slug":"4644-298-bmw-2-series-coupe","title":"BMW 220d - Modern Line"},{"slug":"4659-298-bmw-2-series-coupe","title":"BMW 220d Coupe - M Sports Package"},{"slug":"4648-298-bmw-2-series-coupe","title":"BMW 220d - Modern Line"},{"slug":"4646-298-bmw-2-series-coupe","title":"BMW 220d - Modern Line"},{"slug":"4649-298-bmw-2-series-coupe","title":"BMW 220d - Modern Line"},{"slug":"4658-298-bmw-2-series-coupe","title":"BMW 220d Coupe - M Sports Package"},{"slug":"4635-298-bmw-2-series-coupe","title":"BMW M235i Coupe"},{"slug":"4653-298-bmw-2-series-coupe","title":"BMW 2 Series Coupe - Sport Line"}],"articles":[{"slug":"2013-10-25-bmw-2-series-coupe","title":"The BMW 2 Series Coupe (2013-10-25)"}],"source":"https://www.bimmerarchive.org/e-code/f22.html"}
+{
+ "code": "F22",
+ "slug": "f22",
+ "brand": "BMW",
+ "description": "BMW 2 Series Coupe",
+ "years": "2014 - 2021",
+ "year_from": 2014,
+ "year_to": 2021,
+ "type": "Serie",
+ "production_code_count": 28,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "1H31",
+   "model": "218d",
+   "body": "Coupe",
+   "engine": "N47D20U1",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1h31.html",
+   "engine_slug": "n47d20u1"
+  },
+  {
+   "code": "1H32",
+   "model": "218d",
+   "body": "Coupe",
+   "engine": "N47D20U1",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1h32.html",
+   "engine_slug": "n47d20u1"
+  },
+  {
+   "code": "2G51",
+   "model": "218d",
+   "body": "Coupe",
+   "engine": "B47U",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2g51.html",
+   "engine_slug": "b47c20u0"
+  },
+  {
+   "code": "2G52",
+   "model": "218d",
+   "body": "Coupe",
+   "engine": "B47U",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2g52.html",
+   "engine_slug": "b47c20u0"
+  },
+  {
+   "code": "2F11",
+   "model": "218i",
+   "body": "Coupe",
+   "engine": "B38B15M0",
+   "power_kw": 100,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2f11.html",
+   "engine_slug": "b38b15m0-100"
+  },
+  {
+   "code": "2F12",
+   "model": "218i",
+   "body": "Coupe",
+   "engine": "B38B15M0",
+   "power_kw": 100,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2f12.html",
+   "engine_slug": "b38b15m0-100"
+  },
+  {
+   "code": "1H11",
+   "model": "220d",
+   "body": "Coupe",
+   "engine": "N47D20O1",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1h11.html",
+   "engine_slug": "n47d20o1-18d"
+  },
+  {
+   "code": "1H12",
+   "model": "220d",
+   "body": "Coupe",
+   "engine": "N47D20O1",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1h12.html",
+   "engine_slug": "n47d20o1-18d"
+  },
+  {
+   "code": "2G71",
+   "model": "220d",
+   "body": "Coupe",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2g71.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "2G72",
+   "model": "220d",
+   "body": "Coupe",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2g72.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "2G91",
+   "model": "220d xDrive",
+   "body": "Coupe",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2g91.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "2G92",
+   "model": "220d xDrive",
+   "body": "Coupe",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2g92.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "1J11",
+   "model": "220i",
+   "body": "Coupe",
+   "engine": "N20B20U0",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1j11.html",
+   "engine_slug": "n20b20u0-18i"
+  },
+  {
+   "code": "1J12",
+   "model": "220i",
+   "body": "Coupe",
+   "engine": "N20B20U0",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1j12.html",
+   "engine_slug": "n20b20u0-18i"
+  },
+  {
+   "code": "1H71",
+   "model": "225d",
+   "body": "Coupe",
+   "engine": "N47D20T1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1h71.html",
+   "engine_slug": "n47d20t1"
+  },
+  {
+   "code": "1H72",
+   "model": "225d",
+   "body": "Coupe",
+   "engine": "N47D20T1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1h72.html",
+   "engine_slug": "n47d20t1"
+  },
+  {
+   "code": "2H11",
+   "model": "225d",
+   "body": "Coupe",
+   "engine": "B47D20T0",
+   "power_kw": 165,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2h11.html",
+   "engine_slug": "b47d20t0-f15"
+  },
+  {
+   "code": "1F51",
+   "model": "228i",
+   "body": "Coupe",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1f51.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "1F52",
+   "model": "228i",
+   "body": "Coupe",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1f52.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "1F53",
+   "model": "228i",
+   "body": "Coupe",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1f53.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "1F93",
+   "model": "228i",
+   "body": "Coupe",
+   "engine": "N26B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1f93.html",
+   "engine_slug": "n26b20o0"
+  },
+  {
+   "code": "1F73",
+   "model": "228i xDrive",
+   "body": "Coupe",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1f73.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "1G93",
+   "model": "228i xDrive",
+   "body": "Coupe",
+   "engine": "N26B20O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1g93.html",
+   "engine_slug": "n26b20o0"
+  },
+  {
+   "code": "1J71",
+   "model": "M235i",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1j71.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "1J72",
+   "model": "M235i",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1j72.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "1J73",
+   "model": "M235i",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1j73.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "1J91",
+   "model": "M235i xDrive",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 240,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1j91.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "1J93",
+   "model": "M235i xDrive",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 240,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1j93.html",
+   "engine_slug": "n55b30o0-f22"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-leipzig",
+   "name": "BMW Group Plant Leipzig"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "4639-298-bmw-2-series-coupe",
+   "title": "BMW M235i Coupe"
+  },
+  {
+   "slug": "4661-298-bmw-2-series-coupe",
+   "title": "BMW 2 Series Coupe - Sport Line"
+  },
+  {
+   "slug": "4655-298-bmw-2-series-coupe",
+   "title": "BMW M235i Coupe"
+  },
+  {
+   "slug": "4660-298-bmw-2-series-coupe",
+   "title": "BMW 2 Series Coupe"
+  },
+  {
+   "slug": "4644-298-bmw-2-series-coupe",
+   "title": "BMW 220d - Modern Line"
+  },
+  {
+   "slug": "4659-298-bmw-2-series-coupe",
+   "title": "BMW 220d Coupe - M Sports Package"
+  },
+  {
+   "slug": "4648-298-bmw-2-series-coupe",
+   "title": "BMW 220d - Modern Line"
+  },
+  {
+   "slug": "4646-298-bmw-2-series-coupe",
+   "title": "BMW 220d - Modern Line"
+  },
+  {
+   "slug": "4649-298-bmw-2-series-coupe",
+   "title": "BMW 220d - Modern Line"
+  },
+  {
+   "slug": "4658-298-bmw-2-series-coupe",
+   "title": "BMW 220d Coupe - M Sports Package"
+  },
+  {
+   "slug": "4635-298-bmw-2-series-coupe",
+   "title": "BMW M235i Coupe"
+  },
+  {
+   "slug": "4653-298-bmw-2-series-coupe",
+   "title": "BMW 2 Series Coupe - Sport Line"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2013-10-25-bmw-2-series-coupe",
+   "title": "The BMW 2 Series Coupe (2013-10-25)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f22.html"
+}

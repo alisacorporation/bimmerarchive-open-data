@@ -1,0 +1,23 @@
+{
+ "code": "M50TUB25",
+ "slug": "m50tub25",
+ "family": "M50",
+ "years": "1992 - 1996",
+ "year_from": 1992,
+ "year_to": 1996,
+ "displacement_cc": 2494,
+ "power_kw": 141,
+ "power_ps": 192,
+ "power_rpm": "5900",
+ "torque_nm": 245,
+ "torque_rpm": "4200",
+ "has_detail": false,
+ "construction": "6 Cylinder, 24 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 24,
+ "compression_ratio": "10.5:1",
+ "bore_mm": 84.0,
+ "stroke_mm": 75.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m50tub25.html"
+}

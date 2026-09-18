@@ -1,1 +1,24 @@
-{"code":"AM39","count":1,"results":[{"code":"AM39","model":"323i","body":"Sedan","engine":"M52/TU","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Philippines","from":"1998-12","to":"2000-06","source":"https://www.bimmerarchive.org/code/am39.html","chassis":"E46 (4)","chassis_slug":"e46-4","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "AM39",
+ "count": 1,
+ "results": [
+  {
+   "code": "AM39",
+   "model": "323i",
+   "body": "Sedan",
+   "engine": "M52/TU",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Philippines",
+   "from": "1998-12",
+   "to": "2000-06",
+   "source": "https://www.bimmerarchive.org/code/am39.html",
+   "chassis": "E46 (4)",
+   "chassis_slug": "e46-4",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m52tub28"
+  }
+ ]
+}

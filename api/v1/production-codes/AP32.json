@@ -1,1 +1,24 @@
-{"code":"AP32","count":1,"results":[{"code":"AP32","model":"318I","body":"Touring","engine":"M43/TU","power_kw":87,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-11","to":"2001-08","source":"https://www.bimmerarchive.org/code/ap32.html","chassis":"E46 (3)","chassis_slug":"e46-3","brand":"BMW","chassis_description":"BMW 3 Series Touring"}]}
+{
+ "code": "AP32",
+ "count": 1,
+ "results": [
+  {
+   "code": "AP32",
+   "model": "318I",
+   "body": "Touring",
+   "engine": "M43/TU",
+   "power_kw": 87,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-11",
+   "to": "2001-08",
+   "source": "https://www.bimmerarchive.org/code/ap32.html",
+   "chassis": "E46 (3)",
+   "chassis_slug": "e46-3",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring",
+   "engine_slug": "m43b19-tu-ol"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"VB97","count":1,"results":[{"code":"VB97","model":"325i","body":"Sedan","engine":"N52B25O0","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Thailand","from":"2005-06","to":"2005-09","source":"https://www.bimmerarchive.org/code/vb97.html","chassis":"E90","chassis_slug":"e90","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "VB97",
+ "count": 1,
+ "results": [
+  {
+   "code": "VB97",
+   "model": "325i",
+   "body": "Sedan",
+   "engine": "N52B25O0",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Thailand",
+   "from": "2005-06",
+   "to": "2005-09",
+   "source": "https://www.bimmerarchive.org/code/vb97.html",
+   "chassis": "E90",
+   "chassis_slug": "e90",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "n52b25o0"
+  }
+ ]
+}

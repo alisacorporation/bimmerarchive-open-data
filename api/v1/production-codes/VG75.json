@@ -1,1 +1,24 @@
-{"code":"VG75","count":1,"results":[{"code":"VG75","model":"320i","body":"Sedan","engine":"N46B20O2","power_kw":115,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2007-05","to":"2008-08","source":"https://www.bimmerarchive.org/code/vg75.html","chassis":"E90","chassis_slug":"e90","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "VG75",
+ "count": 1,
+ "results": [
+  {
+   "code": "VG75",
+   "model": "320i",
+   "body": "Sedan",
+   "engine": "N46B20O2",
+   "power_kw": 115,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2007-05",
+   "to": "2008-08",
+   "source": "https://www.bimmerarchive.org/code/vg75.html",
+   "chassis": "E90",
+   "chassis_slug": "e90",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "n46b20o2"
+  }
+ ]
+}

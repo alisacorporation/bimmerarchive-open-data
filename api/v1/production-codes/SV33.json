@@ -1,1 +1,24 @@
-{"code":"SV33","count":1,"results":[{"code":"SV33","model":"COOPER S","body":"Coupe","engine":"N18B16M0","power_kw":135,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sv33.html","chassis":"R56 (MUE)","chassis_slug":"r56-lci","brand":"MINI","chassis_description":"MINI - LCI"}]}
+{
+ "code": "SV33",
+ "count": 1,
+ "results": [
+  {
+   "code": "SV33",
+   "model": "COOPER S",
+   "body": "Coupe",
+   "engine": "N18B16M0",
+   "power_kw": 135,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sv33.html",
+   "chassis": "R56 (MUE)",
+   "chassis_slug": "r56-lci",
+   "brand": "MINI",
+   "chassis_description": "MINI - LCI",
+   "engine_slug": "n18b16m0"
+  }
+ ]
+}

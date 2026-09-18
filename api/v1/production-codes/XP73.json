@@ -1,1 +1,24 @@
-{"code":"XP73","count":1,"results":[{"code":"XP73","model":"Cooper S","body":"Hatchback","engine":"B46A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xp73.html","chassis":"F56","chassis_slug":"f56","brand":"MINI","chassis_description":"MINI 3 door"}]}
+{
+ "code": "XP73",
+ "count": 1,
+ "results": [
+  {
+   "code": "XP73",
+   "model": "Cooper S",
+   "body": "Hatchback",
+   "engine": "B46A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xp73.html",
+   "chassis": "F56",
+   "chassis_slug": "f56",
+   "brand": "MINI",
+   "chassis_description": "MINI 3 door",
+   "engine_slug": null
+  }
+ ]
+}

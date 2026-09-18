@@ -1,1 +1,24 @@
-{"code":"6B22","count":1,"results":[{"code":"6B22","model":"650i","body":"Coupe","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6b22.html","chassis":"F06","chassis_slug":"f06","brand":"BMW","chassis_description":"BMW 6 Series Gran Coupé"}]}
+{
+ "code": "6B22",
+ "count": 1,
+ "results": [
+  {
+   "code": "6B22",
+   "model": "650i",
+   "body": "Coupe",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6b22.html",
+   "chassis": "F06",
+   "chassis_slug": "f06",
+   "brand": "BMW",
+   "chassis_description": "BMW 6 Series Gran Coup\u00e9",
+   "engine_slug": "n63b44o1"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"BF42","count":1,"results":[{"code":"BF42","model":"325I","body":"Coupe","engine":"M50","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1991-05","to":"1995-05","source":"https://www.bimmerarchive.org/code/bf42.html","chassis":"E36 (2)","chassis_slug":"e36-2","brand":"BMW","chassis_description":"BMW 3 Series Coupe"}]}
+{
+ "code": "BF42",
+ "count": 1,
+ "results": [
+  {
+   "code": "BF42",
+   "model": "325I",
+   "body": "Coupe",
+   "engine": "M50",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1991-05",
+   "to": "1995-05",
+   "source": "https://www.bimmerarchive.org/code/bf42.html",
+   "chassis": "E36 (2)",
+   "chassis_slug": "e36-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe",
+   "engine_slug": "m50b20"
+  }
+ ]
+}

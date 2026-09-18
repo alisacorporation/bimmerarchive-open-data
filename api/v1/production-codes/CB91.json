@@ -1,1 +1,24 @@
-{"code":"CB91","count":1,"results":[{"code":"CB91","model":"M3","body":"Sedan","engine":"S50","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1994-06","to":"1995-07","source":"https://www.bimmerarchive.org/code/cb91.html","chassis":"E36 (4)","chassis_slug":"e36-4","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "CB91",
+ "count": 1,
+ "results": [
+  {
+   "code": "CB91",
+   "model": "M3",
+   "body": "Sedan",
+   "engine": "S50",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1994-06",
+   "to": "1995-07",
+   "source": "https://www.bimmerarchive.org/code/cb91.html",
+   "chassis": "E36 (4)",
+   "chassis_slug": "e36-4",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "s50b32"
+  }
+ ]
+}

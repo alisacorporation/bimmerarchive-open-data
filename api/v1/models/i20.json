@@ -1,1 +1,145 @@
-{"code":"I20","slug":"i20","brand":"BMW","description":"BMW iX","years":"2021 -","year_from":2021,"year_to":null,"type":"Serie","production_code_count":4,"has_detail":true,"production_codes":[{"code":"11CF","model":"iX xDrive40","body":"","engine":"XE2A01N0","power_kw":240,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/11cf.html"},{"code":"12CF","model":"iX xDrive40","body":"","engine":"XE2A01N0","power_kw":240,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/12cf.html"},{"code":"21CF","model":"iX xDrive50","body":"","engine":"XE2A01N0","power_kw":385,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/21cf.html"},{"code":"22CF","model":"iX xDrive50","body":"","engine":"XE2A01N0","power_kw":385,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/22cf.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"11361-558-bmw-ix","title":"BMW iX - Sports package"},{"slug":"11636-565-bmw-ix-xdrive40","title":"BMW iX xDrive40"},{"slug":"11608-565-bmw-ix-xdrive50","title":"BMW iX xDrive50"},{"slug":"11321-558-bmw-ix","title":"BMW iX"},{"slug":"11318-558-bmw-ix","title":"BMW iX"},{"slug":"11627-565-bmw-ix-xdrive50","title":"BMW iX xDrive50"},{"slug":"11315-558-bmw-ix","title":"BMW iX"},{"slug":"11359-558-bmw-ix","title":"BMW iX - Sports package"},{"slug":"11351-558-bmw-ix","title":"BMW iX - Sports package"},{"slug":"11355-558-bmw-ix","title":"BMW iX - Sports package"},{"slug":"11630-565-bmw-ix-xdrive40","title":"BMW iX xDrive40"},{"slug":"11370-558-bmw-ix","title":"BMW iX - Highlights"}],"articles":[{"slug":"2022-01-05-the-new-bmw-ix-m60","title":"The new BMW iX M60 (2022-01-05)"},{"slug":"2021-06-02-the-first-ever-bmw-ix","title":"The first ever BMW iX (2021-06-02)"},{"slug":"2020-11-11-the-first-ever-bmw-ix","title":"The first ever BMW iX (2020-11-11)"},{"slug":"2020-02-28-the-bmw-inext-in-the-hottest-phase-of-its-series-development","title":"The BMW iNEXT in the hottest phase of its series development (2020-02-28)"}],"source":"https://www.bimmerarchive.org/e-code/i20.html"}
+{
+ "code": "I20",
+ "slug": "i20",
+ "brand": "BMW",
+ "description": "BMW iX",
+ "years": "2021 -",
+ "year_from": 2021,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 4,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "11CF",
+   "model": "iX xDrive40",
+   "body": "",
+   "engine": "XE2A01N0",
+   "power_kw": 240,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/11cf.html",
+   "engine_slug": "xe2a01n0-i20-50"
+  },
+  {
+   "code": "12CF",
+   "model": "iX xDrive40",
+   "body": "",
+   "engine": "XE2A01N0",
+   "power_kw": 240,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/12cf.html",
+   "engine_slug": "xe2a01n0-i20-50"
+  },
+  {
+   "code": "21CF",
+   "model": "iX xDrive50",
+   "body": "",
+   "engine": "XE2A01N0",
+   "power_kw": 385,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/21cf.html",
+   "engine_slug": "xe2a01n0-i20-50"
+  },
+  {
+   "code": "22CF",
+   "model": "iX xDrive50",
+   "body": "",
+   "engine": "XE2A01N0",
+   "power_kw": 385,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/22cf.html",
+   "engine_slug": "xe2a01n0-i20-50"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "11361-558-bmw-ix",
+   "title": "BMW iX - Sports package"
+  },
+  {
+   "slug": "11636-565-bmw-ix-xdrive40",
+   "title": "BMW iX xDrive40"
+  },
+  {
+   "slug": "11608-565-bmw-ix-xdrive50",
+   "title": "BMW iX xDrive50"
+  },
+  {
+   "slug": "11321-558-bmw-ix",
+   "title": "BMW iX"
+  },
+  {
+   "slug": "11318-558-bmw-ix",
+   "title": "BMW iX"
+  },
+  {
+   "slug": "11627-565-bmw-ix-xdrive50",
+   "title": "BMW iX xDrive50"
+  },
+  {
+   "slug": "11315-558-bmw-ix",
+   "title": "BMW iX"
+  },
+  {
+   "slug": "11359-558-bmw-ix",
+   "title": "BMW iX - Sports package"
+  },
+  {
+   "slug": "11351-558-bmw-ix",
+   "title": "BMW iX - Sports package"
+  },
+  {
+   "slug": "11355-558-bmw-ix",
+   "title": "BMW iX - Sports package"
+  },
+  {
+   "slug": "11630-565-bmw-ix-xdrive40",
+   "title": "BMW iX xDrive40"
+  },
+  {
+   "slug": "11370-558-bmw-ix",
+   "title": "BMW iX - Highlights"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2022-01-05-the-new-bmw-ix-m60",
+   "title": "The new BMW iX M60 (2022-01-05)"
+  },
+  {
+   "slug": "2021-06-02-the-first-ever-bmw-ix",
+   "title": "The first ever BMW iX (2021-06-02)"
+  },
+  {
+   "slug": "2020-11-11-the-first-ever-bmw-ix",
+   "title": "The first ever BMW iX (2020-11-11)"
+  },
+  {
+   "slug": "2020-02-28-the-bmw-inext-in-the-hottest-phase-of-its-series-development",
+   "title": "The BMW iNEXT in the hottest phase of its series development (2020-02-28)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/i20.html"
+}

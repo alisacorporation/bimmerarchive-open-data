@@ -1,1 +1,24 @@
-{"code":"WM72","count":1,"results":[{"code":"WM72","model":"325d","body":"Convertible","engine":"M57D30U2","power_kw":145,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-03","to":"2010-01","source":"https://www.bimmerarchive.org/code/wm72.html","chassis":"E93","chassis_slug":"e93","brand":"BMW","chassis_description":"BMW 3 Series Convertible"}]}
+{
+ "code": "WM72",
+ "count": 1,
+ "results": [
+  {
+   "code": "WM72",
+   "model": "325d",
+   "body": "Convertible",
+   "engine": "M57D30U2",
+   "power_kw": 145,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-03",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/wm72.html",
+   "chassis": "E93",
+   "chassis_slug": "e93",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible",
+   "engine_slug": "m57d30u2"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "code": "M30B30",
+ "slug": "m30b30",
+ "family": "M30",
+ "years": "1971 - 1989",
+ "year_from": 1971,
+ "year_to": 1989,
+ "displacement_cc": 2986,
+ "power_kw": 138,
+ "power_ps": 188,
+ "power_rpm": "5800",
+ "torque_nm": 260,
+ "torque_rpm": "4000",
+ "has_detail": false,
+ "construction": "6 Cylinder, 12 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 12,
+ "compression_ratio": "9.0:1",
+ "bore_mm": 89.0,
+ "stroke_mm": 80.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m30b30.html"
+}

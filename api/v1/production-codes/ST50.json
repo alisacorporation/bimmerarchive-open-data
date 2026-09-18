@@ -1,1 +1,24 @@
-{"code":"ST50","count":1,"results":[{"code":"ST50","model":"700","body":"Convertible","engine":"2-Zyl","power_kw":null,"drivetrain":"","steering":"left","region":"Europe","from":"1959-01","to":"1964-09","source":"https://www.bimmerarchive.org/code/st50.html","chassis":"107","chassis_slug":"107","brand":"BMW","chassis_description":"700 Sedan"}]}
+{
+ "code": "ST50",
+ "count": 1,
+ "results": [
+  {
+   "code": "ST50",
+   "model": "700",
+   "body": "Convertible",
+   "engine": "2-Zyl",
+   "power_kw": null,
+   "drivetrain": "",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1959-01",
+   "to": "1964-09",
+   "source": "https://www.bimmerarchive.org/code/st50.html",
+   "chassis": "107",
+   "chassis_slug": "107",
+   "brand": "BMW",
+   "chassis_description": "700 Sedan",
+   "engine_slug": null
+  }
+ ]
+}

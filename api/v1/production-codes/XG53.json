@@ -1,1 +1,24 @@
-{"code":"XG53","count":1,"results":[{"code":"XG53","model":"528i","body":"Sedan","engine":"N20B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xg53.html","chassis":"F10","chassis_slug":"f10","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "XG53",
+ "count": 1,
+ "results": [
+  {
+   "code": "XG53",
+   "model": "528i",
+   "body": "Sedan",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xg53.html",
+   "chassis": "F10",
+   "chassis_slug": "f10",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "n20b20o0"
+  }
+ ]
+}

@@ -1,1 +1,407 @@
-{"code":"F56","slug":"f56","brand":"MINI","description":"MINI 3 door","years":"2013 - 2021","year_from":2013,"year_to":2021,"type":"Serie","production_code_count":23,"has_detail":true,"production_codes":[{"code":"XM51","model":"Cooper","body":"Hatchback","engine":"B38A15M0","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xm51.html"},{"code":"XM52","model":"Cooper","body":"Hatchback","engine":"B38A15M0","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xm52.html"},{"code":"XM53","model":"Cooper","body":"Hatchback","engine":"B38A15M0","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xm53.html"},{"code":"XP51","model":"cooper","body":"Hatchback","engine":"B36M","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xp51.html"},{"code":"XP53","model":"cooper","body":"Hatchback","engine":"B36M","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xp53.html"},{"code":"XN31","model":"Cooper D","body":"Hatchback","engine":"B37C15U0","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xn31.html"},{"code":"XN32","model":"Cooper D","body":"Hatchback","engine":"B37C15U0","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xn32.html"},{"code":"XM71","model":"Cooper S","body":"Hatchback","engine":"B48A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xm71.html"},{"code":"XM72","model":"Cooper S","body":"Hatchback","engine":"B48A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xm72.html"},{"code":"XM73","model":"Cooper S","body":"Hatchback","engine":"B48A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xm73.html"},{"code":"XP71","model":"Cooper S","body":"Hatchback","engine":"B46A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xp71.html"},{"code":"XP73","model":"Cooper S","body":"Hatchback","engine":"B46A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xp73.html"},{"code":"XN91","model":"Cooper SD","body":"Hatchback","engine":"B47C20O0","power_kw":125,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xn91.html"},{"code":"XN92","model":"Cooper SD","body":"Hatchback","engine":"B47C20O0","power_kw":125,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xn92.html"},{"code":"XM91","model":"John Cooper Works","body":"Hatchback","engine":"B48A20O0","power_kw":170,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xm91.html"},{"code":"XM92","model":"john cooper works","body":"Hatchback","engine":"B48A20O0","power_kw":170,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xm92.html"},{"code":"XM93","model":"john cooper works","body":"Hatchback","engine":"B48A20O0","power_kw":170,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xm93.html"},{"code":"XN71","model":"One","body":"Hatchback","engine":"B38A12U0","power_kw":75,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xn71.html"},{"code":"XN72","model":"One","body":"Hatchback","engine":"B38A12U0","power_kw":75,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xn72.html"},{"code":"XN11","model":"One D","body":"Hatchback","engine":"B37C15K0","power_kw":70,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xn11.html"},{"code":"XN12","model":"One D","body":"Hatchback","engine":"B37C15K0","power_kw":70,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xn12.html"},{"code":"XP11","model":"One First","body":"Hatchback","engine":"B38A12U0","power_kw":55,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xp11.html"},{"code":"XP12","model":"One First","body":"Hatchback","engine":"B38A12U0","power_kw":55,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xp12.html"}],"plants":[{"slug":"vdl-nedcar","name":"VDL Nedcar Born"}],"photos":[{"slug":"4745-303-mini-cooper","title":"Mini Cooper"},{"slug":"5522-348-mini-b47c20-cooper-sd","title":"MINI Cooper SD - B47"},{"slug":"10618-529-mini-cooper-se","title":"MINI Cooper SE"},{"slug":"4751-303-mini-cooper","title":"Mini Cooper"},{"slug":"10627-529-mini-cooper-se","title":"MINI Cooper SE"},{"slug":"10626-529-mini-cooper-se","title":"MINI Cooper SE"},{"slug":"5510-348-mini-cooper-s-b48a20","title":"MINI Cooper S - B48"},{"slug":"4941-311-contract-manufacturing-mini-vdl-nedcar-born","title":"Contract manufacturing of the MINI at VDL Nedcar in Born"},{"slug":"10628-529-mini-cooper-se","title":"MINI Cooper SE"},{"slug":"10610-529-mini-cooper-se","title":"MINI Cooper SE"},{"slug":"4750-303-mini-cooper","title":"Mini Cooper"},{"slug":"4748-303-mini-cooper","title":"Mini Cooper"}],"articles":[{"slug":"2019-07-09-the-new-mini-cooper-se","title":"The new MINI Cooper SE (2019-07-09)"},{"slug":"2014-12-06-the-mini-story-im-bmw-museum","title":"“The MINI Story” at the BMW Museum (2014-12-06)"},{"slug":"2014-02-17-bmw-group-to-build-new-mini-hatch-also-at-vdl-nedcar","title":"BMW Group to build new MINI also at VDL Nedcar (2014-02-17)"}],"source":"https://www.bimmerarchive.org/e-code/f56.html"}
+{
+ "code": "F56",
+ "slug": "f56",
+ "brand": "MINI",
+ "description": "MINI 3 door",
+ "years": "2013 - 2021",
+ "year_from": 2013,
+ "year_to": 2021,
+ "type": "Serie",
+ "production_code_count": 23,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "XM51",
+   "model": "Cooper",
+   "body": "Hatchback",
+   "engine": "B38A15M0",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xm51.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "XM52",
+   "model": "Cooper",
+   "body": "Hatchback",
+   "engine": "B38A15M0",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xm52.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "XM53",
+   "model": "Cooper",
+   "body": "Hatchback",
+   "engine": "B38A15M0",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xm53.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "XP51",
+   "model": "cooper",
+   "body": "Hatchback",
+   "engine": "B36M",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xp51.html",
+   "engine_slug": "b38b15m0"
+  },
+  {
+   "code": "XP53",
+   "model": "cooper",
+   "body": "Hatchback",
+   "engine": "B36M",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xp53.html",
+   "engine_slug": "b38b15m0"
+  },
+  {
+   "code": "XN31",
+   "model": "Cooper D",
+   "body": "Hatchback",
+   "engine": "B37C15U0",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xn31.html",
+   "engine_slug": "b37c15u0"
+  },
+  {
+   "code": "XN32",
+   "model": "Cooper D",
+   "body": "Hatchback",
+   "engine": "B37C15U0",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xn32.html",
+   "engine_slug": "b37c15u0"
+  },
+  {
+   "code": "XM71",
+   "model": "Cooper S",
+   "body": "Hatchback",
+   "engine": "B48A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xm71.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "XM72",
+   "model": "Cooper S",
+   "body": "Hatchback",
+   "engine": "B48A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xm72.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "XM73",
+   "model": "Cooper S",
+   "body": "Hatchback",
+   "engine": "B48A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xm73.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "XP71",
+   "model": "Cooper S",
+   "body": "Hatchback",
+   "engine": "B46A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xp71.html",
+   "engine_slug": null
+  },
+  {
+   "code": "XP73",
+   "model": "Cooper S",
+   "body": "Hatchback",
+   "engine": "B46A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xp73.html",
+   "engine_slug": null
+  },
+  {
+   "code": "XN91",
+   "model": "Cooper SD",
+   "body": "Hatchback",
+   "engine": "B47C20O0",
+   "power_kw": 125,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xn91.html",
+   "engine_slug": "b47c20o0-140"
+  },
+  {
+   "code": "XN92",
+   "model": "Cooper SD",
+   "body": "Hatchback",
+   "engine": "B47C20O0",
+   "power_kw": 125,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xn92.html",
+   "engine_slug": "b47c20o0-140"
+  },
+  {
+   "code": "XM91",
+   "model": "John Cooper Works",
+   "body": "Hatchback",
+   "engine": "B48A20O0",
+   "power_kw": 170,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xm91.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "XM92",
+   "model": "john cooper works",
+   "body": "Hatchback",
+   "engine": "B48A20O0",
+   "power_kw": 170,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xm92.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "XM93",
+   "model": "john cooper works",
+   "body": "Hatchback",
+   "engine": "B48A20O0",
+   "power_kw": 170,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xm93.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "XN71",
+   "model": "One",
+   "body": "Hatchback",
+   "engine": "B38A12U0",
+   "power_kw": 75,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xn71.html",
+   "engine_slug": "b38a12u0"
+  },
+  {
+   "code": "XN72",
+   "model": "One",
+   "body": "Hatchback",
+   "engine": "B38A12U0",
+   "power_kw": 75,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xn72.html",
+   "engine_slug": "b38a12u0"
+  },
+  {
+   "code": "XN11",
+   "model": "One D",
+   "body": "Hatchback",
+   "engine": "B37C15K0",
+   "power_kw": 70,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xn11.html",
+   "engine_slug": "b37c15k0"
+  },
+  {
+   "code": "XN12",
+   "model": "One D",
+   "body": "Hatchback",
+   "engine": "B37C15K0",
+   "power_kw": 70,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xn12.html",
+   "engine_slug": "b37c15k0"
+  },
+  {
+   "code": "XP11",
+   "model": "One First",
+   "body": "Hatchback",
+   "engine": "B38A12U0",
+   "power_kw": 55,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xp11.html",
+   "engine_slug": "b38a12u0"
+  },
+  {
+   "code": "XP12",
+   "model": "One First",
+   "body": "Hatchback",
+   "engine": "B38A12U0",
+   "power_kw": 55,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xp12.html",
+   "engine_slug": "b38a12u0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "vdl-nedcar",
+   "name": "VDL Nedcar Born"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "4745-303-mini-cooper",
+   "title": "Mini Cooper"
+  },
+  {
+   "slug": "5522-348-mini-b47c20-cooper-sd",
+   "title": "MINI Cooper SD - B47"
+  },
+  {
+   "slug": "10618-529-mini-cooper-se",
+   "title": "MINI Cooper SE"
+  },
+  {
+   "slug": "4751-303-mini-cooper",
+   "title": "Mini Cooper"
+  },
+  {
+   "slug": "10627-529-mini-cooper-se",
+   "title": "MINI Cooper SE"
+  },
+  {
+   "slug": "10626-529-mini-cooper-se",
+   "title": "MINI Cooper SE"
+  },
+  {
+   "slug": "5510-348-mini-cooper-s-b48a20",
+   "title": "MINI Cooper S - B48"
+  },
+  {
+   "slug": "4941-311-contract-manufacturing-mini-vdl-nedcar-born",
+   "title": "Contract manufacturing of the MINI at VDL Nedcar in Born"
+  },
+  {
+   "slug": "10628-529-mini-cooper-se",
+   "title": "MINI Cooper SE"
+  },
+  {
+   "slug": "10610-529-mini-cooper-se",
+   "title": "MINI Cooper SE"
+  },
+  {
+   "slug": "4750-303-mini-cooper",
+   "title": "Mini Cooper"
+  },
+  {
+   "slug": "4748-303-mini-cooper",
+   "title": "Mini Cooper"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2019-07-09-the-new-mini-cooper-se",
+   "title": "The new MINI Cooper SE (2019-07-09)"
+  },
+  {
+   "slug": "2014-12-06-the-mini-story-im-bmw-museum",
+   "title": "\u201cThe MINI Story\u201d at the BMW Museum (2014-12-06)"
+  },
+  {
+   "slug": "2014-02-17-bmw-group-to-build-new-mini-hatch-also-at-vdl-nedcar",
+   "title": "BMW Group to build new MINI also at VDL Nedcar (2014-02-17)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f56.html"
+}

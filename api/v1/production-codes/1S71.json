@@ -1,1 +1,24 @@
-{"code":"1S71","count":1,"results":[{"code":"1S71","model":"120d","body":"Sports Hatch","engine":"B47D20O0","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1s71.html","chassis":"F20 (MUE)","chassis_slug":"f20-lci","brand":"BMW","chassis_description":"BMW 1 Series 5-door Sports Hatch"}]}
+{
+ "code": "1S71",
+ "count": 1,
+ "results": [
+  {
+   "code": "1S71",
+   "model": "120d",
+   "body": "Sports Hatch",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1s71.html",
+   "chassis": "F20 (MUE)",
+   "chassis_slug": "f20-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 1 Series 5-door Sports Hatch",
+   "engine_slug": "b47d20o0-ee"
+  }
+ ]
+}

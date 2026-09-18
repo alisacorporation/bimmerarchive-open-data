@@ -1,1 +1,24 @@
-{"code":"NA99","count":1,"results":[{"code":"NA99","model":"520I","body":"Sedan","engine":"M54","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Thailand","from":"2004-08","to":"2004-11","source":"https://www.bimmerarchive.org/code/na99.html","chassis":"E60","chassis_slug":"e60","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "NA99",
+ "count": 1,
+ "results": [
+  {
+   "code": "NA99",
+   "model": "520I",
+   "body": "Sedan",
+   "engine": "M54",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Thailand",
+   "from": "2004-08",
+   "to": "2004-11",
+   "source": "https://www.bimmerarchive.org/code/na99.html",
+   "chassis": "E60",
+   "chassis_slug": "e60",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m54b30"
+  }
+ ]
+}

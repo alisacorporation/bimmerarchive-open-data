@@ -1,1 +1,24 @@
-{"code":"DX72","count":1,"results":[{"code":"DX72","model":"335i","body":"Convertible","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-12","to":"2009-10","source":"https://www.bimmerarchive.org/code/dx72.html","chassis":"E93 (MUE)","chassis_slug":"e93n","brand":"BMW","chassis_description":"BMW 3 Series Convertible - LCI"}]}
+{
+ "code": "DX72",
+ "count": 1,
+ "results": [
+  {
+   "code": "DX72",
+   "model": "335i",
+   "body": "Convertible",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-12",
+   "to": "2009-10",
+   "source": "https://www.bimmerarchive.org/code/dx72.html",
+   "chassis": "E93 (MUE)",
+   "chassis_slug": "e93n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible - LCI",
+   "engine_slug": "n55b30m0"
+  }
+ ]
+}

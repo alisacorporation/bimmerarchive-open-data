@@ -1,1 +1,445 @@
-{"code":"F33","slug":"f33","brand":"BMW","description":"BMW 4 Series Convertible","years":"2013 - 2020","year_from":2013,"year_to":2020,"type":"Serie","production_code_count":26,"has_detail":true,"production_codes":[{"code":"3U11","model":"420d","body":"Convertible","engine":"N47D20O1","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3u11.html"},{"code":"3U12","model":"420d","body":"Convertible","engine":"N47D20O1","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3u12.html"},{"code":"4U31","model":"420d","body":"Convertible","engine":"B47D20O0","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/4u31.html"},{"code":"4U32","model":"420d","body":"Convertible","engine":"B47D20O0","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/4u32.html"},{"code":"3V11","model":"420i","body":"Convertible","engine":"N20B20U0","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3v11.html"},{"code":"3V12","model":"420i","body":"Convertible","engine":"N20B20U0","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3v12.html"},{"code":"3U31","model":"425d","body":"Convertible","engine":"N47D20T1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3u31.html"},{"code":"3U32","model":"425d","body":"Convertible","engine":"N47D20T1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3u32.html"},{"code":"3V31","model":"428i","body":"Convertible","engine":"N20B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3v31.html"},{"code":"3V32","model":"428i","body":"Convertible","engine":"N20B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3v32.html"},{"code":"3V53","model":"428i","body":"Convertible","engine":"N20B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3v53.html"},{"code":"3V71","model":"428i","body":"Convertible","engine":"N26B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3v71.html"},{"code":"3V73","model":"428i","body":"Convertible","engine":"N26B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3v73.html"},{"code":"3T13","model":"428i xDrive","body":"Convertible","engine":"N26B20O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3t13.html"},{"code":"3V51","model":"428i xDrive","body":"Convertible","engine":"N20B20O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3v51.html"},{"code":"3V93","model":"428i xDrive","body":"Convertible","engine":"N20B20O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3v93.html"},{"code":"3U51","model":"430d","body":"Convertible","engine":"N57D30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3u51.html"},{"code":"3U52","model":"430d","body":"Convertible","engine":"N57D30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3u52.html"},{"code":"4T11","model":"435d xDrive","body":"Convertible","engine":"N57D30T1","power_kw":230,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/4t11.html"},{"code":"4T12","model":"435d xDrive","body":"Convertible","engine":"N57D30T1","power_kw":230,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/4t12.html"},{"code":"3T31","model":"435i","body":"Convertible","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3t31.html"},{"code":"3T32","model":"435i","body":"Convertible","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3t32.html"},{"code":"3T33","model":"435i","body":"Convertible","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3t33.html"},{"code":"3T71","model":"435i xDrive","body":"Convertible","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3t71.html"},{"code":"3T73","model":"435i xDrive","body":"Convertible","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3t73.html"},{"code":"4U11","model":"440i Xdrive","body":"Convertible","engine":"B58M","power_kw":240,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/4u11.html"}],"plants":[{"slug":"bmw-plant-regensburg","name":"Bmw Plant Regensburg"}],"photos":[{"slug":"4592-296-bmw-4-series-convertible","title":"BMW 420d Convertible - Modern Line"},{"slug":"4603-296-bmw-4-series-convertible-luxury-line","title":"BMW 4 Series Convertible - Luxury Line"},{"slug":"4584-296-bmw-4-series-convertible","title":"BMW 435i Convertible - M Sports Package"},{"slug":"4948-313-bmw-alpina-b4-biturbo-convertible","title":"BMW Alpina B4 Bi-Turbo Convertible"},{"slug":"4583-296-bmw-4-series-convertible","title":"BMW 435i Convertible - M Sports Package"},{"slug":"4578-296-bmw-4-series-convertible","title":"BMW 428i Convertible"},{"slug":"4593-296-bmw-4-series-convertible","title":"BMW 420d Convertible - Modern Line"},{"slug":"4954-313-bmw-alpina-b4-biturbo-convertible","title":"BMW Alpina B4 Bi-Turbo Convertible"},{"slug":"4588-296-bmw-4-series-convertible","title":"BMW 435i Convertible - M Sports Package"},{"slug":"4597-296-bmw-4-series-convertible","title":"BMW 435i Convertible - M Sports Package"},{"slug":"4949-313-bmw-alpina-b4-biturbo-coupe-convertible","title":"BMW Alpina B4 Bi-Turbo Coupe and Convertible"},{"slug":"4598-296-bmw-4-series-convertible","title":"BMW 420d Convertible"}],"articles":[{"slug":"2014-03-05-the-new-bmw-alpina-b4-bi-turbo-convertible","title":"The new BMW Alpina B4 Biturbo Convertible (2014-03-05)"},{"slug":"2013-10-13-the-new-bmw-4-convertible","title":"The New BMW 4 Series Convertible (2013-10-13)"}],"source":"https://www.bimmerarchive.org/e-code/f33.html"}
+{
+ "code": "F33",
+ "slug": "f33",
+ "brand": "BMW",
+ "description": "BMW 4 Series Convertible",
+ "years": "2013 - 2020",
+ "year_from": 2013,
+ "year_to": 2020,
+ "type": "Serie",
+ "production_code_count": 26,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "3U11",
+   "model": "420d",
+   "body": "Convertible",
+   "engine": "N47D20O1",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3u11.html",
+   "engine_slug": "n47d20o1-18d"
+  },
+  {
+   "code": "3U12",
+   "model": "420d",
+   "body": "Convertible",
+   "engine": "N47D20O1",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3u12.html",
+   "engine_slug": "n47d20o1-18d"
+  },
+  {
+   "code": "4U31",
+   "model": "420d",
+   "body": "Convertible",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/4u31.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "4U32",
+   "model": "420d",
+   "body": "Convertible",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/4u32.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "3V11",
+   "model": "420i",
+   "body": "Convertible",
+   "engine": "N20B20U0",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3v11.html",
+   "engine_slug": "n20b20u0-18i"
+  },
+  {
+   "code": "3V12",
+   "model": "420i",
+   "body": "Convertible",
+   "engine": "N20B20U0",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3v12.html",
+   "engine_slug": "n20b20u0-18i"
+  },
+  {
+   "code": "3U31",
+   "model": "425d",
+   "body": "Convertible",
+   "engine": "N47D20T1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3u31.html",
+   "engine_slug": "n47d20t1"
+  },
+  {
+   "code": "3U32",
+   "model": "425d",
+   "body": "Convertible",
+   "engine": "N47D20T1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3u32.html",
+   "engine_slug": "n47d20t1"
+  },
+  {
+   "code": "3V31",
+   "model": "428i",
+   "body": "Convertible",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3v31.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "3V32",
+   "model": "428i",
+   "body": "Convertible",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3v32.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "3V53",
+   "model": "428i",
+   "body": "Convertible",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3v53.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "3V71",
+   "model": "428i",
+   "body": "Convertible",
+   "engine": "N26B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3v71.html",
+   "engine_slug": "n26b20o0"
+  },
+  {
+   "code": "3V73",
+   "model": "428i",
+   "body": "Convertible",
+   "engine": "N26B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3v73.html",
+   "engine_slug": "n26b20o0"
+  },
+  {
+   "code": "3T13",
+   "model": "428i xDrive",
+   "body": "Convertible",
+   "engine": "N26B20O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3t13.html",
+   "engine_slug": "n26b20o0"
+  },
+  {
+   "code": "3V51",
+   "model": "428i xDrive",
+   "body": "Convertible",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3v51.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "3V93",
+   "model": "428i xDrive",
+   "body": "Convertible",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3v93.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "3U51",
+   "model": "430d",
+   "body": "Convertible",
+   "engine": "N57D30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3u51.html",
+   "engine_slug": "n57d30o1"
+  },
+  {
+   "code": "3U52",
+   "model": "430d",
+   "body": "Convertible",
+   "engine": "N57D30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3u52.html",
+   "engine_slug": "n57d30o1"
+  },
+  {
+   "code": "4T11",
+   "model": "435d xDrive",
+   "body": "Convertible",
+   "engine": "N57D30T1",
+   "power_kw": 230,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/4t11.html",
+   "engine_slug": "n57d30t1"
+  },
+  {
+   "code": "4T12",
+   "model": "435d xDrive",
+   "body": "Convertible",
+   "engine": "N57D30T1",
+   "power_kw": 230,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/4t12.html",
+   "engine_slug": "n57d30t1"
+  },
+  {
+   "code": "3T31",
+   "model": "435i",
+   "body": "Convertible",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3t31.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "3T32",
+   "model": "435i",
+   "body": "Convertible",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3t32.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "3T33",
+   "model": "435i",
+   "body": "Convertible",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3t33.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "3T71",
+   "model": "435i xDrive",
+   "body": "Convertible",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3t71.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "3T73",
+   "model": "435i xDrive",
+   "body": "Convertible",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3t73.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "4U11",
+   "model": "440i Xdrive",
+   "body": "Convertible",
+   "engine": "B58M",
+   "power_kw": 240,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/4u11.html",
+   "engine_slug": "b58b30m0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-regensburg",
+   "name": "Bmw Plant Regensburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "4592-296-bmw-4-series-convertible",
+   "title": "BMW 420d Convertible - Modern Line"
+  },
+  {
+   "slug": "4603-296-bmw-4-series-convertible-luxury-line",
+   "title": "BMW 4 Series Convertible - Luxury Line"
+  },
+  {
+   "slug": "4584-296-bmw-4-series-convertible",
+   "title": "BMW 435i Convertible - M Sports Package"
+  },
+  {
+   "slug": "4948-313-bmw-alpina-b4-biturbo-convertible",
+   "title": "BMW Alpina B4 Bi-Turbo Convertible"
+  },
+  {
+   "slug": "4583-296-bmw-4-series-convertible",
+   "title": "BMW 435i Convertible - M Sports Package"
+  },
+  {
+   "slug": "4578-296-bmw-4-series-convertible",
+   "title": "BMW 428i Convertible"
+  },
+  {
+   "slug": "4593-296-bmw-4-series-convertible",
+   "title": "BMW 420d Convertible - Modern Line"
+  },
+  {
+   "slug": "4954-313-bmw-alpina-b4-biturbo-convertible",
+   "title": "BMW Alpina B4 Bi-Turbo Convertible"
+  },
+  {
+   "slug": "4588-296-bmw-4-series-convertible",
+   "title": "BMW 435i Convertible - M Sports Package"
+  },
+  {
+   "slug": "4597-296-bmw-4-series-convertible",
+   "title": "BMW 435i Convertible - M Sports Package"
+  },
+  {
+   "slug": "4949-313-bmw-alpina-b4-biturbo-coupe-convertible",
+   "title": "BMW Alpina B4 Bi-Turbo Coupe and Convertible"
+  },
+  {
+   "slug": "4598-296-bmw-4-series-convertible",
+   "title": "BMW 420d Convertible"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2014-03-05-the-new-bmw-alpina-b4-bi-turbo-convertible",
+   "title": "The new BMW Alpina B4 Biturbo Convertible (2014-03-05)"
+  },
+  {
+   "slug": "2013-10-13-the-new-bmw-4-convertible",
+   "title": "The New BMW 4 Series Convertible (2013-10-13)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f33.html"
+}

@@ -1,1 +1,198 @@
-{"code":"E64 (MUE)","slug":"e64n","brand":"BMW","description":"BMW 6 Series Convertible - LCI","years":"2006 - 2012","year_from":2006,"year_to":2012,"type":"Serie","production_code_count":9,"has_detail":true,"production_codes":[{"code":"EB11","model":"630i","body":"Convertible","engine":"N52B30O1","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-05","to":"2010-01","source":"https://www.bimmerarchive.org/code/eb11.html"},{"code":"EB12","model":"630i","body":"Convertible","engine":"N52B30O1","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-07","to":"2009-12","source":"https://www.bimmerarchive.org/code/eb12.html"},{"code":"EB31","model":"630i","body":"Convertible","engine":"N53B30O0","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-04","to":"2010-01","source":"https://www.bimmerarchive.org/code/eb31.html"},{"code":"EB32","model":"630i","body":"Convertible","engine":"N53B30O0","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-04","to":"2010-01","source":"https://www.bimmerarchive.org/code/eb32.html"},{"code":"EB71","model":"635d","body":"Convertible","engine":"M57D30T2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-04","to":"2010-01","source":"https://www.bimmerarchive.org/code/eb71.html"},{"code":"EB72","model":"635d","body":"Convertible","engine":"M57D30T2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-06","to":"2010-02","source":"https://www.bimmerarchive.org/code/eb72.html"},{"code":"EB51","model":"650i","body":"Convertible","engine":"N62B48O1","power_kw":270,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-04","to":"2010-01","source":"https://www.bimmerarchive.org/code/eb51.html"},{"code":"EB52","model":"650i","body":"Convertible","engine":"N62B48O1","power_kw":270,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-06","to":"2010-01","source":"https://www.bimmerarchive.org/code/eb52.html"},{"code":"EB53","model":"650i","body":"Convertible","engine":"N62B48O1","power_kw":270,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2006-11","to":"2010-02","source":"https://www.bimmerarchive.org/code/eb53.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"673-70-das-neue-bmw-6er-cabrio-interieur","title":"Das neue BMW 6er Cabrio - Interieur"},{"slug":"644-70-das-neue-bmw-6er-coupe-und-bmw-6er-cabrio","title":"Das neue BMW 6er Coupé und 6er Cabrio"},{"slug":"672-70-das-neue-bmw-6er-cabrio-interieur","title":"Das neue BMW 6er Cabrio - Interieur"},{"slug":"662-70-das-neue-bmw-6er-cabrio","title":"Das neue BMW 6er Cabrio"},{"slug":"671-70-das-neue-bmw-6er-cabrio-finnenverdeck","title":"Das neue BMW 6er Cabrio - Finnenverdeck"},{"slug":"663-70-das-neue-bmw-6er-cabrio","title":"Das neue BMW 6er Cabrio"},{"slug":"1531-142-bmw-m6-cabrio-frontleuchte","title":"BMW M6 Cabrio - Frontleuchte"},{"slug":"666-70-das-neue-bmw-6er-cabrio","title":"Das neue BMW 6er Cabrio"},{"slug":"2121-177-bmw-630i-cabriolet","title":"BMW 630i Cabriolet"},{"slug":"665-70-das-neue-bmw-6er-cabrio","title":"Das neue BMW 6er Cabrio"},{"slug":"667-70-das-neue-bmw-6er-cabrio","title":"Das neue BMW 6er Cabrio"},{"slug":"661-70-das-neue-bmw-6er-cabrio","title":"Das neue BMW 6er Cabrio"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e64n.html"}
+{
+ "code": "E64 (MUE)",
+ "slug": "e64n",
+ "brand": "BMW",
+ "description": "BMW 6 Series Convertible - LCI",
+ "years": "2006 - 2012",
+ "year_from": 2006,
+ "year_to": 2012,
+ "type": "Serie",
+ "production_code_count": 9,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "EB11",
+   "model": "630i",
+   "body": "Convertible",
+   "engine": "N52B30O1",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-05",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/eb11.html",
+   "engine_slug": "n52b30o1"
+  },
+  {
+   "code": "EB12",
+   "model": "630i",
+   "body": "Convertible",
+   "engine": "N52B30O1",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-07",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/eb12.html",
+   "engine_slug": "n52b30o1"
+  },
+  {
+   "code": "EB31",
+   "model": "630i",
+   "body": "Convertible",
+   "engine": "N53B30O0",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-04",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/eb31.html",
+   "engine_slug": "n53b30o0"
+  },
+  {
+   "code": "EB32",
+   "model": "630i",
+   "body": "Convertible",
+   "engine": "N53B30O0",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-04",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/eb32.html",
+   "engine_slug": "n53b30o0"
+  },
+  {
+   "code": "EB71",
+   "model": "635d",
+   "body": "Convertible",
+   "engine": "M57D30T2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-04",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/eb71.html",
+   "engine_slug": "m57d30t2"
+  },
+  {
+   "code": "EB72",
+   "model": "635d",
+   "body": "Convertible",
+   "engine": "M57D30T2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-06",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/eb72.html",
+   "engine_slug": "m57d30t2"
+  },
+  {
+   "code": "EB51",
+   "model": "650i",
+   "body": "Convertible",
+   "engine": "N62B48O1",
+   "power_kw": 270,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-04",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/eb51.html",
+   "engine_slug": "n62b48o1"
+  },
+  {
+   "code": "EB52",
+   "model": "650i",
+   "body": "Convertible",
+   "engine": "N62B48O1",
+   "power_kw": 270,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-06",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/eb52.html",
+   "engine_slug": "n62b48o1"
+  },
+  {
+   "code": "EB53",
+   "model": "650i",
+   "body": "Convertible",
+   "engine": "N62B48O1",
+   "power_kw": 270,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2006-11",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/eb53.html",
+   "engine_slug": "n62b48o1"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "673-70-das-neue-bmw-6er-cabrio-interieur",
+   "title": "Das neue BMW 6er Cabrio - Interieur"
+  },
+  {
+   "slug": "644-70-das-neue-bmw-6er-coupe-und-bmw-6er-cabrio",
+   "title": "Das neue BMW 6er Coup\u00e9 und 6er Cabrio"
+  },
+  {
+   "slug": "672-70-das-neue-bmw-6er-cabrio-interieur",
+   "title": "Das neue BMW 6er Cabrio - Interieur"
+  },
+  {
+   "slug": "662-70-das-neue-bmw-6er-cabrio",
+   "title": "Das neue BMW 6er Cabrio"
+  },
+  {
+   "slug": "671-70-das-neue-bmw-6er-cabrio-finnenverdeck",
+   "title": "Das neue BMW 6er Cabrio - Finnenverdeck"
+  },
+  {
+   "slug": "663-70-das-neue-bmw-6er-cabrio",
+   "title": "Das neue BMW 6er Cabrio"
+  },
+  {
+   "slug": "1531-142-bmw-m6-cabrio-frontleuchte",
+   "title": "BMW M6 Cabrio - Frontleuchte"
+  },
+  {
+   "slug": "666-70-das-neue-bmw-6er-cabrio",
+   "title": "Das neue BMW 6er Cabrio"
+  },
+  {
+   "slug": "2121-177-bmw-630i-cabriolet",
+   "title": "BMW 630i Cabriolet"
+  },
+  {
+   "slug": "665-70-das-neue-bmw-6er-cabrio",
+   "title": "Das neue BMW 6er Cabrio"
+  },
+  {
+   "slug": "667-70-das-neue-bmw-6er-cabrio",
+   "title": "Das neue BMW 6er Cabrio"
+  },
+  {
+   "slug": "661-70-das-neue-bmw-6er-cabrio",
+   "title": "Das neue BMW 6er Cabrio"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e64n.html"
+}

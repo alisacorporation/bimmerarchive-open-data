@@ -1,1 +1,24 @@
-{"code":"RS92","count":1,"results":[{"code":"RS92","model":"Cooper SD ALL4","body":"Sports Activity Coupe","engine":"N47C20U1","power_kw":105,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/rs92.html","chassis":"R61","chassis_slug":"r61","brand":"MINI","chassis_description":"MINI Paceman"}]}
+{
+ "code": "RS92",
+ "count": 1,
+ "results": [
+  {
+   "code": "RS92",
+   "model": "Cooper SD ALL4",
+   "body": "Sports Activity Coupe",
+   "engine": "N47C20U1",
+   "power_kw": 105,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/rs92.html",
+   "chassis": "R61",
+   "chassis_slug": "r61",
+   "brand": "MINI",
+   "chassis_description": "MINI Paceman",
+   "engine_slug": "n47c20u1"
+  }
+ ]
+}

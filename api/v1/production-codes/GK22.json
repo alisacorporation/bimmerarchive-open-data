@@ -1,1 +1,24 @@
-{"code":"GK22","count":1,"results":[{"code":"GK22","model":"750iL","body":"Sedan","engine":"M73B54","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1994-09","to":"1998-08","source":"https://www.bimmerarchive.org/code/gk22.html","chassis":"E38 (2)","chassis_slug":"e38-2","brand":"BMW","chassis_description":"BMW 7 Series Sedan Long Wheelbase"}]}
+{
+ "code": "GK22",
+ "count": 1,
+ "results": [
+  {
+   "code": "GK22",
+   "model": "750iL",
+   "body": "Sedan",
+   "engine": "M73B54",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1994-09",
+   "to": "1998-08",
+   "source": "https://www.bimmerarchive.org/code/gk22.html",
+   "chassis": "E38 (2)",
+   "chassis_slug": "e38-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan Long Wheelbase",
+   "engine_slug": "m73b54"
+  }
+ ]
+}

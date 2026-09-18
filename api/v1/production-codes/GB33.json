@@ -1,1 +1,24 @@
-{"code":"GB33","count":1,"results":[{"code":"GB33","model":"735I","body":"Sedan","engine":"M30","power_kw":155,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1986-08","to":"1990-08","source":"https://www.bimmerarchive.org/code/gb33.html","chassis":"E32","chassis_slug":"e32","brand":"BMW","chassis_description":"BMW 7 Series Sedan"}]}
+{
+ "code": "GB33",
+ "count": 1,
+ "results": [
+  {
+   "code": "GB33",
+   "model": "735I",
+   "body": "Sedan",
+   "engine": "M30",
+   "power_kw": 155,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1986-08",
+   "to": "1990-08",
+   "source": "https://www.bimmerarchive.org/code/gb33.html",
+   "chassis": "E32",
+   "chassis_slug": "e32",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan",
+   "engine_slug": "m30b35"
+  }
+ ]
+}

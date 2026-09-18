@@ -1,1 +1,86 @@
-{"code":"E60 (M5)","slug":"e60-m5","brand":"BMW","description":"BMW M5 Sedan","years":"2003 - 2009","year_from":2003,"year_to":2009,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"NB91","model":"M5","body":"Sedan","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2003-05","to":"2009-12","source":"https://www.bimmerarchive.org/code/nb91.html"},{"code":"NB92","model":"M5","body":"Sedan","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2003-11","to":"2009-12","source":"https://www.bimmerarchive.org/code/nb92.html"},{"code":"NB93","model":"M5","body":"Sedan","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2003-05","to":"2009-12","source":"https://www.bimmerarchive.org/code/nb93.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"254-32-la-auto-show-2006-bmw-stand","title":"LA Auto Show - BMW Stand"},{"slug":"1528-142-bmw-m5-limousine-heckleuchte","title":"BMW M5 Limousine - Heckleuchte"},{"slug":"1527-142-bmw-m5-limousine-frontleuchte","title":"BMW M5 Limousine - Frontleuchte"},{"slug":"1530-142-bmw-m5-limousine-aussenspiegel","title":"BMW M5 Limousine - Außenspiegel"},{"slug":"253-32-la-auto-show-2006-bmw-stand","title":"LA Auto Show - BMW Stand"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e60-m5.html"}
+{
+ "code": "E60 (M5)",
+ "slug": "e60-m5",
+ "brand": "BMW",
+ "description": "BMW M5 Sedan",
+ "years": "2003 - 2009",
+ "year_from": 2003,
+ "year_to": 2009,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "NB91",
+   "model": "M5",
+   "body": "Sedan",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2003-05",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/nb91.html",
+   "engine_slug": "s85b50"
+  },
+  {
+   "code": "NB92",
+   "model": "M5",
+   "body": "Sedan",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2003-11",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/nb92.html",
+   "engine_slug": "s85b50"
+  },
+  {
+   "code": "NB93",
+   "model": "M5",
+   "body": "Sedan",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2003-05",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/nb93.html",
+   "engine_slug": "s85b50"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "254-32-la-auto-show-2006-bmw-stand",
+   "title": "LA Auto Show - BMW Stand"
+  },
+  {
+   "slug": "1528-142-bmw-m5-limousine-heckleuchte",
+   "title": "BMW M5 Limousine - Heckleuchte"
+  },
+  {
+   "slug": "1527-142-bmw-m5-limousine-frontleuchte",
+   "title": "BMW M5 Limousine - Frontleuchte"
+  },
+  {
+   "slug": "1530-142-bmw-m5-limousine-aussenspiegel",
+   "title": "BMW M5 Limousine - Au\u00dfenspiegel"
+  },
+  {
+   "slug": "253-32-la-auto-show-2006-bmw-stand",
+   "title": "LA Auto Show - BMW Stand"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e60-m5.html"
+}

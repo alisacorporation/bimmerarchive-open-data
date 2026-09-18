@@ -1,1 +1,24 @@
-{"code":"HZ71","count":1,"results":[{"code":"HZ71","model":"X1 xDrive25Li","body":"Sports Activity Vehicle","engine":"B48O","power_kw":170,"drivetrain":"All Wheel-Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hz71.html","chassis":"F49","chassis_slug":"f49","brand":"BMW","chassis_description":"BMW X1 - Long Wheelbase"}]}
+{
+ "code": "HZ71",
+ "count": 1,
+ "results": [
+  {
+   "code": "HZ71",
+   "model": "X1 xDrive25Li",
+   "body": "Sports Activity Vehicle",
+   "engine": "B48O",
+   "power_kw": 170,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hz71.html",
+   "chassis": "F49",
+   "chassis_slug": "f49",
+   "brand": "BMW",
+   "chassis_description": "BMW X1 - Long Wheelbase",
+   "engine_slug": "b48a20o0"
+  }
+ ]
+}

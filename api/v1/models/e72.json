@@ -1,1 +1,84 @@
-{"code":"E72","slug":"e72","brand":"BMW","description":"BMW ActiveHybrid X6 - Sports Activity Coupé","years":"2010 - 2015","year_from":2010,"year_to":2015,"type":"Serie","production_code_count":2,"has_detail":true,"production_codes":[{"code":"FH03","model":"ActiveHybrid X6","body":"Sports Activity Coupe","engine":"N63B44O0","power_kw":300,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":"2008-10","to":"2010-02","source":"https://www.bimmerarchive.org/code/fh03.html"},{"code":"FH21","model":"ActiveHybrid X6","body":"Sports Activity Coupe","engine":"N63B44O0","power_kw":300,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2009-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/fh21.html"}],"plants":[{"slug":"bmw-plant-spartanburg","name":"BMW Plant Spartanburg"}],"photos":[{"slug":"2137-177-bmw-activehybrid-x6","title":"BMW ActiveHybrid X6"},{"slug":"2933-233-bmw-x6-m","title":"BMW X6 M"},{"slug":"2138-177-bmw-activehybrid-x6","title":"BMW ActiveHybrid X6"},{"slug":"2055-181-bmw-active-hybrid-x6","title":"BMW ActiveHybrid X6"},{"slug":"2052-181-bmw-active-hybrid-x6","title":"BMW ActiveHybrid X6"},{"slug":"2299-196-bmw-active-hybrid-x6-7","title":"BMW Active Hybrid X6 und 7"},{"slug":"2054-181-bmw-active-hybrid-x6","title":"BMW ActiveHybrid X6"},{"slug":"2053-181-bmw-active-hybrid-x6","title":"BMW ActiveHybrid X6"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e72.html"}
+{
+ "code": "E72",
+ "slug": "e72",
+ "brand": "BMW",
+ "description": "BMW ActiveHybrid X6 - Sports Activity Coup\u00e9",
+ "years": "2010 - 2015",
+ "year_from": 2010,
+ "year_to": 2015,
+ "type": "Serie",
+ "production_code_count": 2,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "FH03",
+   "model": "ActiveHybrid X6",
+   "body": "Sports Activity Coupe",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-10",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fh03.html",
+   "engine_slug": "n63b44o0"
+  },
+  {
+   "code": "FH21",
+   "model": "ActiveHybrid X6",
+   "body": "Sports Activity Coupe",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2009-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fh21.html",
+   "engine_slug": "n63b44o0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-spartanburg",
+   "name": "BMW Plant Spartanburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "2137-177-bmw-activehybrid-x6",
+   "title": "BMW ActiveHybrid X6"
+  },
+  {
+   "slug": "2933-233-bmw-x6-m",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "2138-177-bmw-activehybrid-x6",
+   "title": "BMW ActiveHybrid X6"
+  },
+  {
+   "slug": "2055-181-bmw-active-hybrid-x6",
+   "title": "BMW ActiveHybrid X6"
+  },
+  {
+   "slug": "2052-181-bmw-active-hybrid-x6",
+   "title": "BMW ActiveHybrid X6"
+  },
+  {
+   "slug": "2299-196-bmw-active-hybrid-x6-7",
+   "title": "BMW Active Hybrid X6 und 7"
+  },
+  {
+   "slug": "2054-181-bmw-active-hybrid-x6",
+   "title": "BMW ActiveHybrid X6"
+  },
+  {
+   "slug": "2053-181-bmw-active-hybrid-x6",
+   "title": "BMW ActiveHybrid X6"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e72.html"
+}

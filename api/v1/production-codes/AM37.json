@@ -1,1 +1,24 @@
-{"code":"AM37","count":1,"results":[{"code":"AM37","model":"323I","body":"Sedan","engine":"M52/TU","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Indonesia","from":"2000-01","to":"2000-07","source":"https://www.bimmerarchive.org/code/am37.html","chassis":"E46 (4)","chassis_slug":"e46-4","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "AM37",
+ "count": 1,
+ "results": [
+  {
+   "code": "AM37",
+   "model": "323I",
+   "body": "Sedan",
+   "engine": "M52/TU",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Indonesia",
+   "from": "2000-01",
+   "to": "2000-07",
+   "source": "https://www.bimmerarchive.org/code/am37.html",
+   "chassis": "E46 (4)",
+   "chassis_slug": "e46-4",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m52tub28"
+  }
+ ]
+}

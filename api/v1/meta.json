@@ -1,1 +1,47 @@
-{"name":"BimmerArchive Open Data","description":"BMW / MINI / Rolls-Royce chassis codes, factory production type keys and engine codes as static JSON.","version":"v1","generated":"2026-09-18","source":{"site":"https://www.bimmerarchive.org","retrieved_via":"Internet Archive Wayback Machine","snapshots":{"home":"20260611203026","e-code":"20260608081203","m-code":"20260419191424","detail_pages":"2026 (nearest capture)"}},"counts":{"models":285,"models_with_detail":285,"engines":202,"engines_with_detail":202,"production_codes":4339,"unique_production_codes":4339,"models_without_production_codes":97,"plants":11,"regions":14},"endpoints":{"GET /api/v1/models.json":"all chassis codes","GET /api/v1/models/{slug}.json":"one chassis code plus its production codes","GET /api/v1/engines.json":"all engine variants","GET /api/v1/engines/{slug}.json":"one engine plus full specs","GET /api/v1/production-codes.json":"every factory type key, flat","GET /api/v1/production-codes/{CODE}.json":"look up one type key","GET /api/v1/plants.json":"production plants","GET /api/v1/regions.json":"market regions","GET /api/v1/brands.json":"brands","GET /api/v1/search.json":"compact client-side search index"},"notes":["Static JSON only - no server, no rate limit, no key.","Derived from public Wayback Machine snapshots of bimmerarchive.org; a research mirror, not an official BMW source.","power_kw is null where the source table was blank or 0.","Production codes are globally unique in this dataset - 4339 codes, zero collisions - but production-codes/{CODE}.json still returns a list so the shape stays stable if a collision ever appears.","97 of 285 chassis pages carry no production code table in the source; their production_code_count is 0."]}
+{
+ "name": "BimmerArchive Open Data",
+ "description": "BMW / MINI / Rolls-Royce chassis codes, factory production type keys and engine codes as static JSON.",
+ "version": "v1",
+ "generated": "2026-09-18",
+ "source": {
+  "site": "https://www.bimmerarchive.org",
+  "retrieved_via": "Internet Archive Wayback Machine",
+  "snapshots": {
+   "home": "20260611203026",
+   "e-code": "20260608081203",
+   "m-code": "20260419191424",
+   "detail_pages": "2026 (nearest capture)"
+  }
+ },
+ "counts": {
+  "models": 285,
+  "models_with_detail": 285,
+  "engines": 243,
+  "engines_with_detail": 202,
+  "production_codes": 4339,
+  "unique_production_codes": 4339,
+  "models_without_production_codes": 97,
+  "plants": 11,
+  "regions": 14,
+  "engine_families": 68
+ },
+ "endpoints": {
+  "GET /api/v1/models.json": "all chassis codes",
+  "GET /api/v1/models/{slug}.json": "one chassis code plus its production codes",
+  "GET /api/v1/engines.json": "all engine variants",
+  "GET /api/v1/engines/{slug}.json": "one engine plus full specs",
+  "GET /api/v1/production-codes.json": "every factory type key, flat",
+  "GET /api/v1/production-codes/{CODE}.json": "look up one type key",
+  "GET /api/v1/plants.json": "production plants",
+  "GET /api/v1/regions.json": "market regions",
+  "GET /api/v1/brands.json": "brands",
+  "GET /api/v1/search.json": "compact client-side search index"
+ },
+ "notes": [
+  "Static JSON only - no server, no rate limit, no key.",
+  "Derived from public Wayback Machine snapshots of bimmerarchive.org; a research mirror, not an official BMW source.",
+  "power_kw is null where the source table was blank or 0.",
+  "Production codes are globally unique in this dataset - 4339 codes, zero collisions - but production-codes/{CODE}.json still returns a list so the shape stays stable if a collision ever appears.",
+  "97 of 285 chassis pages carry no production code table in the source; their production_code_count is 0."
+ ]
+}

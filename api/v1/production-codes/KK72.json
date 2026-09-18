@@ -1,1 +1,24 @@
-{"code":"KK72","count":1,"results":[{"code":"KK72","model":"330d","body":"Coupe","engine":"N57D30O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2009-09","to":"2009-09","source":"https://www.bimmerarchive.org/code/kk72.html","chassis":"E92 (MUE)","chassis_slug":"e92n","brand":"BMW","chassis_description":"BMW 3 Series Coupe - LCI"}]}
+{
+ "code": "KK72",
+ "count": 1,
+ "results": [
+  {
+   "code": "KK72",
+   "model": "330d",
+   "body": "Coupe",
+   "engine": "N57D30O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-09",
+   "to": "2009-09",
+   "source": "https://www.bimmerarchive.org/code/kk72.html",
+   "chassis": "E92 (MUE)",
+   "chassis_slug": "e92n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe - LCI",
+   "engine_slug": "n57d30o0-540"
+  }
+ ]
+}

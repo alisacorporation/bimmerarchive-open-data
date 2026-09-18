@@ -1,1 +1,24 @@
-{"code":"VM71","count":1,"results":[{"code":"VM71","model":"X1 xDrive25d","body":"Sports Activity Vehicle","engine":"N47D20T1","power_kw":160,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/vm71.html","chassis":"E84","chassis_slug":"e84","brand":"BMW","chassis_description":"BMW X1 - Sports Activity Vehicle"}]}
+{
+ "code": "VM71",
+ "count": 1,
+ "results": [
+  {
+   "code": "VM71",
+   "model": "X1 xDrive25d",
+   "body": "Sports Activity Vehicle",
+   "engine": "N47D20T1",
+   "power_kw": 160,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/vm71.html",
+   "chassis": "E84",
+   "chassis_slug": "e84",
+   "brand": "BMW",
+   "chassis_description": "BMW X1 - Sports Activity Vehicle",
+   "engine_slug": "n47d20t1"
+  }
+ ]
+}

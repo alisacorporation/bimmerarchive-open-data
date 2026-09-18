@@ -1,1 +1,24 @@
-{"code":"AL12","count":1,"results":[{"code":"AL12","model":"316I","body":"Sedan","engine":"M43/TU","power_kw":77,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-10","to":"2001-08","source":"https://www.bimmerarchive.org/code/al12.html","chassis":"E46 (4)","chassis_slug":"e46-4","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "AL12",
+ "count": 1,
+ "results": [
+  {
+   "code": "AL12",
+   "model": "316I",
+   "body": "Sedan",
+   "engine": "M43/TU",
+   "power_kw": 77,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-10",
+   "to": "2001-08",
+   "source": "https://www.bimmerarchive.org/code/al12.html",
+   "chassis": "E46 (4)",
+   "chassis_slug": "e46-4",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m43b19-tu-ol"
+  }
+ ]
+}

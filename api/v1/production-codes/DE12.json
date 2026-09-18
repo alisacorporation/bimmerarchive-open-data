@@ -1,1 +1,24 @@
-{"code":"DE12","count":1,"results":[{"code":"DE12","model":"535I","body":"Sedan","engine":"M62","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1996-07","to":"1998-08","source":"https://www.bimmerarchive.org/code/de12.html","chassis":"E39","chassis_slug":"e39","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "DE12",
+ "count": 1,
+ "results": [
+  {
+   "code": "DE12",
+   "model": "535I",
+   "body": "Sedan",
+   "engine": "M62",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1996-07",
+   "to": "1998-08",
+   "source": "https://www.bimmerarchive.org/code/de12.html",
+   "chassis": "E39",
+   "chassis_slug": "e39",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m62b44-tu"
+  }
+ ]
+}

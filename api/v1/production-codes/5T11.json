@@ -1,1 +1,24 @@
-{"code":"5T11","count":1,"results":[{"code":"5T11","model":"528Li xDrive","body":"Sedan","engine":"N20B20O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/5t11.html","chassis":"F18 (MUE)","chassis_slug":"f18-lci","brand":"BMW","chassis_description":"BMW 5 Series Sedan - Chinese Long Wheelbase - LCI"}]}
+{
+ "code": "5T11",
+ "count": 1,
+ "results": [
+  {
+   "code": "5T11",
+   "model": "528Li xDrive",
+   "body": "Sedan",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/5t11.html",
+   "chassis": "F18 (MUE)",
+   "chassis_slug": "f18-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan - Chinese Long Wheelbase - LCI",
+   "engine_slug": "n20b20o0"
+  }
+ ]
+}

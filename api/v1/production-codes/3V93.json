@@ -1,1 +1,24 @@
-{"code":"3V93","count":1,"results":[{"code":"3V93","model":"428i xDrive","body":"Convertible","engine":"N20B20O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3v93.html","chassis":"F33","chassis_slug":"f33","brand":"BMW","chassis_description":"BMW 4 Series Convertible"}]}
+{
+ "code": "3V93",
+ "count": 1,
+ "results": [
+  {
+   "code": "3V93",
+   "model": "428i xDrive",
+   "body": "Convertible",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3v93.html",
+   "chassis": "F33",
+   "chassis_slug": "f33",
+   "brand": "BMW",
+   "chassis_description": "BMW 4 Series Convertible",
+   "engine_slug": "n20b20o0"
+  }
+ ]
+}

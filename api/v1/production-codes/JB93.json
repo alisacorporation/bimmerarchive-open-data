@@ -1,1 +1,24 @@
-{"code":"JB93","count":1,"results":[{"code":"JB93","model":"M550i xDrive","body":"Sedan","engine":"N63R","power_kw":340,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jb93.html","chassis":"G30","chassis_slug":"g30","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "JB93",
+ "count": 1,
+ "results": [
+  {
+   "code": "JB93",
+   "model": "M550i xDrive",
+   "body": "Sedan",
+   "engine": "N63R",
+   "power_kw": 340,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jb93.html",
+   "chassis": "G30",
+   "chassis_slug": "g30",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "n63b44o1"
+  }
+ ]
+}

@@ -1,1 +1,37 @@
-{"code":"RR6","slug":"rr6","brand":"Rolls-Royce","description":"Rolls-Royce Dawn","years":"2016 -","year_from":2016,"year_to":null,"type":"Serie","production_code_count":1,"has_detail":true,"production_codes":[{"code":"6664","model":"Dawn","body":"Convertible","engine":"N74R","power_kw":420,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6664.html"}],"plants":[],"photos":[{"slug":"9391-493-rolls-royce-dawn-inspired-by-music","title":"Rolls-Royce Dawn - Inspired by Music"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/rr6.html"}
+{
+ "code": "RR6",
+ "slug": "rr6",
+ "brand": "Rolls-Royce",
+ "description": "Rolls-Royce Dawn",
+ "years": "2016 -",
+ "year_from": 2016,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 1,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "6664",
+   "model": "Dawn",
+   "body": "Convertible",
+   "engine": "N74R",
+   "power_kw": 420,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6664.html",
+   "engine_slug": "n74b66u0"
+  }
+ ],
+ "plants": [],
+ "photos": [
+  {
+   "slug": "9391-493-rolls-royce-dawn-inspired-by-music",
+   "title": "Rolls-Royce Dawn - Inspired by Music"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/rr6.html"
+}

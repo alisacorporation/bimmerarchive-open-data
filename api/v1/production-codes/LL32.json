@@ -1,1 +1,24 @@
-{"code":"LL32","count":1,"results":[{"code":"LL32","model":"Z4 sDrive20i","body":"Roadster","engine":"N20B20U0","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ll32.html","chassis":"E89","chassis_slug":"e89","brand":"BMW","chassis_description":"BMW Z4 Roadster"}]}
+{
+ "code": "LL32",
+ "count": 1,
+ "results": [
+  {
+   "code": "LL32",
+   "model": "Z4 sDrive20i",
+   "body": "Roadster",
+   "engine": "N20B20U0",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ll32.html",
+   "chassis": "E89",
+   "chassis_slug": "e89",
+   "brand": "BMW",
+   "chassis_description": "BMW Z4 Roadster",
+   "engine_slug": "n20b20u0-18i"
+  }
+ ]
+}

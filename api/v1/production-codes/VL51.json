@@ -1,1 +1,24 @@
-{"code":"VL51","count":1,"results":[{"code":"VL51","model":"X1 xDrive25i","body":"Sports Activity Vehicle","engine":"N52B30U1","power_kw":160,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2008-09","to":"2009-12","source":"https://www.bimmerarchive.org/code/vl51.html","chassis":"E84","chassis_slug":"e84","brand":"BMW","chassis_description":"BMW X1 - Sports Activity Vehicle"}]}
+{
+ "code": "VL51",
+ "count": 1,
+ "results": [
+  {
+   "code": "VL51",
+   "model": "X1 xDrive25i",
+   "body": "Sports Activity Vehicle",
+   "engine": "N52B30U1",
+   "power_kw": 160,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-09",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/vl51.html",
+   "chassis": "E84",
+   "chassis_slug": "e84",
+   "brand": "BMW",
+   "chassis_description": "BMW X1 - Sports Activity Vehicle",
+   "engine_slug": "n52b30u1"
+  }
+ ]
+}

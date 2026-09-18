@@ -1,1 +1,24 @@
-{"code":"XS71","count":1,"results":[{"code":"XS71","model":"Cooper S","body":"Sports Hatch","engine":"B48A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xs71.html","chassis":"F55","chassis_slug":"f55","brand":"MINI","chassis_description":"MINI 5 door"}]}
+{
+ "code": "XS71",
+ "count": 1,
+ "results": [
+  {
+   "code": "XS71",
+   "model": "Cooper S",
+   "body": "Sports Hatch",
+   "engine": "B48A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xs71.html",
+   "chassis": "F55",
+   "chassis_slug": "f55",
+   "brand": "MINI",
+   "chassis_description": "MINI 5 door",
+   "engine_slug": "b48a20m0"
+  }
+ ]
+}

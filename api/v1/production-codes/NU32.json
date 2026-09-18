@@ -1,1 +1,24 @@
-{"code":"NU32","count":1,"results":[{"code":"NU32","model":"523i","body":"Sedan","engine":"N53B25U0","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-02","to":"2009-12","source":"https://www.bimmerarchive.org/code/nu32.html","chassis":"E60 (MUE)","chassis_slug":"e60n","brand":"BMW","chassis_description":"BMW 5 Series Sedan - LCI"}]}
+{
+ "code": "NU32",
+ "count": 1,
+ "results": [
+  {
+   "code": "NU32",
+   "model": "523i",
+   "body": "Sedan",
+   "engine": "N53B25U0",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-02",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/nu32.html",
+   "chassis": "E60 (MUE)",
+   "chassis_slug": "e60n",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan - LCI",
+   "engine_slug": "n53b25uo"
+  }
+ ]
+}

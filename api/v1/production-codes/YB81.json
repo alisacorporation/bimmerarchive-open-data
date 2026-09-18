@@ -1,1 +1,24 @@
-{"code":"YB81","count":1,"results":[{"code":"YB81","model":"750d xDrive","body":"Sedan","engine":"N57D30S1","power_kw":280,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/yb81.html","chassis":"F01 (MUE)","chassis_slug":"f01-lci","brand":"BMW","chassis_description":"BMW 7 Series Sedan - LCI"}]}
+{
+ "code": "YB81",
+ "count": 1,
+ "results": [
+  {
+   "code": "YB81",
+   "model": "750d xDrive",
+   "body": "Sedan",
+   "engine": "N57D30S1",
+   "power_kw": 280,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/yb81.html",
+   "chassis": "F01 (MUE)",
+   "chassis_slug": "f01-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan - LCI",
+   "engine_slug": "n57d30s1"
+  }
+ ]
+}

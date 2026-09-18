@@ -1,1 +1,24 @@
-{"code":"DS22","count":1,"results":[{"code":"DS22","model":"520I","body":"Touring","engine":"M54","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2000-08","to":"2003-12","source":"https://www.bimmerarchive.org/code/ds22.html","chassis":"E39 (2)","chassis_slug":"e39-2","brand":"BMW","chassis_description":"BMW 5 Series Touring"}]}
+{
+ "code": "DS22",
+ "count": 1,
+ "results": [
+  {
+   "code": "DS22",
+   "model": "520I",
+   "body": "Touring",
+   "engine": "M54",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2000-08",
+   "to": "2003-12",
+   "source": "https://www.bimmerarchive.org/code/ds22.html",
+   "chassis": "E39 (2)",
+   "chassis_slug": "e39-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Touring",
+   "engine_slug": "m54b30"
+  }
+ ]
+}

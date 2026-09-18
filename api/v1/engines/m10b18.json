@@ -1,0 +1,23 @@
+{
+ "code": "M10B18",
+ "slug": "m10b18",
+ "family": "M10",
+ "years": "1962 - 1988",
+ "year_from": 1962,
+ "year_to": 1988,
+ "displacement_cc": 1766,
+ "power_kw": 77,
+ "power_ps": 105,
+ "power_rpm": "5800",
+ "torque_nm": 145,
+ "torque_rpm": "3800",
+ "has_detail": false,
+ "construction": "4 Cylinder, 8 Valves, Reihe",
+ "cylinders": 4,
+ "valves": 8,
+ "compression_ratio": "8.8:1",
+ "bore_mm": 89.0,
+ "stroke_mm": 71.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m10b18.html"
+}

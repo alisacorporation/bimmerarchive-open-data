@@ -1,1 +1,24 @@
-{"code":"AD91","count":1,"results":[{"code":"AD91","model":"324TD","body":"Sedan","engine":"M21","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1987-02","to":"1990-12","source":"https://www.bimmerarchive.org/code/ad91.html","chassis":"E30","chassis_slug":"e30","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "AD91",
+ "count": 1,
+ "results": [
+  {
+   "code": "AD91",
+   "model": "324TD",
+   "body": "Sedan",
+   "engine": "M21",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1987-02",
+   "to": "1990-12",
+   "source": "https://www.bimmerarchive.org/code/ad91.html",
+   "chassis": "E30",
+   "chassis_slug": "e30",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m21d25-td"
+  }
+ ]
+}

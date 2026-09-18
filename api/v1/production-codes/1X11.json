@@ -1,1 +1,24 @@
-{"code":"1X11","count":1,"results":[{"code":"1X11","model":"120d xDrive","body":"Hatch Coupe","engine":"B47O","power_kw":140,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1x11.html","chassis":"F21 (MUE)","chassis_slug":"f21-lci","brand":"BMW","chassis_description":"BMW 1 Series 3-door Sports Hatch"}]}
+{
+ "code": "1X11",
+ "count": 1,
+ "results": [
+  {
+   "code": "1X11",
+   "model": "120d xDrive",
+   "body": "Hatch Coupe",
+   "engine": "B47O",
+   "power_kw": 140,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1x11.html",
+   "chassis": "F21 (MUE)",
+   "chassis_slug": "f21-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 1 Series 3-door Sports Hatch",
+   "engine_slug": "b47d20o0"
+  }
+ ]
+}

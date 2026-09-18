@@ -1,1 +1,24 @@
-{"code":"WB12","count":1,"results":[{"code":"WB12","model":"323i","body":"Coupe","engine":"N52B25U1","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-04","to":"2009-11","source":"https://www.bimmerarchive.org/code/wb12.html","chassis":"E92","chassis_slug":"e92","brand":"BMW","chassis_description":"BMW 3 Series Coupe"}]}
+{
+ "code": "WB12",
+ "count": 1,
+ "results": [
+  {
+   "code": "WB12",
+   "model": "323i",
+   "body": "Coupe",
+   "engine": "N52B25U1",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-04",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/wb12.html",
+   "chassis": "E92",
+   "chassis_slug": "e92",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe",
+   "engine_slug": "n52b25u1"
+  }
+ ]
+}

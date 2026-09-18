@@ -1,1 +1,65 @@
-{"code":"F03 (MUE)","slug":"f03-lci","brand":"BMW","description":"BMW 7 Series Sedan - Protection - LCI","years":"2012 -","year_from":2012,"year_to":null,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"GX21","model":"750Li","body":"Sedan","engine":"N63B44O0","power_kw":300,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/gx21.html"},{"code":"HP41","model":"760Li","body":"Sedan","engine":"N74B60U0","power_kw":400,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hp41.html"},{"code":"HP42","model":"760Li","body":"Sedan","engine":"N74B60U0","power_kw":400,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hp42.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[],"articles":[],"source":"https://www.bimmerarchive.org/e-code/f03-lci.html"}
+{
+ "code": "F03 (MUE)",
+ "slug": "f03-lci",
+ "brand": "BMW",
+ "description": "BMW 7 Series Sedan - Protection - LCI",
+ "years": "2012 -",
+ "year_from": 2012,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "GX21",
+   "model": "750Li",
+   "body": "Sedan",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/gx21.html",
+   "engine_slug": "n63b44o0"
+  },
+  {
+   "code": "HP41",
+   "model": "760Li",
+   "body": "Sedan",
+   "engine": "N74B60U0",
+   "power_kw": 400,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hp41.html",
+   "engine_slug": "n74b60uo"
+  },
+  {
+   "code": "HP42",
+   "model": "760Li",
+   "body": "Sedan",
+   "engine": "N74B60U0",
+   "power_kw": 400,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hp42.html",
+   "engine_slug": "n74b60uo"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/f03-lci.html"
+}

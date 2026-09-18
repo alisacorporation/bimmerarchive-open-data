@@ -1,1 +1,24 @@
-{"code":"CS21","count":1,"results":[{"code":"CS21","model":"316I","body":"Compact","engine":"M43/TU","power_kw":77,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-04","to":"2000-08","source":"https://www.bimmerarchive.org/code/cs21.html","chassis":"E36 (5)","chassis_slug":"e36-5","brand":"BMW","chassis_description":"BMW 3 Series Compact"}]}
+{
+ "code": "CS21",
+ "count": 1,
+ "results": [
+  {
+   "code": "CS21",
+   "model": "316I",
+   "body": "Compact",
+   "engine": "M43/TU",
+   "power_kw": 77,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-04",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/cs21.html",
+   "chassis": "E36 (5)",
+   "chassis_slug": "e36-5",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Compact",
+   "engine_slug": "m43b19-tu-ol"
+  }
+ ]
+}

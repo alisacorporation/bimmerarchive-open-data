@@ -1,1 +1,24 @@
-{"code":"BS72","count":1,"results":[{"code":"BS72","model":"320Cd","body":"Convertible","engine":"M47D20O1","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2004-06","to":"2006-08","source":"https://www.bimmerarchive.org/code/bs72.html","chassis":"E46 (CFL)","chassis_slug":"e46-c-lci","brand":"BMW","chassis_description":"BMW 3 Series Convertible - LCI"}]}
+{
+ "code": "BS72",
+ "count": 1,
+ "results": [
+  {
+   "code": "BS72",
+   "model": "320Cd",
+   "body": "Convertible",
+   "engine": "M47D20O1",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2004-06",
+   "to": "2006-08",
+   "source": "https://www.bimmerarchive.org/code/bs72.html",
+   "chassis": "E46 (CFL)",
+   "chassis_slug": "e46-c-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible - LCI",
+   "engine_slug": "m47d20o1"
+  }
+ ]
+}

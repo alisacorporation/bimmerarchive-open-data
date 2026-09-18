@@ -1,1 +1,24 @@
-{"code":"EF63","count":1,"results":[{"code":"EF63","model":"840I","body":"Coupe","engine":"M60/2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1993-09","to":"1995-11","source":"https://www.bimmerarchive.org/code/ef63.html","chassis":"E31","chassis_slug":"e31","brand":"BMW","chassis_description":"BMW 8 Series Coupe"}]}
+{
+ "code": "EF63",
+ "count": 1,
+ "results": [
+  {
+   "code": "EF63",
+   "model": "840I",
+   "body": "Coupe",
+   "engine": "M60/2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1993-09",
+   "to": "1995-11",
+   "source": "https://www.bimmerarchive.org/code/ef63.html",
+   "chassis": "E31",
+   "chassis_slug": "e31",
+   "brand": "BMW",
+   "chassis_description": "BMW 8 Series Coupe",
+   "engine_slug": "m60b40"
+  }
+ ]
+}

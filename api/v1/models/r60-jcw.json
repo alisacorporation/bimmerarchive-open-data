@@ -1,1 +1,65 @@
-{"code":"R60 (JCW)","slug":"r60-jcw","brand":"MINI","description":"MINI Countryman - John Cooper Works","years":"-","year_from":null,"year_to":null,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"XD11","model":"John Cooper Works","body":"Sports Activity Vehicle","engine":"N18B16T0","power_kw":160,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xd11.html"},{"code":"XD12","model":"John Cooper Works","body":"Sports Activity Vehicle","engine":"N18B16T0","power_kw":160,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xd12.html"},{"code":"XD13","model":"John Cooper Works","body":"Sports Activity Vehicle","engine":"N18B16T0","power_kw":155,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xd13.html"}],"plants":[{"slug":"magna-steyr","name":"Magna Steyr Graz"}],"photos":[],"articles":[],"source":"https://www.bimmerarchive.org/e-code/r60-jcw.html"}
+{
+ "code": "R60 (JCW)",
+ "slug": "r60-jcw",
+ "brand": "MINI",
+ "description": "MINI Countryman - John Cooper Works",
+ "years": "-",
+ "year_from": null,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "XD11",
+   "model": "John Cooper Works",
+   "body": "Sports Activity Vehicle",
+   "engine": "N18B16T0",
+   "power_kw": 160,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xd11.html",
+   "engine_slug": "n18b16t0-160"
+  },
+  {
+   "code": "XD12",
+   "model": "John Cooper Works",
+   "body": "Sports Activity Vehicle",
+   "engine": "N18B16T0",
+   "power_kw": 160,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xd12.html",
+   "engine_slug": "n18b16t0-160"
+  },
+  {
+   "code": "XD13",
+   "model": "John Cooper Works",
+   "body": "Sports Activity Vehicle",
+   "engine": "N18B16T0",
+   "power_kw": 155,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xd13.html",
+   "engine_slug": "n18b16t0-160"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "magna-steyr",
+   "name": "Magna Steyr Graz"
+  }
+ ],
+ "photos": [],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/r60-jcw.html"
+}

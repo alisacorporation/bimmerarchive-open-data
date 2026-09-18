@@ -1,0 +1,23 @@
+{
+ "code": "N12B14",
+ "slug": "n12b14",
+ "family": "N12",
+ "years": "2006 - 2010",
+ "year_from": 2006,
+ "year_to": 2010,
+ "displacement_cc": 1397,
+ "power_kw": 55,
+ "power_ps": 75,
+ "power_rpm": "6000",
+ "torque_nm": 140,
+ "torque_rpm": "2250",
+ "has_detail": false,
+ "construction": "4 Cylinder, 16 Valves, Reihe",
+ "cylinders": 4,
+ "valves": 16,
+ "compression_ratio": "10.5:1",
+ "bore_mm": 77.0,
+ "stroke_mm": 75.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/n12b14.html"
+}

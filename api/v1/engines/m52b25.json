@@ -1,0 +1,23 @@
+{
+ "code": "M52B25",
+ "slug": "m52b25",
+ "family": "M52",
+ "years": "1995 - 2000",
+ "year_from": 1995,
+ "year_to": 2000,
+ "displacement_cc": 2494,
+ "power_kw": 125,
+ "power_ps": 170,
+ "power_rpm": "5500",
+ "torque_nm": 245,
+ "torque_rpm": "3950",
+ "has_detail": false,
+ "construction": "6 Cylinder, 24 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 24,
+ "compression_ratio": "10.5:1",
+ "bore_mm": 84.0,
+ "stroke_mm": 75.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m52b25.html"
+}

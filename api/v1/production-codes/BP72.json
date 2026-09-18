@@ -1,1 +1,24 @@
-{"code":"BP72","count":1,"results":[{"code":"BP72","model":"318Ci","body":"Convertible","engine":"N42B20","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2001-03","to":"2003-03","source":"https://www.bimmerarchive.org/code/bp72.html","chassis":"E46 (C)","chassis_slug":"e46-2c","brand":"BMW","chassis_description":"BMW 3 Series Convertible"}]}
+{
+ "code": "BP72",
+ "count": 1,
+ "results": [
+  {
+   "code": "BP72",
+   "model": "318Ci",
+   "body": "Convertible",
+   "engine": "N42B20",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2001-03",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bp72.html",
+   "chassis": "E46 (C)",
+   "chassis_slug": "e46-2c",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible",
+   "engine_slug": "n42b20"
+  }
+ ]
+}

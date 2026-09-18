@@ -1,1 +1,24 @@
-{"code":"VH56","count":1,"results":[{"code":"VH56","model":"330i","body":"Sedan","engine":"N52B30O1","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-11","to":"2008-08","source":"https://www.bimmerarchive.org/code/vh56.html","chassis":"E90","chassis_slug":"e90","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "VH56",
+ "count": 1,
+ "results": [
+  {
+   "code": "VH56",
+   "model": "330i",
+   "body": "Sedan",
+   "engine": "N52B30O1",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-11",
+   "to": "2008-08",
+   "source": "https://www.bimmerarchive.org/code/vh56.html",
+   "chassis": "E90",
+   "chassis_slug": "e90",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "n52b30o1"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"UV32","count":1,"results":[{"code":"UV32","model":"330i","body":"Touring","engine":"N52B30O1","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2009-01","to":"2009-01","source":"https://www.bimmerarchive.org/code/uv32.html","chassis":"E91 (MUE)","chassis_slug":"e91n","brand":"BMW","chassis_description":"BMW 3 Series Touring - LCI"}]}
+{
+ "code": "UV32",
+ "count": 1,
+ "results": [
+  {
+   "code": "UV32",
+   "model": "330i",
+   "body": "Touring",
+   "engine": "N52B30O1",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-01",
+   "to": "2009-01",
+   "source": "https://www.bimmerarchive.org/code/uv32.html",
+   "chassis": "E91 (MUE)",
+   "chassis_slug": "e91n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring - LCI",
+   "engine_slug": "n52b30o1"
+  }
+ ]
+}

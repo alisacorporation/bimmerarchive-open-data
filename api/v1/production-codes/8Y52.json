@@ -1,1 +1,24 @@
-{"code":"8Y52","count":1,"results":[{"code":"8Y52","model":"318d","body":"Gran Turismo","engine":"B47U","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/8y52.html","chassis":"F34","chassis_slug":"f34","brand":"BMW","chassis_description":"BMW 3 Series Gran Turismo"}]}
+{
+ "code": "8Y52",
+ "count": 1,
+ "results": [
+  {
+   "code": "8Y52",
+   "model": "318d",
+   "body": "Gran Turismo",
+   "engine": "B47U",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/8y52.html",
+   "chassis": "F34",
+   "chassis_slug": "f34",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Gran Turismo",
+   "engine_slug": "b47c20u0"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"RH32","count":1,"results":[{"code":"RH32","model":"COOPER S","body":"Convertible","engine":"W11","power_kw":125,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":"2003-07","to":"2008-07","source":"https://www.bimmerarchive.org/code/rh32.html","chassis":"R52","chassis_slug":"r52","brand":"MINI","chassis_description":"MINI Convertible"}]}
+{
+ "code": "RH32",
+ "count": 1,
+ "results": [
+  {
+   "code": "RH32",
+   "model": "COOPER S",
+   "body": "Convertible",
+   "engine": "W11",
+   "power_kw": 125,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2003-07",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/rh32.html",
+   "chassis": "R52",
+   "chassis_slug": "r52",
+   "brand": "MINI",
+   "chassis_description": "MINI Convertible",
+   "engine_slug": "w11b16"
+  }
+ ]
+}

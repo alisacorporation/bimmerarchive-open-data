@@ -1,1 +1,281 @@
-{"code":"G12","slug":"g12","brand":"BMW","description":"BMW 7 Series Sedan - Long Wheelbase","years":"2015 - 2022","year_from":2015,"year_to":2022,"type":"Serie","production_code_count":14,"has_detail":true,"production_codes":[{"code":"7G41","model":"730Ld","body":"Sedan","engine":"B57D30O0","power_kw":195,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7g41.html"},{"code":"7G42","model":"730Ld","body":"Sedan","engine":"B57D30O0","power_kw":195,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7g42.html"},{"code":"7G44","model":"730Ld","body":"Sedan","engine":"B57D30O0","power_kw":195,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Thailand","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7g44.html"},{"code":"7G61","model":"730Ld xDrive","body":"Sedan","engine":"B57D30O0","power_kw":195,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7g61.html"},{"code":"7G81","model":"740Ld xDrive","body":"Sedan","engine":"B57D30T0","power_kw":235,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7g81.html"},{"code":"7G82","model":"740Ld xDrive","body":"Sedan","engine":"B57D30T0","power_kw":235,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7g82.html"},{"code":"7E21","model":"740Li","body":"Sedan","engine":"B58B30M0","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7e21.html"},{"code":"7E22","model":"740Li","body":"Sedan","engine":"B58B30M0","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7e22.html"},{"code":"7E23","model":"740Li","body":"Sedan","engine":"B58B30M0","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7e23.html"},{"code":"7F01","model":"750Li","body":"Sedan","engine":"N63B44O2","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7f01.html"},{"code":"7F02","model":"750Li","body":"Sedan","engine":"N63B44O2","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7f02.html"},{"code":"7F03","model":"750Li","body":"Sedan","engine":"N63B44O2","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7f03.html"},{"code":"7F21","model":"750Li xDrive","body":"Sedan","engine":"N63B44O2","power_kw":330,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7f21.html"},{"code":"7F23","model":"750Li xDrive","body":"Sedan","engine":"N63B44O2","power_kw":330,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7f23.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"5746-355-bmw-750li-xdrive-individual","title":"BMW 750Li xDrive - Individual"},{"slug":"5948-366-bmw-m-760-li-xdrive","title":"BMW M760Li xDrive"},{"slug":"5756-355-bmw-7-series-interior","title":"BMW 7 Series - Interior"},{"slug":"5758-355-bmw-7-series-interior","title":"BMW 7 Series - Interior"},{"slug":"5721-355-bmw-750li-xdrive","title":"BMW 750Li xDrive"},{"slug":"5963-366-bmw-m-760-li-xdrive-v12-excellence","title":"BMW M760Li xDrive V12 Excellence"},{"slug":"5964-366-bmw-m-760-li-xdrive-v12-excellence","title":"BMW M760Li xDrive V12 Excellence"},{"slug":"6403-382-bmw-740le-xdrive-i-performance","title":"BMW 740Le xDrive iPerformance"},{"slug":"5719-355-bmw-750li-xdrive","title":"BMW 750Li xDrive"},{"slug":"5962-366-bmw-m-760-li-xdrive-v12-excellence","title":"BMW M760Li xDrive V12 Excellence"},{"slug":"5945-366-bmw-m-760-li-xdrive","title":"BMW M760Li xDrive"},{"slug":"5750-355-bmw-740le","title":"BMW 740Le"}],"articles":[{"slug":"2016-02-12-the-new-bmw-m-760-li-xdrive","title":"The new BMW M760Li xDrive (2016-02-12)"},{"slug":"2016-02-08-the-new-bmw-alpina-b7-biturbo","title":"The new BMW Alpina B7 Bi-Turbo (2016-02-08)"},{"slug":"2015-06-10-the-new-bmw-7-series","title":"The new BMW 7 Series (2015-06-10)"}],"source":"https://www.bimmerarchive.org/e-code/g12.html"}
+{
+ "code": "G12",
+ "slug": "g12",
+ "brand": "BMW",
+ "description": "BMW 7 Series Sedan - Long Wheelbase",
+ "years": "2015 - 2022",
+ "year_from": 2015,
+ "year_to": 2022,
+ "type": "Serie",
+ "production_code_count": 14,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "7G41",
+   "model": "730Ld",
+   "body": "Sedan",
+   "engine": "B57D30O0",
+   "power_kw": 195,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7g41.html",
+   "engine_slug": "b57d30o0"
+  },
+  {
+   "code": "7G42",
+   "model": "730Ld",
+   "body": "Sedan",
+   "engine": "B57D30O0",
+   "power_kw": 195,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7g42.html",
+   "engine_slug": "b57d30o0"
+  },
+  {
+   "code": "7G44",
+   "model": "730Ld",
+   "body": "Sedan",
+   "engine": "B57D30O0",
+   "power_kw": 195,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Thailand",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7g44.html",
+   "engine_slug": "b57d30o0"
+  },
+  {
+   "code": "7G61",
+   "model": "730Ld xDrive",
+   "body": "Sedan",
+   "engine": "B57D30O0",
+   "power_kw": 195,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7g61.html",
+   "engine_slug": "b57d30o0"
+  },
+  {
+   "code": "7G81",
+   "model": "740Ld xDrive",
+   "body": "Sedan",
+   "engine": "B57D30T0",
+   "power_kw": 235,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7g81.html",
+   "engine_slug": "b57d30t0"
+  },
+  {
+   "code": "7G82",
+   "model": "740Ld xDrive",
+   "body": "Sedan",
+   "engine": "B57D30T0",
+   "power_kw": 235,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7g82.html",
+   "engine_slug": "b57d30t0"
+  },
+  {
+   "code": "7E21",
+   "model": "740Li",
+   "body": "Sedan",
+   "engine": "B58B30M0",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7e21.html",
+   "engine_slug": "b58b30m0"
+  },
+  {
+   "code": "7E22",
+   "model": "740Li",
+   "body": "Sedan",
+   "engine": "B58B30M0",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7e22.html",
+   "engine_slug": "b58b30m0"
+  },
+  {
+   "code": "7E23",
+   "model": "740Li",
+   "body": "Sedan",
+   "engine": "B58B30M0",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7e23.html",
+   "engine_slug": "b58b30m0"
+  },
+  {
+   "code": "7F01",
+   "model": "750Li",
+   "body": "Sedan",
+   "engine": "N63B44O2",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7f01.html",
+   "engine_slug": "n63b44o2"
+  },
+  {
+   "code": "7F02",
+   "model": "750Li",
+   "body": "Sedan",
+   "engine": "N63B44O2",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7f02.html",
+   "engine_slug": "n63b44o2"
+  },
+  {
+   "code": "7F03",
+   "model": "750Li",
+   "body": "Sedan",
+   "engine": "N63B44O2",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7f03.html",
+   "engine_slug": "n63b44o2"
+  },
+  {
+   "code": "7F21",
+   "model": "750Li xDrive",
+   "body": "Sedan",
+   "engine": "N63B44O2",
+   "power_kw": 330,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7f21.html",
+   "engine_slug": "n63b44o2"
+  },
+  {
+   "code": "7F23",
+   "model": "750Li xDrive",
+   "body": "Sedan",
+   "engine": "N63B44O2",
+   "power_kw": 330,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7f23.html",
+   "engine_slug": "n63b44o2"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "5746-355-bmw-750li-xdrive-individual",
+   "title": "BMW 750Li xDrive - Individual"
+  },
+  {
+   "slug": "5948-366-bmw-m-760-li-xdrive",
+   "title": "BMW M760Li xDrive"
+  },
+  {
+   "slug": "5756-355-bmw-7-series-interior",
+   "title": "BMW 7 Series - Interior"
+  },
+  {
+   "slug": "5758-355-bmw-7-series-interior",
+   "title": "BMW 7 Series - Interior"
+  },
+  {
+   "slug": "5721-355-bmw-750li-xdrive",
+   "title": "BMW 750Li xDrive"
+  },
+  {
+   "slug": "5963-366-bmw-m-760-li-xdrive-v12-excellence",
+   "title": "BMW M760Li xDrive V12 Excellence"
+  },
+  {
+   "slug": "5964-366-bmw-m-760-li-xdrive-v12-excellence",
+   "title": "BMW M760Li xDrive V12 Excellence"
+  },
+  {
+   "slug": "6403-382-bmw-740le-xdrive-i-performance",
+   "title": "BMW 740Le xDrive iPerformance"
+  },
+  {
+   "slug": "5719-355-bmw-750li-xdrive",
+   "title": "BMW 750Li xDrive"
+  },
+  {
+   "slug": "5962-366-bmw-m-760-li-xdrive-v12-excellence",
+   "title": "BMW M760Li xDrive V12 Excellence"
+  },
+  {
+   "slug": "5945-366-bmw-m-760-li-xdrive",
+   "title": "BMW M760Li xDrive"
+  },
+  {
+   "slug": "5750-355-bmw-740le",
+   "title": "BMW 740Le"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2016-02-12-the-new-bmw-m-760-li-xdrive",
+   "title": "The new BMW M760Li xDrive (2016-02-12)"
+  },
+  {
+   "slug": "2016-02-08-the-new-bmw-alpina-b7-biturbo",
+   "title": "The new BMW Alpina B7 Bi-Turbo (2016-02-08)"
+  },
+  {
+   "slug": "2015-06-10-the-new-bmw-7-series",
+   "title": "The new BMW 7 Series (2015-06-10)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/g12.html"
+}

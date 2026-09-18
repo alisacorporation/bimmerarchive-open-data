@@ -1,1 +1,24 @@
-{"code":"VB76","count":1,"results":[{"code":"VB76","model":"335i","body":"Sedan","engine":"N54B30O0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-11","to":"2008-09","source":"https://www.bimmerarchive.org/code/vb76.html","chassis":"E90","chassis_slug":"e90","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "VB76",
+ "count": 1,
+ "results": [
+  {
+   "code": "VB76",
+   "model": "335i",
+   "body": "Sedan",
+   "engine": "N54B30O0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-11",
+   "to": "2008-09",
+   "source": "https://www.bimmerarchive.org/code/vb76.html",
+   "chassis": "E90",
+   "chassis_slug": "e90",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "n54b30o0"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"NA37","count":1,"results":[{"code":"NA37","model":"520i","body":"Sedan","engine":"M54","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Indonesia","from":"2004-03","to":"2005-01","source":"https://www.bimmerarchive.org/code/na37.html","chassis":"E60","chassis_slug":"e60","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "NA37",
+ "count": 1,
+ "results": [
+  {
+   "code": "NA37",
+   "model": "520i",
+   "body": "Sedan",
+   "engine": "M54",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Indonesia",
+   "from": "2004-03",
+   "to": "2005-01",
+   "source": "https://www.bimmerarchive.org/code/na37.html",
+   "chassis": "E60",
+   "chassis_slug": "e60",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m54b30"
+  }
+ ]
+}

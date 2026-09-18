@@ -1,1 +1,97 @@
-{"code":"107","slug":"107","brand":"BMW","description":"700 Sedan","years":"1959 - 1965","year_from":1959,"year_to":1965,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"ST50","model":"700","body":"Convertible","engine":"2-Zyl","power_kw":null,"drivetrain":"","steering":"left","region":"Europe","from":"1959-01","to":"1964-09","source":"https://www.bimmerarchive.org/code/st50.html"},{"code":"ST51","model":"700","body":"Convertible","engine":"2-Zyl","power_kw":null,"drivetrain":"","steering":"left","region":"USA","from":"1960-01","to":"1962-09","source":"https://www.bimmerarchive.org/code/st51.html"},{"code":"ST52","model":"700","body":"Convertible","engine":"2-Zyl","power_kw":null,"drivetrain":"","steering":"left","region":"Europe","from":"1959-01","to":"1962-09","source":"https://www.bimmerarchive.org/code/st52.html"}],"plants":[],"photos":[{"slug":"6093-369-bmw-700","title":"BMW 700"},{"slug":"6055-369-the-new-class","title":"The New Class"},{"slug":"6094-369-bmw-700","title":"BMW 700"},{"slug":"1641-151-bmw-700-sport","title":"BMW 700 Sport"},{"slug":"1639-151-bmw-700-sport","title":"BMW 700 Sport"},{"slug":"6468-386-bmw-700-cs-700-baur","title":"BMW 700 CS"},{"slug":"1640-151-bmw-700-sport","title":"BMW 700 Sport"},{"slug":"6471-386-bmw-700-cabriolet","title":"BMW 700 Cabriolet"},{"slug":"16-3-bmw-700-bmw-e107","title":"BMW 700 - BMW E107"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/107.html"}
+{
+ "code": "107",
+ "slug": "107",
+ "brand": "BMW",
+ "description": "700 Sedan",
+ "years": "1959 - 1965",
+ "year_from": 1959,
+ "year_to": 1965,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "ST50",
+   "model": "700",
+   "body": "Convertible",
+   "engine": "2-Zyl",
+   "power_kw": null,
+   "drivetrain": "",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1959-01",
+   "to": "1964-09",
+   "source": "https://www.bimmerarchive.org/code/st50.html",
+   "engine_slug": null
+  },
+  {
+   "code": "ST51",
+   "model": "700",
+   "body": "Convertible",
+   "engine": "2-Zyl",
+   "power_kw": null,
+   "drivetrain": "",
+   "steering": "left",
+   "region": "USA",
+   "from": "1960-01",
+   "to": "1962-09",
+   "source": "https://www.bimmerarchive.org/code/st51.html",
+   "engine_slug": null
+  },
+  {
+   "code": "ST52",
+   "model": "700",
+   "body": "Convertible",
+   "engine": "2-Zyl",
+   "power_kw": null,
+   "drivetrain": "",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1959-01",
+   "to": "1962-09",
+   "source": "https://www.bimmerarchive.org/code/st52.html",
+   "engine_slug": null
+  }
+ ],
+ "plants": [],
+ "photos": [
+  {
+   "slug": "6093-369-bmw-700",
+   "title": "BMW 700"
+  },
+  {
+   "slug": "6055-369-the-new-class",
+   "title": "The New Class"
+  },
+  {
+   "slug": "6094-369-bmw-700",
+   "title": "BMW 700"
+  },
+  {
+   "slug": "1641-151-bmw-700-sport",
+   "title": "BMW 700 Sport"
+  },
+  {
+   "slug": "1639-151-bmw-700-sport",
+   "title": "BMW 700 Sport"
+  },
+  {
+   "slug": "6468-386-bmw-700-cs-700-baur",
+   "title": "BMW 700 CS"
+  },
+  {
+   "slug": "1640-151-bmw-700-sport",
+   "title": "BMW 700 Sport"
+  },
+  {
+   "slug": "6471-386-bmw-700-cabriolet",
+   "title": "BMW 700 Cabriolet"
+  },
+  {
+   "slug": "16-3-bmw-700-bmw-e107",
+   "title": "BMW 700 - BMW E107"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/107.html"
+}

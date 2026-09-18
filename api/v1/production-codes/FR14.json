@@ -1,1 +1,24 @@
-{"code":"FR14","count":1,"results":[{"code":"FR14","model":"528i","body":"Sedan","engine":"N52B30O2","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Malaysia","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/fr14.html","chassis":"F10","chassis_slug":"f10","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "FR14",
+ "count": 1,
+ "results": [
+  {
+   "code": "FR14",
+   "model": "528i",
+   "body": "Sedan",
+   "engine": "N52B30O2",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Malaysia",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/fr14.html",
+   "chassis": "F10",
+   "chassis_slug": "f10",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "n52b30o2"
+  }
+ ]
+}

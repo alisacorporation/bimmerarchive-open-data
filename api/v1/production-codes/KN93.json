@@ -1,1 +1,24 @@
-{"code":"KN93","count":1,"results":[{"code":"KN93","model":"550i","body":"Sedan","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kn93.html","chassis":"F10 (MUE)","chassis_slug":"f10-lci","brand":"BMW","chassis_description":"BMW 5 Series Sedan - LCI"}]}
+{
+ "code": "KN93",
+ "count": 1,
+ "results": [
+  {
+   "code": "KN93",
+   "model": "550i",
+   "body": "Sedan",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kn93.html",
+   "chassis": "F10 (MUE)",
+   "chassis_slug": "f10-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan - LCI",
+   "engine_slug": "n63b44o1"
+  }
+ ]
+}

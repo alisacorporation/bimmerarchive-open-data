@@ -1,0 +1,23 @@
+{
+ "code": "S38B35",
+ "slug": "s38b35",
+ "family": "S38",
+ "years": "1986 - 1990",
+ "year_from": 1986,
+ "year_to": 1990,
+ "displacement_cc": 3453,
+ "power_kw": 191,
+ "power_ps": 260,
+ "power_rpm": "6500",
+ "torque_nm": 330,
+ "torque_rpm": "4500",
+ "has_detail": false,
+ "construction": "6 Cylinder, 24 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 24,
+ "compression_ratio": "10.0:1",
+ "bore_mm": 92.0,
+ "stroke_mm": 86.0,
+ "fuel": "Super Plus bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/s38b35.html"
+}

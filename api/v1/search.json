@@ -1,1 +1,4675 @@
-{"count":487,"results":[{"t":"model","c":"3200 CS","s":"3200-cs","d":"BMW 3200 CS","y":"1962 - 1965","b":"BMW","n":1},{"t":"model","c":"100","s":"100","d":"Isetta","y":"1955 - 1962","b":"BMW","n":1},{"t":"model","c":"101","s":"101","d":"Isetta 250","y":"1955 - 1962","b":"BMW","n":1},{"t":"model","c":"102","s":"102","d":"Isetta 300","y":"1955 - 1962","b":"BMW","n":3},{"t":"model","c":"103","s":"103","d":"Isetta CKD/SKD","y":"1955 - 1962","b":"BMW","n":0},{"t":"model","c":"107","s":"107","d":"700 Sedan","y":"1959 - 1965","b":"BMW","n":3},{"t":"model","c":"E21","s":"e21","d":"BMW 3 Series","y":"1975 - 1982","b":"BMW","n":7},{"t":"model","c":"E23","s":"e23","d":"BMW 7 Series Sedan","y":"1977 - 1979","b":"BMW","n":51},{"t":"model","c":"E24","s":"e24","d":"BMW 6 Series Coupe","y":"1976 - 1982","b":"BMW","n":42},{"t":"model","c":"E28","s":"e28","d":"BMW 5 Series Sedan","y":"1981 - 1987","b":"BMW","n":109},{"t":"model","c":"E30","s":"e30","d":"BMW 3 Series Sedan","y":"1982 - 1990","b":"BMW","n":274},{"t":"model","c":"E30 (5)","s":"e30-5","d":"BMW 3 Series Touring","y":"1987 - 1994","b":"BMW","n":22},{"t":"model","c":"E30 (16)","s":"e30-16","d":"BMW 3 Series Sedan with All-Wheel Drive","y":"1985 - 1990","b":"BMW","n":10},{"t":"model","c":"E30 (Z)","s":"e30-z1","d":"BMW Z1 Roadster","y":"1988 - 1991","b":"BMW","n":1},{"t":"model","c":"E31","s":"e31","d":"BMW 8 Series Coupe","y":"1989 - 1999","b":"BMW","n":23},{"t":"model","c":"E32","s":"e32","d":"BMW 7 Series Sedan","y":"1986 - 1994","b":"BMW","n":32},{"t":"model","c":"E32 (2)","s":"e32-2","d":"BMW 7 Series Sedan Long Wheelbase","y":"1987 - 1994","b":"BMW","n":16},{"t":"model","c":"E32 (3)","s":"e32-3","d":"BMW 7 Series Sedan High Security","y":"-","b":"BMW","n":1},{"t":"model","c":"E34","s":"e34","d":"BMW 5 Series Sedan","y":"1988 - 1995","b":"BMW","n":89},{"t":"model","c":"E34 (2)","s":"e34-2","d":"BMW 5 Series Touring","y":"1990 - 1997","b":"BMW","n":33},{"t":"model","c":"E36 (2)","s":"e36-2","d":"BMW 3 Series Coupe","y":"1992 - 1999","b":"BMW","n":51},{"t":"model","c":"E36 (C)","s":"e36-2c","d":"BMW 3 Series Convertible","y":"1993 - 1999","b":"BMW","n":40},{"t":"model","c":"E36 (3)","s":"e36-3","d":"BMW 3 Series Touring","y":"1995 - 1999","b":"BMW","n":26},{"t":"model","c":"E36 (4)","s":"e36-4","d":"BMW 3 Series Sedan","y":"1991 - 1998","b":"BMW","n":125},{"t":"model","c":"E36 (5)","s":"e36-5","d":"BMW 3 Series Compact","y":"1994 - 1998","b":"BMW","n":27},{"t":"model","c":"E36 (7)","s":"e36-7","d":"BMW Z3 Roadster and M Roadster","y":"1994 - 2002","b":"BMW","n":27},{"t":"model","c":"E36 (7C)","s":"e36-7c","d":"BMW Z3 Coupe and M Coupe","y":"1997 - 2002","b":"BMW","n":11},{"t":"model","c":"E38","s":"e38","d":"BMW 7 Series Sedan","y":"1994 - 2001","b":"BMW","n":34},{"t":"model","c":"E38 (2)","s":"e38-2","d":"BMW 7 Series Sedan Long Wheelbase","y":"1994 - 2001","b":"BMW","n":24},{"t":"model","c":"E38 (2 PL)","s":"e38-2-pl","d":"BMW 7 Series Sedan - Protection Line","y":"-","b":"BMW","n":4},{"t":"model","c":"E38 (3)","s":"e38-3","d":"BMW 7 Series Protection","y":"1998 - 2001","b":"BMW","n":4},{"t":"model","c":"E38 (L7)","s":"e38-l7","d":"BMW L7","y":"1996 - 2001","b":"BMW","n":4},{"t":"model","c":"E39","s":"e39","d":"BMW 5 Series Sedan","y":"1995 - 2003","b":"BMW","n":111},{"t":"model","c":"E39 (2)","s":"e39-2","d":"BMW 5 Series Touring","y":"1997 - 2004","b":"BMW","n":62},{"t":"model","c":"E46 (2)","s":"e46-2","d":"BMW 3 Series Coupe","y":"1998 - 2006","b":"BMW","n":27},{"t":"model","c":"E46 (2FL)","s":"e46-2-lci","d":"BMW 3 Series Coupe - LCI","y":"-","b":"BMW","n":19},{"t":"model","c":"E46 (C)","s":"e46-2c","d":"BMW 3 Series Convertible","y":"1998 - 2006","b":"BMW","n":16},{"t":"model","c":"E46 (CFL)","s":"e46-c-lci","d":"BMW 3 Series Convertible - LCI","y":"-","b":"BMW","n":16},{"t":"model","c":"E46 (3)","s":"e46-3","d":"BMW 3 Series Touring","y":"1998 - 2005","b":"BMW","n":17},{"t":"model","c":"E46 (3FL)","s":"e46-3-lci","d":"BMW 3 Series Touring - LCI","y":"-","b":"BMW","n":30},{"t":"model","c":"E46 (4)","s":"e46-4","d":"BMW 3 Series Sedan","y":"1997 - 2005","b":"BMW","n":64},{"t":"model","c":"E46 (4FL)","s":"e46-4-lci","d":"BMW 3 Series Sedan - LCI","y":"-","b":"BMW","n":80},{"t":"model","c":"E46 (5)","s":"e46-5","d":"BMW 3 Series Compact","y":"2000 - 2004","b":"BMW","n":15},{"t":"model","c":"E52","s":"e52","d":"BMW Z8 Roadster","y":"1999 - 2003","b":"BMW","n":2},{"t":"model","c":"E53","s":"e53","d":"BMW X5 - Sports Activity Vehicle","y":"1999 - 2006","b":"BMW","n":22},{"t":"model","c":"E60","s":"e60","d":"BMW 5 Series Sedan","y":"2002 - 2005","b":"BMW","n":74},{"t":"model","c":"E60 (M5)","s":"e60-m5","d":"BMW M5 Sedan","y":"2003 - 2009","b":"BMW","n":3},{"t":"model","c":"E60 (MUE)","s":"e60n","d":"BMW 5 Series Sedan - LCI","y":"2005 - 2010","b":"BMW","n":71},{"t":"model","c":"E61","s":"e61","d":"BMW 5 Series Touring","y":"2002 - 2007","b":"BMW","n":26},{"t":"model","c":"E61 (M5)","s":"e61-m5","d":"BMW M5 Touring","y":"2005 - 2009","b":"BMW","n":2},{"t":"model","c":"E61 (MUE)","s":"e61n","d":"BMW 5 Series Touring - LCI","y":"2005 - 2010","b":"BMW","n":31},{"t":"model","c":"E63","s":"e63","d":"BMW 6 Series Coupe","y":"2002 - 2007","b":"BMW","n":8},{"t":"model","c":"E63 (M6)","s":"e63-m6","d":"BMW M6 Coupe","y":"2005 - 2010","b":"BMW","n":3},{"t":"model","c":"E63 (MUE)","s":"e63n","d":"BMW 6 Series Coupe - LCI","y":"2006 - 2011","b":"BMW","n":9},{"t":"model","c":"E64","s":"e64","d":"BMW 6 Series Convertible","y":"2002 - 2007","b":"BMW","n":8},{"t":"model","c":"E64 (M6)","s":"e64-m6","d":"BMW M6 Convertible","y":"2006 - 2010","b":"BMW","n":3},{"t":"model","c":"E64 (MUE)","s":"e64n","d":"BMW 6 Series Convertible - LCI","y":"2006 - 2012","b":"BMW","n":9},{"t":"model","c":"E65","s":"e65","d":"BMW 7 Series Sedan","y":"2001 - 2008","b":"BMW","n":26},{"t":"model","c":"E66","s":"e66","d":"BMW 7 Series Long Wheelbase","y":"2001 - 2008","b":"BMW","n":27},{"t":"model","c":"E67","s":"e67","d":"BMW 7 Series Protection","y":"2001 - 2008","b":"BMW","n":8},{"t":"model","c":"E68","s":"e68","d":"BMW 7 Series Hydrogen 7","y":"2005 - 2007","b":"BMW","n":1},{"t":"model","c":"E70","s":"e70","d":"BMW X5 - Sports Activity Vehicle","y":"2006 - 2013","b":"BMW","n":11},{"t":"model","c":"E70 (X5M)","s":"e70-x5m","d":"BMW X5 M - Sports Activity Vehicle","y":"-","b":"BMW","n":3},{"t":"model","c":"E70 (MUE)","s":"e70-lci","d":"BMW X5 - Sports Activity Vehicle - LCI","y":"-","b":"BMW","n":14},{"t":"model","c":"E71","s":"e71","d":"BMW X6 - Sports Activity Coupe","y":"2008 - 2015","b":"BMW","n":20},{"t":"model","c":"E71 (X6M)","s":"e71-x6m","d":"BMW X6 M - Sports Activity Coupe","y":"-","b":"BMW","n":3},{"t":"model","c":"E72","s":"e72","d":"BMW ActiveHybrid X6 - Sports Activity Coupé","y":"2010 - 2015","b":"BMW","n":2},{"t":"model","c":"E81","s":"e81","d":"BMW 1 Series 3-door Sports Hatch","y":"2007 - 2011","b":"BMW","n":24},{"t":"model","c":"E82","s":"e82","d":"BMW 1 Series Coupe","y":"2007 - 2014","b":"BMW","n":22},{"t":"model","c":"E82 (MUE)","s":"e82-lci","d":"BMW 1 Series Coupe","y":"-","b":"BMW","n":0},{"t":"model","c":"E82 (M)","s":"e82m","d":"BMW 1 Series M Coupe","y":"2011 - 2012","b":"BMW","n":3},{"t":"model","c":"E83","s":"e83","d":"BMW X3 - Sports Activity Vehicle","y":"2003 - 2006","b":"BMW","n":15},{"t":"model","c":"E83 (MUE)","s":"e83n","d":"BMW X3 - Sports Activity Vehicle - LCI","y":"2006 - 2010","b":"BMW","n":25},{"t":"model","c":"E84","s":"e84","d":"BMW X1 - Sports Activity Vehicle","y":"2009 - 2016","b":"BMW","n":64},{"t":"model","c":"M12","s":"m12","d":"Zinoro 1E","y":"2014 -","b":"BMW","n":1},{"t":"model","c":"E85","s":"e85","d":"BMW Z4 Roadster","y":"2002 - 2009","b":"BMW","n":18},{"t":"model","c":"E85 (M)","s":"e85-m","d":"BMW Z4 M Roadster","y":"-","b":"BMW","n":3},{"t":"model","c":"E86","s":"e86","d":"BMW Z4 Coupe","y":"2006 - 2009","b":"BMW","n":3},{"t":"model","c":"E86 (M)","s":"e86-m","d":"BMW Z4 M Coupe","y":"-","b":"BMW","n":3},{"t":"model","c":"E87","s":"e87","d":"BMW 1 Series 5-door Sports Hatch","y":"2004 - 2007","b":"BMW","n":12},{"t":"model","c":"E87 (MUE)","s":"e87n","d":"BMW 1 Series 5-door Sports Hatch - LCI","y":"2006 - 2011","b":"BMW","n":24},{"t":"model","c":"E88","s":"e88","d":"BMW 1 Series Convertible","y":"2008 - 2015","b":"BMW","n":24},{"t":"model","c":"E89","s":"e89","d":"BMW Z4 Roadster","y":"2009 - 2016","b":"BMW","n":18},{"t":"model","c":"E90","s":"e90","d":"BMW 3 Series Sedan","y":"2005 - 2012","b":"BMW","n":129},{"t":"model","c":"E90 (M3)","s":"e90-m3","d":"BMW M3 Sedan","y":"-","b":"BMW","n":8},{"t":"model","c":"E90 (MUE)","s":"e90n","d":"BMW 3 Series Sedan - LCI","y":"2008 - 2012","b":"BMW","n":125},{"t":"model","c":"E91","s":"e91","d":"BMW 3 Series Touring","y":"2005 - 2013","b":"BMW","n":53},{"t":"model","c":"E91 (MUE)","s":"e91n","d":"BMW 3 Series Touring - LCI","y":"2008 - 2013","b":"BMW","n":50},{"t":"model","c":"E92","s":"e92","d":"BMW 3 Series Coupe","y":"2006 - 2010","b":"BMW","n":41},{"t":"model","c":"E92 (M3)","s":"e92-m3","d":"BMW M3 Coupe","y":"-","b":"BMW","n":6},{"t":"model","c":"E92 (MUE)","s":"e92n","d":"BMW 3 Series Coupe - LCI","y":"2010 - 2013","b":"BMW","n":40},{"t":"model","c":"E93","s":"e93","d":"BMW 3 Series Convertible","y":"2007 - 2010","b":"BMW","n":27},{"t":"model","c":"E93 (M3)","s":"e93-m3","d":"BMW M3 Convertible","y":"-","b":"BMW","n":6},{"t":"model","c":"E93 (MUE)","s":"e93n","d":"BMW 3 Series Convertible - LCI","y":"2010 - 2014","b":"BMW","n":27},{"t":"model","c":"F01","s":"f01","d":"BMW 7 Series Sedan","y":"2008 - 2012","b":"BMW","n":17},{"t":"model","c":"F01 (MUE)","s":"f01-lci","d":"BMW 7 Series Sedan - LCI","y":"2012 -","b":"BMW","n":21},{"t":"model","c":"F02","s":"f02","d":"BMW 7 Series Sedan - Long Wheelbase","y":"2008 - 2012","b":"BMW","n":23},{"t":"model","c":"F02 (MUE)","s":"f02-lci","d":"BMW 7 Series Sedan - Long Wheelbase - LCI","y":"2012 -","b":"BMW","n":30},{"t":"model","c":"F03","s":"f03","d":"BMW 7 Series Sedan - Protection","y":"2009 - 2012","b":"BMW","n":4},{"t":"model","c":"F03 (MUE)","s":"f03-lci","d":"BMW 7 Series Sedan - Protection - LCI","y":"2012 -","b":"BMW","n":3},{"t":"model","c":"F04","s":"f04","d":"BMW 7 Series Sedan - ActiveHybrid","y":"2010 - 2012","b":"BMW","n":4},{"t":"model","c":"F06","s":"f06","d":"BMW 6 Series Gran Coupé","y":"2011 -","b":"BMW","n":14},{"t":"model","c":"F06 (M6)","s":"f06-m6","d":"BMW M6 Gran Coupé","y":"2012 -","b":"BMW","n":6},{"t":"model","c":"F07","s":"f07","d":"BMW 5 Series Gran Turismo","y":"2009 - 2012","b":"BMW","n":31},{"t":"model","c":"F07 (MUE)","s":"f07-lci","d":"BMW 5 Series Gran Turismo - LCI","y":"2012 -","b":"BMW","n":21},{"t":"model","c":"F10","s":"f10","d":"BMW 5 Series Sedan","y":"2010 - 2013","b":"BMW","n":84},{"t":"model","c":"F10 (M5)","s":"f10-m5","d":"BMW M5 Sedan","y":"-","b":"BMW","n":3},{"t":"model","c":"F10 (MUE)","s":"f10-lci","d":"BMW 5 Series Sedan - LCI","y":"2013 -","b":"BMW","n":70},{"t":"model","c":"F11","s":"f11","d":"BMW 5 Series Touring","y":"2011 - 2013","b":"BMW","n":38},{"t":"model","c":"F11 (MUE)","s":"f11-lci","d":"BMW 5 Series Touring - LCI","y":"2013 -","b":"BMW","n":30},{"t":"model","c":"F12","s":"f12","d":"BMW 6 Series Convertible","y":"2012 - 2019","b":"BMW","n":19},{"t":"model","c":"F12 (M6)","s":"f12-m6","d":"BMW M6 Convertible","y":"-","b":"BMW","n":6},{"t":"model","c":"F13","s":"f13","d":"BMW 6 Series Coupe","y":"2011 - 2018","b":"BMW","n":19},{"t":"model","c":"F13 (M6)","s":"f13-m6","d":"BMW M6 Coupe","y":"-","b":"BMW","n":6},{"t":"model","c":"F15","s":"f15","d":"BMW X5 - Sports Activity Vehicle","y":"2013 - 2020","b":"BMW","n":39},{"t":"model","c":"F16","s":"f16","d":"BMW X6 - Sports Activity Coupe","y":"2014 -","b":"BMW","n":16},{"t":"model","c":"F18","s":"f18","d":"BMW 5 Series Sedan - Chinese Long Wheelbase","y":"2010 -","b":"BMW","n":8},{"t":"model","c":"F18 (MUE)","s":"f18-lci","d":"BMW 5 Series Sedan - Chinese Long Wheelbase - LCI","y":"2013 -","b":"BMW","n":7},{"t":"model","c":"F20","s":"f20","d":"BMW 1 Series 5-door Sports Hatch","y":"2011 - 2015","b":"BMW","n":32},{"t":"model","c":"F20 (MUE)","s":"f20-lci","d":"BMW 1 Series 5-door Sports Hatch","y":"2015 - 2018","b":"BMW","n":33},{"t":"model","c":"F21","s":"f21","d":"BMW 1 Series 3-door Sports Hatch","y":"2012 - 2015","b":"BMW","n":25},{"t":"model","c":"F21 (MUE)","s":"f21-lci","d":"BMW 1 Series 3-door Sports Hatch","y":"2015 - 2018","b":"BMW","n":27},{"t":"model","c":"F22","s":"f22","d":"BMW 2 Series Coupe","y":"2014 - 2021","b":"BMW","n":28},{"t":"model","c":"F22 (MUE)","s":"f22-lci","d":"BMW 2 Series Coupe - LCI","y":"2017 -","b":"BMW","n":0},{"t":"model","c":"F23","s":"f23","d":"BMW 2 Series Convertible","y":"2014 - 2021","b":"BMW","n":20},{"t":"model","c":"F23 (MUE)","s":"f23-lci","d":"BMW 2 Series Convertible - LCI","y":"2017 -","b":"BMW","n":0},{"t":"model","c":"F25","s":"f25","d":"BMW X3 - Sports Activity Vehicle","y":"2011 - 2018","b":"BMW","n":51},{"t":"model","c":"F25N","s":"f25n","d":"BMW X3 - Sports Activity Vehicle - LCI","y":"2014 -","b":"BMW","n":0},{"t":"model","c":"F26","s":"f26","d":"BMW X4 - Sports Activity Coupe","y":"2014 - 2021","b":"BMW","n":20},{"t":"model","c":"F30","s":"f30","d":"BMW 3 Series Sedan","y":"2012 - 2019","b":"BMW","n":105},{"t":"model","c":"F30 (MUE)","s":"f30-lci","d":"BMW 3 Series Sedan - LCI","y":"-","b":"BMW","n":76},{"t":"model","c":"F31","s":"f31","d":"BMW 3 Series Touring","y":"2012 - 2019","b":"BMW","n":35},{"t":"model","c":"F31 (MUE)","s":"f31-lci","d":"BMW 3 Series Touring - LCI","y":"-","b":"BMW","n":31},{"t":"model","c":"F32","s":"f32","d":"BMW 4 Series Coupe","y":"2013 - 2020","b":"BMW","n":35},{"t":"model","c":"F33","s":"f33","d":"BMW 4 Series Convertible","y":"2013 - 2020","b":"BMW","n":26},{"t":"model","c":"F34","s":"f34","d":"BMW 3 Series Gran Turismo","y":"2013 - 2020","b":"BMW","n":38},{"t":"model","c":"F35","s":"f35","d":"BMW 3 Series Sedan - Chinese Long Wheelbase","y":"2015 - 2022","b":"BMW","n":5},{"t":"model","c":"F35 (MUE)","s":"f35-lci","d":"BMW 3 Series Sedan - Chinese Long Wheelbase - LCI","y":"-","b":"BMW","n":3},{"t":"model","c":"F36","s":"f36","d":"BMW 4 Series Gran Coupe","y":"2014 -","b":"BMW","n":35},{"t":"model","c":"F39","s":"f39","d":"BMW X2 - Sports Activity Coupe","y":"2018 -","b":"BMW","n":0},{"t":"model","c":"F40","s":"f40","d":"BMW 1 Series","y":"2019 - 2024","b":"BMW","n":0},{"t":"model","c":"F44","s":"f44","d":"BMW 2 Series Gran Coupe","y":"2020 -","b":"BMW","n":0},{"t":"model","c":"F45","s":"f45","d":"BMW 2 Series Active Tourer","y":"2014 - 2021","b":"BMW","n":24},{"t":"model","c":"F46","s":"f46","d":"BMW 2 Series Gran Tourer","y":"2015 - 2022","b":"BMW","n":16},{"t":"model","c":"F48","s":"f48","d":"BMW X1","y":"2015 - 2019","b":"BMW","n":22},{"t":"model","c":"F48 (MUE)","s":"f48-lci","d":"BMW X1 (LCI)","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"F49","s":"f49","d":"BMW X1 - Long Wheelbase","y":"2016 -","b":"BMW","n":5},{"t":"model","c":"F52","s":"f52","d":"BMW 1 Series Sedan","y":"2016 -","b":"BMW","n":0},{"t":"model","c":"F70","s":"f70","d":"BMW 1 Series 5 door","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"F80","s":"f80","d":"BMW M3 Sedan","y":"2014 - 2020","b":"BMW","n":3},{"t":"model","c":"F82","s":"f82","d":"BMW M4 Coupe","y":"2014 - 2020","b":"BMW","n":5},{"t":"model","c":"F83","s":"f83","d":"BMW M4 Convertible","y":"2014 - 2020","b":"BMW","n":3},{"t":"model","c":"F85","s":"f85","d":"BMW X5 M","y":"2014 - 2020","b":"BMW","n":3},{"t":"model","c":"F86","s":"f86","d":"BMW X6 M","y":"2014 - 2020","b":"BMW","n":3},{"t":"model","c":"F87","s":"f87","d":"BMW M2 Coupe","y":"2015 - 2020","b":"BMW","n":3},{"t":"model","c":"F90","s":"f90","d":"BMW M5 Sedan","y":"2017 - 2020","b":"BMW","n":0},{"t":"model","c":"F90 (MUE)","s":"f90-lci","d":"BMW M5 Sedan - LCI","y":"2020 - 2024","b":"BMW","n":0},{"t":"model","c":"G01","s":"g01","d":"BMW X3 - Sports Activity Vehicle","y":"2017 - 2021","b":"BMW","n":0},{"t":"model","c":"G01 (MUE)","s":"g01-lci","d":"BMW X3 - Sports Activity Vehicle - LCI","y":"2021 - 2024","b":"BMW","n":0},{"t":"model","c":"F97","s":"f97","d":"BMW X3 M - Sports Activity Vehicle","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"F97 (MUE)","s":"f97-lci","d":"BMW X3 M - Sports Activity Vehicle - LCI","y":"2021 -","b":"BMW","n":0},{"t":"model","c":"G02","s":"g02","d":"BMW X4 - Sports Activity Coupe","y":"2018 -","b":"BMW","n":0},{"t":"model","c":"G02 (MUE)","s":"g02-lci","d":"BMW X4 - Sports Activity Coupe - LCI","y":"2021 -","b":"BMW","n":0},{"t":"model","c":"F98","s":"f98","d":"BMW X4 M - Sports Activity Coupe","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"F98 (MUE)","s":"f98-lci","d":"BMW X4 M - Sports Activity Coupe - LCI","y":"2021 -","b":"BMW","n":0},{"t":"model","c":"G05","s":"g05","d":"BMW X5 - Sports Activity Vehicle","y":"2018 -","b":"BMW","n":0},{"t":"model","c":"F95","s":"f95","d":"BMW X5 M / X5 M Competition","y":"2020 -","b":"BMW","n":0},{"t":"model","c":"G05 (MUE)","s":"g05-lci","d":"BMW X5 - Sports Activity Vehicle - LCI","y":"2023 -","b":"BMW","n":0},{"t":"model","c":"F95 (MUE)","s":"f95-lci","d":"BMW X5 M Competition - LCI","y":"2023 -","b":"BMW","n":0},{"t":"model","c":"G06","s":"g06","d":"BMW X6 - Sports Activity Coupe","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"F96","s":"f96","d":"BMW X6 M Competition","y":"2020 -","b":"BMW","n":0},{"t":"model","c":"G06 (MUE)","s":"g06-lci","d":"BMW X6 - Sports Activity Coupé - LCI","y":"2023 -","b":"BMW","n":0},{"t":"model","c":"F96 (MUE)","s":"f96-lci","d":"BMW X6 M Competition - LCI","y":"2023 -","b":"BMW","n":0},{"t":"model","c":"G07","s":"g07","d":"BMW X7 - Sports Activity Vehicle","y":"2018 - 2025","b":"BMW","n":0},{"t":"model","c":"G07 (MUE)","s":"g07-lci","d":"BMW X7 - Sports Activity Vehicle - LCI","y":"2022 -","b":"BMW","n":0},{"t":"model","c":"G08","s":"g08","d":"BMW iX3 - Sports Activity Vehicle","y":"2020 - 2021","b":"BMW","n":2},{"t":"model","c":"G08 (MUE)","s":"g08-lci","d":"BMW X3 - Sports Activity Vehicle - Long Wheelbase - LCI","y":"2021 -","b":"BMW","n":2},{"t":"model","c":"G09","s":"g09","d":"BMW XM","y":"2022 -","b":"BMW","n":3},{"t":"model","c":"G11","s":"g11","d":"BMW 7 Series Sedan","y":"2015 - 2022","b":"BMW","n":12},{"t":"model","c":"G11 (MUE)","s":"g11-lci","d":"BMW 7 Series Sedan - LCI","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"G12","s":"g12","d":"BMW 7 Series Sedan - Long Wheelbase","y":"2015 - 2022","b":"BMW","n":14},{"t":"model","c":"G12 (MUE)","s":"g12-lci","d":"BMW 7 Series Sedan - Long Wheelbase - LCI","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"G14","s":"g14","d":"BMW 8 Series Convertible","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"F91","s":"f91","d":"BMW M8 Convertible","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"G15","s":"g15","d":"BMW 8 Series Coupe","y":"2018 -","b":"BMW","n":0},{"t":"model","c":"F92","s":"f92","d":"BMW M8 Coupe","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"G16","s":"g16","d":"BMW 8 Series Gran Coupe","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"F93","s":"f93","d":"BMW M8 Gran Coupe","y":"2020 -","b":"BMW","n":0},{"t":"model","c":"G18","s":"g18","d":"BMW X5 - Chinese Long Wheelbase","y":"2022 -","b":"BMW","n":0},{"t":"model","c":"G18 (MUE)","s":"g18-lci","d":"BMW X5 - Chinese Long Wheelbase - LCI","y":"2023 -","b":"BMW","n":0},{"t":"model","c":"G20","s":"g20","d":"BMW 3 Series Sedan","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"G20 (MUE)","s":"g20-lci","d":"BMW 3 Series Sedan - LCI","y":"2022 - 2024","b":"BMW","n":0},{"t":"model","c":"G20 (MUE2)","s":"g20-lci2","d":"BMW 3 Series Sedan - LCI 2","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G80","s":"g80","d":"BMW M3 Sedan","y":"2020 -","b":"BMW","n":0},{"t":"model","c":"G80 (MUE)","s":"g20-lci","d":"BMW M3 Sedan - LCI","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G21","s":"g21","d":"BMW 3 Series Touring","y":"2019 -","b":"BMW","n":0},{"t":"model","c":"G21 (MUE)","s":"g21-lci","d":"BMW 3 Series Touring - LCI","y":"2022 - 2024","b":"BMW","n":0},{"t":"model","c":"G21 (MUE2)","s":"g21-lci2","d":"BMW 3 Series Touring - LCI 2","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G81","s":"g81","d":"BMW M3 Touring","y":"2022 -","b":"BMW","n":0},{"t":"model","c":"G81 (MUE)","s":"g81-lci","d":"BMW M3 Touring - LCI","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G22","s":"g22","d":"BMW 4 Series Coupe","y":"2020 -","b":"BMW","n":0},{"t":"model","c":"G22 (MUE)","s":"g22-lci","d":"BMW 4 Series Coupe - LCI","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G82","s":"g82","d":"BMW M4 Coupe","y":"2020 -","b":"BMW","n":0},{"t":"model","c":"G82 (MUE)","s":"g82-lci","d":"BMW M4 Coupe - LCI","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G23","s":"g23","d":"BMW 4 Series Convertible","y":"2020 -","b":"BMW","n":0},{"t":"model","c":"G23 (MUE)","s":"g23-lci","d":"BMW 4 Series Convertible - LCI","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G83","s":"g83","d":"BMW M4 Convertible","y":"2021 -","b":"BMW","n":0},{"t":"model","c":"G83 (MUE)","s":"g83-lci","d":"BMW M4 Convertible - LCI","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G26","s":"g26","d":"BMW 4 Series Gran Coupe","y":"2021 - 2024","b":"BMW","n":4},{"t":"model","c":"G26 (MUE)","s":"g26-lci","d":"BMW 4 Series Gran Coupe - LCI","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G28","s":"g28","d":"BMW 3 Series Sedan - Chinese Long Wheelbase","y":"2022 -","b":"BMW","n":0},{"t":"model","c":"G29","s":"g29","d":"BMW Z4 Roadster","y":"2019 -","b":"BMW","n":1},{"t":"model","c":"G30","s":"g30","d":"BMW 5 Series Sedan","y":"2017 - 2020","b":"BMW","n":25},{"t":"model","c":"G30 (MUE)","s":"g30-lci","d":"BMW 5 Series Sedan - LCI","y":"2020 - 2024","b":"BMW","n":0},{"t":"model","c":"G31","s":"g31","d":"BMW 5 Series Touring","y":"2017 - 2020","b":"BMW","n":0},{"t":"model","c":"G31 (MUE)","s":"g31-lci","d":"BMW 5 Series Touring - LCI","y":"2020 - 2024","b":"BMW","n":0},{"t":"model","c":"G32","s":"g32","d":"BMW 6 Series Gran Turismo","y":"2017 - 2020","b":"BMW","n":0},{"t":"model","c":"G32 (MUE)","s":"g32-lci","d":"BMW 6 Series Gran Turismo - LCI","y":"2020 - 2024","b":"BMW","n":0},{"t":"model","c":"G38","s":"g38","d":"BMW 5 Series Sedan - Chinese Long Wheelbase","y":"2017 - 2024","b":"BMW","n":0},{"t":"model","c":"G42","s":"g42","d":"BMW 2 Series Coupe","y":"2021 - 2024","b":"BMW","n":0},{"t":"model","c":"G42 (MUE)","s":"g42-lci","d":"BMW 2 Series Coupe - LCI","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G87","s":"g87","d":"BMW M2","y":"2022 - 2024","b":"BMW","n":3},{"t":"model","c":"G87 (MUE)","s":"g87-lci","d":"BMW M2 Coupe - LCI","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G45","s":"g45","d":"BMW X3 - Sports Activity Vehicle","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G48","s":"g48","d":"BMW X3 - Sports Activity Vehicle - Long Wheelbase","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G60","s":"g60","d":"BMW 5 Series Sedan","y":"2023 -","b":"BMW","n":0},{"t":"model","c":"G61","s":"g61","d":"BMW 5 Series Toruing","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G68","s":"g68","d":"BMW 5 Series Sedan - Chinese Long Wheelbase","y":"2023 -","b":"BMW","n":0},{"t":"model","c":"G90","s":"g90","d":"BMW M5 Sedan","y":"2024 -","b":"BMW","n":0},{"t":"model","c":"G70","s":"g70","d":"BMW 7 Series","y":"2022 -","b":"BMW","n":0},{"t":"model","c":"G70 (MUE)","s":"g70-lci","d":"BMW 7 Series","y":"2026 -","b":"BMW","n":0},{"t":"model","c":"G73","s":"g73","d":"BMW 7 Series Sedan - Protection","y":"2023 -","b":"BMW","n":0},{"t":"model","c":"U06","s":"u06","d":"BMW 2 Series Active Tourer","y":"2021 -","b":"BMW","n":0},{"t":"model","c":"U10","s":"u10","d":"BMW X2 - Sports Activity Coupe","y":"2023 -","b":"BMW","n":0},{"t":"model","c":"U11","s":"u11","d":"BMW X1 - Sports Activity Vehicle","y":"2022 -","b":"BMW","n":0},{"t":"model","c":"I01","s":"i01","d":"BMW i3","y":"2013 - 2024","b":"BMW","n":6},{"t":"model","c":"I12","s":"i12","d":"BMW i8 Coupe","y":"2014 - 2018","b":"BMW","n":3},{"t":"model","c":"I15","s":"i15","d":"BMW i8 roadster","y":"2018 -","b":"BMW","n":0},{"t":"model","c":"I20","s":"i20","d":"BMW iX","y":"2021 -","b":"BMW","n":4},{"t":"model","c":"NA0","s":"na0","d":"BMW i3 Sedan","y":"2026 -","b":"BMW","n":0},{"t":"model","c":"NA5","s":"na5","d":"BMW iX3 - Sports Activity Vehicle","y":"2025 -","b":"BMW","n":0},{"t":"model","c":"R50 (1)","s":"r50","d":"MINI One, MINI One D","y":"2000 - 2006","b":"MINI","n":5},{"t":"model","c":"R50 (2)","s":"r50-2","d":"MINI Cooper","y":"2000 - 2006","b":"MINI","n":3},{"t":"model","c":"R52","s":"r52","d":"MINI Convertible","y":"2002 - 2008","b":"MINI","n":8},{"t":"model","c":"R53","s":"r53","d":"MINI Cooper S, MINI Cooper S JCW GP","y":"2000 - 2006","b":"MINI","n":6},{"t":"model","c":"R55","s":"r55","d":"MINI Clubman","y":"2007 - 2014","b":"MINI","n":10},{"t":"model","c":"R55 (JCW)","s":"r55-jcw","d":"MINI Clubman - John Cooper Works","y":"-","b":"MINI","n":9},{"t":"model","c":"R55 (MUE)","s":"r55-lci","d":"MINI Clubman - LCI","y":"-","b":"MINI","n":16},{"t":"model","c":"R56","s":"r56","d":"MINI","y":"2005 - 2012","b":"MINI","n":12},{"t":"model","c":"R56 (BEV)","s":"r56-bev","d":"MINI E","y":"-","b":"MINI","n":1},{"t":"model","c":"R56 (JCW)","s":"r56-jcw","d":"MINI - John Cooper Works","y":"-","b":"MINI","n":9},{"t":"model","c":"R56 (MUE)","s":"r56-lci","d":"MINI - LCI","y":"-","b":"MINI","n":22},{"t":"model","c":"R57","s":"r57","d":"MINI Convertible","y":"2008 - 2015","b":"MINI","n":6},{"t":"model","c":"R57 (JCW)","s":"r57-jcw","d":"MINI Convertible - John Cooper Works","y":"-","b":"MINI","n":9},{"t":"model","c":"R57 (MUE)","s":"r57-mue","d":"MINI Convertible - LCI","y":"-","b":"MINI","n":14},{"t":"model","c":"R58","s":"r58","d":"MINI Coupe","y":"2012 - 2019","b":"MINI","n":8},{"t":"model","c":"R58 (JCW)","s":"r58-jcw","d":"MINI Coupe - John Cooper Works","y":"-","b":"MINI","n":6},{"t":"model","c":"R59","s":"r59","d":"MINI Roadster","y":"2012 - 2019","b":"MINI","n":8},{"t":"model","c":"R59 (JCW)","s":"r59-jcw","d":"MINI Roadster - John Cooper Works","y":"-","b":"MINI","n":6},{"t":"model","c":"R60","s":"r60","d":"MINI Countryman","y":"2010 - 2017","b":"MINI","n":38},{"t":"model","c":"R60 (JCW)","s":"r60-jcw","d":"MINI Countryman - John Cooper Works","y":"-","b":"MINI","n":3},{"t":"model","c":"R61","s":"r61","d":"MINI Paceman","y":"2013 - 2020","b":"MINI","n":25},{"t":"model","c":"R61 (JCW)","s":"r61-jcw","d":"MINI Paceman - John Cooper Works","y":"-","b":"MINI","n":3},{"t":"model","c":"F54","s":"f54","d":"MINI Clubman","y":"2015 - 2021","b":"MINI","n":16},{"t":"model","c":"F55","s":"f55","d":"MINI 5 door","y":"2015 - 2021","b":"MINI","n":19},{"t":"model","c":"F55 (MUE)","s":"f55-lci","d":"MINI 5 door - LCI","y":"2021 -","b":"MINI","n":0},{"t":"model","c":"F56","s":"f56","d":"MINI 3 door","y":"2013 - 2021","b":"MINI","n":23},{"t":"model","c":"F56 (MUE)","s":"f56-lci","d":"MINI 3 door - LCI","y":"2021 -","b":"MINI","n":0},{"t":"model","c":"F57","s":"f57","d":"MINI Convertible","y":"2016 - 2021","b":"MINI","n":11},{"t":"model","c":"F57 (MUE)","s":"f57-lci","d":"MINI Convertible - LCI","y":"2021 -","b":"MINI","n":0},{"t":"model","c":"F60","s":"f60","d":"MINI Countryman","y":"2017 - 2025","b":"MINI","n":0},{"t":"model","c":"J01","s":"j01","d":"MINI 3 door BEV","y":"2023 -","b":"MINI","n":0},{"t":"model","c":"J05","s":"j05","d":"MINI Aceman","y":"2024 -","b":"MINI","n":0},{"t":"model","c":"F65","s":"f65","d":"MINI 5 door","y":"2024 -","b":"MINI","n":0},{"t":"model","c":"F66","s":"f66","d":"MINI 3 door","y":"2024 -","b":"MINI","n":0},{"t":"model","c":"U25","s":"u25","d":"MINI Countryman","y":"2023 -","b":"MINI","n":0},{"t":"model","c":"RR1","s":"rr1","d":"Rolls-Royce Phantom","y":"2003 - 2017","b":"Rolls-Royce","n":4},{"t":"model","c":"RR2","s":"rr2","d":"Rolls-Royce Phantom Drophead Coupe","y":"2007 - 2014","b":"Rolls-Royce","n":5},{"t":"model","c":"RR3","s":"rr3","d":"Rolls-Royce Phantom Coupe","y":"2008 - 2015","b":"Rolls-Royce","n":5},{"t":"model","c":"RR4","s":"rr4","d":"Rolls-Royce Ghost","y":"2009 -","b":"Rolls-Royce","n":4},{"t":"model","c":"RR5","s":"rr5","d":"Rolls-Royce Wraith","y":"2013 -","b":"Rolls-Royce","n":4},{"t":"model","c":"RR6","s":"rr6","d":"Rolls-Royce Dawn","y":"2016 -","b":"Rolls-Royce","n":1},{"t":"model","c":"RR11","s":"rr11","d":"Rolls-Royce Phantom","y":"2017 -","b":"Rolls-Royce","n":0},{"t":"model","c":"RR12","s":"rr12","d":"Rolls-Royce Phantom EWB","y":"2017 -","b":"Rolls-Royce","n":0},{"t":"model","c":"RR25","s":"rr25","d":"Rolls-Royce Spectre","y":"2023 -","b":"Rolls-Royce","n":0},{"t":"engine","c":"B37C15K0","s":"b37c15k0","d":"B37 · 1496 cm³ · 95 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B37C15U0","s":"b37c15u0","d":"B37 · 1496 cm³ · 116 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B37D15U0","s":"b37d15u0","d":"B37 · 1496 cm³ · 116 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"B38A12U0","s":"b38a12u0-first","d":"B38 · 1198 cm³ · 75 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B38A12U0","s":"b38a12u0","d":"B38 · 1198 cm³ · 102 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B38A15M0","s":"b38a15m0","d":"B38 · 1499 cm³ · 136 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B38K15T0","s":"b38k15t0","d":"B38 · 1499 cm³ · 231 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B38B15M0","s":"b38b15m0","d":"B38 · 1499 cm³ · 109 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"B38B15M0","s":"b38b15m0-100","d":"B38 · 1499 cm³ · 136 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"B47C20U0","s":"b47c20u0","d":"B47 · 1995 cm³ · 150 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B47D20O0","s":"b47d20o0-110","d":"B47 · 1995 cm³ · 150 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B47C20O0","s":"b47c20o0","d":"B47 · 1995 cm³ · 170 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B47C20O0","s":"b47c20o0-140","d":"B47 · 1995 cm³ · 190 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B47D20O0","s":"b47d20o0","d":"B47 · 1995 cm³ · 190 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B47D20K0","s":"b47d20k0","d":"B47 · 1995 cm³ · 116 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"B47D20O0","s":"b47d20o0-ee","d":"B47 · 1995 cm³ · 163 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"B47D20T0","s":"b47d20t0","d":"B47 · 1995 cm³ · 224 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"B47D20T0","s":"b47d20t0-f15","d":"B47 · 1995 cm³ · 231 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"B48A20M0","s":"b48a20m0","d":"B48 · 1998 cm³ · 192 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B48A20O0","s":"b48a20o0","d":"B48 · 1998 cm³ · 231 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"B48B20M0","s":"b48b20m0","d":"B48 · 1998 cm³ · 184 PS","y":"2016 -","b":"BMW","n":0},{"t":"engine","c":"B57D30O0","s":"b57d30o0","d":"B57 · 2993 cm³ · 265 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"B57D30T0","s":"b57d30t0","d":"B57 · 2993 cm³ · 320 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"B58B30M0","s":"b58b30m0","d":"B58 · 2998 cm³ · 326 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"B58B30M0","s":"b58b30m0","d":"B58 · 2998 cm³ · 326 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"DA 1, 2, 4","s":"da-1-2-4","d":"DA · 748 cm³ · 15 PS","y":"1927 - 1932","b":"BMW","n":0},{"t":"engine","c":"DA 3","s":"da-3","d":"DA · 748 cm³ · 18 PS","y":"1930 - 1931","b":"BMW","n":0},{"t":"engine","c":"HA0001N0","s":"ha0001n0","d":"HA0 · ? cm³ · 286 PS","y":"2020 -","b":"BMW","n":0},{"t":"engine","c":"HA0001N0","s":"ha0001n0-g26","d":"HA0 · ? cm³ · 340 PS","y":"2021 -","b":"BMW","n":0},{"t":"engine","c":"XE2A01N0","s":"xe2a01n0","d":"HA0 · ? cm³ · 326 PS","y":"2021 -","b":"BMW","n":0},{"t":"engine","c":"XE2A01N0","s":"xe2a01n0-i20-50","d":"HA0 · ? cm³ · 523 PS","y":"2021 -","b":"BMW","n":0},{"t":"engine","c":"XE2A02N0","s":"xe2a02n0","d":"HA0 · ? cm³ · 544 PS","y":"2021 -","b":"BMW","n":0},{"t":"engine","c":"M2B33","s":"m2b33","d":"M2 · 494 cm³ · ? PS","y":"1923 -","b":"BMW","n":0},{"t":"engine","c":"M21D25","s":"m21d25-d","d":"M21 · 2443 cm³ · 84 PS","y":"1985 - 1990","b":"BMW","n":0},{"t":"engine","c":"M21D25","s":"m21d25-td","d":"M21 · 2443 cm³ · 114 PS","y":"1987 - 1991","b":"BMW","n":0},{"t":"engine","c":"M40B18","s":"m40b18-kat","d":"M40 · 1786 cm³ · 111 PS","y":"1987 - 1994","b":"BMW","n":0},{"t":"engine","c":"M40B18","s":"m40b18","d":"M40 · 1786 cm³ · 114 PS","y":"1987 - 1993","b":"BMW","n":0},{"t":"engine","c":"M40B16","s":"m40b16-kat","d":"M40 · 1596 cm³ · 98 PS","y":"1988 - 1994","b":"BMW","n":0},{"t":"engine","c":"M40B16","s":"m40b16","d":"M40 · 1596 cm³ · 101 PS","y":"1988 - 1994","b":"BMW","n":0},{"t":"engine","c":"M41D17","s":"m41d17","d":"M41 · 1665 cm³ · 90 PS","y":"1994 - 2000","b":"BMW","n":0},{"t":"engine","c":"M42B18","s":"m42b18","d":"M42 · 1796 cm³ · 136 PS","y":"1989 - 1992","b":"BMW","n":0},{"t":"engine","c":"M42B18","s":"m42b18-1992","d":"M42 · 1796 cm³ · 140 PS","y":"1991 - 1996","b":"BMW","n":0},{"t":"engine","c":"M43B18","s":"m43b18","d":"M43 · 1796 cm³ · 115 PS","y":"1992 - 1999","b":"BMW","n":0},{"t":"engine","c":"M43B16","s":"m43b16","d":"M43 · 1596 cm³ · 102 PS","y":"1993 - 2002","b":"BMW","n":0},{"t":"engine","c":"M43B16","s":"m43b16-cng","d":"M43 · 1596 cm³ · 82 PS","y":"1995 - 2000","b":"BMW","n":0},{"t":"engine","c":"M43TUB19","s":"m43b19-tu-ol","d":"M43 · 1895 cm³ · 118 PS","y":"1995 - 2002","b":"BMW","n":0},{"t":"engine","c":"M43TUB19","s":"m43b19-tu-ul","d":"M43 · 1895 cm³ · 105 PS","y":"1998 - 2002","b":"BMW","n":0},{"t":"engine","c":"M44B19","s":"m44b19","d":"M44 · 1896 cm³ · 138 PS","y":"1994 - 2000","b":"BMW","n":0},{"t":"engine","c":"M74D20U0","s":"m47d20u0","d":"M47 · 1950 cm³ · 116 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"M47D20U1","s":"m47d20u1","d":"M47 · 1995 cm³ · 116 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"M47D20O0","s":"m47d20o0","d":"M47 · 1950 cm³ · ? PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"M47D20U2","s":"m47d20u2","d":"M47 · 1995 cm³ · 122 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"M47D20O1","s":"m47d20o1","d":"M47 · 1995 cm³ · ? PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"M47D20O2","s":"m47d20o2","d":"M47 · 1995 cm³ · 150 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"M47D20O2","s":"m47d20o2-120","d":"M47 · 1995 cm³ · 163 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"M50B20","s":"m50b20","d":"M50 · 1991 cm³ · 150 PS","y":"1994 -","b":"BMW","n":0},{"t":"engine","c":"M51D25 OL","s":"m51d25-ol","d":"M51 · 2497 cm³ · 143 PS","y":"1990 - 1996","b":"BMW","n":0},{"t":"engine","c":"M51D25 UL","s":"m51d25-ul","d":"M51 · 2497 cm³ · 115 PS","y":"1991 - 1997","b":"BMW","n":0},{"t":"engine","c":"M51D25TÜ","s":"m51d25-tu-ol","d":"M51 · 2497 cm³ · 143 PS","y":"1995 - 2000","b":"BMW","n":0},{"t":"engine","c":"M51D25TÜ","s":"m51d25-tu-ul","d":"M51 · 2497 cm³ · 115 PS","y":"1996 - 2000","b":"BMW","n":0},{"t":"engine","c":"M57D30O0","s":"m57d30o0","d":"M57 · 2926 cm³ · 184 PS","y":"1998 - 2000","b":"BMW","n":0},{"t":"engine","c":"M57D30O0","s":"m57d30o0-410","d":"M57 · 2926 cm³ · 184 PS","y":"1998 - 2003","b":"BMW","n":0},{"t":"engine","c":"M57D25O0","s":"m57d25o0","d":"M57 · 2497 cm³ · 163 PS","y":"2000 - 2004","b":"BMW","n":0},{"t":"engine","c":"M57D30O0","s":"m57d30o0-e39","d":"M57 · 2926 cm³ · 193 PS","y":"2000 - 2004","b":"BMW","n":0},{"t":"engine","c":"M57D30O1","s":"m57d30o1-500","d":"M57 · 2993 cm³ · 218 PS","y":"2002 - 2006","b":"BMW","n":0},{"t":"engine","c":"M57D30O1","s":"m57d30o1","d":"M57 · 2993 cm³ · 204 PS","y":"2003 - 2006","b":"BMW","n":0},{"t":"engine","c":"M57D25O1","s":"m57d25o1","d":"M57 · 2497 cm³ · 177 PS","y":"2004 - 2007","b":"BMW","n":0},{"t":"engine","c":"M57D30T1","s":"m57d30t1","d":"M57 · 2993 cm³ · 272 PS","y":"2004 - 2007","b":"BMW","n":0},{"t":"engine","c":"M57D30O2","s":"m57d30o2-520","d":"M57 · 2993 cm³ · 231 PS","y":"2005 - 2008","b":"BMW","n":0},{"t":"engine","c":"M57D30O2","s":"m57d30o2","d":"M57 · 2993 cm³ · 231 PS","y":"2005 - 2010","b":"BMW","n":0},{"t":"engine","c":"M57D30O2","s":"m57d30o2-e83","d":"M57 · 2993 cm³ · 218 PS","y":"2005 - 2010","b":"BMW","n":0},{"t":"engine","c":"M57D30O2","s":"m57d30o2-e6x","d":"M57 · 2993 cm³ · 235 PS","y":"2005 - 2010","b":"BMW","n":0},{"t":"engine","c":"M57D30O2","s":"m57d30o2-e7x","d":"M57 · 2993 cm³ · 235 PS","y":"2006 - 2010","b":"BMW","n":0},{"t":"engine","c":"M57D30U2","s":"m57d30u2","d":"M57 · 2993 cm³ · 197 PS","y":"2006 - 2010","b":"BMW","n":0},{"t":"engine","c":"M57D30T2","s":"m57d30t2","d":"M57 · 2993 cm³ · 286 PS","y":"2006 - 2010","b":"BMW","n":0},{"t":"engine","c":"M62B44TÜ","s":"m62b44-tu","d":"M62 · 4398 cm³ · 286 PS","y":"1998 - 2005","b":"BMW","n":0},{"t":"engine","c":"M67D40O0","s":"m67d40o0","d":"M67 · 3901 cm³ · 245 PS","y":"1998 - 2001","b":"BMW","n":0},{"t":"engine","c":"M67D40O0","s":"m67d40o0-e65","d":"M67 · 3901 cm³ · 258 PS","y":"2002 - 2005","b":"BMW","n":0},{"t":"engine","c":"M67D44O1","s":"m67d44o1","d":"M67 · 4420 cm³ · 299 PS","y":"2005 - 2008","b":"BMW","n":0},{"t":"engine","c":"M70B50","s":"m70b50","d":"M70 · 4988 cm³ · 300 PS","y":"1987 - 1994","b":"BMW","n":0},{"t":"engine","c":"M72B54","s":"m72b54","d":"M72 · 5379 cm³ · 360 PS","y":"1989 - 1989","b":"BMW","n":0},{"t":"engine","c":"M73B54","s":"m73b54","d":"M73 · 5379 cm³ · 326 PS","y":"1994 - 1998","b":"BMW","n":0},{"t":"engine","c":"M73B54TÜ","s":"m73b54-tu","d":"M73 · 5379 cm³ · 326 PS","y":"1998 - 2002","b":"BMW","n":0},{"t":"engine","c":"N13B16U0","s":"n13b16u0","d":"N13 · 1598 cm³ · 136 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N13B16M0","s":"n13b16m0","d":"N13 · 1598 cm³ · 170 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N13B16K0","s":"n13b16k0","d":"N13 · 1598 cm³ · 102 PS","y":"2012 -","b":"BMW","n":0},{"t":"engine","c":"N13B16M0","s":"n13b16m0-130","d":"N13 · 1598 cm³ · 177 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"N16B16K0","s":"n16b16k0","d":"N16 · 1598 cm³ · 75 PS","y":"2013 -","b":"BMW","n":0},{"t":"engine","c":"N16B16U0","s":"n16b16u0","d":"N16 · 1598 cm³ · 98 PS","y":"2013 -","b":"BMW","n":0},{"t":"engine","c":"N16B16M0","s":"n16b16m0","d":"N16 · 1598 cm³ · 120 PS","y":"2013 -","b":"BMW","n":0},{"t":"engine","c":"N18B16T0","s":"n18b16t0","d":"N18 · 1598 cm³ · 211 PS","y":"2012 -","b":"BMW","n":0},{"t":"engine","c":"N18B16U0","s":"n18b16u0","d":"N18 · 1598 cm³ · 120 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"N18B16M0","s":"n18b16m0","d":"N18 · 1598 cm³ · 184 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"N18B16T0","s":"n18b16t0-160","d":"N18 · 1598 cm³ · 218 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"N20B20O0","s":"n20b20o0","d":"N20 · 1997 cm³ · 245 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N20B20U0","s":"n20b20u0","d":"N20 · 1997 cm³ · 184 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N20B20U0","s":"n20b20u0-hv","d":"N20 · 1997 cm³ · 184 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N20B20M0","s":"n20b20m0","d":"N20 · 1997 cm³ · 218 PS","y":"2012 -","b":"BMW","n":0},{"t":"engine","c":"N20B16U0","s":"n20b16u0","d":"N20 · 1598 cm³ · 143 PS","y":"2013 -","b":"BMW","n":0},{"t":"engine","c":"N20B20U0","s":"n20b20u0-18i","d":"N20 · 1997 cm³ · 156 PS","y":"2013 -","b":"BMW","n":0},{"t":"engine","c":"N20B16U0","s":"n20b16u0-turk","d":"N20 · 1598 cm³ · 170 PS","y":"2013 -","b":"BMW","n":0},{"t":"engine","c":"N26B20O0","s":"n26b20o0","d":"N26 · 1997 cm³ · 245 PS","y":"2012 -","b":"BMW","n":0},{"t":"engine","c":"N40B16","s":"n40b16","d":"N40 · 1596 cm³ · 115 PS","y":"2001 - 2004","b":"BMW","n":0},{"t":"engine","c":"N42B18","s":"n42b18","d":"N42 · 1796 cm³ · 115 PS","y":"2001 - 2004","b":"BMW","n":0},{"t":"engine","c":"N42B20","s":"n42b20","d":"N42 · 1995 cm³ · 143 PS","y":"2001 - 2004","b":"BMW","n":0},{"t":"engine","c":"N43B20K0","s":"n43b20k0","d":"N43 · 1995 cm³ · 122 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N43B16O0","s":"n43b16o0","d":"N43 · 1599 cm³ · 122 PS","y":"2007 -","b":"BMW","n":0},{"t":"engine","c":"N43B20U0","s":"n43b20u0","d":"N43 · 1995 cm³ · 143 PS","y":"2007 -","b":"BMW","n":0},{"t":"engine","c":"N43B20O0","s":"n43b20o0","d":"N43 · 1995 cm³ · 170 PS","y":"2007 -","b":"BMW","n":0},{"t":"engine","c":"N45B16O1","s":"n45b16o1","d":"N45 · 1596 cm³ · 116 PS","y":"2003 - 2007","b":"BMW","n":0},{"t":"engine","c":"N45B20O0","s":"n45b20o0","d":"N45 · 1997 cm³ · 173 PS","y":"2005 - 2006","b":"BMW","n":0},{"t":"engine","c":"N45B16O2","s":"n45b16o2","d":"N45 · 1596 cm³ · 116 PS","y":"2007 -","b":"BMW","n":0},{"t":"engine","c":"N46B20U2","s":"n46b20u2","d":"N46 · 1995 cm³ · 136 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N46B20O2","s":"n46b20o2","d":"N46 · 1995 cm³ · 156 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N46B18O0","s":"n46b18o0","d":"N46 · 1796 cm³ · 115 PS","y":"2003 - 2005","b":"BMW","n":0},{"t":"engine","c":"N46B20U1","s":"n46b20u1","d":"N46 · 1995 cm³ · 129 PS","y":"2004 - 2007","b":"BMW","n":0},{"t":"engine","c":"N46B20O1","s":"n46b20o1","d":"N46 · 1995 cm³ · 150 PS","y":"2004 - 2008","b":"BMW","n":0},{"t":"engine","c":"N47D20K1","s":"n47d20k1","d":"N47 · 1995 cm³ · 116 PS","y":"2007 -","b":"BMW","n":0},{"t":"engine","c":"N47D20K0","s":"n47d20k0","d":"N47 · 1995 cm³ · 116 PS","y":"2007 - 2014","b":"BMW","n":0},{"t":"engine","c":"N47D20U0","s":"n47d20u0","d":"N47 · 1995 cm³ · 143 PS","y":"2007 - 2014","b":"BMW","n":0},{"t":"engine","c":"N47D20O0","s":"n47d20o0","d":"N47 · 1995 cm³ · 177 PS","y":"2007 - 2014","b":"BMW","n":0},{"t":"engine","c":"N47D20T0","s":"n47d20t0","d":"N47 · 1995 cm³ · 204 PS","y":"2007 - 2014","b":"BMW","n":0},{"t":"engine","c":"N47D20U1","s":"n47d20u1","d":"N47 · 1995 cm³ · 143 PS","y":"2010 -","b":"BMW","n":0},{"t":"engine","c":"N47D20O1","s":"n47d20o1","d":"N47 · 1995 cm³ · 184 PS","y":"2010 -","b":"BMW","n":0},{"t":"engine","c":"N47C16K1","s":"n47c16k1","d":"N47 · 1598 cm³ · 90 PS","y":"2010 -","b":"BMW","n":0},{"t":"engine","c":"N47C16U1","s":"n47c16u1","d":"N47 · 1598 cm³ · 112 PS","y":"2010 -","b":"BMW","n":0},{"t":"engine","c":"N47C20U1","s":"n47c20u1","d":"N47 · 1995 cm³ · 143 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N47D20T1","s":"n47d20t1","d":"N47 · 1995 cm³ · 218 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N47D20O1","s":"n47d20o1-ed","d":"N47 · 1995 cm³ · 163 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N47D16U1","s":"n47d16u1-ed","d":"N47 · 1598 cm³ · 116 PS","y":"2012 - 2014","b":"BMW","n":0},{"t":"engine","c":"N47D20O1","s":"n47d20o1-18d","d":"N47 · 1995 cm³ · 143 PS","y":"2012 -","b":"BMW","n":0},{"t":"engine","c":"N47D16U1","s":"n47d16u1","d":"N47 · 1598 cm³ · 95 PS","y":"2012 - 2014","b":"BMW","n":0},{"t":"engine","c":"N51B30M1","s":"n51b30m1","d":"N51 · 2996 cm³ · 234 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B25U1","s":"n52b25u1","d":"N52 · 2497 cm³ · 190 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B25U0","s":"n52b25u0","d":"N52 · 2497 cm³ · 177 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B25U2","s":"n52b25u2","d":"N52 · 2497 cm³ · 190 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B25O2","s":"n52b25o2","d":"N52 · 2497 cm³ · 204 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B25O1","s":"n52b25o1","d":"N52 · 2497 cm³ · 218 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B25O0","s":"n52b25o0","d":"N52 · 2497 cm³ · 218 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B30U0","s":"n52b30u0","d":"N52 · 2996 cm³ · 218 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B30M1","s":"n52b30m1","d":"N52 · 2996 cm³ · 234 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B30O0","s":"n52b30o0","d":"N52 · 2996 cm³ · 258 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B30O1","s":"n52b30o1-194","d":"N52 · 2996 cm³ · 264 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B30O0","s":"n52b30o0-195","d":"N52 · 2996 cm³ · 165 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B30O2","s":"n52b30o2","d":"N52 · 2996 cm³ · 258 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B30O1","s":"n52b30o1-200","d":"N52 · 2996 cm³ · 272 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N52B30U1","s":"n52b30u1","d":"N52 · 2996 cm³ · 218 PS","y":"2007 - 2014","b":"BMW","n":0},{"t":"engine","c":"N52B25O1","s":"n52b25o1-150","d":"N52 · 2497 cm³ · 204 PS","y":"2009 - 2011","b":"BMW","n":0},{"t":"engine","c":"N52B30O1","s":"n52b30o1","d":"N52 · 2996 cm³ · 258 PS","y":"2009 - 2011","b":"BMW","n":0},{"t":"engine","c":"N53B25U0","s":"n53b25uo","d":"N53 · 2497 cm³ · 190 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N53B30U0","s":"n53b30u0","d":"N53 · 2996 cm³ · 204 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N53B30O0","s":"n53b30o0-28i","d":"N53 · 2996 cm³ · 258 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N53B30U0","s":"n53b30u0-25i","d":"N53 · 2996 cm³ · 218 PS","y":"2006 -","b":"BMW","n":0},{"t":"engine","c":"N53B30O0","s":"n53b30o0","d":"N53 · 2996 cm³ · 272 PS","y":"2007 -","b":"BMW","n":0},{"t":"engine","c":"N54B30O0","s":"n54b30o0-40","d":"N54 · 2979 cm³ · 326 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N54B30T0","s":"n54b30to-is","d":"N54 · 2979 cm³ · 325 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N54B30O0","s":"n54b30o0","d":"N54 · 2979 cm³ · 306 PS","y":"2009 -","b":"BMW","n":0},{"t":"engine","c":"N54B30T0","s":"n54b30to","d":"N54 · 2979 cm³ · 340 PS","y":"2010 -","b":"BMW","n":0},{"t":"engine","c":"N55B30M0","s":"n55b30m0","d":"N55 · 2979 cm³ · 306 PS","y":"2009 -","b":"BMW","n":0},{"t":"engine","c":"N55B30O0","s":"n55b30o0","d":"N55 · 2979 cm³ · 320 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N55B30O0","s":"n55b30o0-f22","d":"N55 · 2979 cm³ · 326 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"N55B30T0","s":"n55b30t0","d":"N55 · 2979 cm³ · 370 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"N57D30U0","s":"n57d30u0-f07","d":"N57 · 2993 cm³ · 211 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N57D30O0","s":"n57d30o0","d":"N57 · 2993 cm³ · 245 PS","y":"2008 - 2013","b":"BMW","n":0},{"t":"engine","c":"N57D30O0","s":"n57d30o0-540","d":"N57 · 2993 cm³ · 245 PS","y":"2008 - 2014","b":"BMW","n":0},{"t":"engine","c":"N57D30T0","s":"n57d30t0-225","d":"N57 · 2993 cm³ · 306 PS","y":"2009 - 2014","b":"BMW","n":0},{"t":"engine","c":"N57D30U0","s":"n57d30u0","d":"N57 · 2993 cm³ · 204 PS","y":"2010 - 2013","b":"BMW","n":0},{"t":"engine","c":"N57D30T0","s":"n57d30t0","d":"N57 · 2993 cm³ · 300 PS","y":"2010 - 2012","b":"BMW","n":0},{"t":"engine","c":"N57D30O1","s":"n57d30o1","d":"N57 · 2993 cm³ · 258 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N57D30T1","s":"n57d30t1","d":"N57 · 2993 cm³ · 313 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"N57D30S1","s":"n57d30s1","d":"N57 · 2993 cm³ · 381 PS","y":"2012 -","b":"BMW","n":0},{"t":"engine","c":"N62B40O1","s":"n62b40o1-e60","d":"N62 · 4000 cm³ · 299 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N62B40O1","s":"n62b40o1","d":"N62 · 4000 cm³ · 306 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N62B44O0","s":"n62b44o0-e53","d":"N62 · 4398 cm³ · 320 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N62B48O1","s":"n62b48o1-e70","d":"N62 · 4800 cm³ · 355 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N62B48O1","s":"n62b48o1","d":"N62 · 4799 cm³ · 367 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N62B48O0","s":"n62b48o0","d":"N62 · 4800 cm³ · 360 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N62B36O0","s":"n62b36o0","d":"N62 · 3600 cm³ · 272 PS","y":"2001 -","b":"BMW","n":0},{"t":"engine","c":"N62B44O0","s":"n62b44o0","d":"N62 · 4398 cm³ · 333 PS","y":"2001 -","b":"BMW","n":0},{"t":"engine","c":"N63B44O0","s":"n63b44o0","d":"N63 · 4395 cm³ · 408 PS","y":"2008 -","b":"BMW","n":0},{"t":"engine","c":"N63B44O1","s":"n63b44o1","d":"N63 · 4395 cm³ · 450 PS","y":"2012 -","b":"BMW","n":0},{"t":"engine","c":"N63B44O2","s":"n63b44o2","d":"N63 · 4395 cm³ · 450 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"N73H60O0","s":"n73h60o0","d":"N73 · 5972 cm³ · 260 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N73B60O1","s":"n73b60o1","d":"N73 · 5972 cm³ · 445 PS","y":"-","b":"BMW","n":0},{"t":"engine","c":"N73B60O0","s":"n73b60o0","d":"N73 · 5972 cm³ · 445 PS","y":"2002 - 2007","b":"BMW","n":0},{"t":"engine","c":"N73B68O0","s":"n73b68o0","d":"N73 · 6749 cm³ · 460 PS","y":"2003 -","b":"BMW","n":0},{"t":"engine","c":"N74B60U0","s":"n74b60uo","d":"N74 · 5972 cm³ · 544 PS","y":"2009 -","b":"BMW","n":0},{"t":"engine","c":"N74B66U0","s":"n74b66u0","d":"N74 · 6592 cm³ · 571 PS","y":"2009 -","b":"BMW","n":0},{"t":"engine","c":"N74B66U0","s":"n74b66u0-rr5","d":"N74 · 6592 cm³ · 632 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"S14B20","s":"s14b20","d":"S14 · 1990 cm³ · 192 PS","y":"1987 - 1990","b":"BMW","n":0},{"t":"engine","c":"S50B32","s":"s50b32","d":"S50 · 3201 cm³ · 321 PS","y":"1995 - 1999","b":"BMW","n":0},{"t":"engine","c":"S52B32","s":"s52b32-us","d":"S52 · 3152 cm³ · 243 PS","y":"1995 - 2000","b":"BMW","n":0},{"t":"engine","c":"S54B32","s":"s54b32-z3","d":"S54 · 3246 cm³ · 325 PS","y":"2000 - 2002","b":"BMW","n":0},{"t":"engine","c":"S55B30T0","s":"s55b30t0","d":"S55 · 2979 cm³ · 431 PS","y":"2014 -","b":"BMW","n":0},{"t":"engine","c":"S58B30T0","s":"s58b30t0-338","d":"S58 · 2993 cm³ · 460 PS","y":"2022 -","b":"BMW","n":0},{"t":"engine","c":"S58B30T0","s":"s58b30t0-405","d":"S58 · 2993 cm³ · 550 PS","y":"2023 -","b":"BMW","n":0},{"t":"engine","c":"S63B44O0","s":"s63b44o0","d":"S63 · 4395 cm³ · 555 PS","y":"2009 - 2014","b":"BMW","n":0},{"t":"engine","c":"S63B44T0","s":"s63b44t0","d":"S63 · 4395 cm³ · 560 PS","y":"2011 -","b":"BMW","n":0},{"t":"engine","c":"S63B44T2","s":"s63b44t2","d":"S63 · 4395 cm³ · 575 PS","y":"2015 -","b":"BMW","n":0},{"t":"engine","c":"S65B40O0","s":"s65b40o0","d":"S65 · 3999 cm³ · 420 PS","y":"2007 - 2013","b":"BMW","n":0},{"t":"engine","c":"S65B44","s":"s65b44","d":"S65 · 4361 cm³ · 450 PS","y":"2010 - 2011","b":"BMW","n":0},{"t":"engine","c":"S85B50","s":"s85b50","d":"S85 · 4999 cm³ · 507 PS","y":"2004 -","b":"BMW","n":0}]}
+{
+ "count": 487,
+ "results": [
+  {
+   "t": "model",
+   "c": "3200 CS",
+   "s": "3200-cs",
+   "d": "BMW 3200 CS",
+   "y": "1962 - 1965",
+   "b": "BMW",
+   "n": 1
+  },
+  {
+   "t": "model",
+   "c": "100",
+   "s": "100",
+   "d": "Isetta",
+   "y": "1955 - 1962",
+   "b": "BMW",
+   "n": 1
+  },
+  {
+   "t": "model",
+   "c": "101",
+   "s": "101",
+   "d": "Isetta 250",
+   "y": "1955 - 1962",
+   "b": "BMW",
+   "n": 1
+  },
+  {
+   "t": "model",
+   "c": "102",
+   "s": "102",
+   "d": "Isetta 300",
+   "y": "1955 - 1962",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "103",
+   "s": "103",
+   "d": "Isetta CKD/SKD",
+   "y": "1955 - 1962",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "107",
+   "s": "107",
+   "d": "700 Sedan",
+   "y": "1959 - 1965",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "E21",
+   "s": "e21",
+   "d": "BMW 3 Series",
+   "y": "1975 - 1982",
+   "b": "BMW",
+   "n": 7
+  },
+  {
+   "t": "model",
+   "c": "E23",
+   "s": "e23",
+   "d": "BMW 7 Series Sedan",
+   "y": "1977 - 1979",
+   "b": "BMW",
+   "n": 51
+  },
+  {
+   "t": "model",
+   "c": "E24",
+   "s": "e24",
+   "d": "BMW 6 Series Coupe",
+   "y": "1976 - 1982",
+   "b": "BMW",
+   "n": 42
+  },
+  {
+   "t": "model",
+   "c": "E28",
+   "s": "e28",
+   "d": "BMW 5 Series Sedan",
+   "y": "1981 - 1987",
+   "b": "BMW",
+   "n": 109
+  },
+  {
+   "t": "model",
+   "c": "E30",
+   "s": "e30",
+   "d": "BMW 3 Series Sedan",
+   "y": "1982 - 1990",
+   "b": "BMW",
+   "n": 274
+  },
+  {
+   "t": "model",
+   "c": "E30 (5)",
+   "s": "e30-5",
+   "d": "BMW 3 Series Touring",
+   "y": "1987 - 1994",
+   "b": "BMW",
+   "n": 22
+  },
+  {
+   "t": "model",
+   "c": "E30 (16)",
+   "s": "e30-16",
+   "d": "BMW 3 Series Sedan with All-Wheel Drive",
+   "y": "1985 - 1990",
+   "b": "BMW",
+   "n": 10
+  },
+  {
+   "t": "model",
+   "c": "E30 (Z)",
+   "s": "e30-z1",
+   "d": "BMW Z1 Roadster",
+   "y": "1988 - 1991",
+   "b": "BMW",
+   "n": 1
+  },
+  {
+   "t": "model",
+   "c": "E31",
+   "s": "e31",
+   "d": "BMW 8 Series Coupe",
+   "y": "1989 - 1999",
+   "b": "BMW",
+   "n": 23
+  },
+  {
+   "t": "model",
+   "c": "E32",
+   "s": "e32",
+   "d": "BMW 7 Series Sedan",
+   "y": "1986 - 1994",
+   "b": "BMW",
+   "n": 32
+  },
+  {
+   "t": "model",
+   "c": "E32 (2)",
+   "s": "e32-2",
+   "d": "BMW 7 Series Sedan Long Wheelbase",
+   "y": "1987 - 1994",
+   "b": "BMW",
+   "n": 16
+  },
+  {
+   "t": "model",
+   "c": "E32 (3)",
+   "s": "e32-3",
+   "d": "BMW 7 Series Sedan High Security",
+   "y": "-",
+   "b": "BMW",
+   "n": 1
+  },
+  {
+   "t": "model",
+   "c": "E34",
+   "s": "e34",
+   "d": "BMW 5 Series Sedan",
+   "y": "1988 - 1995",
+   "b": "BMW",
+   "n": 89
+  },
+  {
+   "t": "model",
+   "c": "E34 (2)",
+   "s": "e34-2",
+   "d": "BMW 5 Series Touring",
+   "y": "1990 - 1997",
+   "b": "BMW",
+   "n": 33
+  },
+  {
+   "t": "model",
+   "c": "E36 (2)",
+   "s": "e36-2",
+   "d": "BMW 3 Series Coupe",
+   "y": "1992 - 1999",
+   "b": "BMW",
+   "n": 51
+  },
+  {
+   "t": "model",
+   "c": "E36 (C)",
+   "s": "e36-2c",
+   "d": "BMW 3 Series Convertible",
+   "y": "1993 - 1999",
+   "b": "BMW",
+   "n": 40
+  },
+  {
+   "t": "model",
+   "c": "E36 (3)",
+   "s": "e36-3",
+   "d": "BMW 3 Series Touring",
+   "y": "1995 - 1999",
+   "b": "BMW",
+   "n": 26
+  },
+  {
+   "t": "model",
+   "c": "E36 (4)",
+   "s": "e36-4",
+   "d": "BMW 3 Series Sedan",
+   "y": "1991 - 1998",
+   "b": "BMW",
+   "n": 125
+  },
+  {
+   "t": "model",
+   "c": "E36 (5)",
+   "s": "e36-5",
+   "d": "BMW 3 Series Compact",
+   "y": "1994 - 1998",
+   "b": "BMW",
+   "n": 27
+  },
+  {
+   "t": "model",
+   "c": "E36 (7)",
+   "s": "e36-7",
+   "d": "BMW Z3 Roadster and M Roadster",
+   "y": "1994 - 2002",
+   "b": "BMW",
+   "n": 27
+  },
+  {
+   "t": "model",
+   "c": "E36 (7C)",
+   "s": "e36-7c",
+   "d": "BMW Z3 Coupe and M Coupe",
+   "y": "1997 - 2002",
+   "b": "BMW",
+   "n": 11
+  },
+  {
+   "t": "model",
+   "c": "E38",
+   "s": "e38",
+   "d": "BMW 7 Series Sedan",
+   "y": "1994 - 2001",
+   "b": "BMW",
+   "n": 34
+  },
+  {
+   "t": "model",
+   "c": "E38 (2)",
+   "s": "e38-2",
+   "d": "BMW 7 Series Sedan Long Wheelbase",
+   "y": "1994 - 2001",
+   "b": "BMW",
+   "n": 24
+  },
+  {
+   "t": "model",
+   "c": "E38 (2 PL)",
+   "s": "e38-2-pl",
+   "d": "BMW 7 Series Sedan - Protection Line",
+   "y": "-",
+   "b": "BMW",
+   "n": 4
+  },
+  {
+   "t": "model",
+   "c": "E38 (3)",
+   "s": "e38-3",
+   "d": "BMW 7 Series Protection",
+   "y": "1998 - 2001",
+   "b": "BMW",
+   "n": 4
+  },
+  {
+   "t": "model",
+   "c": "E38 (L7)",
+   "s": "e38-l7",
+   "d": "BMW L7",
+   "y": "1996 - 2001",
+   "b": "BMW",
+   "n": 4
+  },
+  {
+   "t": "model",
+   "c": "E39",
+   "s": "e39",
+   "d": "BMW 5 Series Sedan",
+   "y": "1995 - 2003",
+   "b": "BMW",
+   "n": 111
+  },
+  {
+   "t": "model",
+   "c": "E39 (2)",
+   "s": "e39-2",
+   "d": "BMW 5 Series Touring",
+   "y": "1997 - 2004",
+   "b": "BMW",
+   "n": 62
+  },
+  {
+   "t": "model",
+   "c": "E46 (2)",
+   "s": "e46-2",
+   "d": "BMW 3 Series Coupe",
+   "y": "1998 - 2006",
+   "b": "BMW",
+   "n": 27
+  },
+  {
+   "t": "model",
+   "c": "E46 (2FL)",
+   "s": "e46-2-lci",
+   "d": "BMW 3 Series Coupe - LCI",
+   "y": "-",
+   "b": "BMW",
+   "n": 19
+  },
+  {
+   "t": "model",
+   "c": "E46 (C)",
+   "s": "e46-2c",
+   "d": "BMW 3 Series Convertible",
+   "y": "1998 - 2006",
+   "b": "BMW",
+   "n": 16
+  },
+  {
+   "t": "model",
+   "c": "E46 (CFL)",
+   "s": "e46-c-lci",
+   "d": "BMW 3 Series Convertible - LCI",
+   "y": "-",
+   "b": "BMW",
+   "n": 16
+  },
+  {
+   "t": "model",
+   "c": "E46 (3)",
+   "s": "e46-3",
+   "d": "BMW 3 Series Touring",
+   "y": "1998 - 2005",
+   "b": "BMW",
+   "n": 17
+  },
+  {
+   "t": "model",
+   "c": "E46 (3FL)",
+   "s": "e46-3-lci",
+   "d": "BMW 3 Series Touring - LCI",
+   "y": "-",
+   "b": "BMW",
+   "n": 30
+  },
+  {
+   "t": "model",
+   "c": "E46 (4)",
+   "s": "e46-4",
+   "d": "BMW 3 Series Sedan",
+   "y": "1997 - 2005",
+   "b": "BMW",
+   "n": 64
+  },
+  {
+   "t": "model",
+   "c": "E46 (4FL)",
+   "s": "e46-4-lci",
+   "d": "BMW 3 Series Sedan - LCI",
+   "y": "-",
+   "b": "BMW",
+   "n": 80
+  },
+  {
+   "t": "model",
+   "c": "E46 (5)",
+   "s": "e46-5",
+   "d": "BMW 3 Series Compact",
+   "y": "2000 - 2004",
+   "b": "BMW",
+   "n": 15
+  },
+  {
+   "t": "model",
+   "c": "E52",
+   "s": "e52",
+   "d": "BMW Z8 Roadster",
+   "y": "1999 - 2003",
+   "b": "BMW",
+   "n": 2
+  },
+  {
+   "t": "model",
+   "c": "E53",
+   "s": "e53",
+   "d": "BMW X5 - Sports Activity Vehicle",
+   "y": "1999 - 2006",
+   "b": "BMW",
+   "n": 22
+  },
+  {
+   "t": "model",
+   "c": "E60",
+   "s": "e60",
+   "d": "BMW 5 Series Sedan",
+   "y": "2002 - 2005",
+   "b": "BMW",
+   "n": 74
+  },
+  {
+   "t": "model",
+   "c": "E60 (M5)",
+   "s": "e60-m5",
+   "d": "BMW M5 Sedan",
+   "y": "2003 - 2009",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "E60 (MUE)",
+   "s": "e60n",
+   "d": "BMW 5 Series Sedan - LCI",
+   "y": "2005 - 2010",
+   "b": "BMW",
+   "n": 71
+  },
+  {
+   "t": "model",
+   "c": "E61",
+   "s": "e61",
+   "d": "BMW 5 Series Touring",
+   "y": "2002 - 2007",
+   "b": "BMW",
+   "n": 26
+  },
+  {
+   "t": "model",
+   "c": "E61 (M5)",
+   "s": "e61-m5",
+   "d": "BMW M5 Touring",
+   "y": "2005 - 2009",
+   "b": "BMW",
+   "n": 2
+  },
+  {
+   "t": "model",
+   "c": "E61 (MUE)",
+   "s": "e61n",
+   "d": "BMW 5 Series Touring - LCI",
+   "y": "2005 - 2010",
+   "b": "BMW",
+   "n": 31
+  },
+  {
+   "t": "model",
+   "c": "E63",
+   "s": "e63",
+   "d": "BMW 6 Series Coupe",
+   "y": "2002 - 2007",
+   "b": "BMW",
+   "n": 8
+  },
+  {
+   "t": "model",
+   "c": "E63 (M6)",
+   "s": "e63-m6",
+   "d": "BMW M6 Coupe",
+   "y": "2005 - 2010",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "E63 (MUE)",
+   "s": "e63n",
+   "d": "BMW 6 Series Coupe - LCI",
+   "y": "2006 - 2011",
+   "b": "BMW",
+   "n": 9
+  },
+  {
+   "t": "model",
+   "c": "E64",
+   "s": "e64",
+   "d": "BMW 6 Series Convertible",
+   "y": "2002 - 2007",
+   "b": "BMW",
+   "n": 8
+  },
+  {
+   "t": "model",
+   "c": "E64 (M6)",
+   "s": "e64-m6",
+   "d": "BMW M6 Convertible",
+   "y": "2006 - 2010",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "E64 (MUE)",
+   "s": "e64n",
+   "d": "BMW 6 Series Convertible - LCI",
+   "y": "2006 - 2012",
+   "b": "BMW",
+   "n": 9
+  },
+  {
+   "t": "model",
+   "c": "E65",
+   "s": "e65",
+   "d": "BMW 7 Series Sedan",
+   "y": "2001 - 2008",
+   "b": "BMW",
+   "n": 26
+  },
+  {
+   "t": "model",
+   "c": "E66",
+   "s": "e66",
+   "d": "BMW 7 Series Long Wheelbase",
+   "y": "2001 - 2008",
+   "b": "BMW",
+   "n": 27
+  },
+  {
+   "t": "model",
+   "c": "E67",
+   "s": "e67",
+   "d": "BMW 7 Series Protection",
+   "y": "2001 - 2008",
+   "b": "BMW",
+   "n": 8
+  },
+  {
+   "t": "model",
+   "c": "E68",
+   "s": "e68",
+   "d": "BMW 7 Series Hydrogen 7",
+   "y": "2005 - 2007",
+   "b": "BMW",
+   "n": 1
+  },
+  {
+   "t": "model",
+   "c": "E70",
+   "s": "e70",
+   "d": "BMW X5 - Sports Activity Vehicle",
+   "y": "2006 - 2013",
+   "b": "BMW",
+   "n": 11
+  },
+  {
+   "t": "model",
+   "c": "E70 (X5M)",
+   "s": "e70-x5m",
+   "d": "BMW X5 M - Sports Activity Vehicle",
+   "y": "-",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "E70 (MUE)",
+   "s": "e70-lci",
+   "d": "BMW X5 - Sports Activity Vehicle - LCI",
+   "y": "-",
+   "b": "BMW",
+   "n": 14
+  },
+  {
+   "t": "model",
+   "c": "E71",
+   "s": "e71",
+   "d": "BMW X6 - Sports Activity Coupe",
+   "y": "2008 - 2015",
+   "b": "BMW",
+   "n": 20
+  },
+  {
+   "t": "model",
+   "c": "E71 (X6M)",
+   "s": "e71-x6m",
+   "d": "BMW X6 M - Sports Activity Coupe",
+   "y": "-",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "E72",
+   "s": "e72",
+   "d": "BMW ActiveHybrid X6 - Sports Activity Coup\u00e9",
+   "y": "2010 - 2015",
+   "b": "BMW",
+   "n": 2
+  },
+  {
+   "t": "model",
+   "c": "E81",
+   "s": "e81",
+   "d": "BMW 1 Series 3-door Sports Hatch",
+   "y": "2007 - 2011",
+   "b": "BMW",
+   "n": 24
+  },
+  {
+   "t": "model",
+   "c": "E82",
+   "s": "e82",
+   "d": "BMW 1 Series Coupe",
+   "y": "2007 - 2014",
+   "b": "BMW",
+   "n": 22
+  },
+  {
+   "t": "model",
+   "c": "E82 (MUE)",
+   "s": "e82-lci",
+   "d": "BMW 1 Series Coupe",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "E82 (M)",
+   "s": "e82m",
+   "d": "BMW 1 Series M Coupe",
+   "y": "2011 - 2012",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "E83",
+   "s": "e83",
+   "d": "BMW X3 - Sports Activity Vehicle",
+   "y": "2003 - 2006",
+   "b": "BMW",
+   "n": 15
+  },
+  {
+   "t": "model",
+   "c": "E83 (MUE)",
+   "s": "e83n",
+   "d": "BMW X3 - Sports Activity Vehicle - LCI",
+   "y": "2006 - 2010",
+   "b": "BMW",
+   "n": 25
+  },
+  {
+   "t": "model",
+   "c": "E84",
+   "s": "e84",
+   "d": "BMW X1 - Sports Activity Vehicle",
+   "y": "2009 - 2016",
+   "b": "BMW",
+   "n": 64
+  },
+  {
+   "t": "model",
+   "c": "M12",
+   "s": "m12",
+   "d": "Zinoro 1E",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 1
+  },
+  {
+   "t": "model",
+   "c": "E85",
+   "s": "e85",
+   "d": "BMW Z4 Roadster",
+   "y": "2002 - 2009",
+   "b": "BMW",
+   "n": 18
+  },
+  {
+   "t": "model",
+   "c": "E85 (M)",
+   "s": "e85-m",
+   "d": "BMW Z4 M Roadster",
+   "y": "-",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "E86",
+   "s": "e86",
+   "d": "BMW Z4 Coupe",
+   "y": "2006 - 2009",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "E86 (M)",
+   "s": "e86-m",
+   "d": "BMW Z4 M Coupe",
+   "y": "-",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "E87",
+   "s": "e87",
+   "d": "BMW 1 Series 5-door Sports Hatch",
+   "y": "2004 - 2007",
+   "b": "BMW",
+   "n": 12
+  },
+  {
+   "t": "model",
+   "c": "E87 (MUE)",
+   "s": "e87n",
+   "d": "BMW 1 Series 5-door Sports Hatch - LCI",
+   "y": "2006 - 2011",
+   "b": "BMW",
+   "n": 24
+  },
+  {
+   "t": "model",
+   "c": "E88",
+   "s": "e88",
+   "d": "BMW 1 Series Convertible",
+   "y": "2008 - 2015",
+   "b": "BMW",
+   "n": 24
+  },
+  {
+   "t": "model",
+   "c": "E89",
+   "s": "e89",
+   "d": "BMW Z4 Roadster",
+   "y": "2009 - 2016",
+   "b": "BMW",
+   "n": 18
+  },
+  {
+   "t": "model",
+   "c": "E90",
+   "s": "e90",
+   "d": "BMW 3 Series Sedan",
+   "y": "2005 - 2012",
+   "b": "BMW",
+   "n": 129
+  },
+  {
+   "t": "model",
+   "c": "E90 (M3)",
+   "s": "e90-m3",
+   "d": "BMW M3 Sedan",
+   "y": "-",
+   "b": "BMW",
+   "n": 8
+  },
+  {
+   "t": "model",
+   "c": "E90 (MUE)",
+   "s": "e90n",
+   "d": "BMW 3 Series Sedan - LCI",
+   "y": "2008 - 2012",
+   "b": "BMW",
+   "n": 125
+  },
+  {
+   "t": "model",
+   "c": "E91",
+   "s": "e91",
+   "d": "BMW 3 Series Touring",
+   "y": "2005 - 2013",
+   "b": "BMW",
+   "n": 53
+  },
+  {
+   "t": "model",
+   "c": "E91 (MUE)",
+   "s": "e91n",
+   "d": "BMW 3 Series Touring - LCI",
+   "y": "2008 - 2013",
+   "b": "BMW",
+   "n": 50
+  },
+  {
+   "t": "model",
+   "c": "E92",
+   "s": "e92",
+   "d": "BMW 3 Series Coupe",
+   "y": "2006 - 2010",
+   "b": "BMW",
+   "n": 41
+  },
+  {
+   "t": "model",
+   "c": "E92 (M3)",
+   "s": "e92-m3",
+   "d": "BMW M3 Coupe",
+   "y": "-",
+   "b": "BMW",
+   "n": 6
+  },
+  {
+   "t": "model",
+   "c": "E92 (MUE)",
+   "s": "e92n",
+   "d": "BMW 3 Series Coupe - LCI",
+   "y": "2010 - 2013",
+   "b": "BMW",
+   "n": 40
+  },
+  {
+   "t": "model",
+   "c": "E93",
+   "s": "e93",
+   "d": "BMW 3 Series Convertible",
+   "y": "2007 - 2010",
+   "b": "BMW",
+   "n": 27
+  },
+  {
+   "t": "model",
+   "c": "E93 (M3)",
+   "s": "e93-m3",
+   "d": "BMW M3 Convertible",
+   "y": "-",
+   "b": "BMW",
+   "n": 6
+  },
+  {
+   "t": "model",
+   "c": "E93 (MUE)",
+   "s": "e93n",
+   "d": "BMW 3 Series Convertible - LCI",
+   "y": "2010 - 2014",
+   "b": "BMW",
+   "n": 27
+  },
+  {
+   "t": "model",
+   "c": "F01",
+   "s": "f01",
+   "d": "BMW 7 Series Sedan",
+   "y": "2008 - 2012",
+   "b": "BMW",
+   "n": 17
+  },
+  {
+   "t": "model",
+   "c": "F01 (MUE)",
+   "s": "f01-lci",
+   "d": "BMW 7 Series Sedan - LCI",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 21
+  },
+  {
+   "t": "model",
+   "c": "F02",
+   "s": "f02",
+   "d": "BMW 7 Series Sedan - Long Wheelbase",
+   "y": "2008 - 2012",
+   "b": "BMW",
+   "n": 23
+  },
+  {
+   "t": "model",
+   "c": "F02 (MUE)",
+   "s": "f02-lci",
+   "d": "BMW 7 Series Sedan - Long Wheelbase - LCI",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 30
+  },
+  {
+   "t": "model",
+   "c": "F03",
+   "s": "f03",
+   "d": "BMW 7 Series Sedan - Protection",
+   "y": "2009 - 2012",
+   "b": "BMW",
+   "n": 4
+  },
+  {
+   "t": "model",
+   "c": "F03 (MUE)",
+   "s": "f03-lci",
+   "d": "BMW 7 Series Sedan - Protection - LCI",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "F04",
+   "s": "f04",
+   "d": "BMW 7 Series Sedan - ActiveHybrid",
+   "y": "2010 - 2012",
+   "b": "BMW",
+   "n": 4
+  },
+  {
+   "t": "model",
+   "c": "F06",
+   "s": "f06",
+   "d": "BMW 6 Series Gran Coup\u00e9",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 14
+  },
+  {
+   "t": "model",
+   "c": "F06 (M6)",
+   "s": "f06-m6",
+   "d": "BMW M6 Gran Coup\u00e9",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 6
+  },
+  {
+   "t": "model",
+   "c": "F07",
+   "s": "f07",
+   "d": "BMW 5 Series Gran Turismo",
+   "y": "2009 - 2012",
+   "b": "BMW",
+   "n": 31
+  },
+  {
+   "t": "model",
+   "c": "F07 (MUE)",
+   "s": "f07-lci",
+   "d": "BMW 5 Series Gran Turismo - LCI",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 21
+  },
+  {
+   "t": "model",
+   "c": "F10",
+   "s": "f10",
+   "d": "BMW 5 Series Sedan",
+   "y": "2010 - 2013",
+   "b": "BMW",
+   "n": 84
+  },
+  {
+   "t": "model",
+   "c": "F10 (M5)",
+   "s": "f10-m5",
+   "d": "BMW M5 Sedan",
+   "y": "-",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "F10 (MUE)",
+   "s": "f10-lci",
+   "d": "BMW 5 Series Sedan - LCI",
+   "y": "2013 -",
+   "b": "BMW",
+   "n": 70
+  },
+  {
+   "t": "model",
+   "c": "F11",
+   "s": "f11",
+   "d": "BMW 5 Series Touring",
+   "y": "2011 - 2013",
+   "b": "BMW",
+   "n": 38
+  },
+  {
+   "t": "model",
+   "c": "F11 (MUE)",
+   "s": "f11-lci",
+   "d": "BMW 5 Series Touring - LCI",
+   "y": "2013 -",
+   "b": "BMW",
+   "n": 30
+  },
+  {
+   "t": "model",
+   "c": "F12",
+   "s": "f12",
+   "d": "BMW 6 Series Convertible",
+   "y": "2012 - 2019",
+   "b": "BMW",
+   "n": 19
+  },
+  {
+   "t": "model",
+   "c": "F12 (M6)",
+   "s": "f12-m6",
+   "d": "BMW M6 Convertible",
+   "y": "-",
+   "b": "BMW",
+   "n": 6
+  },
+  {
+   "t": "model",
+   "c": "F13",
+   "s": "f13",
+   "d": "BMW 6 Series Coupe",
+   "y": "2011 - 2018",
+   "b": "BMW",
+   "n": 19
+  },
+  {
+   "t": "model",
+   "c": "F13 (M6)",
+   "s": "f13-m6",
+   "d": "BMW M6 Coupe",
+   "y": "-",
+   "b": "BMW",
+   "n": 6
+  },
+  {
+   "t": "model",
+   "c": "F15",
+   "s": "f15",
+   "d": "BMW X5 - Sports Activity Vehicle",
+   "y": "2013 - 2020",
+   "b": "BMW",
+   "n": 39
+  },
+  {
+   "t": "model",
+   "c": "F16",
+   "s": "f16",
+   "d": "BMW X6 - Sports Activity Coupe",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 16
+  },
+  {
+   "t": "model",
+   "c": "F18",
+   "s": "f18",
+   "d": "BMW 5 Series Sedan - Chinese Long Wheelbase",
+   "y": "2010 -",
+   "b": "BMW",
+   "n": 8
+  },
+  {
+   "t": "model",
+   "c": "F18 (MUE)",
+   "s": "f18-lci",
+   "d": "BMW 5 Series Sedan - Chinese Long Wheelbase - LCI",
+   "y": "2013 -",
+   "b": "BMW",
+   "n": 7
+  },
+  {
+   "t": "model",
+   "c": "F20",
+   "s": "f20",
+   "d": "BMW 1 Series 5-door Sports Hatch",
+   "y": "2011 - 2015",
+   "b": "BMW",
+   "n": 32
+  },
+  {
+   "t": "model",
+   "c": "F20 (MUE)",
+   "s": "f20-lci",
+   "d": "BMW 1 Series 5-door Sports Hatch",
+   "y": "2015 - 2018",
+   "b": "BMW",
+   "n": 33
+  },
+  {
+   "t": "model",
+   "c": "F21",
+   "s": "f21",
+   "d": "BMW 1 Series 3-door Sports Hatch",
+   "y": "2012 - 2015",
+   "b": "BMW",
+   "n": 25
+  },
+  {
+   "t": "model",
+   "c": "F21 (MUE)",
+   "s": "f21-lci",
+   "d": "BMW 1 Series 3-door Sports Hatch",
+   "y": "2015 - 2018",
+   "b": "BMW",
+   "n": 27
+  },
+  {
+   "t": "model",
+   "c": "F22",
+   "s": "f22",
+   "d": "BMW 2 Series Coupe",
+   "y": "2014 - 2021",
+   "b": "BMW",
+   "n": 28
+  },
+  {
+   "t": "model",
+   "c": "F22 (MUE)",
+   "s": "f22-lci",
+   "d": "BMW 2 Series Coupe - LCI",
+   "y": "2017 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F23",
+   "s": "f23",
+   "d": "BMW 2 Series Convertible",
+   "y": "2014 - 2021",
+   "b": "BMW",
+   "n": 20
+  },
+  {
+   "t": "model",
+   "c": "F23 (MUE)",
+   "s": "f23-lci",
+   "d": "BMW 2 Series Convertible - LCI",
+   "y": "2017 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F25",
+   "s": "f25",
+   "d": "BMW X3 - Sports Activity Vehicle",
+   "y": "2011 - 2018",
+   "b": "BMW",
+   "n": 51
+  },
+  {
+   "t": "model",
+   "c": "F25N",
+   "s": "f25n",
+   "d": "BMW X3 - Sports Activity Vehicle - LCI",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F26",
+   "s": "f26",
+   "d": "BMW X4 - Sports Activity Coupe",
+   "y": "2014 - 2021",
+   "b": "BMW",
+   "n": 20
+  },
+  {
+   "t": "model",
+   "c": "F30",
+   "s": "f30",
+   "d": "BMW 3 Series Sedan",
+   "y": "2012 - 2019",
+   "b": "BMW",
+   "n": 105
+  },
+  {
+   "t": "model",
+   "c": "F30 (MUE)",
+   "s": "f30-lci",
+   "d": "BMW 3 Series Sedan - LCI",
+   "y": "-",
+   "b": "BMW",
+   "n": 76
+  },
+  {
+   "t": "model",
+   "c": "F31",
+   "s": "f31",
+   "d": "BMW 3 Series Touring",
+   "y": "2012 - 2019",
+   "b": "BMW",
+   "n": 35
+  },
+  {
+   "t": "model",
+   "c": "F31 (MUE)",
+   "s": "f31-lci",
+   "d": "BMW 3 Series Touring - LCI",
+   "y": "-",
+   "b": "BMW",
+   "n": 31
+  },
+  {
+   "t": "model",
+   "c": "F32",
+   "s": "f32",
+   "d": "BMW 4 Series Coupe",
+   "y": "2013 - 2020",
+   "b": "BMW",
+   "n": 35
+  },
+  {
+   "t": "model",
+   "c": "F33",
+   "s": "f33",
+   "d": "BMW 4 Series Convertible",
+   "y": "2013 - 2020",
+   "b": "BMW",
+   "n": 26
+  },
+  {
+   "t": "model",
+   "c": "F34",
+   "s": "f34",
+   "d": "BMW 3 Series Gran Turismo",
+   "y": "2013 - 2020",
+   "b": "BMW",
+   "n": 38
+  },
+  {
+   "t": "model",
+   "c": "F35",
+   "s": "f35",
+   "d": "BMW 3 Series Sedan - Chinese Long Wheelbase",
+   "y": "2015 - 2022",
+   "b": "BMW",
+   "n": 5
+  },
+  {
+   "t": "model",
+   "c": "F35 (MUE)",
+   "s": "f35-lci",
+   "d": "BMW 3 Series Sedan - Chinese Long Wheelbase - LCI",
+   "y": "-",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "F36",
+   "s": "f36",
+   "d": "BMW 4 Series Gran Coupe",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 35
+  },
+  {
+   "t": "model",
+   "c": "F39",
+   "s": "f39",
+   "d": "BMW X2 - Sports Activity Coupe",
+   "y": "2018 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F40",
+   "s": "f40",
+   "d": "BMW 1 Series",
+   "y": "2019 - 2024",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F44",
+   "s": "f44",
+   "d": "BMW 2 Series Gran Coupe",
+   "y": "2020 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F45",
+   "s": "f45",
+   "d": "BMW 2 Series Active Tourer",
+   "y": "2014 - 2021",
+   "b": "BMW",
+   "n": 24
+  },
+  {
+   "t": "model",
+   "c": "F46",
+   "s": "f46",
+   "d": "BMW 2 Series Gran Tourer",
+   "y": "2015 - 2022",
+   "b": "BMW",
+   "n": 16
+  },
+  {
+   "t": "model",
+   "c": "F48",
+   "s": "f48",
+   "d": "BMW X1",
+   "y": "2015 - 2019",
+   "b": "BMW",
+   "n": 22
+  },
+  {
+   "t": "model",
+   "c": "F48 (MUE)",
+   "s": "f48-lci",
+   "d": "BMW X1 (LCI)",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F49",
+   "s": "f49",
+   "d": "BMW X1 - Long Wheelbase",
+   "y": "2016 -",
+   "b": "BMW",
+   "n": 5
+  },
+  {
+   "t": "model",
+   "c": "F52",
+   "s": "f52",
+   "d": "BMW 1 Series Sedan",
+   "y": "2016 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F70",
+   "s": "f70",
+   "d": "BMW 1 Series 5 door",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F80",
+   "s": "f80",
+   "d": "BMW M3 Sedan",
+   "y": "2014 - 2020",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "F82",
+   "s": "f82",
+   "d": "BMW M4 Coupe",
+   "y": "2014 - 2020",
+   "b": "BMW",
+   "n": 5
+  },
+  {
+   "t": "model",
+   "c": "F83",
+   "s": "f83",
+   "d": "BMW M4 Convertible",
+   "y": "2014 - 2020",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "F85",
+   "s": "f85",
+   "d": "BMW X5 M",
+   "y": "2014 - 2020",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "F86",
+   "s": "f86",
+   "d": "BMW X6 M",
+   "y": "2014 - 2020",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "F87",
+   "s": "f87",
+   "d": "BMW M2 Coupe",
+   "y": "2015 - 2020",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "F90",
+   "s": "f90",
+   "d": "BMW M5 Sedan",
+   "y": "2017 - 2020",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F90 (MUE)",
+   "s": "f90-lci",
+   "d": "BMW M5 Sedan - LCI",
+   "y": "2020 - 2024",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G01",
+   "s": "g01",
+   "d": "BMW X3 - Sports Activity Vehicle",
+   "y": "2017 - 2021",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G01 (MUE)",
+   "s": "g01-lci",
+   "d": "BMW X3 - Sports Activity Vehicle - LCI",
+   "y": "2021 - 2024",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F97",
+   "s": "f97",
+   "d": "BMW X3 M - Sports Activity Vehicle",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F97 (MUE)",
+   "s": "f97-lci",
+   "d": "BMW X3 M - Sports Activity Vehicle - LCI",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G02",
+   "s": "g02",
+   "d": "BMW X4 - Sports Activity Coupe",
+   "y": "2018 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G02 (MUE)",
+   "s": "g02-lci",
+   "d": "BMW X4 - Sports Activity Coupe - LCI",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F98",
+   "s": "f98",
+   "d": "BMW X4 M - Sports Activity Coupe",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F98 (MUE)",
+   "s": "f98-lci",
+   "d": "BMW X4 M - Sports Activity Coupe - LCI",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G05",
+   "s": "g05",
+   "d": "BMW X5 - Sports Activity Vehicle",
+   "y": "2018 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F95",
+   "s": "f95",
+   "d": "BMW X5 M / X5 M Competition",
+   "y": "2020 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G05 (MUE)",
+   "s": "g05-lci",
+   "d": "BMW X5 - Sports Activity Vehicle - LCI",
+   "y": "2023 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F95 (MUE)",
+   "s": "f95-lci",
+   "d": "BMW X5 M Competition - LCI",
+   "y": "2023 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G06",
+   "s": "g06",
+   "d": "BMW X6 - Sports Activity Coupe",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F96",
+   "s": "f96",
+   "d": "BMW X6 M Competition",
+   "y": "2020 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G06 (MUE)",
+   "s": "g06-lci",
+   "d": "BMW X6 - Sports Activity Coup\u00e9 - LCI",
+   "y": "2023 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F96 (MUE)",
+   "s": "f96-lci",
+   "d": "BMW X6 M Competition - LCI",
+   "y": "2023 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G07",
+   "s": "g07",
+   "d": "BMW X7 - Sports Activity Vehicle",
+   "y": "2018 - 2025",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G07 (MUE)",
+   "s": "g07-lci",
+   "d": "BMW X7 - Sports Activity Vehicle - LCI",
+   "y": "2022 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G08",
+   "s": "g08",
+   "d": "BMW iX3 - Sports Activity Vehicle",
+   "y": "2020 - 2021",
+   "b": "BMW",
+   "n": 2
+  },
+  {
+   "t": "model",
+   "c": "G08 (MUE)",
+   "s": "g08-lci",
+   "d": "BMW X3 - Sports Activity Vehicle - Long Wheelbase - LCI",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 2
+  },
+  {
+   "t": "model",
+   "c": "G09",
+   "s": "g09",
+   "d": "BMW XM",
+   "y": "2022 -",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "G11",
+   "s": "g11",
+   "d": "BMW 7 Series Sedan",
+   "y": "2015 - 2022",
+   "b": "BMW",
+   "n": 12
+  },
+  {
+   "t": "model",
+   "c": "G11 (MUE)",
+   "s": "g11-lci",
+   "d": "BMW 7 Series Sedan - LCI",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G12",
+   "s": "g12",
+   "d": "BMW 7 Series Sedan - Long Wheelbase",
+   "y": "2015 - 2022",
+   "b": "BMW",
+   "n": 14
+  },
+  {
+   "t": "model",
+   "c": "G12 (MUE)",
+   "s": "g12-lci",
+   "d": "BMW 7 Series Sedan - Long Wheelbase - LCI",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G14",
+   "s": "g14",
+   "d": "BMW 8 Series Convertible",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F91",
+   "s": "f91",
+   "d": "BMW M8 Convertible",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G15",
+   "s": "g15",
+   "d": "BMW 8 Series Coupe",
+   "y": "2018 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F92",
+   "s": "f92",
+   "d": "BMW M8 Coupe",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G16",
+   "s": "g16",
+   "d": "BMW 8 Series Gran Coupe",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F93",
+   "s": "f93",
+   "d": "BMW M8 Gran Coupe",
+   "y": "2020 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G18",
+   "s": "g18",
+   "d": "BMW X5 - Chinese Long Wheelbase",
+   "y": "2022 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G18 (MUE)",
+   "s": "g18-lci",
+   "d": "BMW X5 - Chinese Long Wheelbase - LCI",
+   "y": "2023 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G20",
+   "s": "g20",
+   "d": "BMW 3 Series Sedan",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G20 (MUE)",
+   "s": "g20-lci",
+   "d": "BMW 3 Series Sedan - LCI",
+   "y": "2022 - 2024",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G20 (MUE2)",
+   "s": "g20-lci2",
+   "d": "BMW 3 Series Sedan - LCI 2",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G80",
+   "s": "g80",
+   "d": "BMW M3 Sedan",
+   "y": "2020 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G80 (MUE)",
+   "s": "g20-lci",
+   "d": "BMW M3 Sedan - LCI",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G21",
+   "s": "g21",
+   "d": "BMW 3 Series Touring",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G21 (MUE)",
+   "s": "g21-lci",
+   "d": "BMW 3 Series Touring - LCI",
+   "y": "2022 - 2024",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G21 (MUE2)",
+   "s": "g21-lci2",
+   "d": "BMW 3 Series Touring - LCI 2",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G81",
+   "s": "g81",
+   "d": "BMW M3 Touring",
+   "y": "2022 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G81 (MUE)",
+   "s": "g81-lci",
+   "d": "BMW M3 Touring - LCI",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G22",
+   "s": "g22",
+   "d": "BMW 4 Series Coupe",
+   "y": "2020 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G22 (MUE)",
+   "s": "g22-lci",
+   "d": "BMW 4 Series Coupe - LCI",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G82",
+   "s": "g82",
+   "d": "BMW M4 Coupe",
+   "y": "2020 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G82 (MUE)",
+   "s": "g82-lci",
+   "d": "BMW M4 Coupe - LCI",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G23",
+   "s": "g23",
+   "d": "BMW 4 Series Convertible",
+   "y": "2020 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G23 (MUE)",
+   "s": "g23-lci",
+   "d": "BMW 4 Series Convertible - LCI",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G83",
+   "s": "g83",
+   "d": "BMW M4 Convertible",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G83 (MUE)",
+   "s": "g83-lci",
+   "d": "BMW M4 Convertible - LCI",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G26",
+   "s": "g26",
+   "d": "BMW 4 Series Gran Coupe",
+   "y": "2021 - 2024",
+   "b": "BMW",
+   "n": 4
+  },
+  {
+   "t": "model",
+   "c": "G26 (MUE)",
+   "s": "g26-lci",
+   "d": "BMW 4 Series Gran Coupe - LCI",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G28",
+   "s": "g28",
+   "d": "BMW 3 Series Sedan - Chinese Long Wheelbase",
+   "y": "2022 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G29",
+   "s": "g29",
+   "d": "BMW Z4 Roadster",
+   "y": "2019 -",
+   "b": "BMW",
+   "n": 1
+  },
+  {
+   "t": "model",
+   "c": "G30",
+   "s": "g30",
+   "d": "BMW 5 Series Sedan",
+   "y": "2017 - 2020",
+   "b": "BMW",
+   "n": 25
+  },
+  {
+   "t": "model",
+   "c": "G30 (MUE)",
+   "s": "g30-lci",
+   "d": "BMW 5 Series Sedan - LCI",
+   "y": "2020 - 2024",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G31",
+   "s": "g31",
+   "d": "BMW 5 Series Touring",
+   "y": "2017 - 2020",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G31 (MUE)",
+   "s": "g31-lci",
+   "d": "BMW 5 Series Touring - LCI",
+   "y": "2020 - 2024",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G32",
+   "s": "g32",
+   "d": "BMW 6 Series Gran Turismo",
+   "y": "2017 - 2020",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G32 (MUE)",
+   "s": "g32-lci",
+   "d": "BMW 6 Series Gran Turismo - LCI",
+   "y": "2020 - 2024",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G38",
+   "s": "g38",
+   "d": "BMW 5 Series Sedan - Chinese Long Wheelbase",
+   "y": "2017 - 2024",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G42",
+   "s": "g42",
+   "d": "BMW 2 Series Coupe",
+   "y": "2021 - 2024",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G42 (MUE)",
+   "s": "g42-lci",
+   "d": "BMW 2 Series Coupe - LCI",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G87",
+   "s": "g87",
+   "d": "BMW M2",
+   "y": "2022 - 2024",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "G87 (MUE)",
+   "s": "g87-lci",
+   "d": "BMW M2 Coupe - LCI",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G45",
+   "s": "g45",
+   "d": "BMW X3 - Sports Activity Vehicle",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G48",
+   "s": "g48",
+   "d": "BMW X3 - Sports Activity Vehicle - Long Wheelbase",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G60",
+   "s": "g60",
+   "d": "BMW 5 Series Sedan",
+   "y": "2023 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G61",
+   "s": "g61",
+   "d": "BMW 5 Series Toruing",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G68",
+   "s": "g68",
+   "d": "BMW 5 Series Sedan - Chinese Long Wheelbase",
+   "y": "2023 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G90",
+   "s": "g90",
+   "d": "BMW M5 Sedan",
+   "y": "2024 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G70",
+   "s": "g70",
+   "d": "BMW 7 Series",
+   "y": "2022 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G70 (MUE)",
+   "s": "g70-lci",
+   "d": "BMW 7 Series",
+   "y": "2026 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "G73",
+   "s": "g73",
+   "d": "BMW 7 Series Sedan - Protection",
+   "y": "2023 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "U06",
+   "s": "u06",
+   "d": "BMW 2 Series Active Tourer",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "U10",
+   "s": "u10",
+   "d": "BMW X2 - Sports Activity Coupe",
+   "y": "2023 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "U11",
+   "s": "u11",
+   "d": "BMW X1 - Sports Activity Vehicle",
+   "y": "2022 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "I01",
+   "s": "i01",
+   "d": "BMW i3",
+   "y": "2013 - 2024",
+   "b": "BMW",
+   "n": 6
+  },
+  {
+   "t": "model",
+   "c": "I12",
+   "s": "i12",
+   "d": "BMW i8 Coupe",
+   "y": "2014 - 2018",
+   "b": "BMW",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "I15",
+   "s": "i15",
+   "d": "BMW i8 roadster",
+   "y": "2018 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "I20",
+   "s": "i20",
+   "d": "BMW iX",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 4
+  },
+  {
+   "t": "model",
+   "c": "NA0",
+   "s": "na0",
+   "d": "BMW i3 Sedan",
+   "y": "2026 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "NA5",
+   "s": "na5",
+   "d": "BMW iX3 - Sports Activity Vehicle",
+   "y": "2025 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "R50 (1)",
+   "s": "r50",
+   "d": "MINI One, MINI One D",
+   "y": "2000 - 2006",
+   "b": "MINI",
+   "n": 5
+  },
+  {
+   "t": "model",
+   "c": "R50 (2)",
+   "s": "r50-2",
+   "d": "MINI Cooper",
+   "y": "2000 - 2006",
+   "b": "MINI",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "R52",
+   "s": "r52",
+   "d": "MINI Convertible",
+   "y": "2002 - 2008",
+   "b": "MINI",
+   "n": 8
+  },
+  {
+   "t": "model",
+   "c": "R53",
+   "s": "r53",
+   "d": "MINI Cooper S, MINI Cooper S JCW GP",
+   "y": "2000 - 2006",
+   "b": "MINI",
+   "n": 6
+  },
+  {
+   "t": "model",
+   "c": "R55",
+   "s": "r55",
+   "d": "MINI Clubman",
+   "y": "2007 - 2014",
+   "b": "MINI",
+   "n": 10
+  },
+  {
+   "t": "model",
+   "c": "R55 (JCW)",
+   "s": "r55-jcw",
+   "d": "MINI Clubman - John Cooper Works",
+   "y": "-",
+   "b": "MINI",
+   "n": 9
+  },
+  {
+   "t": "model",
+   "c": "R55 (MUE)",
+   "s": "r55-lci",
+   "d": "MINI Clubman - LCI",
+   "y": "-",
+   "b": "MINI",
+   "n": 16
+  },
+  {
+   "t": "model",
+   "c": "R56",
+   "s": "r56",
+   "d": "MINI",
+   "y": "2005 - 2012",
+   "b": "MINI",
+   "n": 12
+  },
+  {
+   "t": "model",
+   "c": "R56 (BEV)",
+   "s": "r56-bev",
+   "d": "MINI E",
+   "y": "-",
+   "b": "MINI",
+   "n": 1
+  },
+  {
+   "t": "model",
+   "c": "R56 (JCW)",
+   "s": "r56-jcw",
+   "d": "MINI - John Cooper Works",
+   "y": "-",
+   "b": "MINI",
+   "n": 9
+  },
+  {
+   "t": "model",
+   "c": "R56 (MUE)",
+   "s": "r56-lci",
+   "d": "MINI - LCI",
+   "y": "-",
+   "b": "MINI",
+   "n": 22
+  },
+  {
+   "t": "model",
+   "c": "R57",
+   "s": "r57",
+   "d": "MINI Convertible",
+   "y": "2008 - 2015",
+   "b": "MINI",
+   "n": 6
+  },
+  {
+   "t": "model",
+   "c": "R57 (JCW)",
+   "s": "r57-jcw",
+   "d": "MINI Convertible - John Cooper Works",
+   "y": "-",
+   "b": "MINI",
+   "n": 9
+  },
+  {
+   "t": "model",
+   "c": "R57 (MUE)",
+   "s": "r57-mue",
+   "d": "MINI Convertible - LCI",
+   "y": "-",
+   "b": "MINI",
+   "n": 14
+  },
+  {
+   "t": "model",
+   "c": "R58",
+   "s": "r58",
+   "d": "MINI Coupe",
+   "y": "2012 - 2019",
+   "b": "MINI",
+   "n": 8
+  },
+  {
+   "t": "model",
+   "c": "R58 (JCW)",
+   "s": "r58-jcw",
+   "d": "MINI Coupe - John Cooper Works",
+   "y": "-",
+   "b": "MINI",
+   "n": 6
+  },
+  {
+   "t": "model",
+   "c": "R59",
+   "s": "r59",
+   "d": "MINI Roadster",
+   "y": "2012 - 2019",
+   "b": "MINI",
+   "n": 8
+  },
+  {
+   "t": "model",
+   "c": "R59 (JCW)",
+   "s": "r59-jcw",
+   "d": "MINI Roadster - John Cooper Works",
+   "y": "-",
+   "b": "MINI",
+   "n": 6
+  },
+  {
+   "t": "model",
+   "c": "R60",
+   "s": "r60",
+   "d": "MINI Countryman",
+   "y": "2010 - 2017",
+   "b": "MINI",
+   "n": 38
+  },
+  {
+   "t": "model",
+   "c": "R60 (JCW)",
+   "s": "r60-jcw",
+   "d": "MINI Countryman - John Cooper Works",
+   "y": "-",
+   "b": "MINI",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "R61",
+   "s": "r61",
+   "d": "MINI Paceman",
+   "y": "2013 - 2020",
+   "b": "MINI",
+   "n": 25
+  },
+  {
+   "t": "model",
+   "c": "R61 (JCW)",
+   "s": "r61-jcw",
+   "d": "MINI Paceman - John Cooper Works",
+   "y": "-",
+   "b": "MINI",
+   "n": 3
+  },
+  {
+   "t": "model",
+   "c": "F54",
+   "s": "f54",
+   "d": "MINI Clubman",
+   "y": "2015 - 2021",
+   "b": "MINI",
+   "n": 16
+  },
+  {
+   "t": "model",
+   "c": "F55",
+   "s": "f55",
+   "d": "MINI 5 door",
+   "y": "2015 - 2021",
+   "b": "MINI",
+   "n": 19
+  },
+  {
+   "t": "model",
+   "c": "F55 (MUE)",
+   "s": "f55-lci",
+   "d": "MINI 5 door - LCI",
+   "y": "2021 -",
+   "b": "MINI",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F56",
+   "s": "f56",
+   "d": "MINI 3 door",
+   "y": "2013 - 2021",
+   "b": "MINI",
+   "n": 23
+  },
+  {
+   "t": "model",
+   "c": "F56 (MUE)",
+   "s": "f56-lci",
+   "d": "MINI 3 door - LCI",
+   "y": "2021 -",
+   "b": "MINI",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F57",
+   "s": "f57",
+   "d": "MINI Convertible",
+   "y": "2016 - 2021",
+   "b": "MINI",
+   "n": 11
+  },
+  {
+   "t": "model",
+   "c": "F57 (MUE)",
+   "s": "f57-lci",
+   "d": "MINI Convertible - LCI",
+   "y": "2021 -",
+   "b": "MINI",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F60",
+   "s": "f60",
+   "d": "MINI Countryman",
+   "y": "2017 - 2025",
+   "b": "MINI",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "J01",
+   "s": "j01",
+   "d": "MINI 3 door BEV",
+   "y": "2023 -",
+   "b": "MINI",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "J05",
+   "s": "j05",
+   "d": "MINI Aceman",
+   "y": "2024 -",
+   "b": "MINI",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F65",
+   "s": "f65",
+   "d": "MINI 5 door",
+   "y": "2024 -",
+   "b": "MINI",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "F66",
+   "s": "f66",
+   "d": "MINI 3 door",
+   "y": "2024 -",
+   "b": "MINI",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "U25",
+   "s": "u25",
+   "d": "MINI Countryman",
+   "y": "2023 -",
+   "b": "MINI",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "RR1",
+   "s": "rr1",
+   "d": "Rolls-Royce Phantom",
+   "y": "2003 - 2017",
+   "b": "Rolls-Royce",
+   "n": 4
+  },
+  {
+   "t": "model",
+   "c": "RR2",
+   "s": "rr2",
+   "d": "Rolls-Royce Phantom Drophead Coupe",
+   "y": "2007 - 2014",
+   "b": "Rolls-Royce",
+   "n": 5
+  },
+  {
+   "t": "model",
+   "c": "RR3",
+   "s": "rr3",
+   "d": "Rolls-Royce Phantom Coupe",
+   "y": "2008 - 2015",
+   "b": "Rolls-Royce",
+   "n": 5
+  },
+  {
+   "t": "model",
+   "c": "RR4",
+   "s": "rr4",
+   "d": "Rolls-Royce Ghost",
+   "y": "2009 -",
+   "b": "Rolls-Royce",
+   "n": 4
+  },
+  {
+   "t": "model",
+   "c": "RR5",
+   "s": "rr5",
+   "d": "Rolls-Royce Wraith",
+   "y": "2013 -",
+   "b": "Rolls-Royce",
+   "n": 4
+  },
+  {
+   "t": "model",
+   "c": "RR6",
+   "s": "rr6",
+   "d": "Rolls-Royce Dawn",
+   "y": "2016 -",
+   "b": "Rolls-Royce",
+   "n": 1
+  },
+  {
+   "t": "model",
+   "c": "RR11",
+   "s": "rr11",
+   "d": "Rolls-Royce Phantom",
+   "y": "2017 -",
+   "b": "Rolls-Royce",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "RR12",
+   "s": "rr12",
+   "d": "Rolls-Royce Phantom EWB",
+   "y": "2017 -",
+   "b": "Rolls-Royce",
+   "n": 0
+  },
+  {
+   "t": "model",
+   "c": "RR25",
+   "s": "rr25",
+   "d": "Rolls-Royce Spectre",
+   "y": "2023 -",
+   "b": "Rolls-Royce",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B37C15K0",
+   "s": "b37c15k0",
+   "d": "B37 \u00b7 1496 cm\u00b3 \u00b7 95 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B37C15U0",
+   "s": "b37c15u0",
+   "d": "B37 \u00b7 1496 cm\u00b3 \u00b7 116 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B37D15U0",
+   "s": "b37d15u0",
+   "d": "B37 \u00b7 1496 cm\u00b3 \u00b7 116 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B38A12U0",
+   "s": "b38a12u0-first",
+   "d": "B38 \u00b7 1198 cm\u00b3 \u00b7 75 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B38A12U0",
+   "s": "b38a12u0",
+   "d": "B38 \u00b7 1198 cm\u00b3 \u00b7 102 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B38A15M0",
+   "s": "b38a15m0",
+   "d": "B38 \u00b7 1499 cm\u00b3 \u00b7 136 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B38K15T0",
+   "s": "b38k15t0",
+   "d": "B38 \u00b7 1499 cm\u00b3 \u00b7 231 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B38B15M0",
+   "s": "b38b15m0",
+   "d": "B38 \u00b7 1499 cm\u00b3 \u00b7 109 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B38B15M0",
+   "s": "b38b15m0-100",
+   "d": "B38 \u00b7 1499 cm\u00b3 \u00b7 136 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B47C20U0",
+   "s": "b47c20u0",
+   "d": "B47 \u00b7 1995 cm\u00b3 \u00b7 150 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B47D20O0",
+   "s": "b47d20o0-110",
+   "d": "B47 \u00b7 1995 cm\u00b3 \u00b7 150 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B47C20O0",
+   "s": "b47c20o0",
+   "d": "B47 \u00b7 1995 cm\u00b3 \u00b7 170 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B47C20O0",
+   "s": "b47c20o0-140",
+   "d": "B47 \u00b7 1995 cm\u00b3 \u00b7 190 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B47D20O0",
+   "s": "b47d20o0",
+   "d": "B47 \u00b7 1995 cm\u00b3 \u00b7 190 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B47D20K0",
+   "s": "b47d20k0",
+   "d": "B47 \u00b7 1995 cm\u00b3 \u00b7 116 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B47D20O0",
+   "s": "b47d20o0-ee",
+   "d": "B47 \u00b7 1995 cm\u00b3 \u00b7 163 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B47D20T0",
+   "s": "b47d20t0",
+   "d": "B47 \u00b7 1995 cm\u00b3 \u00b7 224 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B47D20T0",
+   "s": "b47d20t0-f15",
+   "d": "B47 \u00b7 1995 cm\u00b3 \u00b7 231 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B48A20M0",
+   "s": "b48a20m0",
+   "d": "B48 \u00b7 1998 cm\u00b3 \u00b7 192 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B48A20O0",
+   "s": "b48a20o0",
+   "d": "B48 \u00b7 1998 cm\u00b3 \u00b7 231 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B48B20M0",
+   "s": "b48b20m0",
+   "d": "B48 \u00b7 1998 cm\u00b3 \u00b7 184 PS",
+   "y": "2016 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B57D30O0",
+   "s": "b57d30o0",
+   "d": "B57 \u00b7 2993 cm\u00b3 \u00b7 265 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B57D30T0",
+   "s": "b57d30t0",
+   "d": "B57 \u00b7 2993 cm\u00b3 \u00b7 320 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B58B30M0",
+   "s": "b58b30m0",
+   "d": "B58 \u00b7 2998 cm\u00b3 \u00b7 326 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "B58B30M0",
+   "s": "b58b30m0",
+   "d": "B58 \u00b7 2998 cm\u00b3 \u00b7 326 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "DA 1, 2, 4",
+   "s": "da-1-2-4",
+   "d": "DA \u00b7 748 cm\u00b3 \u00b7 15 PS",
+   "y": "1927 - 1932",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "DA 3",
+   "s": "da-3",
+   "d": "DA \u00b7 748 cm\u00b3 \u00b7 18 PS",
+   "y": "1930 - 1931",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "HA0001N0",
+   "s": "ha0001n0",
+   "d": "HA0 \u00b7 ? cm\u00b3 \u00b7 286 PS",
+   "y": "2020 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "HA0001N0",
+   "s": "ha0001n0-g26",
+   "d": "HA0 \u00b7 ? cm\u00b3 \u00b7 340 PS",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "XE2A01N0",
+   "s": "xe2a01n0",
+   "d": "HA0 \u00b7 ? cm\u00b3 \u00b7 326 PS",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "XE2A01N0",
+   "s": "xe2a01n0-i20-50",
+   "d": "HA0 \u00b7 ? cm\u00b3 \u00b7 523 PS",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "XE2A02N0",
+   "s": "xe2a02n0",
+   "d": "HA0 \u00b7 ? cm\u00b3 \u00b7 544 PS",
+   "y": "2021 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M2B33",
+   "s": "m2b33",
+   "d": "M2 \u00b7 494 cm\u00b3 \u00b7 ? PS",
+   "y": "1923 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M21D25",
+   "s": "m21d25-d",
+   "d": "M21 \u00b7 2443 cm\u00b3 \u00b7 84 PS",
+   "y": "1985 - 1990",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M21D25",
+   "s": "m21d25-td",
+   "d": "M21 \u00b7 2443 cm\u00b3 \u00b7 114 PS",
+   "y": "1987 - 1991",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M40B18",
+   "s": "m40b18-kat",
+   "d": "M40 \u00b7 1786 cm\u00b3 \u00b7 111 PS",
+   "y": "1987 - 1994",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M40B18",
+   "s": "m40b18",
+   "d": "M40 \u00b7 1786 cm\u00b3 \u00b7 114 PS",
+   "y": "1987 - 1993",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M40B16",
+   "s": "m40b16-kat",
+   "d": "M40 \u00b7 1596 cm\u00b3 \u00b7 98 PS",
+   "y": "1988 - 1994",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M40B16",
+   "s": "m40b16",
+   "d": "M40 \u00b7 1596 cm\u00b3 \u00b7 101 PS",
+   "y": "1988 - 1994",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M41D17",
+   "s": "m41d17",
+   "d": "M41 \u00b7 1665 cm\u00b3 \u00b7 90 PS",
+   "y": "1994 - 2000",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M42B18",
+   "s": "m42b18",
+   "d": "M42 \u00b7 1796 cm\u00b3 \u00b7 136 PS",
+   "y": "1989 - 1992",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M42B18",
+   "s": "m42b18-1992",
+   "d": "M42 \u00b7 1796 cm\u00b3 \u00b7 140 PS",
+   "y": "1991 - 1996",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M43B18",
+   "s": "m43b18",
+   "d": "M43 \u00b7 1796 cm\u00b3 \u00b7 115 PS",
+   "y": "1992 - 1999",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M43B16",
+   "s": "m43b16",
+   "d": "M43 \u00b7 1596 cm\u00b3 \u00b7 102 PS",
+   "y": "1993 - 2002",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M43B16",
+   "s": "m43b16-cng",
+   "d": "M43 \u00b7 1596 cm\u00b3 \u00b7 82 PS",
+   "y": "1995 - 2000",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M43TUB19",
+   "s": "m43b19-tu-ol",
+   "d": "M43 \u00b7 1895 cm\u00b3 \u00b7 118 PS",
+   "y": "1995 - 2002",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M43TUB19",
+   "s": "m43b19-tu-ul",
+   "d": "M43 \u00b7 1895 cm\u00b3 \u00b7 105 PS",
+   "y": "1998 - 2002",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M44B19",
+   "s": "m44b19",
+   "d": "M44 \u00b7 1896 cm\u00b3 \u00b7 138 PS",
+   "y": "1994 - 2000",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M47D20U0",
+   "s": "m47d20u0",
+   "d": "M47 \u00b7 1950 cm\u00b3 \u00b7 116 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M47D20U1",
+   "s": "m47d20u1",
+   "d": "M47 \u00b7 1995 cm\u00b3 \u00b7 116 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M47D20O0",
+   "s": "m47d20o0",
+   "d": "M47 \u00b7 1950 cm\u00b3 \u00b7 ? PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M47D20U2",
+   "s": "m47d20u2",
+   "d": "M47 \u00b7 1995 cm\u00b3 \u00b7 122 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M47D20O1",
+   "s": "m47d20o1",
+   "d": "M47 \u00b7 1995 cm\u00b3 \u00b7 ? PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M47D20O2",
+   "s": "m47d20o2",
+   "d": "M47 \u00b7 1995 cm\u00b3 \u00b7 150 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M47D20O2",
+   "s": "m47d20o2-120",
+   "d": "M47 \u00b7 1995 cm\u00b3 \u00b7 163 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M50B20",
+   "s": "m50b20",
+   "d": "M50 \u00b7 1991 cm\u00b3 \u00b7 150 PS",
+   "y": "1994 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M51D25 OL",
+   "s": "m51d25-ol",
+   "d": "M51 \u00b7 2497 cm\u00b3 \u00b7 143 PS",
+   "y": "1990 - 1996",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M51D25 UL",
+   "s": "m51d25-ul",
+   "d": "M51 \u00b7 2497 cm\u00b3 \u00b7 115 PS",
+   "y": "1991 - 1997",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M51D25T\u00dc",
+   "s": "m51d25-tu-ol",
+   "d": "M51 \u00b7 2497 cm\u00b3 \u00b7 143 PS",
+   "y": "1995 - 2000",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M51D25T\u00dc",
+   "s": "m51d25-tu-ul",
+   "d": "M51 \u00b7 2497 cm\u00b3 \u00b7 115 PS",
+   "y": "1996 - 2000",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30O0",
+   "s": "m57d30o0",
+   "d": "M57 \u00b7 2926 cm\u00b3 \u00b7 184 PS",
+   "y": "1998 - 2000",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30O0",
+   "s": "m57d30o0-410",
+   "d": "M57 \u00b7 2926 cm\u00b3 \u00b7 184 PS",
+   "y": "1998 - 2003",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D25O0",
+   "s": "m57d25o0",
+   "d": "M57 \u00b7 2497 cm\u00b3 \u00b7 163 PS",
+   "y": "2000 - 2004",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30O0",
+   "s": "m57d30o0-e39",
+   "d": "M57 \u00b7 2926 cm\u00b3 \u00b7 193 PS",
+   "y": "2000 - 2004",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30O1",
+   "s": "m57d30o1-500",
+   "d": "M57 \u00b7 2993 cm\u00b3 \u00b7 218 PS",
+   "y": "2002 - 2006",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30O1",
+   "s": "m57d30o1",
+   "d": "M57 \u00b7 2993 cm\u00b3 \u00b7 204 PS",
+   "y": "2003 - 2006",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D25O1",
+   "s": "m57d25o1",
+   "d": "M57 \u00b7 2497 cm\u00b3 \u00b7 177 PS",
+   "y": "2004 - 2007",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30T1",
+   "s": "m57d30t1",
+   "d": "M57 \u00b7 2993 cm\u00b3 \u00b7 272 PS",
+   "y": "2004 - 2007",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30O2",
+   "s": "m57d30o2-520",
+   "d": "M57 \u00b7 2993 cm\u00b3 \u00b7 231 PS",
+   "y": "2005 - 2008",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30O2",
+   "s": "m57d30o2",
+   "d": "M57 \u00b7 2993 cm\u00b3 \u00b7 231 PS",
+   "y": "2005 - 2010",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30O2",
+   "s": "m57d30o2-e83",
+   "d": "M57 \u00b7 2993 cm\u00b3 \u00b7 218 PS",
+   "y": "2005 - 2010",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30O2",
+   "s": "m57d30o2-e6x",
+   "d": "M57 \u00b7 2993 cm\u00b3 \u00b7 235 PS",
+   "y": "2005 - 2010",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30O2",
+   "s": "m57d30o2-e7x",
+   "d": "M57 \u00b7 2993 cm\u00b3 \u00b7 235 PS",
+   "y": "2006 - 2010",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30U2",
+   "s": "m57d30u2",
+   "d": "M57 \u00b7 2993 cm\u00b3 \u00b7 197 PS",
+   "y": "2006 - 2010",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M57D30T2",
+   "s": "m57d30t2",
+   "d": "M57 \u00b7 2993 cm\u00b3 \u00b7 286 PS",
+   "y": "2006 - 2010",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M62B44T\u00dc",
+   "s": "m62b44-tu",
+   "d": "M62 \u00b7 4398 cm\u00b3 \u00b7 286 PS",
+   "y": "1998 - 2005",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M67D40O0",
+   "s": "m67d40o0",
+   "d": "M67 \u00b7 3901 cm\u00b3 \u00b7 245 PS",
+   "y": "1998 - 2001",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M67D40O0",
+   "s": "m67d40o0-e65",
+   "d": "M67 \u00b7 3901 cm\u00b3 \u00b7 258 PS",
+   "y": "2002 - 2005",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M67D44O1",
+   "s": "m67d44o1",
+   "d": "M67 \u00b7 4420 cm\u00b3 \u00b7 299 PS",
+   "y": "2005 - 2008",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M70B50",
+   "s": "m70b50",
+   "d": "M70 \u00b7 4988 cm\u00b3 \u00b7 300 PS",
+   "y": "1987 - 1994",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M72B54",
+   "s": "m72b54",
+   "d": "M72 \u00b7 5379 cm\u00b3 \u00b7 360 PS",
+   "y": "1989 - 1989",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M73B54",
+   "s": "m73b54",
+   "d": "M73 \u00b7 5379 cm\u00b3 \u00b7 326 PS",
+   "y": "1994 - 1998",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M73B54T\u00dc",
+   "s": "m73b54-tu",
+   "d": "M73 \u00b7 5379 cm\u00b3 \u00b7 326 PS",
+   "y": "1998 - 2002",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N13B16U0",
+   "s": "n13b16u0",
+   "d": "N13 \u00b7 1598 cm\u00b3 \u00b7 136 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N13B16M0",
+   "s": "n13b16m0",
+   "d": "N13 \u00b7 1598 cm\u00b3 \u00b7 170 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N13B16K0",
+   "s": "n13b16k0",
+   "d": "N13 \u00b7 1598 cm\u00b3 \u00b7 102 PS",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N13B16M0",
+   "s": "n13b16m0-130",
+   "d": "N13 \u00b7 1598 cm\u00b3 \u00b7 177 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N16B16K0",
+   "s": "n16b16k0",
+   "d": "N16 \u00b7 1598 cm\u00b3 \u00b7 75 PS",
+   "y": "2013 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N16B16U0",
+   "s": "n16b16u0",
+   "d": "N16 \u00b7 1598 cm\u00b3 \u00b7 98 PS",
+   "y": "2013 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N16B16M0",
+   "s": "n16b16m0",
+   "d": "N16 \u00b7 1598 cm\u00b3 \u00b7 120 PS",
+   "y": "2013 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N18B16T0",
+   "s": "n18b16t0",
+   "d": "N18 \u00b7 1598 cm\u00b3 \u00b7 211 PS",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N18B16U0",
+   "s": "n18b16u0",
+   "d": "N18 \u00b7 1598 cm\u00b3 \u00b7 120 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N18B16M0",
+   "s": "n18b16m0",
+   "d": "N18 \u00b7 1598 cm\u00b3 \u00b7 184 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N18B16T0",
+   "s": "n18b16t0-160",
+   "d": "N18 \u00b7 1598 cm\u00b3 \u00b7 218 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N20B20O0",
+   "s": "n20b20o0",
+   "d": "N20 \u00b7 1997 cm\u00b3 \u00b7 245 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N20B20U0",
+   "s": "n20b20u0",
+   "d": "N20 \u00b7 1997 cm\u00b3 \u00b7 184 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N20B20U0",
+   "s": "n20b20u0-hv",
+   "d": "N20 \u00b7 1997 cm\u00b3 \u00b7 184 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N20B20M0",
+   "s": "n20b20m0",
+   "d": "N20 \u00b7 1997 cm\u00b3 \u00b7 218 PS",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N20B16U0",
+   "s": "n20b16u0",
+   "d": "N20 \u00b7 1598 cm\u00b3 \u00b7 143 PS",
+   "y": "2013 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N20B20U0",
+   "s": "n20b20u0-18i",
+   "d": "N20 \u00b7 1997 cm\u00b3 \u00b7 156 PS",
+   "y": "2013 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N20B16U0",
+   "s": "n20b16u0-turk",
+   "d": "N20 \u00b7 1598 cm\u00b3 \u00b7 170 PS",
+   "y": "2013 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N26B20O0",
+   "s": "n26b20o0",
+   "d": "N26 \u00b7 1997 cm\u00b3 \u00b7 245 PS",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N40B16",
+   "s": "n40b16",
+   "d": "N40 \u00b7 1596 cm\u00b3 \u00b7 115 PS",
+   "y": "2001 - 2004",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N42B18",
+   "s": "n42b18",
+   "d": "N42 \u00b7 1796 cm\u00b3 \u00b7 115 PS",
+   "y": "2001 - 2004",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N42B20",
+   "s": "n42b20",
+   "d": "N42 \u00b7 1995 cm\u00b3 \u00b7 143 PS",
+   "y": "2001 - 2004",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N43B20K0",
+   "s": "n43b20k0",
+   "d": "N43 \u00b7 1995 cm\u00b3 \u00b7 122 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N43B16O0",
+   "s": "n43b16o0",
+   "d": "N43 \u00b7 1599 cm\u00b3 \u00b7 122 PS",
+   "y": "2007 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N43B20U0",
+   "s": "n43b20u0",
+   "d": "N43 \u00b7 1995 cm\u00b3 \u00b7 143 PS",
+   "y": "2007 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N43B20O0",
+   "s": "n43b20o0",
+   "d": "N43 \u00b7 1995 cm\u00b3 \u00b7 170 PS",
+   "y": "2007 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N45B16O1",
+   "s": "n45b16o1",
+   "d": "N45 \u00b7 1596 cm\u00b3 \u00b7 116 PS",
+   "y": "2003 - 2007",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N45B20O0",
+   "s": "n45b20o0",
+   "d": "N45 \u00b7 1997 cm\u00b3 \u00b7 173 PS",
+   "y": "2005 - 2006",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N45B16O2",
+   "s": "n45b16o2",
+   "d": "N45 \u00b7 1596 cm\u00b3 \u00b7 116 PS",
+   "y": "2007 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N46B20U2",
+   "s": "n46b20u2",
+   "d": "N46 \u00b7 1995 cm\u00b3 \u00b7 136 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N46B20O2",
+   "s": "n46b20o2",
+   "d": "N46 \u00b7 1995 cm\u00b3 \u00b7 156 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N46B18O0",
+   "s": "n46b18o0",
+   "d": "N46 \u00b7 1796 cm\u00b3 \u00b7 115 PS",
+   "y": "2003 - 2005",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N46B20U1",
+   "s": "n46b20u1",
+   "d": "N46 \u00b7 1995 cm\u00b3 \u00b7 129 PS",
+   "y": "2004 - 2007",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N46B20O1",
+   "s": "n46b20o1",
+   "d": "N46 \u00b7 1995 cm\u00b3 \u00b7 150 PS",
+   "y": "2004 - 2008",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D20K1",
+   "s": "n47d20k1",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 116 PS",
+   "y": "2007 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D20K0",
+   "s": "n47d20k0",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 116 PS",
+   "y": "2007 - 2014",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D20U0",
+   "s": "n47d20u0",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 143 PS",
+   "y": "2007 - 2014",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D20O0",
+   "s": "n47d20o0",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 177 PS",
+   "y": "2007 - 2014",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D20T0",
+   "s": "n47d20t0",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 204 PS",
+   "y": "2007 - 2014",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D20U1",
+   "s": "n47d20u1",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 143 PS",
+   "y": "2010 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D20O1",
+   "s": "n47d20o1",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 184 PS",
+   "y": "2010 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47C16K1",
+   "s": "n47c16k1",
+   "d": "N47 \u00b7 1598 cm\u00b3 \u00b7 90 PS",
+   "y": "2010 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47C16U1",
+   "s": "n47c16u1",
+   "d": "N47 \u00b7 1598 cm\u00b3 \u00b7 112 PS",
+   "y": "2010 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47C20U1",
+   "s": "n47c20u1",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 143 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D20T1",
+   "s": "n47d20t1",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 218 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D20O1",
+   "s": "n47d20o1-ed",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 163 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D16U1",
+   "s": "n47d16u1-ed",
+   "d": "N47 \u00b7 1598 cm\u00b3 \u00b7 116 PS",
+   "y": "2012 - 2014",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D20O1",
+   "s": "n47d20o1-18d",
+   "d": "N47 \u00b7 1995 cm\u00b3 \u00b7 143 PS",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N47D16U1",
+   "s": "n47d16u1",
+   "d": "N47 \u00b7 1598 cm\u00b3 \u00b7 95 PS",
+   "y": "2012 - 2014",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N51B30M1",
+   "s": "n51b30m1",
+   "d": "N51 \u00b7 2996 cm\u00b3 \u00b7 234 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B25U1",
+   "s": "n52b25u1",
+   "d": "N52 \u00b7 2497 cm\u00b3 \u00b7 190 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B25U0",
+   "s": "n52b25u0",
+   "d": "N52 \u00b7 2497 cm\u00b3 \u00b7 177 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B25U2",
+   "s": "n52b25u2",
+   "d": "N52 \u00b7 2497 cm\u00b3 \u00b7 190 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B25O2",
+   "s": "n52b25o2",
+   "d": "N52 \u00b7 2497 cm\u00b3 \u00b7 204 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B25O1",
+   "s": "n52b25o1",
+   "d": "N52 \u00b7 2497 cm\u00b3 \u00b7 218 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B25O0",
+   "s": "n52b25o0",
+   "d": "N52 \u00b7 2497 cm\u00b3 \u00b7 218 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B30U0",
+   "s": "n52b30u0",
+   "d": "N52 \u00b7 2996 cm\u00b3 \u00b7 218 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B30M1",
+   "s": "n52b30m1",
+   "d": "N52 \u00b7 2996 cm\u00b3 \u00b7 234 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B30O0",
+   "s": "n52b30o0",
+   "d": "N52 \u00b7 2996 cm\u00b3 \u00b7 258 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B30O1",
+   "s": "n52b30o1-194",
+   "d": "N52 \u00b7 2996 cm\u00b3 \u00b7 264 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B30O0",
+   "s": "n52b30o0-195",
+   "d": "N52 \u00b7 2996 cm\u00b3 \u00b7 165 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B30O2",
+   "s": "n52b30o2",
+   "d": "N52 \u00b7 2996 cm\u00b3 \u00b7 258 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B30O1",
+   "s": "n52b30o1-200",
+   "d": "N52 \u00b7 2996 cm\u00b3 \u00b7 272 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B30U1",
+   "s": "n52b30u1",
+   "d": "N52 \u00b7 2996 cm\u00b3 \u00b7 218 PS",
+   "y": "2007 - 2014",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B25O1",
+   "s": "n52b25o1-150",
+   "d": "N52 \u00b7 2497 cm\u00b3 \u00b7 204 PS",
+   "y": "2009 - 2011",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N52B30O1",
+   "s": "n52b30o1",
+   "d": "N52 \u00b7 2996 cm\u00b3 \u00b7 258 PS",
+   "y": "2009 - 2011",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N53B25U0",
+   "s": "n53b25uo",
+   "d": "N53 \u00b7 2497 cm\u00b3 \u00b7 190 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N53B30U0",
+   "s": "n53b30u0",
+   "d": "N53 \u00b7 2996 cm\u00b3 \u00b7 204 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N53B30O0",
+   "s": "n53b30o0-28i",
+   "d": "N53 \u00b7 2996 cm\u00b3 \u00b7 258 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N53B30U0",
+   "s": "n53b30u0-25i",
+   "d": "N53 \u00b7 2996 cm\u00b3 \u00b7 218 PS",
+   "y": "2006 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N53B30O0",
+   "s": "n53b30o0",
+   "d": "N53 \u00b7 2996 cm\u00b3 \u00b7 272 PS",
+   "y": "2007 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N54B30O0",
+   "s": "n54b30o0-40",
+   "d": "N54 \u00b7 2979 cm\u00b3 \u00b7 326 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N54B30T0",
+   "s": "n54b30to-is",
+   "d": "N54 \u00b7 2979 cm\u00b3 \u00b7 325 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N54B30O0",
+   "s": "n54b30o0",
+   "d": "N54 \u00b7 2979 cm\u00b3 \u00b7 306 PS",
+   "y": "2009 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N54B30T0",
+   "s": "n54b30to",
+   "d": "N54 \u00b7 2979 cm\u00b3 \u00b7 340 PS",
+   "y": "2010 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N55B30M0",
+   "s": "n55b30m0",
+   "d": "N55 \u00b7 2979 cm\u00b3 \u00b7 306 PS",
+   "y": "2009 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N55B30O0",
+   "s": "n55b30o0",
+   "d": "N55 \u00b7 2979 cm\u00b3 \u00b7 320 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N55B30O0",
+   "s": "n55b30o0-f22",
+   "d": "N55 \u00b7 2979 cm\u00b3 \u00b7 326 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N55B30T0",
+   "s": "n55b30t0",
+   "d": "N55 \u00b7 2979 cm\u00b3 \u00b7 370 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N57D30U0",
+   "s": "n57d30u0-f07",
+   "d": "N57 \u00b7 2993 cm\u00b3 \u00b7 211 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N57D30O0",
+   "s": "n57d30o0",
+   "d": "N57 \u00b7 2993 cm\u00b3 \u00b7 245 PS",
+   "y": "2008 - 2013",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N57D30O0",
+   "s": "n57d30o0-540",
+   "d": "N57 \u00b7 2993 cm\u00b3 \u00b7 245 PS",
+   "y": "2008 - 2014",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N57D30T0",
+   "s": "n57d30t0-225",
+   "d": "N57 \u00b7 2993 cm\u00b3 \u00b7 306 PS",
+   "y": "2009 - 2014",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N57D30U0",
+   "s": "n57d30u0",
+   "d": "N57 \u00b7 2993 cm\u00b3 \u00b7 204 PS",
+   "y": "2010 - 2013",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N57D30T0",
+   "s": "n57d30t0",
+   "d": "N57 \u00b7 2993 cm\u00b3 \u00b7 300 PS",
+   "y": "2010 - 2012",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N57D30O1",
+   "s": "n57d30o1",
+   "d": "N57 \u00b7 2993 cm\u00b3 \u00b7 258 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N57D30T1",
+   "s": "n57d30t1",
+   "d": "N57 \u00b7 2993 cm\u00b3 \u00b7 313 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N57D30S1",
+   "s": "n57d30s1",
+   "d": "N57 \u00b7 2993 cm\u00b3 \u00b7 381 PS",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N62B40O1",
+   "s": "n62b40o1-e60",
+   "d": "N62 \u00b7 4000 cm\u00b3 \u00b7 299 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N62B40O1",
+   "s": "n62b40o1",
+   "d": "N62 \u00b7 4000 cm\u00b3 \u00b7 306 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N62B44O0",
+   "s": "n62b44o0-e53",
+   "d": "N62 \u00b7 4398 cm\u00b3 \u00b7 320 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N62B48O1",
+   "s": "n62b48o1-e70",
+   "d": "N62 \u00b7 4800 cm\u00b3 \u00b7 355 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N62B48O1",
+   "s": "n62b48o1",
+   "d": "N62 \u00b7 4799 cm\u00b3 \u00b7 367 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N62B48O0",
+   "s": "n62b48o0",
+   "d": "N62 \u00b7 4800 cm\u00b3 \u00b7 360 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N62B36O0",
+   "s": "n62b36o0",
+   "d": "N62 \u00b7 3600 cm\u00b3 \u00b7 272 PS",
+   "y": "2001 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N62B44O0",
+   "s": "n62b44o0",
+   "d": "N62 \u00b7 4398 cm\u00b3 \u00b7 333 PS",
+   "y": "2001 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N63B44O0",
+   "s": "n63b44o0",
+   "d": "N63 \u00b7 4395 cm\u00b3 \u00b7 408 PS",
+   "y": "2008 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N63B44O1",
+   "s": "n63b44o1",
+   "d": "N63 \u00b7 4395 cm\u00b3 \u00b7 450 PS",
+   "y": "2012 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N63B44O2",
+   "s": "n63b44o2",
+   "d": "N63 \u00b7 4395 cm\u00b3 \u00b7 450 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N73H60O0",
+   "s": "n73h60o0",
+   "d": "N73 \u00b7 5972 cm\u00b3 \u00b7 260 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N73B60O1",
+   "s": "n73b60o1",
+   "d": "N73 \u00b7 5972 cm\u00b3 \u00b7 445 PS",
+   "y": "-",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N73B60O0",
+   "s": "n73b60o0",
+   "d": "N73 \u00b7 5972 cm\u00b3 \u00b7 445 PS",
+   "y": "2002 - 2007",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N73B68O0",
+   "s": "n73b68o0",
+   "d": "N73 \u00b7 6749 cm\u00b3 \u00b7 460 PS",
+   "y": "2003 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N74B60U0",
+   "s": "n74b60uo",
+   "d": "N74 \u00b7 5972 cm\u00b3 \u00b7 544 PS",
+   "y": "2009 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N74B66U0",
+   "s": "n74b66u0",
+   "d": "N74 \u00b7 6592 cm\u00b3 \u00b7 571 PS",
+   "y": "2009 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "N74B66U0",
+   "s": "n74b66u0-rr5",
+   "d": "N74 \u00b7 6592 cm\u00b3 \u00b7 632 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S14B20",
+   "s": "s14b20",
+   "d": "S14 \u00b7 1990 cm\u00b3 \u00b7 192 PS",
+   "y": "1987 - 1990",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S50B32",
+   "s": "s50b32",
+   "d": "S50 \u00b7 3201 cm\u00b3 \u00b7 321 PS",
+   "y": "1995 - 1999",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S52B32",
+   "s": "s52b32-us",
+   "d": "S52 \u00b7 3152 cm\u00b3 \u00b7 243 PS",
+   "y": "1995 - 2000",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S54B32",
+   "s": "s54b32-z3",
+   "d": "S54 \u00b7 3246 cm\u00b3 \u00b7 325 PS",
+   "y": "2000 - 2002",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S55B30T0",
+   "s": "s55b30t0",
+   "d": "S55 \u00b7 2979 cm\u00b3 \u00b7 431 PS",
+   "y": "2014 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S58B30T0",
+   "s": "s58b30t0-338",
+   "d": "S58 \u00b7 2993 cm\u00b3 \u00b7 460 PS",
+   "y": "2022 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S58B30T0",
+   "s": "s58b30t0-405",
+   "d": "S58 \u00b7 2993 cm\u00b3 \u00b7 550 PS",
+   "y": "2023 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S63B44O0",
+   "s": "s63b44o0",
+   "d": "S63 \u00b7 4395 cm\u00b3 \u00b7 555 PS",
+   "y": "2009 - 2014",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S63B44T0",
+   "s": "s63b44t0",
+   "d": "S63 \u00b7 4395 cm\u00b3 \u00b7 560 PS",
+   "y": "2011 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S63B44T2",
+   "s": "s63b44t2",
+   "d": "S63 \u00b7 4395 cm\u00b3 \u00b7 575 PS",
+   "y": "2015 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S65B40O0",
+   "s": "s65b40o0",
+   "d": "S65 \u00b7 3999 cm\u00b3 \u00b7 420 PS",
+   "y": "2007 - 2013",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S65B44",
+   "s": "s65b44",
+   "d": "S65 \u00b7 4361 cm\u00b3 \u00b7 450 PS",
+   "y": "2010 - 2011",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "S85B50",
+   "s": "s85b50",
+   "d": "S85 \u00b7 4999 cm\u00b3 \u00b7 507 PS",
+   "y": "2004 -",
+   "b": "BMW",
+   "n": 0
+  },
+  {
+   "t": "engine",
+   "c": "M10B18",
+   "s": "m10b18",
+   "d": "M10B18 (M10 family)",
+   "y": "1962 - 1988"
+  },
+  {
+   "t": "engine",
+   "c": "M20B20",
+   "s": "m20b20",
+   "d": "M20B20 (M20 family)",
+   "y": "1977 - 1992"
+  },
+  {
+   "t": "engine",
+   "c": "M20B23",
+   "s": "m20b23",
+   "d": "M20B23 (M20 family)",
+   "y": "1977 - 1987"
+  },
+  {
+   "t": "engine",
+   "c": "M20B25",
+   "s": "m20b25",
+   "d": "M20B25 (M20 family)",
+   "y": "1985 - 1992"
+  },
+  {
+   "t": "engine",
+   "c": "M20B27",
+   "s": "m20b27",
+   "d": "M20B27 (M20 family)",
+   "y": "1982 - 1988"
+  },
+  {
+   "t": "engine",
+   "c": "M30B28",
+   "s": "m30b28",
+   "d": "M30B28 (M30 family)",
+   "y": "1968 - 1988"
+  },
+  {
+   "t": "engine",
+   "c": "M30B30",
+   "s": "m30b30",
+   "d": "M30B30 (M30 family)",
+   "y": "1971 - 1989"
+  },
+  {
+   "t": "engine",
+   "c": "M30B32",
+   "s": "m30b32",
+   "d": "M30B32 (M30 family)",
+   "y": "1973 - 1986"
+  },
+  {
+   "t": "engine",
+   "c": "M30B34",
+   "s": "m30b34",
+   "d": "M30B34 (M30 family)",
+   "y": "1982 - 1992"
+  },
+  {
+   "t": "engine",
+   "c": "M30B35",
+   "s": "m30b35",
+   "d": "M30B35 (M30 family)",
+   "y": "1986 - 1994"
+  },
+  {
+   "t": "engine",
+   "c": "M50B25",
+   "s": "m50b25",
+   "d": "M50B25 (M50 family)",
+   "y": "1990 - 1996"
+  },
+  {
+   "t": "engine",
+   "c": "M50TUB25",
+   "s": "m50tub25",
+   "d": "M50TUB25 (M50 family)",
+   "y": "1992 - 1996"
+  },
+  {
+   "t": "engine",
+   "c": "M52B20",
+   "s": "m52b20",
+   "d": "M52B20 (M52 family)",
+   "y": "1994 - 2000"
+  },
+  {
+   "t": "engine",
+   "c": "M52B25",
+   "s": "m52b25",
+   "d": "M52B25 (M52 family)",
+   "y": "1995 - 2000"
+  },
+  {
+   "t": "engine",
+   "c": "M52B28",
+   "s": "m52b28",
+   "d": "M52B28 (M52 family)",
+   "y": "1994 - 2000"
+  },
+  {
+   "t": "engine",
+   "c": "M52TUB20",
+   "s": "m52tub20",
+   "d": "M52TUB20 (M52 family)",
+   "y": "1998 - 2001"
+  },
+  {
+   "t": "engine",
+   "c": "M52TUB25",
+   "s": "m52tub25",
+   "d": "M52TUB25 (M52 family)",
+   "y": "1998 - 2001"
+  },
+  {
+   "t": "engine",
+   "c": "M52TUB28",
+   "s": "m52tub28",
+   "d": "M52TUB28 (M52 family)",
+   "y": "1998 - 2001"
+  },
+  {
+   "t": "engine",
+   "c": "M54B22",
+   "s": "m54b22",
+   "d": "M54B22 (M54 family)",
+   "y": "2000 - 2006"
+  },
+  {
+   "t": "engine",
+   "c": "M54B25",
+   "s": "m54b25",
+   "d": "M54B25 (M54 family)",
+   "y": "2000 - 2006"
+  },
+  {
+   "t": "engine",
+   "c": "M54B30",
+   "s": "m54b30",
+   "d": "M54B30 (M54 family)",
+   "y": "2000 - 2006"
+  },
+  {
+   "t": "engine",
+   "c": "M56B25",
+   "s": "m56b25",
+   "d": "M56B25 (M56 family)",
+   "y": "2002 - 2006"
+  },
+  {
+   "t": "engine",
+   "c": "M60B30",
+   "s": "m60b30",
+   "d": "M60B30 (M60 family)",
+   "y": "1992 - 1996"
+  },
+  {
+   "t": "engine",
+   "c": "M60B40",
+   "s": "m60b40",
+   "d": "M60B40 (M60 family)",
+   "y": "1992 - 1996"
+  },
+  {
+   "t": "engine",
+   "c": "M62B35",
+   "s": "m62b35",
+   "d": "M62B35 (M62 family)",
+   "y": "1996 - 2001"
+  },
+  {
+   "t": "engine",
+   "c": "M62B44",
+   "s": "m62b44",
+   "d": "M62B44 (M62 family)",
+   "y": "1996 - 1998"
+  },
+  {
+   "t": "engine",
+   "c": "S38B35",
+   "s": "s38b35",
+   "d": "S38B35 (S38 family)",
+   "y": "1986 - 1990"
+  },
+  {
+   "t": "engine",
+   "c": "S38B36",
+   "s": "s38b36",
+   "d": "S38B36 (S38 family)",
+   "y": "1989 - 1992"
+  },
+  {
+   "t": "engine",
+   "c": "S38B38",
+   "s": "s38b38",
+   "d": "S38B38 (S38 family)",
+   "y": "1991 - 1995"
+  },
+  {
+   "t": "engine",
+   "c": "S50B30",
+   "s": "s50b30",
+   "d": "S50B30 (S50 family)",
+   "y": "1992 - 1995"
+  },
+  {
+   "t": "engine",
+   "c": "S50B30GT",
+   "s": "s50b30gt",
+   "d": "S50B30GT (S50 family)",
+   "y": "1994 - 1995"
+  },
+  {
+   "t": "engine",
+   "c": "S52B32",
+   "s": "s52b32",
+   "d": "S52B32 (S52 family)",
+   "y": "1996 - 2000"
+  },
+  {
+   "t": "engine",
+   "c": "S54B32",
+   "s": "s54b32",
+   "d": "S54B32 (S54 family)",
+   "y": "2000 - 2008"
+  },
+  {
+   "t": "engine",
+   "c": "S62B49",
+   "s": "s62b49",
+   "d": "S62B49 (S62 family)",
+   "y": "1998 - 2003"
+  },
+  {
+   "t": "engine",
+   "c": "S70B56",
+   "s": "s70b56",
+   "d": "S70B56 (S70 family)",
+   "y": "1992 - 1996"
+  },
+  {
+   "t": "engine",
+   "c": "N12B14",
+   "s": "n12b14",
+   "d": "N12B14 (N12 family)",
+   "y": "2006 - 2010"
+  },
+  {
+   "t": "engine",
+   "c": "N12B16",
+   "s": "n12b16",
+   "d": "N12B16 (N12 family)",
+   "y": "2006 - 2010"
+  },
+  {
+   "t": "engine",
+   "c": "N14B16",
+   "s": "n14b16",
+   "d": "N14B16 (N14 family)",
+   "y": "2006 - 2010"
+  },
+  {
+   "t": "engine",
+   "c": "N14B16-JCW",
+   "s": "n14b16jcw",
+   "d": "N14B16-JCW (N14 family)",
+   "y": "2008 - 2010"
+  },
+  {
+   "t": "engine",
+   "c": "W10B16",
+   "s": "w10b16",
+   "d": "W10B16 (W10 family)",
+   "y": "2001 - 2006"
+  },
+  {
+   "t": "engine",
+   "c": "W11B16",
+   "s": "w11b16",
+   "d": "W11B16 (W11 family)",
+   "y": "2002 - 2006"
+  }
+ ]
+}

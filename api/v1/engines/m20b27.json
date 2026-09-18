@@ -1,0 +1,23 @@
+{
+ "code": "M20B27",
+ "slug": "m20b27",
+ "family": "M20",
+ "years": "1982 - 1988",
+ "year_from": 1982,
+ "year_to": 1988,
+ "displacement_cc": 2693,
+ "power_kw": 95,
+ "power_ps": 129,
+ "power_rpm": "4250",
+ "torque_nm": 230,
+ "torque_rpm": "3250",
+ "has_detail": false,
+ "construction": "6 Cylinder, 12 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 12,
+ "compression_ratio": "9.0:1",
+ "bore_mm": 84.0,
+ "stroke_mm": 81.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m20b27.html"
+}

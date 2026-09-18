@@ -1,1 +1,24 @@
-{"code":"VG95","count":1,"results":[{"code":"VG95","model":"320i","body":"Sedan","engine":"N46B20O2","power_kw":115,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Indien","from":"2007-10","to":"2008-05","source":"https://www.bimmerarchive.org/code/vg95.html","chassis":"E90","chassis_slug":"e90","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "VG95",
+ "count": 1,
+ "results": [
+  {
+   "code": "VG95",
+   "model": "320i",
+   "body": "Sedan",
+   "engine": "N46B20O2",
+   "power_kw": 115,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Indien",
+   "from": "2007-10",
+   "to": "2008-05",
+   "source": "https://www.bimmerarchive.org/code/vg95.html",
+   "chassis": "E90",
+   "chassis_slug": "e90",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "n46b20o2"
+  }
+ ]
+}

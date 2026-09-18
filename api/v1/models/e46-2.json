@@ -1,1 +1,450 @@
-{"code":"E46 (2)","slug":"e46-2","brand":"BMW","description":"BMW 3 Series Coupe","years":"1998 - 2006","year_from":1998,"year_to":2006,"type":"Serie","production_code_count":27,"has_detail":true,"production_codes":[{"code":"BL51","model":"316CI","body":"Coupe","engine":"M43/TU","power_kw":77,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1999-04","to":"2002-02","source":"https://www.bimmerarchive.org/code/bl51.html"},{"code":"BM71","model":"316Ci","body":"Coupe","engine":"N40B16","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2001-07","to":"2003-02","source":"https://www.bimmerarchive.org/code/bm71.html"},{"code":"BL31","model":"318CI","body":"Coupe","engine":"M43/TU","power_kw":87,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1999-03","to":"2001-08","source":"https://www.bimmerarchive.org/code/bl31.html"},{"code":"BL32","model":"318CI","body":"Coupe","engine":"M43/TU","power_kw":87,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1999-03","to":"2001-08","source":"https://www.bimmerarchive.org/code/bl32.html"},{"code":"BV71","model":"318Ci","body":"Coupe","engine":"N42B20","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2000-12","to":"2003-03","source":"https://www.bimmerarchive.org/code/bv71.html"},{"code":"BV72","model":"318Ci","body":"Coupe","engine":"N42B20","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2001-03","to":"2003-03","source":"https://www.bimmerarchive.org/code/bv72.html"},{"code":"BM11","model":"320CI","body":"Coupe","engine":"M52/TU","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-11","to":"2001-08","source":"https://www.bimmerarchive.org/code/bm11.html"},{"code":"BN11","model":"320CI","body":"Coupe","engine":"M54","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2000-01","to":"2003-03","source":"https://www.bimmerarchive.org/code/bn11.html"},{"code":"BN12","model":"320CI","body":"Coupe","engine":"M54","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2000-02","to":"2003-03","source":"https://www.bimmerarchive.org/code/bn12.html"},{"code":"BM31","model":"323CI","body":"Coupe","engine":"M52/TU","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-03","to":"2000-08","source":"https://www.bimmerarchive.org/code/bm31.html"},{"code":"BM32","model":"323CI","body":"Coupe","engine":"M52/TU","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-07","to":"2000-08","source":"https://www.bimmerarchive.org/code/bm32.html"},{"code":"BM33","model":"323CI","body":"Coupe","engine":"M52/TU","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1998-11","to":"2000-08","source":"https://www.bimmerarchive.org/code/bm33.html"},{"code":"BN31","model":"325CI","body":"Coupe","engine":"M54","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2000-01","to":"2003-03","source":"https://www.bimmerarchive.org/code/bn31.html"},{"code":"BN32","model":"325CI","body":"Coupe","engine":"M54","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2000-01","to":"2003-03","source":"https://www.bimmerarchive.org/code/bn32.html"},{"code":"BN33","model":"325CI","body":"Coupe","engine":"M54","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2000-01","to":"2003-03","source":"https://www.bimmerarchive.org/code/bn33.html"},{"code":"BN73","model":"325CI","body":"Coupe","engine":"M56","power_kw":132,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2001-12","to":"2003-03","source":"https://www.bimmerarchive.org/code/bn73.html"},{"code":"BM51","model":"328CI","body":"Coupe","engine":"M52/TU","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-03","to":"2000-06","source":"https://www.bimmerarchive.org/code/bm51.html"},{"code":"BM52","model":"328CI","body":"Coupe","engine":"M52/TU","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-07","to":"2000-06","source":"https://www.bimmerarchive.org/code/bm52.html"},{"code":"BM53","model":"328CI","body":"Coupe","engine":"M52/TU","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1998-11","to":"2000-05","source":"https://www.bimmerarchive.org/code/bm53.html"},{"code":"BN51","model":"330CI","body":"Coupe","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1999-09","to":"2003-03","source":"https://www.bimmerarchive.org/code/bn51.html"},{"code":"BN52","model":"330CI","body":"Coupe","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1999-09","to":"2003-03","source":"https://www.bimmerarchive.org/code/bn52.html"},{"code":"BN53","model":"330CI","body":"Coupe","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1999-09","to":"2003-03","source":"https://www.bimmerarchive.org/code/bn53.html"},{"code":"BL91","model":"M3","body":"Coupe","engine":"S54","power_kw":252,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1999-07","to":"2006-05","source":"https://www.bimmerarchive.org/code/bl91.html"},{"code":"BL92","model":"M3","body":"Coupe","engine":"S54","power_kw":252,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2000-03","to":"2006-05","source":"https://www.bimmerarchive.org/code/bl92.html"},{"code":"BL93","model":"M3","body":"Coupe","engine":"S54","power_kw":252,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2000-01","to":"2006-05","source":"https://www.bimmerarchive.org/code/bl93.html"},{"code":"BL95","model":"M3 CSL","body":"Coupe","engine":"S54","power_kw":261,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/bl95.html"},{"code":"BL96","model":"M3 CSL","body":"Coupe","engine":"S54","power_kw":261,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/bl96.html"}],"plants":[{"slug":"bmw-plant-regensburg","name":"Bmw Plant Regensburg"}],"photos":[{"slug":"4990-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe"},{"slug":"4995-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe"},{"slug":"4999-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe - Interior"},{"slug":"4989-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe"},{"slug":"5000-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe"},{"slug":"4988-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe"},{"slug":"4998-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe - Interior"},{"slug":"4987-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe"},{"slug":"4992-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe"},{"slug":"4996-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe"},{"slug":"4991-316-bmw-3-series-coupe","title":"BMW 3 Series Coupe"},{"slug":"4994-316-bmw-3-series-coupe","title":"BMW 328Ci Coupe"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e46-2.html"}
+{
+ "code": "E46 (2)",
+ "slug": "e46-2",
+ "brand": "BMW",
+ "description": "BMW 3 Series Coupe",
+ "years": "1998 - 2006",
+ "year_from": 1998,
+ "year_to": 2006,
+ "type": "Serie",
+ "production_code_count": 27,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "BL51",
+   "model": "316CI",
+   "body": "Coupe",
+   "engine": "M43/TU",
+   "power_kw": 77,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1999-04",
+   "to": "2002-02",
+   "source": "https://www.bimmerarchive.org/code/bl51.html",
+   "engine_slug": "m43b19-tu-ol"
+  },
+  {
+   "code": "BM71",
+   "model": "316Ci",
+   "body": "Coupe",
+   "engine": "N40B16",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2001-07",
+   "to": "2003-02",
+   "source": "https://www.bimmerarchive.org/code/bm71.html",
+   "engine_slug": "n40b16"
+  },
+  {
+   "code": "BL31",
+   "model": "318CI",
+   "body": "Coupe",
+   "engine": "M43/TU",
+   "power_kw": 87,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1999-03",
+   "to": "2001-08",
+   "source": "https://www.bimmerarchive.org/code/bl31.html",
+   "engine_slug": "m43b19-tu-ol"
+  },
+  {
+   "code": "BL32",
+   "model": "318CI",
+   "body": "Coupe",
+   "engine": "M43/TU",
+   "power_kw": 87,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1999-03",
+   "to": "2001-08",
+   "source": "https://www.bimmerarchive.org/code/bl32.html",
+   "engine_slug": "m43b19-tu-ol"
+  },
+  {
+   "code": "BV71",
+   "model": "318Ci",
+   "body": "Coupe",
+   "engine": "N42B20",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2000-12",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bv71.html",
+   "engine_slug": "n42b20"
+  },
+  {
+   "code": "BV72",
+   "model": "318Ci",
+   "body": "Coupe",
+   "engine": "N42B20",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2001-03",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bv72.html",
+   "engine_slug": "n42b20"
+  },
+  {
+   "code": "BM11",
+   "model": "320CI",
+   "body": "Coupe",
+   "engine": "M52/TU",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-11",
+   "to": "2001-08",
+   "source": "https://www.bimmerarchive.org/code/bm11.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "BN11",
+   "model": "320CI",
+   "body": "Coupe",
+   "engine": "M54",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2000-01",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bn11.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BN12",
+   "model": "320CI",
+   "body": "Coupe",
+   "engine": "M54",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2000-02",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bn12.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BM31",
+   "model": "323CI",
+   "body": "Coupe",
+   "engine": "M52/TU",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-03",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/bm31.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "BM32",
+   "model": "323CI",
+   "body": "Coupe",
+   "engine": "M52/TU",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-07",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/bm32.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "BM33",
+   "model": "323CI",
+   "body": "Coupe",
+   "engine": "M52/TU",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1998-11",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/bm33.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "BN31",
+   "model": "325CI",
+   "body": "Coupe",
+   "engine": "M54",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2000-01",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bn31.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BN32",
+   "model": "325CI",
+   "body": "Coupe",
+   "engine": "M54",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2000-01",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bn32.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BN33",
+   "model": "325CI",
+   "body": "Coupe",
+   "engine": "M54",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2000-01",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bn33.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BN73",
+   "model": "325CI",
+   "body": "Coupe",
+   "engine": "M56",
+   "power_kw": 132,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2001-12",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bn73.html",
+   "engine_slug": "m56b25"
+  },
+  {
+   "code": "BM51",
+   "model": "328CI",
+   "body": "Coupe",
+   "engine": "M52/TU",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-03",
+   "to": "2000-06",
+   "source": "https://www.bimmerarchive.org/code/bm51.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "BM52",
+   "model": "328CI",
+   "body": "Coupe",
+   "engine": "M52/TU",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-07",
+   "to": "2000-06",
+   "source": "https://www.bimmerarchive.org/code/bm52.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "BM53",
+   "model": "328CI",
+   "body": "Coupe",
+   "engine": "M52/TU",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1998-11",
+   "to": "2000-05",
+   "source": "https://www.bimmerarchive.org/code/bm53.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "BN51",
+   "model": "330CI",
+   "body": "Coupe",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1999-09",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bn51.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BN52",
+   "model": "330CI",
+   "body": "Coupe",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1999-09",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bn52.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BN53",
+   "model": "330CI",
+   "body": "Coupe",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1999-09",
+   "to": "2003-03",
+   "source": "https://www.bimmerarchive.org/code/bn53.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BL91",
+   "model": "M3",
+   "body": "Coupe",
+   "engine": "S54",
+   "power_kw": 252,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1999-07",
+   "to": "2006-05",
+   "source": "https://www.bimmerarchive.org/code/bl91.html",
+   "engine_slug": "s54b32-z3"
+  },
+  {
+   "code": "BL92",
+   "model": "M3",
+   "body": "Coupe",
+   "engine": "S54",
+   "power_kw": 252,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2000-03",
+   "to": "2006-05",
+   "source": "https://www.bimmerarchive.org/code/bl92.html",
+   "engine_slug": "s54b32-z3"
+  },
+  {
+   "code": "BL93",
+   "model": "M3",
+   "body": "Coupe",
+   "engine": "S54",
+   "power_kw": 252,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2000-01",
+   "to": "2006-05",
+   "source": "https://www.bimmerarchive.org/code/bl93.html",
+   "engine_slug": "s54b32-z3"
+  },
+  {
+   "code": "BL95",
+   "model": "M3 CSL",
+   "body": "Coupe",
+   "engine": "S54",
+   "power_kw": 261,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/bl95.html",
+   "engine_slug": "s54b32-z3"
+  },
+  {
+   "code": "BL96",
+   "model": "M3 CSL",
+   "body": "Coupe",
+   "engine": "S54",
+   "power_kw": 261,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/bl96.html",
+   "engine_slug": "s54b32-z3"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-regensburg",
+   "name": "Bmw Plant Regensburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "4990-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe"
+  },
+  {
+   "slug": "4995-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe"
+  },
+  {
+   "slug": "4999-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe - Interior"
+  },
+  {
+   "slug": "4989-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe"
+  },
+  {
+   "slug": "5000-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe"
+  },
+  {
+   "slug": "4988-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe"
+  },
+  {
+   "slug": "4998-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe - Interior"
+  },
+  {
+   "slug": "4987-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe"
+  },
+  {
+   "slug": "4992-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe"
+  },
+  {
+   "slug": "4996-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe"
+  },
+  {
+   "slug": "4991-316-bmw-3-series-coupe",
+   "title": "BMW 3 Series Coupe"
+  },
+  {
+   "slug": "4994-316-bmw-3-series-coupe",
+   "title": "BMW 328Ci Coupe"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e46-2.html"
+}

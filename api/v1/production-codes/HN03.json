@@ -1,1 +1,24 @@
-{"code":"HN03","count":1,"results":[{"code":"HN03","model":"760Li","body":"Sedan","engine":"N73B60O1","power_kw":327,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2004-09","to":"2008-07","source":"https://www.bimmerarchive.org/code/hn03.html","chassis":"E66","chassis_slug":"e66","brand":"BMW","chassis_description":"BMW 7 Series Long Wheelbase"}]}
+{
+ "code": "HN03",
+ "count": 1,
+ "results": [
+  {
+   "code": "HN03",
+   "model": "760Li",
+   "body": "Sedan",
+   "engine": "N73B60O1",
+   "power_kw": 327,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2004-09",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/hn03.html",
+   "chassis": "E66",
+   "chassis_slug": "e66",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Long Wheelbase",
+   "engine_slug": "n73b60o1"
+  }
+ ]
+}

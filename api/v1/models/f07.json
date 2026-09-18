@@ -1,1 +1,511 @@
-{"code":"F07","slug":"f07","brand":"BMW","description":"BMW 5 Series Gran Turismo","years":"2009 - 2012","year_from":2009,"year_to":2012,"type":"Serie","production_code_count":31,"has_detail":true,"production_codes":[{"code":"XC01","model":"520d","body":"Gran Turismo","engine":"N47D20O1","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xc01.html"},{"code":"XC02","model":"520d","body":"Gran Turismo","engine":"N47D20O1","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xc02.html"},{"code":"SN61","model":"530d","body":"Gran Turismo","engine":"N57D30O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/sn61.html"},{"code":"SN62","model":"530d","body":"Gran Turismo","engine":"N57D30O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2009-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/sn62.html"},{"code":"SZ01","model":"530d","body":"Gran Turismo","engine":"N57D30U0","power_kw":155,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sz01.html"},{"code":"XC61","model":"530d","body":"Gran Turismo","engine":"N57D30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xc61.html"},{"code":"XC62","model":"530d","body":"Gran Turismo","engine":"N57D30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xc62.html"},{"code":"SP61","model":"530d xDrive","body":"Gran Turismo","engine":"N57D30O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sp61.html"},{"code":"XC21","model":"530d xDrive","body":"Gran Turismo","engine":"N57D30O1","power_kw":190,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xc21.html"},{"code":"SN81","model":"535d","body":"Gran Turismo","engine":"N57D30T0","power_kw":220,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2009-05","to":"2009-11","source":"https://www.bimmerarchive.org/code/sn81.html"},{"code":"SN82","model":"535d","body":"Gran Turismo","engine":"N57D30T0","power_kw":220,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2009-06","to":"2009-11","source":"https://www.bimmerarchive.org/code/sn82.html"},{"code":"XC81","model":"535d","body":"Gran Turismo","engine":"N57D30T1","power_kw":230,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xc81.html"},{"code":"XC82","model":"535d","body":"Gran Turismo","engine":"N57D30T1","power_kw":230,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xc82.html"},{"code":"SP81","model":"535d xDrive","body":"Gran Turismo","engine":"N57D30T0","power_kw":220,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sp81.html"},{"code":"XC41","model":"535d xDrive","body":"Gran Turismo","engine":"N57D30T1","power_kw":230,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xc41.html"},{"code":"SN21","model":"535i","body":"Gran Turismo","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/sn21.html"},{"code":"SN22","model":"535i","body":"Gran Turismo","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/sn22.html"},{"code":"SN23","model":"535i","body":"Gran Turismo","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2008-09","to":"2009-11","source":"https://www.bimmerarchive.org/code/sn23.html"},{"code":"SP21","model":"535i xDrive","body":"Gran Turismo","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sp21.html"},{"code":"SP23","model":"535i xDrive","body":"Gran Turismo","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sp23.html"},{"code":"SN01","model":"550i","body":"Gran Turismo","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sn01.html"},{"code":"SN02","model":"550i","body":"Gran Turismo","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sn02.html"},{"code":"SN03","model":"550i","body":"Gran Turismo","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sn03.html"},{"code":"SN41","model":"550i","body":"Gran Turismo","engine":"N63B44O0","power_kw":300,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/sn41.html"},{"code":"SN42","model":"550i","body":"Gran Turismo","engine":"N63B44O0","power_kw":300,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2009-01","to":"2010-01","source":"https://www.bimmerarchive.org/code/sn42.html"},{"code":"SN43","model":"550i","body":"Gran Turismo","engine":"N63B44O0","power_kw":300,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2008-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/sn43.html"},{"code":"SP01","model":"550i xDrive","body":"Gran Turismo","engine":"N63B44O1","power_kw":330,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sp01.html"},{"code":"SP03","model":"550i xDrive","body":"Gran Turismo","engine":"N63B44O1","power_kw":330,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sp03.html"},{"code":"SP41","model":"550i xDrive","body":"Gran Turismo","engine":"N63B44O0","power_kw":300,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sp41.html"},{"code":"SP43","model":"550i xDrive","body":"Gran Turismo","engine":"N63B44O0","power_kw":300,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sp43.html"},{"code":"SZ41","model":"550i xDrive","body":"Gran Turismo","engine":"N63T","power_kw":300,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sz41.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"1952-169-bmw-550i-gran-turismo","title":"BMW 550i Gran Turismo"},{"slug":"2311-196-bmw-535d-gran-turismo","title":"BMW 535d Gran Turismo"},{"slug":"1953-169-bmw-550i-gran-turismo","title":"BMW 550i Gran Turismo"},{"slug":"1939-169-bmw-550i-gran-turismo","title":"BMW 550i Gran Turismo - Rahmenlose Türen"},{"slug":"1932-169-bmw-550i-gran-turismo","title":"BMW 550i Gran Turismo"},{"slug":"2122-177-bmw-530d-gran-turismo","title":"BMW 530d Gran Turismo"},{"slug":"2124-177-bmw-535i-gran-turismo","title":"BMW 535i Gran Turismo"},{"slug":"1949-169-bmw-550i-gran-turismo","title":"BMW 550i Gran Turismo - Interieur"},{"slug":"1929-169-bmw-530d-gran-turismo","title":"BMW 530d Gran Turismo"},{"slug":"1946-169-bmw-550i-gran-turismo","title":"BMW 550i Gran Turismo - Interieur"},{"slug":"2936-233-bmw-635d-gran-turismo","title":"BMW 635d Gran Turismo"},{"slug":"1928-169-bmw-530d-gran-turismo","title":"BMW 530d Gran Turismo"}],"articles":[{"slug":"2013-05-19-the-new-bmw-5-series","title":"The new BMW 5 Series (2013-05-19)"}],"source":"https://www.bimmerarchive.org/e-code/f07.html"}
+{
+ "code": "F07",
+ "slug": "f07",
+ "brand": "BMW",
+ "description": "BMW 5 Series Gran Turismo",
+ "years": "2009 - 2012",
+ "year_from": 2009,
+ "year_to": 2012,
+ "type": "Serie",
+ "production_code_count": 31,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "XC01",
+   "model": "520d",
+   "body": "Gran Turismo",
+   "engine": "N47D20O1",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xc01.html",
+   "engine_slug": "n47d20o1-18d"
+  },
+  {
+   "code": "XC02",
+   "model": "520d",
+   "body": "Gran Turismo",
+   "engine": "N47D20O1",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xc02.html",
+   "engine_slug": "n47d20o1-18d"
+  },
+  {
+   "code": "SN61",
+   "model": "530d",
+   "body": "Gran Turismo",
+   "engine": "N57D30O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/sn61.html",
+   "engine_slug": "n57d30o0-540"
+  },
+  {
+   "code": "SN62",
+   "model": "530d",
+   "body": "Gran Turismo",
+   "engine": "N57D30O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/sn62.html",
+   "engine_slug": "n57d30o0-540"
+  },
+  {
+   "code": "SZ01",
+   "model": "530d",
+   "body": "Gran Turismo",
+   "engine": "N57D30U0",
+   "power_kw": 155,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sz01.html",
+   "engine_slug": "n57d30u0"
+  },
+  {
+   "code": "XC61",
+   "model": "530d",
+   "body": "Gran Turismo",
+   "engine": "N57D30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xc61.html",
+   "engine_slug": "n57d30o1"
+  },
+  {
+   "code": "XC62",
+   "model": "530d",
+   "body": "Gran Turismo",
+   "engine": "N57D30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xc62.html",
+   "engine_slug": "n57d30o1"
+  },
+  {
+   "code": "SP61",
+   "model": "530d xDrive",
+   "body": "Gran Turismo",
+   "engine": "N57D30O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sp61.html",
+   "engine_slug": "n57d30o0-540"
+  },
+  {
+   "code": "XC21",
+   "model": "530d xDrive",
+   "body": "Gran Turismo",
+   "engine": "N57D30O1",
+   "power_kw": 190,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xc21.html",
+   "engine_slug": "n57d30o1"
+  },
+  {
+   "code": "SN81",
+   "model": "535d",
+   "body": "Gran Turismo",
+   "engine": "N57D30T0",
+   "power_kw": 220,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2009-05",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/sn81.html",
+   "engine_slug": "n57d30t0"
+  },
+  {
+   "code": "SN82",
+   "model": "535d",
+   "body": "Gran Turismo",
+   "engine": "N57D30T0",
+   "power_kw": 220,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-06",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/sn82.html",
+   "engine_slug": "n57d30t0"
+  },
+  {
+   "code": "XC81",
+   "model": "535d",
+   "body": "Gran Turismo",
+   "engine": "N57D30T1",
+   "power_kw": 230,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xc81.html",
+   "engine_slug": "n57d30t1"
+  },
+  {
+   "code": "XC82",
+   "model": "535d",
+   "body": "Gran Turismo",
+   "engine": "N57D30T1",
+   "power_kw": 230,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xc82.html",
+   "engine_slug": "n57d30t1"
+  },
+  {
+   "code": "SP81",
+   "model": "535d xDrive",
+   "body": "Gran Turismo",
+   "engine": "N57D30T0",
+   "power_kw": 220,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sp81.html",
+   "engine_slug": "n57d30t0"
+  },
+  {
+   "code": "XC41",
+   "model": "535d xDrive",
+   "body": "Gran Turismo",
+   "engine": "N57D30T1",
+   "power_kw": 230,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xc41.html",
+   "engine_slug": "n57d30t1"
+  },
+  {
+   "code": "SN21",
+   "model": "535i",
+   "body": "Gran Turismo",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/sn21.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "SN22",
+   "model": "535i",
+   "body": "Gran Turismo",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/sn22.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "SN23",
+   "model": "535i",
+   "body": "Gran Turismo",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-09",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/sn23.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "SP21",
+   "model": "535i xDrive",
+   "body": "Gran Turismo",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sp21.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "SP23",
+   "model": "535i xDrive",
+   "body": "Gran Turismo",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sp23.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "SN01",
+   "model": "550i",
+   "body": "Gran Turismo",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sn01.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "SN02",
+   "model": "550i",
+   "body": "Gran Turismo",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sn02.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "SN03",
+   "model": "550i",
+   "body": "Gran Turismo",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sn03.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "SN41",
+   "model": "550i",
+   "body": "Gran Turismo",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/sn41.html",
+   "engine_slug": "n63b44o0"
+  },
+  {
+   "code": "SN42",
+   "model": "550i",
+   "body": "Gran Turismo",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-01",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/sn42.html",
+   "engine_slug": "n63b44o0"
+  },
+  {
+   "code": "SN43",
+   "model": "550i",
+   "body": "Gran Turismo",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/sn43.html",
+   "engine_slug": "n63b44o0"
+  },
+  {
+   "code": "SP01",
+   "model": "550i xDrive",
+   "body": "Gran Turismo",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sp01.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "SP03",
+   "model": "550i xDrive",
+   "body": "Gran Turismo",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sp03.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "SP41",
+   "model": "550i xDrive",
+   "body": "Gran Turismo",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sp41.html",
+   "engine_slug": "n63b44o0"
+  },
+  {
+   "code": "SP43",
+   "model": "550i xDrive",
+   "body": "Gran Turismo",
+   "engine": "N63B44O0",
+   "power_kw": 300,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sp43.html",
+   "engine_slug": "n63b44o0"
+  },
+  {
+   "code": "SZ41",
+   "model": "550i xDrive",
+   "body": "Gran Turismo",
+   "engine": "N63T",
+   "power_kw": 300,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sz41.html",
+   "engine_slug": "n63b44o2"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "1952-169-bmw-550i-gran-turismo",
+   "title": "BMW 550i Gran Turismo"
+  },
+  {
+   "slug": "2311-196-bmw-535d-gran-turismo",
+   "title": "BMW 535d Gran Turismo"
+  },
+  {
+   "slug": "1953-169-bmw-550i-gran-turismo",
+   "title": "BMW 550i Gran Turismo"
+  },
+  {
+   "slug": "1939-169-bmw-550i-gran-turismo",
+   "title": "BMW 550i Gran Turismo - Rahmenlose T\u00fcren"
+  },
+  {
+   "slug": "1932-169-bmw-550i-gran-turismo",
+   "title": "BMW 550i Gran Turismo"
+  },
+  {
+   "slug": "2122-177-bmw-530d-gran-turismo",
+   "title": "BMW 530d Gran Turismo"
+  },
+  {
+   "slug": "2124-177-bmw-535i-gran-turismo",
+   "title": "BMW 535i Gran Turismo"
+  },
+  {
+   "slug": "1949-169-bmw-550i-gran-turismo",
+   "title": "BMW 550i Gran Turismo - Interieur"
+  },
+  {
+   "slug": "1929-169-bmw-530d-gran-turismo",
+   "title": "BMW 530d Gran Turismo"
+  },
+  {
+   "slug": "1946-169-bmw-550i-gran-turismo",
+   "title": "BMW 550i Gran Turismo - Interieur"
+  },
+  {
+   "slug": "2936-233-bmw-635d-gran-turismo",
+   "title": "BMW 635d Gran Turismo"
+  },
+  {
+   "slug": "1928-169-bmw-530d-gran-turismo",
+   "title": "BMW 530d Gran Turismo"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2013-05-19-the-new-bmw-5-series",
+   "title": "The new BMW 5 Series (2013-05-19)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f07.html"
+}

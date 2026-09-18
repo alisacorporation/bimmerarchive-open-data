@@ -1,1 +1,24 @@
-{"code":"KR08","count":1,"results":[{"code":"KR08","model":"X5 xDrive35i","body":"Sports Activity Vehicle","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"right","region":"Malaysia","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kr08.html","chassis":"F15","chassis_slug":"f15","brand":"BMW","chassis_description":"BMW X5 - Sports Activity Vehicle"}]}
+{
+ "code": "KR08",
+ "count": 1,
+ "results": [
+  {
+   "code": "KR08",
+   "model": "X5 xDrive35i",
+   "body": "Sports Activity Vehicle",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Malaysia",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kr08.html",
+   "chassis": "F15",
+   "chassis_slug": "f15",
+   "brand": "BMW",
+   "chassis_description": "BMW X5 - Sports Activity Vehicle",
+   "engine_slug": "n55b30m0"
+  }
+ ]
+}

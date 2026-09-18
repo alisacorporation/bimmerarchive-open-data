@@ -1,1 +1,24 @@
-{"code":"AH81","count":1,"results":[{"code":"AH81","model":"320i","body":"Touring","engine":"M20","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1988-09","to":"1990-06","source":"https://www.bimmerarchive.org/code/ah81.html","chassis":"E30 (5)","chassis_slug":"e30-5","brand":"BMW","chassis_description":"BMW 3 Series Touring"}]}
+{
+ "code": "AH81",
+ "count": 1,
+ "results": [
+  {
+   "code": "AH81",
+   "model": "320i",
+   "body": "Touring",
+   "engine": "M20",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1988-09",
+   "to": "1990-06",
+   "source": "https://www.bimmerarchive.org/code/ah81.html",
+   "chassis": "E30 (5)",
+   "chassis_slug": "e30-5",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring",
+   "engine_slug": "m20b25"
+  }
+ ]
+}

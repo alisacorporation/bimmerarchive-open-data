@@ -1,1 +1,24 @@
-{"code":"8F13","count":1,"results":[{"code":"8F13","model":"328d xDrive","body":"Sedan","engine":"N47T","power_kw":135,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/8f13.html","chassis":"F30 (MUE)","chassis_slug":"f30-lci","brand":"BMW","chassis_description":"BMW 3 Series Sedan - LCI"}]}
+{
+ "code": "8F13",
+ "count": 1,
+ "results": [
+  {
+   "code": "8F13",
+   "model": "328d xDrive",
+   "body": "Sedan",
+   "engine": "N47T",
+   "power_kw": 135,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/8f13.html",
+   "chassis": "F30 (MUE)",
+   "chassis_slug": "f30-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan - LCI",
+   "engine_slug": "n47d20t0"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"CF91","count":1,"results":[{"code":"CF91","model":"325tds","body":"Touring","engine":"M51D25 OL","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1994-11","to":"1999-05","source":"https://www.bimmerarchive.org/code/cf91.html","chassis":"E36 (3)","chassis_slug":"e36-3","brand":"BMW","chassis_description":"BMW 3 Series Touring"}]}
+{
+ "code": "CF91",
+ "count": 1,
+ "results": [
+  {
+   "code": "CF91",
+   "model": "325tds",
+   "body": "Touring",
+   "engine": "M51D25 OL",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1994-11",
+   "to": "1999-05",
+   "source": "https://www.bimmerarchive.org/code/cf91.html",
+   "chassis": "E36 (3)",
+   "chassis_slug": "e36-3",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring",
+   "engine_slug": "m51d25-ol"
+  }
+ ]
+}

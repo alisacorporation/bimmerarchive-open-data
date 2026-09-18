@@ -1,1 +1,24 @@
-{"code":"DD41","count":1,"results":[{"code":"DD41","model":"523i","body":"Sedan","engine":"M52","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1995-02","to":"1998-08","source":"https://www.bimmerarchive.org/code/dd41.html","chassis":"E39","chassis_slug":"e39","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "DD41",
+ "count": 1,
+ "results": [
+  {
+   "code": "DD41",
+   "model": "523i",
+   "body": "Sedan",
+   "engine": "M52",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1995-02",
+   "to": "1998-08",
+   "source": "https://www.bimmerarchive.org/code/dd41.html",
+   "chassis": "E39",
+   "chassis_slug": "e39",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m52b28"
+  }
+ ]
+}

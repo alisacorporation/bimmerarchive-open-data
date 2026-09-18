@@ -1,1 +1,24 @@
-{"code":"FH62","count":1,"results":[{"code":"FH62","model":"X6 xDrive30d","body":"Sports Activity Coupe","engine":"N57D30O0","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2009-10","to":"2009-10","source":"https://www.bimmerarchive.org/code/fh62.html","chassis":"E71","chassis_slug":"e71","brand":"BMW","chassis_description":"BMW X6 - Sports Activity Coupe"}]}
+{
+ "code": "FH62",
+ "count": 1,
+ "results": [
+  {
+   "code": "FH62",
+   "model": "X6 xDrive30d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30O0",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-10",
+   "to": "2009-10",
+   "source": "https://www.bimmerarchive.org/code/fh62.html",
+   "chassis": "E71",
+   "chassis_slug": "e71",
+   "brand": "BMW",
+   "chassis_description": "BMW X6 - Sports Activity Coupe",
+   "engine_slug": "n57d30o0-540"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"EV38","count":1,"results":[{"code":"EV38","model":"325I","body":"Sedan","engine":"M54","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Vietnam","from":"2002-06","to":"2005-01","source":"https://www.bimmerarchive.org/code/ev38.html","chassis":"E46 (4FL)","chassis_slug":"e46-4-lci","brand":"BMW","chassis_description":"BMW 3 Series Sedan - LCI"}]}
+{
+ "code": "EV38",
+ "count": 1,
+ "results": [
+  {
+   "code": "EV38",
+   "model": "325I",
+   "body": "Sedan",
+   "engine": "M54",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Vietnam",
+   "from": "2002-06",
+   "to": "2005-01",
+   "source": "https://www.bimmerarchive.org/code/ev38.html",
+   "chassis": "E46 (4FL)",
+   "chassis_slug": "e46-4-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan - LCI",
+   "engine_slug": "m54b30"
+  }
+ ]
+}

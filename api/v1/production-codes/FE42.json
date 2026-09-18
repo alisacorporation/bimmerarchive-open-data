@@ -1,1 +1,24 @@
-{"code":"FE42","count":1,"results":[{"code":"FE42","model":"X5 3.0si","body":"Sports Activity Vehicle","engine":"N52B30O1","power_kw":200,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2006-06","to":"2010-02","source":"https://www.bimmerarchive.org/code/fe42.html","chassis":"E70","chassis_slug":"e70","brand":"BMW","chassis_description":"BMW X5 - Sports Activity Vehicle"}]}
+{
+ "code": "FE42",
+ "count": 1,
+ "results": [
+  {
+   "code": "FE42",
+   "model": "X5 3.0si",
+   "body": "Sports Activity Vehicle",
+   "engine": "N52B30O1",
+   "power_kw": 200,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-06",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/fe42.html",
+   "chassis": "E70",
+   "chassis_slug": "e70",
+   "brand": "BMW",
+   "chassis_description": "BMW X5 - Sports Activity Vehicle",
+   "engine_slug": "n52b30o1"
+  }
+ ]
+}

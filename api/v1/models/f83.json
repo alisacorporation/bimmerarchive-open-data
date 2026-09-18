@@ -1,1 +1,119 @@
-{"code":"F83","slug":"f83","brand":"BMW","description":"BMW M4 Convertible","years":"2014 - 2020","year_from":2014,"year_to":2020,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"3U91","model":"M4","body":"Convertible","engine":"S55B30T0","power_kw":317,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3u91.html"},{"code":"3U92","model":"M4","body":"Convertible","engine":"S55B30T0","power_kw":317,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3u92.html"},{"code":"3U93","model":"M4","body":"Convertible","engine":"S55B30T0","power_kw":317,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3u93.html"}],"plants":[{"slug":"bmw-plant-regensburg","name":"Bmw Plant Regensburg"}],"photos":[{"slug":"9144-484-bmw-m4-cabrio-bmw-individual-moonstone-metallic","title":"BMW M4 Convertible - BMW Individual Moonstone metallic"},{"slug":"9168-484-bmw-m4-convertible","title":"BMW M4 Convertible"},{"slug":"9170-484-bmw-m4-convertible","title":"BMW M4 Convertible"},{"slug":"5281-339-bmw-m4-convertible","title":"BMW M4 Convertible"},{"slug":"9161-484-bmw-m4-convertible","title":"BMW M4 Convertible"},{"slug":"5284-339-bmw-m4-convertible","title":"BMW M4 Convertible"},{"slug":"5277-339-bmw-m4-convertible","title":"BMW M4 Convertible"},{"slug":"9164-484-bmw-m4-convertible","title":"BMW M4 Convertible"},{"slug":"9151-484-bmw-m4-cabrio-bmw-individual-moonstone-metallic","title":"BMW M4 Convertible - BMW Individual Moonstone metallic"},{"slug":"5273-339-bmw-m4-convertible","title":"BMW M4 Convertible"},{"slug":"5283-339-bmw-m4-convertible","title":"BMW M4 Convertible"},{"slug":"5286-339-bmw-m4-convertible","title":"BMW M4 Convertible"}],"articles":[{"slug":"2014-04-04-the-new-bmw-m4-convertible","title":"The new BMW M4 Convertible (2014-04-04)"}],"source":"https://www.bimmerarchive.org/e-code/f83.html"}
+{
+ "code": "F83",
+ "slug": "f83",
+ "brand": "BMW",
+ "description": "BMW M4 Convertible",
+ "years": "2014 - 2020",
+ "year_from": 2014,
+ "year_to": 2020,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "3U91",
+   "model": "M4",
+   "body": "Convertible",
+   "engine": "S55B30T0",
+   "power_kw": 317,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3u91.html",
+   "engine_slug": "s55b30t0"
+  },
+  {
+   "code": "3U92",
+   "model": "M4",
+   "body": "Convertible",
+   "engine": "S55B30T0",
+   "power_kw": 317,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3u92.html",
+   "engine_slug": "s55b30t0"
+  },
+  {
+   "code": "3U93",
+   "model": "M4",
+   "body": "Convertible",
+   "engine": "S55B30T0",
+   "power_kw": 317,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3u93.html",
+   "engine_slug": "s55b30t0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-regensburg",
+   "name": "Bmw Plant Regensburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "9144-484-bmw-m4-cabrio-bmw-individual-moonstone-metallic",
+   "title": "BMW M4 Convertible - BMW Individual Moonstone metallic"
+  },
+  {
+   "slug": "9168-484-bmw-m4-convertible",
+   "title": "BMW M4 Convertible"
+  },
+  {
+   "slug": "9170-484-bmw-m4-convertible",
+   "title": "BMW M4 Convertible"
+  },
+  {
+   "slug": "5281-339-bmw-m4-convertible",
+   "title": "BMW M4 Convertible"
+  },
+  {
+   "slug": "9161-484-bmw-m4-convertible",
+   "title": "BMW M4 Convertible"
+  },
+  {
+   "slug": "5284-339-bmw-m4-convertible",
+   "title": "BMW M4 Convertible"
+  },
+  {
+   "slug": "5277-339-bmw-m4-convertible",
+   "title": "BMW M4 Convertible"
+  },
+  {
+   "slug": "9164-484-bmw-m4-convertible",
+   "title": "BMW M4 Convertible"
+  },
+  {
+   "slug": "9151-484-bmw-m4-cabrio-bmw-individual-moonstone-metallic",
+   "title": "BMW M4 Convertible - BMW Individual Moonstone metallic"
+  },
+  {
+   "slug": "5273-339-bmw-m4-convertible",
+   "title": "BMW M4 Convertible"
+  },
+  {
+   "slug": "5283-339-bmw-m4-convertible",
+   "title": "BMW M4 Convertible"
+  },
+  {
+   "slug": "5286-339-bmw-m4-convertible",
+   "title": "BMW M4 Convertible"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2014-04-04-the-new-bmw-m4-convertible",
+   "title": "The new BMW M4 Convertible (2014-04-04)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f83.html"
+}

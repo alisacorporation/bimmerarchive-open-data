@@ -1,1 +1,24 @@
-{"code":"MR93","count":1,"results":[{"code":"MR93","model":"John Cooper Works","body":"Convertible","engine":"N18B16T0","power_kw":155,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/mr93.html","chassis":"R57 (JCW)","chassis_slug":"r57-jcw","brand":"MINI","chassis_description":"MINI Convertible - John Cooper Works"}]}
+{
+ "code": "MR93",
+ "count": 1,
+ "results": [
+  {
+   "code": "MR93",
+   "model": "John Cooper Works",
+   "body": "Convertible",
+   "engine": "N18B16T0",
+   "power_kw": 155,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/mr93.html",
+   "chassis": "R57 (JCW)",
+   "chassis_slug": "r57-jcw",
+   "brand": "MINI",
+   "chassis_description": "MINI Convertible - John Cooper Works",
+   "engine_slug": "n18b16t0-160"
+  }
+ ]
+}

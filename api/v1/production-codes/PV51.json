@@ -1,1 +1,24 @@
-{"code":"PV51","count":1,"results":[{"code":"PV51","model":"530xi","body":"Touring","engine":"N52B30O1","power_kw":200,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2005-11","to":"2009-09","source":"https://www.bimmerarchive.org/code/pv51.html","chassis":"E61 (MUE)","chassis_slug":"e61n","brand":"BMW","chassis_description":"BMW 5 Series Touring - LCI"}]}
+{
+ "code": "PV51",
+ "count": 1,
+ "results": [
+  {
+   "code": "PV51",
+   "model": "530xi",
+   "body": "Touring",
+   "engine": "N52B30O1",
+   "power_kw": 200,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2005-11",
+   "to": "2009-09",
+   "source": "https://www.bimmerarchive.org/code/pv51.html",
+   "chassis": "E61 (MUE)",
+   "chassis_slug": "e61n",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Touring - LCI",
+   "engine_slug": "n52b30o1"
+  }
+ ]
+}

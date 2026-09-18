@@ -1,1 +1,24 @@
-{"code":"PK14","count":1,"results":[{"code":"PK14","model":"325xi","body":"Sedan","engine":"N52B25O1","power_kw":160,"drivetrain":"All Wheel-Drive","steering":"left","region":"Russia","from":"2008-09","to":"2010-01","source":"https://www.bimmerarchive.org/code/pk14.html","chassis":"E90 (MUE)","chassis_slug":"e90n","brand":"BMW","chassis_description":"BMW 3 Series Sedan - LCI"}]}
+{
+ "code": "PK14",
+ "count": 1,
+ "results": [
+  {
+   "code": "PK14",
+   "model": "325xi",
+   "body": "Sedan",
+   "engine": "N52B25O1",
+   "power_kw": 160,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Russia",
+   "from": "2008-09",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/pk14.html",
+   "chassis": "E90 (MUE)",
+   "chassis_slug": "e90n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan - LCI",
+   "engine_slug": "n52b25o1-150"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"HE52","count":1,"results":[{"code":"HE52","model":"540I","body":"Sedan","engine":"M60/2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1994-01","to":"1995-12","source":"https://www.bimmerarchive.org/code/he52.html","chassis":"E34","chassis_slug":"e34","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "HE52",
+ "count": 1,
+ "results": [
+  {
+   "code": "HE52",
+   "model": "540I",
+   "body": "Sedan",
+   "engine": "M60/2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1994-01",
+   "to": "1995-12",
+   "source": "https://www.bimmerarchive.org/code/he52.html",
+   "chassis": "E34",
+   "chassis_slug": "e34",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m60b40"
+  }
+ ]
+}

@@ -1,1 +1,123 @@
-{"code":"F80","slug":"f80","brand":"BMW","description":"BMW M3 Sedan","years":"2014 - 2020","year_from":2014,"year_to":2020,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"3C91","model":"M3","body":"Sedan","engine":"S55B30T0","power_kw":317,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3c91.html"},{"code":"3C92","model":"M3","body":"Sedan","engine":"S55B30T0","power_kw":317,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3c92.html"},{"code":"3C93","model":"M3","body":"Sedan","engine":"S55B30T0","power_kw":317,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/3c93.html"}],"plants":[{"slug":"bmw-plant-regensburg","name":"Bmw Plant Regensburg"}],"photos":[{"slug":"4799-305-bmw-m3-sedan","title":"BMW M3 Sedan"},{"slug":"8791-469-bmw-m3-cs","title":"BMW M3 CS"},{"slug":"4810-305-bmw-m3-sedan","title":"BMW M3 Sedan"},{"slug":"8789-469-bmw-m3-cs","title":"BMW M3 CS"},{"slug":"8781-469-bmw-m3-cs","title":"BMW M3 CS"},{"slug":"4806-305-bmw-m3-sedan","title":"BMW M3 Sedan"},{"slug":"4804-305-bmw-m3-sedan","title":"BMW M3 Sedan"},{"slug":"8785-469-bmw-m3-cs","title":"BMW M3 CS"},{"slug":"4809-305-bmw-m3-sedan","title":"BMW M3 Sedan"},{"slug":"8784-469-bmw-m3-cs","title":"BMW M3 CS"},{"slug":"4801-305-bmw-m3-sedan","title":"BMW M3 Sedan"},{"slug":"8795-469-bmw-m3-cs","title":"BMW M3 CS"}],"articles":[{"slug":"2017-11-08-the-new-bmw-m3-cs","title":"The new BMW M3 CS (2017-11-08)"},{"slug":"2013-12-12-new-bmw-m3-sedan-and-m4-coupe","title":"The New BMW M3 Sedan and new BMW M4 Coupe (2013-12-12)"}],"source":"https://www.bimmerarchive.org/e-code/f80.html"}
+{
+ "code": "F80",
+ "slug": "f80",
+ "brand": "BMW",
+ "description": "BMW M3 Sedan",
+ "years": "2014 - 2020",
+ "year_from": 2014,
+ "year_to": 2020,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "3C91",
+   "model": "M3",
+   "body": "Sedan",
+   "engine": "S55B30T0",
+   "power_kw": 317,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3c91.html",
+   "engine_slug": "s55b30t0"
+  },
+  {
+   "code": "3C92",
+   "model": "M3",
+   "body": "Sedan",
+   "engine": "S55B30T0",
+   "power_kw": 317,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3c92.html",
+   "engine_slug": "s55b30t0"
+  },
+  {
+   "code": "3C93",
+   "model": "M3",
+   "body": "Sedan",
+   "engine": "S55B30T0",
+   "power_kw": 317,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/3c93.html",
+   "engine_slug": "s55b30t0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-regensburg",
+   "name": "Bmw Plant Regensburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "4799-305-bmw-m3-sedan",
+   "title": "BMW M3 Sedan"
+  },
+  {
+   "slug": "8791-469-bmw-m3-cs",
+   "title": "BMW M3 CS"
+  },
+  {
+   "slug": "4810-305-bmw-m3-sedan",
+   "title": "BMW M3 Sedan"
+  },
+  {
+   "slug": "8789-469-bmw-m3-cs",
+   "title": "BMW M3 CS"
+  },
+  {
+   "slug": "8781-469-bmw-m3-cs",
+   "title": "BMW M3 CS"
+  },
+  {
+   "slug": "4806-305-bmw-m3-sedan",
+   "title": "BMW M3 Sedan"
+  },
+  {
+   "slug": "4804-305-bmw-m3-sedan",
+   "title": "BMW M3 Sedan"
+  },
+  {
+   "slug": "8785-469-bmw-m3-cs",
+   "title": "BMW M3 CS"
+  },
+  {
+   "slug": "4809-305-bmw-m3-sedan",
+   "title": "BMW M3 Sedan"
+  },
+  {
+   "slug": "8784-469-bmw-m3-cs",
+   "title": "BMW M3 CS"
+  },
+  {
+   "slug": "4801-305-bmw-m3-sedan",
+   "title": "BMW M3 Sedan"
+  },
+  {
+   "slug": "8795-469-bmw-m3-cs",
+   "title": "BMW M3 CS"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2017-11-08-the-new-bmw-m3-cs",
+   "title": "The new BMW M3 CS (2017-11-08)"
+  },
+  {
+   "slug": "2013-12-12-new-bmw-m3-sedan-and-m4-coupe",
+   "title": "The New BMW M3 Sedan and new BMW M4 Coupe (2013-12-12)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f80.html"
+}

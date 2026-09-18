@@ -1,1 +1,24 @@
-{"code":"FH81","count":1,"results":[{"code":"FH81","model":"X6 M50d","body":"Sports Activity Coupe","engine":"N57D30S1","power_kw":280,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/fh81.html","chassis":"E71","chassis_slug":"e71","brand":"BMW","chassis_description":"BMW X6 - Sports Activity Coupe"}]}
+{
+ "code": "FH81",
+ "count": 1,
+ "results": [
+  {
+   "code": "FH81",
+   "model": "X6 M50d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30S1",
+   "power_kw": 280,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/fh81.html",
+   "chassis": "E71",
+   "chassis_slug": "e71",
+   "brand": "BMW",
+   "chassis_description": "BMW X6 - Sports Activity Coupe",
+   "engine_slug": "n57d30s1"
+  }
+ ]
+}

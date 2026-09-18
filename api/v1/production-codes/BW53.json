@@ -1,1 +1,24 @@
-{"code":"BW53","count":1,"results":[{"code":"BW53","model":"330CI","body":"Convertible","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2002-09","to":"2006-08","source":"https://www.bimmerarchive.org/code/bw53.html","chassis":"E46 (CFL)","chassis_slug":"e46-c-lci","brand":"BMW","chassis_description":"BMW 3 Series Convertible - LCI"}]}
+{
+ "code": "BW53",
+ "count": 1,
+ "results": [
+  {
+   "code": "BW53",
+   "model": "330CI",
+   "body": "Convertible",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2002-09",
+   "to": "2006-08",
+   "source": "https://www.bimmerarchive.org/code/bw53.html",
+   "chassis": "E46 (CFL)",
+   "chassis_slug": "e46-c-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible - LCI",
+   "engine_slug": "m54b30"
+  }
+ ]
+}

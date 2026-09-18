@@ -1,1 +1,24 @@
-{"code":"DP62","count":1,"results":[{"code":"DP62","model":"528I","body":"Touring","engine":"M52/TU","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-02","to":"2000-07","source":"https://www.bimmerarchive.org/code/dp62.html","chassis":"E39 (2)","chassis_slug":"e39-2","brand":"BMW","chassis_description":"BMW 5 Series Touring"}]}
+{
+ "code": "DP62",
+ "count": 1,
+ "results": [
+  {
+   "code": "DP62",
+   "model": "528I",
+   "body": "Touring",
+   "engine": "M52/TU",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-02",
+   "to": "2000-07",
+   "source": "https://www.bimmerarchive.org/code/dp62.html",
+   "chassis": "E39 (2)",
+   "chassis_slug": "e39-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Touring",
+   "engine_slug": "m52tub28"
+  }
+ ]
+}

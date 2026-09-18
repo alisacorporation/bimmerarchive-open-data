@@ -1,1 +1,94 @@
-{"code":"E63 (M6)","slug":"e63-m6","brand":"BMW","description":"BMW M6 Coupe","years":"2005 - 2010","year_from":2005,"year_to":2010,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"EH91","model":"M6","body":"Coupe","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2004-03","to":"2010-01","source":"https://www.bimmerarchive.org/code/eh91.html"},{"code":"EH92","model":"M6","body":"Coupe","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2005-03","to":"2010-01","source":"https://www.bimmerarchive.org/code/eh92.html"},{"code":"EH93","model":"M6","body":"Coupe","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2004-03","to":"2009-12","source":"https://www.bimmerarchive.org/code/eh93.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"133-13-bmw-m6-coupe","title":"BMW M6 Coupé"},{"slug":"159-24-bmw-m6-coupe","title":"BMW M6 Coupé"},{"slug":"160-24-bmw-m6-coupe","title":"BMW M6 Coupé"},{"slug":"132-13-bmw-m6-coupe","title":"BMW M6 Coupé"},{"slug":"2116-177-bmw-m6-competition-limited-edition","title":"BMW M6 Competition Limited Edition"},{"slug":"2117-177-bmw-m6-competition-limited-edition","title":"BMW M6 Competition Limited Edition"},{"slug":"139-13-safetycar-motogp-2006","title":"Safetycar des MotoGP 2006"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e63-m6.html"}
+{
+ "code": "E63 (M6)",
+ "slug": "e63-m6",
+ "brand": "BMW",
+ "description": "BMW M6 Coupe",
+ "years": "2005 - 2010",
+ "year_from": 2005,
+ "year_to": 2010,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "EH91",
+   "model": "M6",
+   "body": "Coupe",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2004-03",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/eh91.html",
+   "engine_slug": "s85b50"
+  },
+  {
+   "code": "EH92",
+   "model": "M6",
+   "body": "Coupe",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2005-03",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/eh92.html",
+   "engine_slug": "s85b50"
+  },
+  {
+   "code": "EH93",
+   "model": "M6",
+   "body": "Coupe",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2004-03",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/eh93.html",
+   "engine_slug": "s85b50"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "133-13-bmw-m6-coupe",
+   "title": "BMW M6 Coup\u00e9"
+  },
+  {
+   "slug": "159-24-bmw-m6-coupe",
+   "title": "BMW M6 Coup\u00e9"
+  },
+  {
+   "slug": "160-24-bmw-m6-coupe",
+   "title": "BMW M6 Coup\u00e9"
+  },
+  {
+   "slug": "132-13-bmw-m6-coupe",
+   "title": "BMW M6 Coup\u00e9"
+  },
+  {
+   "slug": "2116-177-bmw-m6-competition-limited-edition",
+   "title": "BMW M6 Competition Limited Edition"
+  },
+  {
+   "slug": "2117-177-bmw-m6-competition-limited-edition",
+   "title": "BMW M6 Competition Limited Edition"
+  },
+  {
+   "slug": "139-13-safetycar-motogp-2006",
+   "title": "Safetycar des MotoGP 2006"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e63-m6.html"
+}

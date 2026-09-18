@@ -1,1 +1,431 @@
-{"code":"F21","slug":"f21","brand":"BMW","description":"BMW 1 Series 3-door Sports Hatch","years":"2012 - 2015","year_from":2012,"year_to":2015,"type":"Serie","production_code_count":25,"has_detail":true,"production_codes":[{"code":"1N51","model":"114d","body":"Hatch Coupe","engine":"N47D16U1","power_kw":70,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1n51.html"},{"code":"1N52","model":"114d","body":"Hatch Coupe","engine":"N47D16U1","power_kw":70,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1n52.html"},{"code":"1P11","model":"114i","body":"Hatch Coupe","engine":"N13B16K0","power_kw":75,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1p11.html"},{"code":"1P12","model":"114i","body":"Hatch Coupe","engine":"N13B16K0","power_kw":75,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1p12.html"},{"code":"1N11","model":"116d","body":"Hatch Coupe","engine":"N47D20K1","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1n11.html"},{"code":"1N12","model":"116d","body":"Hatch Coupe","engine":"N47D20K1","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1n12.html"},{"code":"1N31","model":"116d EfficientDynamics Edition","body":"Hatch Coupe","engine":"N47D16U1","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1n31.html"},{"code":"1N32","model":"116d EfficientDynamics Edition","body":"Hatch Coupe","engine":"N47D16U1","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1n32.html"},{"code":"1D11","model":"116i","body":"Hatch Coupe","engine":"N13B16U0","power_kw":100,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1d11.html"},{"code":"1D12","model":"116i","body":"Hatch Coupe","engine":"N13B16U0","power_kw":100,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1d12.html"},{"code":"1E11","model":"118d","body":"Hatch Coupe","engine":"N47D20U1","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1e11.html"},{"code":"1E12","model":"118d","body":"Hatch Coupe","engine":"N47D20U1","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1e12.html"},{"code":"1X51","model":"118d xDrive","body":"Hatch Coupe","engine":"N47D20U1","power_kw":105,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1x51.html"},{"code":"1D31","model":"118i","body":"Hatch Coupe","engine":"N13B16M0","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1d31.html"},{"code":"1D32","model":"118i","body":"Hatch Coupe","engine":"N13B16M0","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1d32.html"},{"code":"1E31","model":"120d","body":"Hatch Coupe","engine":"N47D20O1","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1e31.html"},{"code":"1E32","model":"120d","body":"Hatch Coupe","engine":"N47D20O1","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1e32.html"},{"code":"1E51","model":"120d xDrive","body":"Hatch Coupe","engine":"N47D20O1","power_kw":135,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1e51.html"},{"code":"1E71","model":"125d","body":"Hatch Coupe","engine":"N47D20T1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1e71.html"},{"code":"1E72","model":"125d","body":"Hatch Coupe","engine":"N47D20T1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1e72.html"},{"code":"1D51","model":"125i","body":"Hatch Coupe","engine":"N20B20M0","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1d51.html"},{"code":"1D52","model":"125i","body":"Hatch Coupe","engine":"N20B20M0","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1d52.html"},{"code":"1N71","model":"M135i","body":"Hatch Coupe","engine":"N55B30O0","power_kw":235,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1n71.html"},{"code":"1N72","model":"M135i","body":"Hatch Coupe","engine":"N55B30O0","power_kw":235,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1n72.html"},{"code":"1N91","model":"M135i xDrive","body":"Hatch Coupe","engine":"N55B30O0","power_kw":235,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1n91.html"}],"plants":[{"slug":"bmw-plant-regensburg","name":"Bmw Plant Regensburg"},{"slug":"bmw-plant-leipzig","name":"BMW Group Plant Leipzig"}],"photos":[{"slug":"3179-248-bmw-1er-3-tuerer-f21-interieur","title":"BMW 1er 3-Türer Interieur"},{"slug":"3177-248-bmw-1er-3-tuerer-f21-interieur","title":"BMW 1er 3-Türer Interieur"},{"slug":"3167-248-bmw-125d-3-tuerer-f21","title":"BMW 125d 3-Türer"},{"slug":"3197-249-bmw-m-135i-xdrive-3-tuerer","title":"BMW M135i xDrive - 3-Türer"},{"slug":"3199-249-bmw-114i-3-tuerer","title":"BMW 114i - 3-Türer"},{"slug":"3169-248-bmw-125d-3-tuerer-f21","title":"BMW 125d 3-Türer"},{"slug":"3176-248-bmw-m135i-3-tuerer-f21","title":"BMW M135i 3-Türer"},{"slug":"3903-272-achtgang-sport-automatik-getriebe-mit-launch-control-im-bmw-m135i","title":"Achtgang-Sport-Automatik Getriebe mit Launch Control im BMW M135i"},{"slug":"3163-248-bmw-125d-3-tuerer-f21","title":"BMW 125d 3-Türer"},{"slug":"3174-248-bmw-m135i-3-tuerer-f21","title":"BMW M135i 3-Türer"},{"slug":"3195-249-bmw-m-135i-xdrive-3-tuerer","title":"BMW M135i xDrive - 3-Türer"},{"slug":"3175-248-bmw-m135i-3-tuerer-f21","title":"BMW M135i 3-Türer"}],"articles":[{"slug":"2013-05-06-bmw-model-upgrade-measures-taking-effect-from-the-summer-of-2013","title":"BMW model upgrade measures for summer of 2013 (2013-05-06)"}],"source":"https://www.bimmerarchive.org/e-code/f21.html"}
+{
+ "code": "F21",
+ "slug": "f21",
+ "brand": "BMW",
+ "description": "BMW 1 Series 3-door Sports Hatch",
+ "years": "2012 - 2015",
+ "year_from": 2012,
+ "year_to": 2015,
+ "type": "Serie",
+ "production_code_count": 25,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "1N51",
+   "model": "114d",
+   "body": "Hatch Coupe",
+   "engine": "N47D16U1",
+   "power_kw": 70,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1n51.html",
+   "engine_slug": "n47d16u1"
+  },
+  {
+   "code": "1N52",
+   "model": "114d",
+   "body": "Hatch Coupe",
+   "engine": "N47D16U1",
+   "power_kw": 70,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1n52.html",
+   "engine_slug": "n47d16u1"
+  },
+  {
+   "code": "1P11",
+   "model": "114i",
+   "body": "Hatch Coupe",
+   "engine": "N13B16K0",
+   "power_kw": 75,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1p11.html",
+   "engine_slug": "n13b16k0"
+  },
+  {
+   "code": "1P12",
+   "model": "114i",
+   "body": "Hatch Coupe",
+   "engine": "N13B16K0",
+   "power_kw": 75,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1p12.html",
+   "engine_slug": "n13b16k0"
+  },
+  {
+   "code": "1N11",
+   "model": "116d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20K1",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1n11.html",
+   "engine_slug": "n47d20k1"
+  },
+  {
+   "code": "1N12",
+   "model": "116d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20K1",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1n12.html",
+   "engine_slug": "n47d20k1"
+  },
+  {
+   "code": "1N31",
+   "model": "116d EfficientDynamics Edition",
+   "body": "Hatch Coupe",
+   "engine": "N47D16U1",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1n31.html",
+   "engine_slug": "n47d16u1"
+  },
+  {
+   "code": "1N32",
+   "model": "116d EfficientDynamics Edition",
+   "body": "Hatch Coupe",
+   "engine": "N47D16U1",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1n32.html",
+   "engine_slug": "n47d16u1"
+  },
+  {
+   "code": "1D11",
+   "model": "116i",
+   "body": "Hatch Coupe",
+   "engine": "N13B16U0",
+   "power_kw": 100,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1d11.html",
+   "engine_slug": "n13b16u0"
+  },
+  {
+   "code": "1D12",
+   "model": "116i",
+   "body": "Hatch Coupe",
+   "engine": "N13B16U0",
+   "power_kw": 100,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1d12.html",
+   "engine_slug": "n13b16u0"
+  },
+  {
+   "code": "1E11",
+   "model": "118d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20U1",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1e11.html",
+   "engine_slug": "n47d20u1"
+  },
+  {
+   "code": "1E12",
+   "model": "118d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20U1",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1e12.html",
+   "engine_slug": "n47d20u1"
+  },
+  {
+   "code": "1X51",
+   "model": "118d xDrive",
+   "body": "Hatch Coupe",
+   "engine": "N47D20U1",
+   "power_kw": 105,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1x51.html",
+   "engine_slug": "n47d20u1"
+  },
+  {
+   "code": "1D31",
+   "model": "118i",
+   "body": "Hatch Coupe",
+   "engine": "N13B16M0",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1d31.html",
+   "engine_slug": "n13b16m0-130"
+  },
+  {
+   "code": "1D32",
+   "model": "118i",
+   "body": "Hatch Coupe",
+   "engine": "N13B16M0",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1d32.html",
+   "engine_slug": "n13b16m0-130"
+  },
+  {
+   "code": "1E31",
+   "model": "120d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20O1",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1e31.html",
+   "engine_slug": "n47d20o1-18d"
+  },
+  {
+   "code": "1E32",
+   "model": "120d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20O1",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1e32.html",
+   "engine_slug": "n47d20o1-18d"
+  },
+  {
+   "code": "1E51",
+   "model": "120d xDrive",
+   "body": "Hatch Coupe",
+   "engine": "N47D20O1",
+   "power_kw": 135,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1e51.html",
+   "engine_slug": "n47d20o1-18d"
+  },
+  {
+   "code": "1E71",
+   "model": "125d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20T1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1e71.html",
+   "engine_slug": "n47d20t1"
+  },
+  {
+   "code": "1E72",
+   "model": "125d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20T1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1e72.html",
+   "engine_slug": "n47d20t1"
+  },
+  {
+   "code": "1D51",
+   "model": "125i",
+   "body": "Hatch Coupe",
+   "engine": "N20B20M0",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1d51.html",
+   "engine_slug": "n20b20m0"
+  },
+  {
+   "code": "1D52",
+   "model": "125i",
+   "body": "Hatch Coupe",
+   "engine": "N20B20M0",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1d52.html",
+   "engine_slug": "n20b20m0"
+  },
+  {
+   "code": "1N71",
+   "model": "M135i",
+   "body": "Hatch Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 235,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1n71.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "1N72",
+   "model": "M135i",
+   "body": "Hatch Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 235,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1n72.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "1N91",
+   "model": "M135i xDrive",
+   "body": "Hatch Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 235,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1n91.html",
+   "engine_slug": "n55b30o0-f22"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-regensburg",
+   "name": "Bmw Plant Regensburg"
+  },
+  {
+   "slug": "bmw-plant-leipzig",
+   "name": "BMW Group Plant Leipzig"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "3179-248-bmw-1er-3-tuerer-f21-interieur",
+   "title": "BMW 1er 3-T\u00fcrer Interieur"
+  },
+  {
+   "slug": "3177-248-bmw-1er-3-tuerer-f21-interieur",
+   "title": "BMW 1er 3-T\u00fcrer Interieur"
+  },
+  {
+   "slug": "3167-248-bmw-125d-3-tuerer-f21",
+   "title": "BMW 125d 3-T\u00fcrer"
+  },
+  {
+   "slug": "3197-249-bmw-m-135i-xdrive-3-tuerer",
+   "title": "BMW M135i xDrive - 3-T\u00fcrer"
+  },
+  {
+   "slug": "3199-249-bmw-114i-3-tuerer",
+   "title": "BMW 114i - 3-T\u00fcrer"
+  },
+  {
+   "slug": "3169-248-bmw-125d-3-tuerer-f21",
+   "title": "BMW 125d 3-T\u00fcrer"
+  },
+  {
+   "slug": "3176-248-bmw-m135i-3-tuerer-f21",
+   "title": "BMW M135i 3-T\u00fcrer"
+  },
+  {
+   "slug": "3903-272-achtgang-sport-automatik-getriebe-mit-launch-control-im-bmw-m135i",
+   "title": "Achtgang-Sport-Automatik Getriebe mit Launch Control im BMW M135i"
+  },
+  {
+   "slug": "3163-248-bmw-125d-3-tuerer-f21",
+   "title": "BMW 125d 3-T\u00fcrer"
+  },
+  {
+   "slug": "3174-248-bmw-m135i-3-tuerer-f21",
+   "title": "BMW M135i 3-T\u00fcrer"
+  },
+  {
+   "slug": "3195-249-bmw-m-135i-xdrive-3-tuerer",
+   "title": "BMW M135i xDrive - 3-T\u00fcrer"
+  },
+  {
+   "slug": "3175-248-bmw-m135i-3-tuerer-f21",
+   "title": "BMW M135i 3-T\u00fcrer"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2013-05-06-bmw-model-upgrade-measures-taking-effect-from-the-summer-of-2013",
+   "title": "BMW model upgrade measures for summer of 2013 (2013-05-06)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f21.html"
+}

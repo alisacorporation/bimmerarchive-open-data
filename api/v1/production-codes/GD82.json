@@ -1,1 +1,24 @@
-{"code":"GD82","count":1,"results":[{"code":"GD82","model":"740IL","body":"Sedan","engine":"M60/2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1992-03","to":"1994-03","source":"https://www.bimmerarchive.org/code/gd82.html","chassis":"E32 (2)","chassis_slug":"e32-2","brand":"BMW","chassis_description":"BMW 7 Series Sedan Long Wheelbase"}]}
+{
+ "code": "GD82",
+ "count": 1,
+ "results": [
+  {
+   "code": "GD82",
+   "model": "740IL",
+   "body": "Sedan",
+   "engine": "M60/2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1992-03",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gd82.html",
+   "chassis": "E32 (2)",
+   "chassis_slug": "e32-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan Long Wheelbase",
+   "engine_slug": "m60b40"
+  }
+ ]
+}

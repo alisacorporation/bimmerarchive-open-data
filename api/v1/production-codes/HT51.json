@@ -1,1 +1,24 @@
-{"code":"HT51","count":1,"results":[{"code":"HT51","model":"X1 Sdrive16d","body":"Sports Activity Vehicle","engine":"B37U","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ht51.html","chassis":"F48","chassis_slug":"f48","brand":"BMW","chassis_description":"BMW X1"}]}
+{
+ "code": "HT51",
+ "count": 1,
+ "results": [
+  {
+   "code": "HT51",
+   "model": "X1 Sdrive16d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B37U",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ht51.html",
+   "chassis": "F48",
+   "chassis_slug": "f48",
+   "brand": "BMW",
+   "chassis_description": "BMW X1",
+   "engine_slug": "b37c15u0"
+  }
+ ]
+}

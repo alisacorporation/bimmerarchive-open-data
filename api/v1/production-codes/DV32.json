@@ -1,1 +1,24 @@
-{"code":"DV32","count":1,"results":[{"code":"DV32","model":"320i","body":"Convertible","engine":"N46B20O2","power_kw":115,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/dv32.html","chassis":"E93 (MUE)","chassis_slug":"e93n","brand":"BMW","chassis_description":"BMW 3 Series Convertible - LCI"}]}
+{
+ "code": "DV32",
+ "count": 1,
+ "results": [
+  {
+   "code": "DV32",
+   "model": "320i",
+   "body": "Convertible",
+   "engine": "N46B20O2",
+   "power_kw": 115,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/dv32.html",
+   "chassis": "E93 (MUE)",
+   "chassis_slug": "e93n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible - LCI",
+   "engine_slug": "n46b20o2"
+  }
+ ]
+}

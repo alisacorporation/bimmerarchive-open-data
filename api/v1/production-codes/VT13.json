@@ -1,1 +1,24 @@
-{"code":"VT13","count":1,"results":[{"code":"VT13","model":"325xi","body":"Touring","engine":"N52B30U0","power_kw":160,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":"2005-01","to":"2006-08","source":"https://www.bimmerarchive.org/code/vt13.html","chassis":"E91","chassis_slug":"e91","brand":"BMW","chassis_description":"BMW 3 Series Touring"}]}
+{
+ "code": "VT13",
+ "count": 1,
+ "results": [
+  {
+   "code": "VT13",
+   "model": "325xi",
+   "body": "Touring",
+   "engine": "N52B30U0",
+   "power_kw": 160,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2005-01",
+   "to": "2006-08",
+   "source": "https://www.bimmerarchive.org/code/vt13.html",
+   "chassis": "E91",
+   "chassis_slug": "e91",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring",
+   "engine_slug": "n52b30u0"
+  }
+ ]
+}

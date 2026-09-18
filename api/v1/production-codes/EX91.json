@@ -1,1 +1,24 @@
-{"code":"EX91","count":1,"results":[{"code":"EX91","model":"330d","body":"Touring","engine":"M57D30O1","power_kw":150,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2002-09","to":"2005-07","source":"https://www.bimmerarchive.org/code/ex91.html","chassis":"E46 (3FL)","chassis_slug":"e46-3-lci","brand":"BMW","chassis_description":"BMW 3 Series Touring - LCI"}]}
+{
+ "code": "EX91",
+ "count": 1,
+ "results": [
+  {
+   "code": "EX91",
+   "model": "330d",
+   "body": "Touring",
+   "engine": "M57D30O1",
+   "power_kw": 150,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2002-09",
+   "to": "2005-07",
+   "source": "https://www.bimmerarchive.org/code/ex91.html",
+   "chassis": "E46 (3FL)",
+   "chassis_slug": "e46-3-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring - LCI",
+   "engine_slug": "m57d30o1"
+  }
+ ]
+}

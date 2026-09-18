@@ -1,1 +1,324 @@
-{"code":"E85","slug":"e85","brand":"BMW","description":"BMW Z4 Roadster","years":"2002 - 2009","year_from":2002,"year_to":2009,"type":"Serie","production_code_count":18,"has_detail":true,"production_codes":[{"code":"BZ11","model":"Z4 2.0i","body":"Roadster","engine":"N46B20O1","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2004-06","to":"2008-08","source":"https://www.bimmerarchive.org/code/bz11.html"},{"code":"BZ12","model":"Z4 2.0i","body":"Roadster","engine":"N46B20O1","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2004-06","to":"2008-08","source":"https://www.bimmerarchive.org/code/bz12.html"},{"code":"BT11","model":"Z4 2.2i","body":"Roadster","engine":"M54","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2002-12","to":"2005-11","source":"https://www.bimmerarchive.org/code/bt11.html"},{"code":"BT12","model":"Z4 2.2i","body":"Roadster","engine":"M54","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2002-12","to":"2005-11","source":"https://www.bimmerarchive.org/code/bt12.html"},{"code":"BT31","model":"Z4 2.5i","body":"Roadster","engine":"M54","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2002-04","to":"2005-11","source":"https://www.bimmerarchive.org/code/bt31.html"},{"code":"BT32","model":"Z4 2.5i","body":"Roadster","engine":"M54","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2002-08","to":"2005-11","source":"https://www.bimmerarchive.org/code/bt32.html"},{"code":"BT33","model":"Z4 2.5i","body":"Roadster","engine":"M54","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2002-01","to":"2005-11","source":"https://www.bimmerarchive.org/code/bt33.html"},{"code":"BU11","model":"Z4 2.5i","body":"Roadster","engine":"N52B25U0","power_kw":130,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2004-10","to":"2008-07","source":"https://www.bimmerarchive.org/code/bu11.html"},{"code":"BU12","model":"Z4 2.5i","body":"Roadster","engine":"N52B25U0","power_kw":130,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2004-10","to":"2008-07","source":"https://www.bimmerarchive.org/code/bu12.html"},{"code":"BU31","model":"Z4 2.5si","body":"Roadster","engine":"N52B25O0","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2004-10","to":"2008-08","source":"https://www.bimmerarchive.org/code/bu31.html"},{"code":"BU32","model":"Z4 2.5si","body":"Roadster","engine":"N52B25O0","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2005-04","to":"2008-07","source":"https://www.bimmerarchive.org/code/bu32.html"},{"code":"BT51","model":"Z4 3.0i","body":"Roadster","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2002-04","to":"2005-11","source":"https://www.bimmerarchive.org/code/bt51.html"},{"code":"BT52","model":"Z4 3.0i","body":"Roadster","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2002-08","to":"2005-11","source":"https://www.bimmerarchive.org/code/bt52.html"},{"code":"BT53","model":"Z4 3.0i","body":"Roadster","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2002-01","to":"2005-11","source":"https://www.bimmerarchive.org/code/bt53.html"},{"code":"BU33","model":"Z4 3.0i","body":"Roadster","engine":"N52B30U0","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2004-10","to":"2008-08","source":"https://www.bimmerarchive.org/code/bu33.html"},{"code":"BU51","model":"Z4 3.0si","body":"Roadster","engine":"N52B30O0","power_kw":195,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2004-10","to":"2008-07","source":"https://www.bimmerarchive.org/code/bu51.html"},{"code":"BU52","model":"Z4 3.0si","body":"Roadster","engine":"N52B30O0","power_kw":195,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2004-10","to":"2008-07","source":"https://www.bimmerarchive.org/code/bu52.html"},{"code":"BU53","model":"Z4 3.0si","body":"Roadster","engine":"N52B30O0","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2004-10","to":"2008-08","source":"https://www.bimmerarchive.org/code/bu53.html"}],"plants":[{"slug":"bmw-plant-spartanburg","name":"BMW Plant Spartanburg"}],"photos":[{"slug":"2-1-bmw-z4-roadster-facelift","title":"BMW Z4 Roadster Facelift"},{"slug":"869-87-z4-2-5i-roadster","title":"Z4 2.5i roadster"},{"slug":"7392-431-bmw-concept-z4-coupe","title":"BMW Concept Z4 Coupé"},{"slug":"3-1-bmw-z4-roadster-facelift","title":"BMW Z4 Roadster Facelift"},{"slug":"33-1-bmw-concept-z4-coupe-studie-mit-z4-roadster","title":"BMW Concept Z4 Coupé mit BMW Z4 Roadster"},{"slug":"1-1-bmw-z4-roadster-facelift","title":"BMW Z4 Roadster Facelift"},{"slug":"211-27-bmw-z4-3-0i-roadster","title":"BMW Z4 3.0i roadster"},{"slug":"7393-431-bmw-concept-z4-coupe","title":"BMW Concept Z4 Coupé"},{"slug":"7694-444-pebble-beach-2017","title":"Pebble Beach 2017"},{"slug":"500-61-bmw-z4-2-0i-roadster","title":"BMW Z4 2.0i roadster"},{"slug":"1162-112-bmw-z1-roadster-bmw-z3-roadster-bmw-z8-roadster-bmw-z4-roadster","title":"BMW Z1 roadster, BMW Z3 roadster, BMW Z8 roadster and BMW Z4 roadster"},{"slug":"212-27-bmw-z4-3-0i-roadster","title":"BMW Z4 3.0i roadster"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e85.html"}
+{
+ "code": "E85",
+ "slug": "e85",
+ "brand": "BMW",
+ "description": "BMW Z4 Roadster",
+ "years": "2002 - 2009",
+ "year_from": 2002,
+ "year_to": 2009,
+ "type": "Serie",
+ "production_code_count": 18,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "BZ11",
+   "model": "Z4 2.0i",
+   "body": "Roadster",
+   "engine": "N46B20O1",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2004-06",
+   "to": "2008-08",
+   "source": "https://www.bimmerarchive.org/code/bz11.html",
+   "engine_slug": "n46b20o1"
+  },
+  {
+   "code": "BZ12",
+   "model": "Z4 2.0i",
+   "body": "Roadster",
+   "engine": "N46B20O1",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2004-06",
+   "to": "2008-08",
+   "source": "https://www.bimmerarchive.org/code/bz12.html",
+   "engine_slug": "n46b20o1"
+  },
+  {
+   "code": "BT11",
+   "model": "Z4 2.2i",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2002-12",
+   "to": "2005-11",
+   "source": "https://www.bimmerarchive.org/code/bt11.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BT12",
+   "model": "Z4 2.2i",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2002-12",
+   "to": "2005-11",
+   "source": "https://www.bimmerarchive.org/code/bt12.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BT31",
+   "model": "Z4 2.5i",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2002-04",
+   "to": "2005-11",
+   "source": "https://www.bimmerarchive.org/code/bt31.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BT32",
+   "model": "Z4 2.5i",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2002-08",
+   "to": "2005-11",
+   "source": "https://www.bimmerarchive.org/code/bt32.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BT33",
+   "model": "Z4 2.5i",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2002-01",
+   "to": "2005-11",
+   "source": "https://www.bimmerarchive.org/code/bt33.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BU11",
+   "model": "Z4 2.5i",
+   "body": "Roadster",
+   "engine": "N52B25U0",
+   "power_kw": 130,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2004-10",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/bu11.html",
+   "engine_slug": "n52b25u0"
+  },
+  {
+   "code": "BU12",
+   "model": "Z4 2.5i",
+   "body": "Roadster",
+   "engine": "N52B25U0",
+   "power_kw": 130,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2004-10",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/bu12.html",
+   "engine_slug": "n52b25u0"
+  },
+  {
+   "code": "BU31",
+   "model": "Z4 2.5si",
+   "body": "Roadster",
+   "engine": "N52B25O0",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2004-10",
+   "to": "2008-08",
+   "source": "https://www.bimmerarchive.org/code/bu31.html",
+   "engine_slug": "n52b25o0"
+  },
+  {
+   "code": "BU32",
+   "model": "Z4 2.5si",
+   "body": "Roadster",
+   "engine": "N52B25O0",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2005-04",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/bu32.html",
+   "engine_slug": "n52b25o0"
+  },
+  {
+   "code": "BT51",
+   "model": "Z4 3.0i",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2002-04",
+   "to": "2005-11",
+   "source": "https://www.bimmerarchive.org/code/bt51.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BT52",
+   "model": "Z4 3.0i",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2002-08",
+   "to": "2005-11",
+   "source": "https://www.bimmerarchive.org/code/bt52.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BT53",
+   "model": "Z4 3.0i",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2002-01",
+   "to": "2005-11",
+   "source": "https://www.bimmerarchive.org/code/bt53.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "BU33",
+   "model": "Z4 3.0i",
+   "body": "Roadster",
+   "engine": "N52B30U0",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2004-10",
+   "to": "2008-08",
+   "source": "https://www.bimmerarchive.org/code/bu33.html",
+   "engine_slug": "n52b30u0"
+  },
+  {
+   "code": "BU51",
+   "model": "Z4 3.0si",
+   "body": "Roadster",
+   "engine": "N52B30O0",
+   "power_kw": 195,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2004-10",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/bu51.html",
+   "engine_slug": "n52b30o0-195"
+  },
+  {
+   "code": "BU52",
+   "model": "Z4 3.0si",
+   "body": "Roadster",
+   "engine": "N52B30O0",
+   "power_kw": 195,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2004-10",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/bu52.html",
+   "engine_slug": "n52b30o0-195"
+  },
+  {
+   "code": "BU53",
+   "model": "Z4 3.0si",
+   "body": "Roadster",
+   "engine": "N52B30O0",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2004-10",
+   "to": "2008-08",
+   "source": "https://www.bimmerarchive.org/code/bu53.html",
+   "engine_slug": "n52b30o0-195"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-spartanburg",
+   "name": "BMW Plant Spartanburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "2-1-bmw-z4-roadster-facelift",
+   "title": "BMW Z4 Roadster Facelift"
+  },
+  {
+   "slug": "869-87-z4-2-5i-roadster",
+   "title": "Z4 2.5i roadster"
+  },
+  {
+   "slug": "7392-431-bmw-concept-z4-coupe",
+   "title": "BMW Concept Z4 Coup\u00e9"
+  },
+  {
+   "slug": "3-1-bmw-z4-roadster-facelift",
+   "title": "BMW Z4 Roadster Facelift"
+  },
+  {
+   "slug": "33-1-bmw-concept-z4-coupe-studie-mit-z4-roadster",
+   "title": "BMW Concept Z4 Coup\u00e9 mit BMW Z4 Roadster"
+  },
+  {
+   "slug": "1-1-bmw-z4-roadster-facelift",
+   "title": "BMW Z4 Roadster Facelift"
+  },
+  {
+   "slug": "211-27-bmw-z4-3-0i-roadster",
+   "title": "BMW Z4 3.0i roadster"
+  },
+  {
+   "slug": "7393-431-bmw-concept-z4-coupe",
+   "title": "BMW Concept Z4 Coup\u00e9"
+  },
+  {
+   "slug": "7694-444-pebble-beach-2017",
+   "title": "Pebble Beach 2017"
+  },
+  {
+   "slug": "500-61-bmw-z4-2-0i-roadster",
+   "title": "BMW Z4 2.0i roadster"
+  },
+  {
+   "slug": "1162-112-bmw-z1-roadster-bmw-z3-roadster-bmw-z8-roadster-bmw-z4-roadster",
+   "title": "BMW Z1 roadster, BMW Z3 roadster, BMW Z8 roadster and BMW Z4 roadster"
+  },
+  {
+   "slug": "212-27-bmw-z4-3-0i-roadster",
+   "title": "BMW Z4 3.0i roadster"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e85.html"
+}

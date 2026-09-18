@@ -1,1 +1,73 @@
-{"code":"R50 (2)","slug":"r50-2","brand":"MINI","description":"MINI Cooper","years":"2000 - 2006","year_from":2000,"year_to":2006,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"RC31","model":"COOPER","body":"Coupe","engine":"W10","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":"2000-09","to":"2006-11","source":"https://www.bimmerarchive.org/code/rc31.html"},{"code":"RC32","model":"COOPER","body":"Coupe","engine":"W10","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":"2000-09","to":"2006-11","source":"https://www.bimmerarchive.org/code/rc32.html"},{"code":"RC33","model":"COOPER","body":"Coupe","engine":"W10","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":"2000-10","to":"2006-11","source":"https://www.bimmerarchive.org/code/rc33.html"}],"plants":[],"photos":[{"slug":"4775-303-mini-cooper","title":"Mini Cooper"},{"slug":"5427-345-mini-2001","title":"MINI"},{"slug":"4774-303-mini-cooper","title":"Mini Cooper"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/r50-2.html"}
+{
+ "code": "R50 (2)",
+ "slug": "r50-2",
+ "brand": "MINI",
+ "description": "MINI Cooper",
+ "years": "2000 - 2006",
+ "year_from": 2000,
+ "year_to": 2006,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "RC31",
+   "model": "COOPER",
+   "body": "Coupe",
+   "engine": "W10",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2000-09",
+   "to": "2006-11",
+   "source": "https://www.bimmerarchive.org/code/rc31.html",
+   "engine_slug": "w10b16"
+  },
+  {
+   "code": "RC32",
+   "model": "COOPER",
+   "body": "Coupe",
+   "engine": "W10",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2000-09",
+   "to": "2006-11",
+   "source": "https://www.bimmerarchive.org/code/rc32.html",
+   "engine_slug": "w10b16"
+  },
+  {
+   "code": "RC33",
+   "model": "COOPER",
+   "body": "Coupe",
+   "engine": "W10",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2000-10",
+   "to": "2006-11",
+   "source": "https://www.bimmerarchive.org/code/rc33.html",
+   "engine_slug": "w10b16"
+  }
+ ],
+ "plants": [],
+ "photos": [
+  {
+   "slug": "4775-303-mini-cooper",
+   "title": "Mini Cooper"
+  },
+  {
+   "slug": "5427-345-mini-2001",
+   "title": "MINI"
+  },
+  {
+   "slug": "4774-303-mini-cooper",
+   "title": "Mini Cooper"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/r50-2.html"
+}

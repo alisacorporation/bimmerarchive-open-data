@@ -1,1 +1,24 @@
-{"code":"HU11","count":1,"results":[{"code":"HU11","model":"X1 sDrive20d","body":"Sports Activity Vehicle","engine":"B47O","power_kw":140,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hu11.html","chassis":"F48","chassis_slug":"f48","brand":"BMW","chassis_description":"BMW X1"}]}
+{
+ "code": "HU11",
+ "count": 1,
+ "results": [
+  {
+   "code": "HU11",
+   "model": "X1 sDrive20d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47O",
+   "power_kw": 140,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hu11.html",
+   "chassis": "F48",
+   "chassis_slug": "f48",
+   "brand": "BMW",
+   "chassis_description": "BMW X1",
+   "engine_slug": "b47d20o0"
+  }
+ ]
+}

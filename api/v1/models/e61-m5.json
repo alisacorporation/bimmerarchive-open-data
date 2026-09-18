@@ -1,1 +1,100 @@
-{"code":"E61 (M5)","slug":"e61-m5","brand":"BMW","description":"BMW M5 Touring","years":"2005 - 2009","year_from":2005,"year_to":2009,"type":"Serie","production_code_count":2,"has_detail":true,"production_codes":[{"code":"PV91","model":"M5","body":"Touring","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2005-12","to":"2009-12","source":"https://www.bimmerarchive.org/code/pv91.html"},{"code":"PV92","model":"M5","body":"Touring","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-05","to":"2009-11","source":"https://www.bimmerarchive.org/code/pv92.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"275-34-bmw-m5-touring-innenraum","title":"BMW M5 Touring - Innenraum"},{"slug":"510-61-bmw-m5-touring","title":"BMW M5 touring"},{"slug":"265-34-bmw-m5-touring-e61","title":"BMW M5 Touring"},{"slug":"512-61-bmw-m5-touring","title":"BMW M5 touring"},{"slug":"263-34-bmw-m5-touring-e61","title":"BMW M5 Touring"},{"slug":"871-87-bmw-m6-cabrio-und-bmw-m5-touring","title":"BMW M6 Cabrio und BMW M5 Touring"},{"slug":"274-34-bmw-m5-touring","title":"BMW M5 Touring"},{"slug":"1529-142-bmw-m5-touring-heckleuchte","title":"BMW M5 Touring- Heckleuchte"},{"slug":"273-34-bmw-m5-touring","title":"BMW M5 Touring"},{"slug":"870-87-bmw-m5-touring","title":"BMW M5 Touring"},{"slug":"511-61-bmw-m5-touring","title":"BMW M5 touring"},{"slug":"266-34-bmw-m5-touring-e61","title":"BMW M5 Touring"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e61-m5.html"}
+{
+ "code": "E61 (M5)",
+ "slug": "e61-m5",
+ "brand": "BMW",
+ "description": "BMW M5 Touring",
+ "years": "2005 - 2009",
+ "year_from": 2005,
+ "year_to": 2009,
+ "type": "Serie",
+ "production_code_count": 2,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "PV91",
+   "model": "M5",
+   "body": "Touring",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2005-12",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/pv91.html",
+   "engine_slug": "s85b50"
+  },
+  {
+   "code": "PV92",
+   "model": "M5",
+   "body": "Touring",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-05",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/pv92.html",
+   "engine_slug": "s85b50"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "275-34-bmw-m5-touring-innenraum",
+   "title": "BMW M5 Touring - Innenraum"
+  },
+  {
+   "slug": "510-61-bmw-m5-touring",
+   "title": "BMW M5 touring"
+  },
+  {
+   "slug": "265-34-bmw-m5-touring-e61",
+   "title": "BMW M5 Touring"
+  },
+  {
+   "slug": "512-61-bmw-m5-touring",
+   "title": "BMW M5 touring"
+  },
+  {
+   "slug": "263-34-bmw-m5-touring-e61",
+   "title": "BMW M5 Touring"
+  },
+  {
+   "slug": "871-87-bmw-m6-cabrio-und-bmw-m5-touring",
+   "title": "BMW M6 Cabrio und BMW M5 Touring"
+  },
+  {
+   "slug": "274-34-bmw-m5-touring",
+   "title": "BMW M5 Touring"
+  },
+  {
+   "slug": "1529-142-bmw-m5-touring-heckleuchte",
+   "title": "BMW M5 Touring- Heckleuchte"
+  },
+  {
+   "slug": "273-34-bmw-m5-touring",
+   "title": "BMW M5 Touring"
+  },
+  {
+   "slug": "870-87-bmw-m5-touring",
+   "title": "BMW M5 Touring"
+  },
+  {
+   "slug": "511-61-bmw-m5-touring",
+   "title": "BMW M5 touring"
+  },
+  {
+   "slug": "266-34-bmw-m5-touring-e61",
+   "title": "BMW M5 Touring"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e61-m5.html"
+}

@@ -1,0 +1,23 @@
+{
+ "code": "S38B38",
+ "slug": "s38b38",
+ "family": "S38",
+ "years": "1991 - 1995",
+ "year_from": 1991,
+ "year_to": 1995,
+ "displacement_cc": 3795,
+ "power_kw": 250,
+ "power_ps": 340,
+ "power_rpm": "6900",
+ "torque_nm": 400,
+ "torque_rpm": "4750",
+ "has_detail": false,
+ "construction": "6 Cylinder, 24 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 24,
+ "compression_ratio": "10.0:1",
+ "bore_mm": 94.6,
+ "stroke_mm": 90.0,
+ "fuel": "Super Plus bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/s38b38.html"
+}

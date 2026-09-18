@@ -1,1 +1,24 @@
-{"code":"SY33","count":1,"results":[{"code":"SY33","model":"COOPER S","body":"Roadster","engine":"N18B16M0","power_kw":135,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sy33.html","chassis":"R59","chassis_slug":"r59","brand":"MINI","chassis_description":"MINI Roadster"}]}
+{
+ "code": "SY33",
+ "count": 1,
+ "results": [
+  {
+   "code": "SY33",
+   "model": "COOPER S",
+   "body": "Roadster",
+   "engine": "N18B16M0",
+   "power_kw": 135,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sy33.html",
+   "chassis": "R59",
+   "chassis_slug": "r59",
+   "brand": "MINI",
+   "chassis_description": "MINI Roadster",
+   "engine_slug": "n18b16m0"
+  }
+ ]
+}

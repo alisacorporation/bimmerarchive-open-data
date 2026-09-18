@@ -1,1 +1,114 @@
-{"code":"E71 (X6M)","slug":"e71-x6m","brand":"BMW","description":"BMW X6 M - Sports Activity Coupe","years":"-","year_from":null,"year_to":null,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"GZ01","model":"X6 M","body":"Sports Activity Coupe","engine":"S63B44O0","power_kw":408,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2008-07","to":"2010-02","source":"https://www.bimmerarchive.org/code/gz01.html"},{"code":"GZ02","model":"X6 M","body":"Sports Activity Coupe","engine":"S63B44O0","power_kw":408,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2008-08","to":"2010-02","source":"https://www.bimmerarchive.org/code/gz02.html"},{"code":"GZ03","model":"X6 M","body":"Sports Activity Coupe","engine":"S63B44O0","power_kw":408,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":"2008-08","to":"2010-02","source":"https://www.bimmerarchive.org/code/gz03.html"}],"plants":[{"slug":"bmw-plant-spartanburg","name":"BMW Plant Spartanburg"}],"photos":[{"slug":"1802-164-bmw-x6-m-schaltpaddle","title":"BMW X6 M Schaltpaddle"},{"slug":"1795-164-bmw-x6-m-kieme","title":"BMW X6 M Kieme"},{"slug":"1790-164-bmw-x6-m","title":"BMW X6 M"},{"slug":"1801-164-bmw-x6-m-armaturenbrett","title":"BMW X6 M Armaturenbrett"},{"slug":"1806-164-bmw-x6-m-interieur","title":"BMW X6 M Interieur"},{"slug":"1788-164-bmw-x6-m","title":"BMW X6 M"},{"slug":"1792-164-bmw-x6-m","title":"BMW X6 M"},{"slug":"1805-164-bmw-x6-m-interieur","title":"BMW X6 M Interieur"},{"slug":"1798-164-bmw-x6-m-rad-und-bremse","title":"BMW X6 M Rad und Bremse"},{"slug":"1799-164-bmw-x6-m-aussenspiegel","title":"BMW X6 M Aussenspiegel"},{"slug":"1807-164-bmw-x6-m-einstiegsleiste","title":"BMW X6 M Einstiegsleiste"},{"slug":"1810-164-bmw-x6-m-fussstuetze","title":"BMW X6 M Fußstütze"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e71-x6m.html"}
+{
+ "code": "E71 (X6M)",
+ "slug": "e71-x6m",
+ "brand": "BMW",
+ "description": "BMW X6 M - Sports Activity Coupe",
+ "years": "-",
+ "year_from": null,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "GZ01",
+   "model": "X6 M",
+   "body": "Sports Activity Coupe",
+   "engine": "S63B44O0",
+   "power_kw": 408,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-07",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/gz01.html",
+   "engine_slug": "s63b44o0"
+  },
+  {
+   "code": "GZ02",
+   "model": "X6 M",
+   "body": "Sports Activity Coupe",
+   "engine": "S63B44O0",
+   "power_kw": 408,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-08",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/gz02.html",
+   "engine_slug": "s63b44o0"
+  },
+  {
+   "code": "GZ03",
+   "model": "X6 M",
+   "body": "Sports Activity Coupe",
+   "engine": "S63B44O0",
+   "power_kw": 408,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-08",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/gz03.html",
+   "engine_slug": "s63b44o0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-spartanburg",
+   "name": "BMW Plant Spartanburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "1802-164-bmw-x6-m-schaltpaddle",
+   "title": "BMW X6 M Schaltpaddle"
+  },
+  {
+   "slug": "1795-164-bmw-x6-m-kieme",
+   "title": "BMW X6 M Kieme"
+  },
+  {
+   "slug": "1790-164-bmw-x6-m",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "1801-164-bmw-x6-m-armaturenbrett",
+   "title": "BMW X6 M Armaturenbrett"
+  },
+  {
+   "slug": "1806-164-bmw-x6-m-interieur",
+   "title": "BMW X6 M Interieur"
+  },
+  {
+   "slug": "1788-164-bmw-x6-m",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "1792-164-bmw-x6-m",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "1805-164-bmw-x6-m-interieur",
+   "title": "BMW X6 M Interieur"
+  },
+  {
+   "slug": "1798-164-bmw-x6-m-rad-und-bremse",
+   "title": "BMW X6 M Rad und Bremse"
+  },
+  {
+   "slug": "1799-164-bmw-x6-m-aussenspiegel",
+   "title": "BMW X6 M Aussenspiegel"
+  },
+  {
+   "slug": "1807-164-bmw-x6-m-einstiegsleiste",
+   "title": "BMW X6 M Einstiegsleiste"
+  },
+  {
+   "slug": "1810-164-bmw-x6-m-fussstuetze",
+   "title": "BMW X6 M Fu\u00dfst\u00fctze"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e71-x6m.html"
+}

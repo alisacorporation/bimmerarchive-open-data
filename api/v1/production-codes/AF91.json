@@ -1,1 +1,24 @@
-{"code":"AF91","count":1,"results":[{"code":"AF91","model":"318IS","body":"Sedan","engine":"M42","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1989-02","to":"1991-04","source":"https://www.bimmerarchive.org/code/af91.html","chassis":"E30","chassis_slug":"e30","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "AF91",
+ "count": 1,
+ "results": [
+  {
+   "code": "AF91",
+   "model": "318IS",
+   "body": "Sedan",
+   "engine": "M42",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1989-02",
+   "to": "1991-04",
+   "source": "https://www.bimmerarchive.org/code/af91.html",
+   "chassis": "E30",
+   "chassis_slug": "e30",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m42b18"
+  }
+ ]
+}

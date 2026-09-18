@@ -1,1 +1,24 @@
-{"code":"DY32","count":1,"results":[{"code":"DY32","model":"320d","body":"Convertible","engine":"N47D20O1","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2009-12","to":"2009-12","source":"https://www.bimmerarchive.org/code/dy32.html","chassis":"E93 (MUE)","chassis_slug":"e93n","brand":"BMW","chassis_description":"BMW 3 Series Convertible - LCI"}]}
+{
+ "code": "DY32",
+ "count": 1,
+ "results": [
+  {
+   "code": "DY32",
+   "model": "320d",
+   "body": "Convertible",
+   "engine": "N47D20O1",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-12",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/dy32.html",
+   "chassis": "E93 (MUE)",
+   "chassis_slug": "e93n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible - LCI",
+   "engine_slug": "n47d20o1-18d"
+  }
+ ]
+}

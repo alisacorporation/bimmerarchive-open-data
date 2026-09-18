@@ -1,1 +1,24 @@
-{"code":"WD92","count":1,"results":[{"code":"WD92","model":"M3","body":"Coupe","engine":"S65B40O0","power_kw":309,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-07","to":"2010-01","source":"https://www.bimmerarchive.org/code/wd92.html","chassis":"E92 (M3)","chassis_slug":"e92-m3","brand":"BMW","chassis_description":"BMW M3 Coupe"}]}
+{
+ "code": "WD92",
+ "count": 1,
+ "results": [
+  {
+   "code": "WD92",
+   "model": "M3",
+   "body": "Coupe",
+   "engine": "S65B40O0",
+   "power_kw": 309,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-07",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/wd92.html",
+   "chassis": "E92 (M3)",
+   "chassis_slug": "e92-m3",
+   "brand": "BMW",
+   "chassis_description": "BMW M3 Coupe",
+   "engine_slug": "s65b40o0"
+  }
+ ]
+}

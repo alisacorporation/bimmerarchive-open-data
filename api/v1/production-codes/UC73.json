@@ -1,1 +1,24 @@
-{"code":"UC73","count":1,"results":[{"code":"UC73","model":"135is","body":"Coupe","engine":"N54B30O0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2006-11","to":"2010-02","source":"https://www.bimmerarchive.org/code/uc73.html","chassis":"E82","chassis_slug":"e82","brand":"BMW","chassis_description":"BMW 1 Series Coupe"}]}
+{
+ "code": "UC73",
+ "count": 1,
+ "results": [
+  {
+   "code": "UC73",
+   "model": "135is",
+   "body": "Coupe",
+   "engine": "N54B30O0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2006-11",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uc73.html",
+   "chassis": "E82",
+   "chassis_slug": "e82",
+   "brand": "BMW",
+   "chassis_description": "BMW 1 Series Coupe",
+   "engine_slug": "n54b30o0"
+  }
+ ]
+}

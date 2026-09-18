@@ -1,1 +1,301 @@
-{"code":"F16","slug":"f16","brand":"BMW","description":"BMW X6 - Sports Activity Coupe","years":"2014 -","year_from":2014,"year_to":null,"type":"Serie","production_code_count":16,"has_detail":true,"production_codes":[{"code":"KV61","model":"X6 M50d","body":"Sports Activity Coupe","engine":"N57D30S1","power_kw":280,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kv61.html"},{"code":"KV62","model":"X6 M50d","body":"Sports Activity Coupe","engine":"N57D30S1","power_kw":280,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kv62.html"},{"code":"KU03","model":"X6 sDrive35i","body":"Sports Activity Coupe","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ku03.html"},{"code":"KV21","model":"X6 xDrive30d","body":"Sports Activity Coupe","engine":"N57D30O1","power_kw":190,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kv21.html"},{"code":"KV22","model":"X6 xDrive30d","body":"Sports Activity Coupe","engine":"N57D30O1","power_kw":190,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kv22.html"},{"code":"KV29","model":"X6 xDrive30d","body":"Sports Activity Coupe","engine":"N57T","power_kw":183,"drivetrain":"All Wheel-Drive","steering":"left","region":"Russia","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kv29.html"},{"code":"KU21","model":"X6 xDrive35i","body":"Sports Activity Coupe","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ku21.html"},{"code":"KU22","model":"X6 xDrive35i","body":"Sports Activity Coupe","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ku22.html"},{"code":"KU23","model":"X6 xDrive35i","body":"Sports Activity Coupe","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ku23.html"},{"code":"KU29","model":"x6 xdrive35i","body":"Sports Activity Coupe","engine":"N55","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"Russia","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ku29.html"},{"code":"KV41","model":"X6 xDrive40d","body":"Sports Activity Coupe","engine":"N57D30T1","power_kw":230,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kv41.html"},{"code":"KV42","model":"X6 xDrive40d","body":"Sports Activity Coupe","engine":"N57D30T1","power_kw":230,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kv42.html"},{"code":"KU41","model":"X6 xDrive50i","body":"Sports Activity Coupe","engine":"N63T","power_kw":300,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ku41.html"},{"code":"KU61","model":"X6 xDrive50i","body":"Sports Activity Coupe","engine":"N63B44O1","power_kw":330,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ku61.html"},{"code":"KU62","model":"X6 xDrive50i","body":"Sports Activity Coupe","engine":"N63B44O1","power_kw":330,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ku62.html"},{"code":"KU63","model":"X6 xDrive50i","body":"Sports Activity Coupe","engine":"N63B44O1","power_kw":330,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ku63.html"}],"plants":[{"slug":"bmw-plant-spartanburg","name":"BMW Plant Spartanburg"}],"photos":[{"slug":"5319-341-bmw-x6-xdrive-50i","title":"BMW X6 xDrive50i"},{"slug":"5318-341-bmw-x6-xdrive-50i","title":"BMW X6 xDrive50i"},{"slug":"5320-341-bmw-x6-xdrive-50i","title":"BMW X6 xDrive50i"},{"slug":"5333-341-bmw-x6-m50d","title":"BMW X6 M50d"},{"slug":"5321-341-bmw-x6-xdrive-50i","title":"BMW X6 xDrive50i"},{"slug":"5326-341-bmw-x6-xdrive-50i","title":"BMW X6 xDrive50i - Interior design Pure Extravagance Cognac"},{"slug":"5316-341-bmw-x6-xdrive-50i","title":"BMW X6 xDrive50i"},{"slug":"5342-341-bmw-x6-m50d","title":"BMW X6 M50d - Interior design Pure Extravagance Ivory White"},{"slug":"5314-341-bmw-x6-xdrive-50i","title":"BMW X6 xDrive50i"},{"slug":"5339-341-bmw-x6-m50d","title":"BMW X6 M50d"},{"slug":"5322-341-bmw-x6-xdrive-50i","title":"BMW X6 xDrive50i"},{"slug":"5335-341-bmw-x6-m50d","title":"BMW X6 M50d"}],"articles":[{"slug":"2014-06-06-the-new-bmw-x6","title":"The new BMW X6 (2014-06-06)"}],"source":"https://www.bimmerarchive.org/e-code/f16.html"}
+{
+ "code": "F16",
+ "slug": "f16",
+ "brand": "BMW",
+ "description": "BMW X6 - Sports Activity Coupe",
+ "years": "2014 -",
+ "year_from": 2014,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 16,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "KV61",
+   "model": "X6 M50d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30S1",
+   "power_kw": 280,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kv61.html",
+   "engine_slug": "n57d30s1"
+  },
+  {
+   "code": "KV62",
+   "model": "X6 M50d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30S1",
+   "power_kw": 280,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kv62.html",
+   "engine_slug": "n57d30s1"
+  },
+  {
+   "code": "KU03",
+   "model": "X6 sDrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ku03.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "KV21",
+   "model": "X6 xDrive30d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30O1",
+   "power_kw": 190,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kv21.html",
+   "engine_slug": "n57d30o1"
+  },
+  {
+   "code": "KV22",
+   "model": "X6 xDrive30d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30O1",
+   "power_kw": 190,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kv22.html",
+   "engine_slug": "n57d30o1"
+  },
+  {
+   "code": "KV29",
+   "model": "X6 xDrive30d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57T",
+   "power_kw": 183,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Russia",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kv29.html",
+   "engine_slug": "n57d30t0"
+  },
+  {
+   "code": "KU21",
+   "model": "X6 xDrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ku21.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "KU22",
+   "model": "X6 xDrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ku22.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "KU23",
+   "model": "X6 xDrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ku23.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "KU29",
+   "model": "x6 xdrive35i",
+   "body": "Sports Activity Coupe",
+   "engine": "N55",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Russia",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ku29.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "KV41",
+   "model": "X6 xDrive40d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30T1",
+   "power_kw": 230,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kv41.html",
+   "engine_slug": "n57d30t1"
+  },
+  {
+   "code": "KV42",
+   "model": "X6 xDrive40d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57D30T1",
+   "power_kw": 230,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kv42.html",
+   "engine_slug": "n57d30t1"
+  },
+  {
+   "code": "KU41",
+   "model": "X6 xDrive50i",
+   "body": "Sports Activity Coupe",
+   "engine": "N63T",
+   "power_kw": 300,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ku41.html",
+   "engine_slug": "n63b44o2"
+  },
+  {
+   "code": "KU61",
+   "model": "X6 xDrive50i",
+   "body": "Sports Activity Coupe",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ku61.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "KU62",
+   "model": "X6 xDrive50i",
+   "body": "Sports Activity Coupe",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ku62.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "KU63",
+   "model": "X6 xDrive50i",
+   "body": "Sports Activity Coupe",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ku63.html",
+   "engine_slug": "n63b44o1"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-spartanburg",
+   "name": "BMW Plant Spartanburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "5319-341-bmw-x6-xdrive-50i",
+   "title": "BMW X6 xDrive50i"
+  },
+  {
+   "slug": "5318-341-bmw-x6-xdrive-50i",
+   "title": "BMW X6 xDrive50i"
+  },
+  {
+   "slug": "5320-341-bmw-x6-xdrive-50i",
+   "title": "BMW X6 xDrive50i"
+  },
+  {
+   "slug": "5333-341-bmw-x6-m50d",
+   "title": "BMW X6 M50d"
+  },
+  {
+   "slug": "5321-341-bmw-x6-xdrive-50i",
+   "title": "BMW X6 xDrive50i"
+  },
+  {
+   "slug": "5326-341-bmw-x6-xdrive-50i",
+   "title": "BMW X6 xDrive50i - Interior design Pure Extravagance Cognac"
+  },
+  {
+   "slug": "5316-341-bmw-x6-xdrive-50i",
+   "title": "BMW X6 xDrive50i"
+  },
+  {
+   "slug": "5342-341-bmw-x6-m50d",
+   "title": "BMW X6 M50d - Interior design Pure Extravagance Ivory White"
+  },
+  {
+   "slug": "5314-341-bmw-x6-xdrive-50i",
+   "title": "BMW X6 xDrive50i"
+  },
+  {
+   "slug": "5339-341-bmw-x6-m50d",
+   "title": "BMW X6 M50d"
+  },
+  {
+   "slug": "5322-341-bmw-x6-xdrive-50i",
+   "title": "BMW X6 xDrive50i"
+  },
+  {
+   "slug": "5335-341-bmw-x6-m50d",
+   "title": "BMW X6 M50d"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2014-06-06-the-new-bmw-x6",
+   "title": "The new BMW X6 (2014-06-06)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f16.html"
+}

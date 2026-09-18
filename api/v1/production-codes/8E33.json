@@ -1,1 +1,24 @@
-{"code":"8E33","count":1,"results":[{"code":"8E33","model":"328i xDrive","body":"Sedan","engine":"N26","power_kw":180,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/8e33.html","chassis":"F30 (MUE)","chassis_slug":"f30-lci","brand":"BMW","chassis_description":"BMW 3 Series Sedan - LCI"}]}
+{
+ "code": "8E33",
+ "count": 1,
+ "results": [
+  {
+   "code": "8E33",
+   "model": "328i xDrive",
+   "body": "Sedan",
+   "engine": "N26",
+   "power_kw": 180,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/8e33.html",
+   "chassis": "F30 (MUE)",
+   "chassis_slug": "f30-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan - LCI",
+   "engine_slug": "n26b20o0"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"EA31","count":1,"results":[{"code":"EA31","model":"630i","body":"Coupe","engine":"N53B30O0","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-04","to":"2010-01","source":"https://www.bimmerarchive.org/code/ea31.html","chassis":"E63 (MUE)","chassis_slug":"e63n","brand":"BMW","chassis_description":"BMW 6 Series Coupe - LCI"}]}
+{
+ "code": "EA31",
+ "count": 1,
+ "results": [
+  {
+   "code": "EA31",
+   "model": "630i",
+   "body": "Coupe",
+   "engine": "N53B30O0",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-04",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ea31.html",
+   "chassis": "E63 (MUE)",
+   "chassis_slug": "e63n",
+   "brand": "BMW",
+   "chassis_description": "BMW 6 Series Coupe - LCI",
+   "engine_slug": "n53b30o0"
+  }
+ ]
+}

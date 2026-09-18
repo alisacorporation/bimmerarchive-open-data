@@ -1,1 +1,408 @@
-{"code":"E81","slug":"e81","brand":"BMW","description":"BMW 1 Series 3-door Sports Hatch","years":"2007 - 2011","year_from":2007,"year_to":2011,"type":"Serie","production_code_count":24,"has_detail":true,"production_codes":[{"code":"UK51","model":"116d","body":"Hatch Coupe","engine":"N47D20K0","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-11","to":"2010-02","source":"https://www.bimmerarchive.org/code/uk51.html"},{"code":"UK52","model":"116d","body":"Hatch Coupe","engine":"N47D20K0","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-11","to":"2010-02","source":"https://www.bimmerarchive.org/code/uk52.html"},{"code":"UA11","model":"116i","body":"Hatch Coupe","engine":"N45B16O2","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ua11.html"},{"code":"UA12","model":"116i","body":"Hatch Coupe","engine":"N45B16O2","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ua12.html"},{"code":"UB71","model":"116i","body":"Hatch Coupe","engine":"N43B16O0","power_kw":90,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ub71.html"},{"code":"UB72","model":"116i","body":"Hatch Coupe","engine":"N43B16O0","power_kw":90,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ub72.html"},{"code":"UK31","model":"116i","body":"Hatch Coupe","engine":"N43B20K0","power_kw":90,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-11","to":"2010-02","source":"https://www.bimmerarchive.org/code/uk31.html"},{"code":"UK32","model":"116i","body":"Hatch Coupe","engine":"N43B20K0","power_kw":90,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-11","to":"2010-02","source":"https://www.bimmerarchive.org/code/uk32.html"},{"code":"UB31","model":"118d","body":"Hatch Coupe","engine":"N47D20U0","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/ub31.html"},{"code":"UB32","model":"118d","body":"Hatch Coupe","engine":"N47D20U0","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/ub32.html"},{"code":"UA31","model":"118i","body":"Hatch Coupe","engine":"N46B20U2","power_kw":100,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/ua31.html"},{"code":"UA32","model":"118i","body":"Hatch Coupe","engine":"N46B20U2","power_kw":100,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-10","to":"2010-01","source":"https://www.bimmerarchive.org/code/ua32.html"},{"code":"UB91","model":"118i","body":"Hatch Coupe","engine":"N43B20U0","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-02","to":"2010-02","source":"https://www.bimmerarchive.org/code/ub91.html"},{"code":"UB92","model":"118i","body":"Hatch Coupe","engine":"N43B20U0","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/ub92.html"},{"code":"UB51","model":"120d","body":"Hatch Coupe","engine":"N47D20O0","power_kw":130,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-02","to":"2010-02","source":"https://www.bimmerarchive.org/code/ub51.html"},{"code":"UB52","model":"120d","body":"Hatch Coupe","engine":"N47D20O0","power_kw":130,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/ub52.html"},{"code":"UA51","model":"120i","body":"Hatch Coupe","engine":"N46B20O2","power_kw":115,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/ua51.html"},{"code":"UA52","model":"120i","body":"Hatch Coupe","engine":"N46B20O2","power_kw":115,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-10","to":"2010-01","source":"https://www.bimmerarchive.org/code/ua52.html"},{"code":"UA71","model":"120i","body":"Hatch Coupe","engine":"N43B20O0","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/ua71.html"},{"code":"UA72","model":"120i","body":"Hatch Coupe","engine":"N43B20O0","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-10","to":"2010-01","source":"https://www.bimmerarchive.org/code/ua72.html"},{"code":"UK11","model":"123d","body":"Hatch Coupe","engine":"N47D20T0","power_kw":150,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2007-03","to":"2010-02","source":"https://www.bimmerarchive.org/code/uk11.html"},{"code":"UK12","model":"123d","body":"Hatch Coupe","engine":"N47D20T0","power_kw":150,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-03","to":"2010-02","source":"https://www.bimmerarchive.org/code/uk12.html"},{"code":"UB11","model":"130i","body":"Hatch Coupe","engine":"N52B30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-02","to":"2010-02","source":"https://www.bimmerarchive.org/code/ub11.html"},{"code":"UB12","model":"130i","body":"Hatch Coupe","engine":"N52B30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-09","to":"2010-01","source":"https://www.bimmerarchive.org/code/ub12.html"}],"plants":[{"slug":"bmw-plant-leipzig","name":"BMW Group Plant Leipzig"}],"photos":[{"slug":"9227-37-bmw-1-series","title":"BMW 120i"},{"slug":"9229-37-bmw-1-series","title":"BMW 120i"},{"slug":"2144-177-bmw-116d","title":"BMW 116d"},{"slug":"484-61-bmw-130i-limited-sport-edition","title":"BMW 130i Limited Sport Edition"},{"slug":"893-87-bmw-116i-3-tuerer","title":"BMW 116i 3-Türer"},{"slug":"486-61-bmw-118i-3-tuerer","title":"BMW 118i"},{"slug":"290-37-bmw-120i-3-tuerer","title":"BMW 120i - 3-Türer"},{"slug":"297-37-bmw-120i-3-tuerer-konsole","title":"BMW 120i - 3-Türer - Konsole"},{"slug":"678-71-der-neue-bmw-123d-3-tuerer","title":"Der neue BMW 123d 3-Türer"},{"slug":"677-71-der-neue-bmw-123d-3-tuerer","title":"Der neue BMW 123d 3-Türer"},{"slug":"865-87-bmw-123d-3-tuerer","title":"BMW 123d"},{"slug":"476-61-bmw-118i-3-tuerer-verhuellt","title":"BMW 118i 3-Türer verhüllt"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e81.html"}
+{
+ "code": "E81",
+ "slug": "e81",
+ "brand": "BMW",
+ "description": "BMW 1 Series 3-door Sports Hatch",
+ "years": "2007 - 2011",
+ "year_from": 2007,
+ "year_to": 2011,
+ "type": "Serie",
+ "production_code_count": 24,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "UK51",
+   "model": "116d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20K0",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-11",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uk51.html",
+   "engine_slug": "n47d20k0"
+  },
+  {
+   "code": "UK52",
+   "model": "116d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20K0",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-11",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uk52.html",
+   "engine_slug": "n47d20k0"
+  },
+  {
+   "code": "UA11",
+   "model": "116i",
+   "body": "Hatch Coupe",
+   "engine": "N45B16O2",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ua11.html",
+   "engine_slug": "n45b16o2"
+  },
+  {
+   "code": "UA12",
+   "model": "116i",
+   "body": "Hatch Coupe",
+   "engine": "N45B16O2",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ua12.html",
+   "engine_slug": "n45b16o2"
+  },
+  {
+   "code": "UB71",
+   "model": "116i",
+   "body": "Hatch Coupe",
+   "engine": "N43B16O0",
+   "power_kw": 90,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ub71.html",
+   "engine_slug": "n43b16o0"
+  },
+  {
+   "code": "UB72",
+   "model": "116i",
+   "body": "Hatch Coupe",
+   "engine": "N43B16O0",
+   "power_kw": 90,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ub72.html",
+   "engine_slug": "n43b16o0"
+  },
+  {
+   "code": "UK31",
+   "model": "116i",
+   "body": "Hatch Coupe",
+   "engine": "N43B20K0",
+   "power_kw": 90,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-11",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uk31.html",
+   "engine_slug": "n43b20k0"
+  },
+  {
+   "code": "UK32",
+   "model": "116i",
+   "body": "Hatch Coupe",
+   "engine": "N43B20K0",
+   "power_kw": 90,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-11",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uk32.html",
+   "engine_slug": "n43b20k0"
+  },
+  {
+   "code": "UB31",
+   "model": "118d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20U0",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ub31.html",
+   "engine_slug": "n47d20u0"
+  },
+  {
+   "code": "UB32",
+   "model": "118d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20U0",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ub32.html",
+   "engine_slug": "n47d20u0"
+  },
+  {
+   "code": "UA31",
+   "model": "118i",
+   "body": "Hatch Coupe",
+   "engine": "N46B20U2",
+   "power_kw": 100,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ua31.html",
+   "engine_slug": "n46b20u2"
+  },
+  {
+   "code": "UA32",
+   "model": "118i",
+   "body": "Hatch Coupe",
+   "engine": "N46B20U2",
+   "power_kw": 100,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-10",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ua32.html",
+   "engine_slug": "n46b20u2"
+  },
+  {
+   "code": "UB91",
+   "model": "118i",
+   "body": "Hatch Coupe",
+   "engine": "N43B20U0",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-02",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ub91.html",
+   "engine_slug": "n43b20u0"
+  },
+  {
+   "code": "UB92",
+   "model": "118i",
+   "body": "Hatch Coupe",
+   "engine": "N43B20U0",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ub92.html",
+   "engine_slug": "n43b20u0"
+  },
+  {
+   "code": "UB51",
+   "model": "120d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20O0",
+   "power_kw": 130,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-02",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ub51.html",
+   "engine_slug": "n47d20o0"
+  },
+  {
+   "code": "UB52",
+   "model": "120d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20O0",
+   "power_kw": 130,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ub52.html",
+   "engine_slug": "n47d20o0"
+  },
+  {
+   "code": "UA51",
+   "model": "120i",
+   "body": "Hatch Coupe",
+   "engine": "N46B20O2",
+   "power_kw": 115,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ua51.html",
+   "engine_slug": "n46b20o2"
+  },
+  {
+   "code": "UA52",
+   "model": "120i",
+   "body": "Hatch Coupe",
+   "engine": "N46B20O2",
+   "power_kw": 115,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-10",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ua52.html",
+   "engine_slug": "n46b20o2"
+  },
+  {
+   "code": "UA71",
+   "model": "120i",
+   "body": "Hatch Coupe",
+   "engine": "N43B20O0",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ua71.html",
+   "engine_slug": "n43b20o0"
+  },
+  {
+   "code": "UA72",
+   "model": "120i",
+   "body": "Hatch Coupe",
+   "engine": "N43B20O0",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-10",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ua72.html",
+   "engine_slug": "n43b20o0"
+  },
+  {
+   "code": "UK11",
+   "model": "123d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20T0",
+   "power_kw": 150,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2007-03",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uk11.html",
+   "engine_slug": "n47d20t0"
+  },
+  {
+   "code": "UK12",
+   "model": "123d",
+   "body": "Hatch Coupe",
+   "engine": "N47D20T0",
+   "power_kw": 150,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-03",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uk12.html",
+   "engine_slug": "n47d20t0"
+  },
+  {
+   "code": "UB11",
+   "model": "130i",
+   "body": "Hatch Coupe",
+   "engine": "N52B30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-02",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ub11.html",
+   "engine_slug": "n52b30o1"
+  },
+  {
+   "code": "UB12",
+   "model": "130i",
+   "body": "Hatch Coupe",
+   "engine": "N52B30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ub12.html",
+   "engine_slug": "n52b30o1"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-leipzig",
+   "name": "BMW Group Plant Leipzig"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "9227-37-bmw-1-series",
+   "title": "BMW 120i"
+  },
+  {
+   "slug": "9229-37-bmw-1-series",
+   "title": "BMW 120i"
+  },
+  {
+   "slug": "2144-177-bmw-116d",
+   "title": "BMW 116d"
+  },
+  {
+   "slug": "484-61-bmw-130i-limited-sport-edition",
+   "title": "BMW 130i Limited Sport Edition"
+  },
+  {
+   "slug": "893-87-bmw-116i-3-tuerer",
+   "title": "BMW 116i 3-T\u00fcrer"
+  },
+  {
+   "slug": "486-61-bmw-118i-3-tuerer",
+   "title": "BMW 118i"
+  },
+  {
+   "slug": "290-37-bmw-120i-3-tuerer",
+   "title": "BMW 120i - 3-T\u00fcrer"
+  },
+  {
+   "slug": "297-37-bmw-120i-3-tuerer-konsole",
+   "title": "BMW 120i - 3-T\u00fcrer - Konsole"
+  },
+  {
+   "slug": "678-71-der-neue-bmw-123d-3-tuerer",
+   "title": "Der neue BMW 123d 3-T\u00fcrer"
+  },
+  {
+   "slug": "677-71-der-neue-bmw-123d-3-tuerer",
+   "title": "Der neue BMW 123d 3-T\u00fcrer"
+  },
+  {
+   "slug": "865-87-bmw-123d-3-tuerer",
+   "title": "BMW 123d"
+  },
+  {
+   "slug": "476-61-bmw-118i-3-tuerer-verhuellt",
+   "title": "BMW 118i 3-T\u00fcrer verh\u00fcllt"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e81.html"
+}

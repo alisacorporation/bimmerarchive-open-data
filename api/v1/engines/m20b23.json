@@ -1,0 +1,23 @@
+{
+ "code": "M20B23",
+ "slug": "m20b23",
+ "family": "M20",
+ "years": "1977 - 1987",
+ "year_from": 1977,
+ "year_to": 1987,
+ "displacement_cc": 2316,
+ "power_kw": 105,
+ "power_ps": 143,
+ "power_rpm": "5900",
+ "torque_nm": 200,
+ "torque_rpm": "4000",
+ "has_detail": false,
+ "construction": "6 Cylinder, 12 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 12,
+ "compression_ratio": "9.0:1",
+ "bore_mm": 80.0,
+ "stroke_mm": 76.8,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m20b23.html"
+}

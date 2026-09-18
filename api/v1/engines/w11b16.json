@@ -1,0 +1,23 @@
+{
+ "code": "W11B16",
+ "slug": "w11b16",
+ "family": "W11",
+ "years": "2002 - 2006",
+ "year_from": 2002,
+ "year_to": 2006,
+ "displacement_cc": 1598,
+ "power_kw": 125,
+ "power_ps": 170,
+ "power_rpm": "6000",
+ "torque_nm": 220,
+ "torque_rpm": "4000",
+ "has_detail": false,
+ "construction": "4 Cylinder, 16 Valves, Reihe, Kompressor",
+ "cylinders": 4,
+ "valves": 16,
+ "compression_ratio": "8.3:1",
+ "bore_mm": 77.0,
+ "stroke_mm": 85.8,
+ "fuel": "Super Plus bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/w11b16.html"
+}

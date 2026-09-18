@@ -1,0 +1,23 @@
+{
+ "code": "N12B16",
+ "slug": "n12b16",
+ "family": "N12",
+ "years": "2006 - 2010",
+ "year_from": 2006,
+ "year_to": 2010,
+ "displacement_cc": 1598,
+ "power_kw": 88,
+ "power_ps": 120,
+ "power_rpm": "6000",
+ "torque_nm": 160,
+ "torque_rpm": "4250",
+ "has_detail": false,
+ "construction": "4 Cylinder, 16 Valves, Reihe",
+ "cylinders": 4,
+ "valves": 16,
+ "compression_ratio": "11.0:1",
+ "bore_mm": 77.0,
+ "stroke_mm": 85.8,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/n12b16.html"
+}

@@ -1,1 +1,24 @@
-{"code":"VF11","count":1,"results":[{"code":"VF11","model":"325xi","body":"Sedan","engine":"N52B25O1","power_kw":160,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2006-09","to":"2008-07","source":"https://www.bimmerarchive.org/code/vf11.html","chassis":"E90","chassis_slug":"e90","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "VF11",
+ "count": 1,
+ "results": [
+  {
+   "code": "VF11",
+   "model": "325xi",
+   "body": "Sedan",
+   "engine": "N52B25O1",
+   "power_kw": 160,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/vf11.html",
+   "chassis": "E90",
+   "chassis_slug": "e90",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "n52b25o1-150"
+  }
+ ]
+}

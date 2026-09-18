@@ -1,1 +1,24 @@
-{"code":"GY21","count":1,"results":[{"code":"GY21","model":"X5 xDrive40i","body":"Sports Activity Vehicle","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/gy21.html","chassis":"E70 (MUE)","chassis_slug":"e70-lci","brand":"BMW","chassis_description":"BMW X5 - Sports Activity Vehicle - LCI"}]}
+{
+ "code": "GY21",
+ "count": 1,
+ "results": [
+  {
+   "code": "GY21",
+   "model": "X5 xDrive40i",
+   "body": "Sports Activity Vehicle",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/gy21.html",
+   "chassis": "E70 (MUE)",
+   "chassis_slug": "e70-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW X5 - Sports Activity Vehicle - LCI",
+   "engine_slug": "n55b30m0"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"KF31","count":1,"results":[{"code":"KF31","model":"325i xDrive","body":"Coupe","engine":"N52B25O1","power_kw":150,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kf31.html","chassis":"E92 (MUE)","chassis_slug":"e92n","brand":"BMW","chassis_description":"BMW 3 Series Coupe - LCI"}]}
+{
+ "code": "KF31",
+ "count": 1,
+ "results": [
+  {
+   "code": "KF31",
+   "model": "325i xDrive",
+   "body": "Coupe",
+   "engine": "N52B25O1",
+   "power_kw": 150,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kf31.html",
+   "chassis": "E92 (MUE)",
+   "chassis_slug": "e92n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe - LCI",
+   "engine_slug": "n52b25o1-150"
+  }
+ ]
+}

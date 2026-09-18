@@ -1,1 +1,450 @@
-{"code":"E36 (7)","slug":"e36-7","brand":"BMW","description":"BMW Z3 Roadster and M Roadster","years":"1994 - 2002","year_from":1994,"year_to":2002,"type":"Serie","production_code_count":27,"has_detail":true,"production_codes":[{"code":"CK91","model":"M Roadster","body":"Roadster","engine":"S50B32","power_kw":236,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1996-04","to":"2000-06","source":"https://www.bimmerarchive.org/code/ck91.html"},{"code":"CK92","model":"M Roadster","body":"Roadster","engine":"S50B32","power_kw":236,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1997-05","to":"2000-06","source":"https://www.bimmerarchive.org/code/ck92.html"},{"code":"CK93","model":"M Roadster","body":"Roadster","engine":"S52B32","power_kw":179,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1997-10","to":"2000-07","source":"https://www.bimmerarchive.org/code/ck93.html"},{"code":"CL91","model":"M Roadster","body":"Roadster","engine":"S54B32","power_kw":239,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2000-03","to":"2002-05","source":"https://www.bimmerarchive.org/code/cl91.html"},{"code":"CL92","model":"M Roadster","body":"Roadster","engine":"S54B32","power_kw":239,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2000-04","to":"2002-04","source":"https://www.bimmerarchive.org/code/cl92.html"},{"code":"CL93","model":"M Roadster","body":"Roadster","engine":"S54B32","power_kw":239,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2000-02","to":"2002-05","source":"https://www.bimmerarchive.org/code/cl93.html"},{"code":"CH71","model":"Z3","body":"Roadster","engine":"M44","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1995-04","to":"1999-04","source":"https://www.bimmerarchive.org/code/ch71.html"},{"code":"CH72","model":"Z3","body":"Roadster","engine":"M44","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1995-07","to":"1999-04","source":"https://www.bimmerarchive.org/code/ch72.html"},{"code":"CH73","model":"Z3","body":"Roadster","engine":"M44","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1995-07","to":"1998-09","source":"https://www.bimmerarchive.org/code/ch73.html"},{"code":"CJ11","model":"Z3","body":"Roadster","engine":"M43","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1994-12","to":"1998-09","source":"https://www.bimmerarchive.org/code/cj11.html"},{"code":"CJ31","model":"Z3","body":"Roadster","engine":"M52","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1996-07","to":"1998-09","source":"https://www.bimmerarchive.org/code/cj31.html"},{"code":"CJ32","model":"Z3","body":"Roadster","engine":"M52","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1997-01","to":"1998-09","source":"https://www.bimmerarchive.org/code/cj32.html"},{"code":"CJ33","model":"Z3","body":"Roadster","engine":"M52","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1996-04","to":"1998-09","source":"https://www.bimmerarchive.org/code/cj33.html"},{"code":"CM11","model":"Z3 1.8","body":"Roadster","engine":"M43/TU","power_kw":87,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-01","to":"2002-06","source":"https://www.bimmerarchive.org/code/cm11.html"},{"code":"CM12","model":"Z3 1.8","body":"Roadster","engine":"M43/TU","power_kw":87,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-09","to":"2002-06","source":"https://www.bimmerarchive.org/code/cm12.html"},{"code":"CL31","model":"Z3 2.0","body":"Roadster","engine":"M52/TU","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-07","to":"2000-10","source":"https://www.bimmerarchive.org/code/cl31.html"},{"code":"CL32","model":"Z3 2.0","body":"Roadster","engine":"M52/TU","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-09","to":"2000-10","source":"https://www.bimmerarchive.org/code/cl32.html"},{"code":"CN11","model":"Z3 2.2","body":"Roadster","engine":"M54","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1999-12","to":"2002-06","source":"https://www.bimmerarchive.org/code/cn11.html"},{"code":"CN12","model":"Z3 2.2","body":"Roadster","engine":"M54","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2000-01","to":"2002-06","source":"https://www.bimmerarchive.org/code/cn12.html"},{"code":"CH93","model":"Z3 2.3","body":"Roadster","engine":"M52/TU","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1998-01","to":"2000-09","source":"https://www.bimmerarchive.org/code/ch93.html"},{"code":"CN33","model":"Z3 2.5","body":"Roadster","engine":"M54","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2000-01","to":"2002-06","source":"https://www.bimmerarchive.org/code/cn33.html"},{"code":"CH31","model":"Z3 2.8","body":"Roadster","engine":"M52/TU","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-01","to":"2000-05","source":"https://www.bimmerarchive.org/code/ch31.html"},{"code":"CH32","model":"Z3 2.8","body":"Roadster","engine":"M52/TU","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-01","to":"2000-05","source":"https://www.bimmerarchive.org/code/ch32.html"},{"code":"CH33","model":"Z3 2.8","body":"Roadster","engine":"M52/TU","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1998-01","to":"2000-06","source":"https://www.bimmerarchive.org/code/ch33.html"},{"code":"CN51","model":"Z3 3.0","body":"Roadster","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1999-09","to":"2002-06","source":"https://www.bimmerarchive.org/code/cn51.html"},{"code":"CN52","model":"Z3 3.0","body":"Roadster","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1999-09","to":"2002-06","source":"https://www.bimmerarchive.org/code/cn52.html"},{"code":"CN53","model":"Z3 3.0","body":"Roadster","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1999-09","to":"2002-06","source":"https://www.bimmerarchive.org/code/cn53.html"}],"plants":[{"slug":"bmw-plant-spartanburg","name":"BMW Plant Spartanburg"}],"photos":[{"slug":"5257-111-bmw-m-roadster","title":"BMW M roadster"},{"slug":"2681-224-bmw-z3-roadster","title":"BMW Z3 roadster"},{"slug":"5013-111-bmw-z3-roadster-2-0","title":"BMW Z3 roadster 2.0"},{"slug":"1153-111-bmw-z3-roadster","title":"BMW Z3 roadster"},{"slug":"5259-111-bmw-m-roadster","title":"BMW M roadster"},{"slug":"5014-111-bmw-z3-roadster-2-0","title":"BMW Z3 roadster 2.0"},{"slug":"5254-111-bmw-m-roadster","title":"BMW M roadster"},{"slug":"5261-111-bmw-m-roadster","title":"BMW M roadster"},{"slug":"5266-111-bmw-m-roadster","title":"BMW M roadster"},{"slug":"7694-444-pebble-beach-2017","title":"Pebble Beach 2017"},{"slug":"5255-111-bmw-m-roadster","title":"BMW M roadster"},{"slug":"5256-111-bmw-m-roadster","title":"BMW M roadster"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e36-7.html"}
+{
+ "code": "E36 (7)",
+ "slug": "e36-7",
+ "brand": "BMW",
+ "description": "BMW Z3 Roadster and M Roadster",
+ "years": "1994 - 2002",
+ "year_from": 1994,
+ "year_to": 2002,
+ "type": "Serie",
+ "production_code_count": 27,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "CK91",
+   "model": "M Roadster",
+   "body": "Roadster",
+   "engine": "S50B32",
+   "power_kw": 236,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1996-04",
+   "to": "2000-06",
+   "source": "https://www.bimmerarchive.org/code/ck91.html",
+   "engine_slug": "s50b32"
+  },
+  {
+   "code": "CK92",
+   "model": "M Roadster",
+   "body": "Roadster",
+   "engine": "S50B32",
+   "power_kw": 236,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1997-05",
+   "to": "2000-06",
+   "source": "https://www.bimmerarchive.org/code/ck92.html",
+   "engine_slug": "s50b32"
+  },
+  {
+   "code": "CK93",
+   "model": "M Roadster",
+   "body": "Roadster",
+   "engine": "S52B32",
+   "power_kw": 179,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1997-10",
+   "to": "2000-07",
+   "source": "https://www.bimmerarchive.org/code/ck93.html",
+   "engine_slug": "s52b32"
+  },
+  {
+   "code": "CL91",
+   "model": "M Roadster",
+   "body": "Roadster",
+   "engine": "S54B32",
+   "power_kw": 239,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2000-03",
+   "to": "2002-05",
+   "source": "https://www.bimmerarchive.org/code/cl91.html",
+   "engine_slug": "s54b32"
+  },
+  {
+   "code": "CL92",
+   "model": "M Roadster",
+   "body": "Roadster",
+   "engine": "S54B32",
+   "power_kw": 239,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2000-04",
+   "to": "2002-04",
+   "source": "https://www.bimmerarchive.org/code/cl92.html",
+   "engine_slug": "s54b32"
+  },
+  {
+   "code": "CL93",
+   "model": "M Roadster",
+   "body": "Roadster",
+   "engine": "S54B32",
+   "power_kw": 239,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2000-02",
+   "to": "2002-05",
+   "source": "https://www.bimmerarchive.org/code/cl93.html",
+   "engine_slug": "s54b32"
+  },
+  {
+   "code": "CH71",
+   "model": "Z3",
+   "body": "Roadster",
+   "engine": "M44",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1995-04",
+   "to": "1999-04",
+   "source": "https://www.bimmerarchive.org/code/ch71.html",
+   "engine_slug": "m44b19"
+  },
+  {
+   "code": "CH72",
+   "model": "Z3",
+   "body": "Roadster",
+   "engine": "M44",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1995-07",
+   "to": "1999-04",
+   "source": "https://www.bimmerarchive.org/code/ch72.html",
+   "engine_slug": "m44b19"
+  },
+  {
+   "code": "CH73",
+   "model": "Z3",
+   "body": "Roadster",
+   "engine": "M44",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1995-07",
+   "to": "1998-09",
+   "source": "https://www.bimmerarchive.org/code/ch73.html",
+   "engine_slug": "m44b19"
+  },
+  {
+   "code": "CJ11",
+   "model": "Z3",
+   "body": "Roadster",
+   "engine": "M43",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1994-12",
+   "to": "1998-09",
+   "source": "https://www.bimmerarchive.org/code/cj11.html",
+   "engine_slug": "m43b18"
+  },
+  {
+   "code": "CJ31",
+   "model": "Z3",
+   "body": "Roadster",
+   "engine": "M52",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1996-07",
+   "to": "1998-09",
+   "source": "https://www.bimmerarchive.org/code/cj31.html",
+   "engine_slug": "m52b28"
+  },
+  {
+   "code": "CJ32",
+   "model": "Z3",
+   "body": "Roadster",
+   "engine": "M52",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1997-01",
+   "to": "1998-09",
+   "source": "https://www.bimmerarchive.org/code/cj32.html",
+   "engine_slug": "m52b28"
+  },
+  {
+   "code": "CJ33",
+   "model": "Z3",
+   "body": "Roadster",
+   "engine": "M52",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1996-04",
+   "to": "1998-09",
+   "source": "https://www.bimmerarchive.org/code/cj33.html",
+   "engine_slug": "m52b28"
+  },
+  {
+   "code": "CM11",
+   "model": "Z3 1.8",
+   "body": "Roadster",
+   "engine": "M43/TU",
+   "power_kw": 87,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-01",
+   "to": "2002-06",
+   "source": "https://www.bimmerarchive.org/code/cm11.html",
+   "engine_slug": "m43b19-tu-ol"
+  },
+  {
+   "code": "CM12",
+   "model": "Z3 1.8",
+   "body": "Roadster",
+   "engine": "M43/TU",
+   "power_kw": 87,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-09",
+   "to": "2002-06",
+   "source": "https://www.bimmerarchive.org/code/cm12.html",
+   "engine_slug": "m43b19-tu-ol"
+  },
+  {
+   "code": "CL31",
+   "model": "Z3 2.0",
+   "body": "Roadster",
+   "engine": "M52/TU",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-07",
+   "to": "2000-10",
+   "source": "https://www.bimmerarchive.org/code/cl31.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "CL32",
+   "model": "Z3 2.0",
+   "body": "Roadster",
+   "engine": "M52/TU",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-09",
+   "to": "2000-10",
+   "source": "https://www.bimmerarchive.org/code/cl32.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "CN11",
+   "model": "Z3 2.2",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1999-12",
+   "to": "2002-06",
+   "source": "https://www.bimmerarchive.org/code/cn11.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "CN12",
+   "model": "Z3 2.2",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2000-01",
+   "to": "2002-06",
+   "source": "https://www.bimmerarchive.org/code/cn12.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "CH93",
+   "model": "Z3 2.3",
+   "body": "Roadster",
+   "engine": "M52/TU",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1998-01",
+   "to": "2000-09",
+   "source": "https://www.bimmerarchive.org/code/ch93.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "CN33",
+   "model": "Z3 2.5",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2000-01",
+   "to": "2002-06",
+   "source": "https://www.bimmerarchive.org/code/cn33.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "CH31",
+   "model": "Z3 2.8",
+   "body": "Roadster",
+   "engine": "M52/TU",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-01",
+   "to": "2000-05",
+   "source": "https://www.bimmerarchive.org/code/ch31.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "CH32",
+   "model": "Z3 2.8",
+   "body": "Roadster",
+   "engine": "M52/TU",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-01",
+   "to": "2000-05",
+   "source": "https://www.bimmerarchive.org/code/ch32.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "CH33",
+   "model": "Z3 2.8",
+   "body": "Roadster",
+   "engine": "M52/TU",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1998-01",
+   "to": "2000-06",
+   "source": "https://www.bimmerarchive.org/code/ch33.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "CN51",
+   "model": "Z3 3.0",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1999-09",
+   "to": "2002-06",
+   "source": "https://www.bimmerarchive.org/code/cn51.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "CN52",
+   "model": "Z3 3.0",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1999-09",
+   "to": "2002-06",
+   "source": "https://www.bimmerarchive.org/code/cn52.html",
+   "engine_slug": "m54b30"
+  },
+  {
+   "code": "CN53",
+   "model": "Z3 3.0",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1999-09",
+   "to": "2002-06",
+   "source": "https://www.bimmerarchive.org/code/cn53.html",
+   "engine_slug": "m54b30"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-spartanburg",
+   "name": "BMW Plant Spartanburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "5257-111-bmw-m-roadster",
+   "title": "BMW M roadster"
+  },
+  {
+   "slug": "2681-224-bmw-z3-roadster",
+   "title": "BMW Z3 roadster"
+  },
+  {
+   "slug": "5013-111-bmw-z3-roadster-2-0",
+   "title": "BMW Z3 roadster 2.0"
+  },
+  {
+   "slug": "1153-111-bmw-z3-roadster",
+   "title": "BMW Z3 roadster"
+  },
+  {
+   "slug": "5259-111-bmw-m-roadster",
+   "title": "BMW M roadster"
+  },
+  {
+   "slug": "5014-111-bmw-z3-roadster-2-0",
+   "title": "BMW Z3 roadster 2.0"
+  },
+  {
+   "slug": "5254-111-bmw-m-roadster",
+   "title": "BMW M roadster"
+  },
+  {
+   "slug": "5261-111-bmw-m-roadster",
+   "title": "BMW M roadster"
+  },
+  {
+   "slug": "5266-111-bmw-m-roadster",
+   "title": "BMW M roadster"
+  },
+  {
+   "slug": "7694-444-pebble-beach-2017",
+   "title": "Pebble Beach 2017"
+  },
+  {
+   "slug": "5255-111-bmw-m-roadster",
+   "title": "BMW M roadster"
+  },
+  {
+   "slug": "5256-111-bmw-m-roadster",
+   "title": "BMW M roadster"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e36-7.html"
+}

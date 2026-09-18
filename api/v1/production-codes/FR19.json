@@ -1,1 +1,24 @@
-{"code":"FR19","count":1,"results":[{"code":"FR19","model":"528Li","body":"Sedan","engine":"N52B30O2","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/fr19.html","chassis":"F18","chassis_slug":"f18","brand":"BMW","chassis_description":"BMW 5 Series Sedan - Chinese Long Wheelbase"}]}
+{
+ "code": "FR19",
+ "count": 1,
+ "results": [
+  {
+   "code": "FR19",
+   "model": "528Li",
+   "body": "Sedan",
+   "engine": "N52B30O2",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/fr19.html",
+   "chassis": "F18",
+   "chassis_slug": "f18",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan - Chinese Long Wheelbase",
+   "engine_slug": "n52b30o2"
+  }
+ ]
+}

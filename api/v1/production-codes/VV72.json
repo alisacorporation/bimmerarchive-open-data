@@ -1,1 +1,24 @@
-{"code":"VV72","count":1,"results":[{"code":"VV72","model":"330i","body":"Touring","engine":"N53B30O0","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-04","to":"2008-07","source":"https://www.bimmerarchive.org/code/vv72.html","chassis":"E91","chassis_slug":"e91","brand":"BMW","chassis_description":"BMW 3 Series Touring"}]}
+{
+ "code": "VV72",
+ "count": 1,
+ "results": [
+  {
+   "code": "VV72",
+   "model": "330i",
+   "body": "Touring",
+   "engine": "N53B30O0",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-04",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/vv72.html",
+   "chassis": "E91",
+   "chassis_slug": "e91",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring",
+   "engine_slug": "n53b30o0"
+  }
+ ]
+}

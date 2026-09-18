@@ -1,1 +1,24 @@
-{"code":"EK11","count":1,"results":[{"code":"EK11","model":"650i","body":"Convertible","engine":"N62B48O1","power_kw":270,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2005-02","to":"2007-07","source":"https://www.bimmerarchive.org/code/ek11.html","chassis":"E64","chassis_slug":"e64","brand":"BMW","chassis_description":"BMW 6 Series Convertible"}]}
+{
+ "code": "EK11",
+ "count": 1,
+ "results": [
+  {
+   "code": "EK11",
+   "model": "650i",
+   "body": "Convertible",
+   "engine": "N62B48O1",
+   "power_kw": 270,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2005-02",
+   "to": "2007-07",
+   "source": "https://www.bimmerarchive.org/code/ek11.html",
+   "chassis": "E64",
+   "chassis_slug": "e64",
+   "brand": "BMW",
+   "chassis_description": "BMW 6 Series Convertible",
+   "engine_slug": "n62b48o1"
+  }
+ ]
+}

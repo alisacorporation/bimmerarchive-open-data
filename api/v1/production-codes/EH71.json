@@ -1,1 +1,24 @@
-{"code":"EH71","count":1,"results":[{"code":"EH71","model":"645Ci","body":"Coupe","engine":"N62B44O0","power_kw":245,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2002-06","to":"2005-08","source":"https://www.bimmerarchive.org/code/eh71.html","chassis":"E63","chassis_slug":"e63","brand":"BMW","chassis_description":"BMW 6 Series Coupe"}]}
+{
+ "code": "EH71",
+ "count": 1,
+ "results": [
+  {
+   "code": "EH71",
+   "model": "645Ci",
+   "body": "Coupe",
+   "engine": "N62B44O0",
+   "power_kw": 245,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2002-06",
+   "to": "2005-08",
+   "source": "https://www.bimmerarchive.org/code/eh71.html",
+   "chassis": "E63",
+   "chassis_slug": "e63",
+   "brand": "BMW",
+   "chassis_description": "BMW 6 Series Coupe",
+   "engine_slug": "n62b44o0"
+  }
+ ]
+}

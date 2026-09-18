@@ -1,1 +1,24 @@
-{"code":"KV29","count":1,"results":[{"code":"KV29","model":"X6 xDrive30d","body":"Sports Activity Coupe","engine":"N57T","power_kw":183,"drivetrain":"All Wheel-Drive","steering":"left","region":"Russia","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kv29.html","chassis":"F16","chassis_slug":"f16","brand":"BMW","chassis_description":"BMW X6 - Sports Activity Coupe"}]}
+{
+ "code": "KV29",
+ "count": 1,
+ "results": [
+  {
+   "code": "KV29",
+   "model": "X6 xDrive30d",
+   "body": "Sports Activity Coupe",
+   "engine": "N57T",
+   "power_kw": 183,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Russia",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kv29.html",
+   "chassis": "F16",
+   "chassis_slug": "f16",
+   "brand": "BMW",
+   "chassis_description": "BMW X6 - Sports Activity Coupe",
+   "engine_slug": "n57d30t0"
+  }
+ ]
+}

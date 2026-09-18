@@ -1,1 +1,24 @@
-{"code":"AT71","count":1,"results":[{"code":"AT71","model":"320td","body":"Compact","engine":"M47D20O1","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2000-05","to":"2004-12","source":"https://www.bimmerarchive.org/code/at71.html","chassis":"E46 (5)","chassis_slug":"e46-5","brand":"BMW","chassis_description":"BMW 3 Series Compact"}]}
+{
+ "code": "AT71",
+ "count": 1,
+ "results": [
+  {
+   "code": "AT71",
+   "model": "320td",
+   "body": "Compact",
+   "engine": "M47D20O1",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2000-05",
+   "to": "2004-12",
+   "source": "https://www.bimmerarchive.org/code/at71.html",
+   "chassis": "E46 (5)",
+   "chassis_slug": "e46-5",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Compact",
+   "engine_slug": "m47d20o1"
+  }
+ ]
+}

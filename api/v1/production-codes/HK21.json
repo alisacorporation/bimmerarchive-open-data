@@ -1,1 +1,24 @@
-{"code":"HK21","count":1,"results":[{"code":"HK21","model":"530I","body":"Touring","engine":"M60/1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1992-05","to":"1996-06","source":"https://www.bimmerarchive.org/code/hk21.html","chassis":"E34 (2)","chassis_slug":"e34-2","brand":"BMW","chassis_description":"BMW 5 Series Touring"}]}
+{
+ "code": "HK21",
+ "count": 1,
+ "results": [
+  {
+   "code": "HK21",
+   "model": "530I",
+   "body": "Touring",
+   "engine": "M60/1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1992-05",
+   "to": "1996-06",
+   "source": "https://www.bimmerarchive.org/code/hk21.html",
+   "chassis": "E34 (2)",
+   "chassis_slug": "e34-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Touring",
+   "engine_slug": "m60b40"
+  }
+ ]
+}

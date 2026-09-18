@@ -1,1 +1,93 @@
-{"code":"102","slug":"102","brand":"BMW","description":"Isetta 300","years":"1955 - 1962","year_from":1955,"year_to":1962,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"ST27","model":"300","body":"Sedan","engine":"1-Zyl","power_kw":null,"drivetrain":"","steering":"left","region":"Europe","from":"1955-01","to":"1962-09","source":"https://www.bimmerarchive.org/code/st27.html"},{"code":"ST28","model":"300","body":"Sedan","engine":"1-Zyl","power_kw":null,"drivetrain":"","steering":"left","region":"USA","from":"1956-01","to":"1958-09","source":"https://www.bimmerarchive.org/code/st28.html"},{"code":"ST29","model":"300","body":"Sedan","engine":"1-Zyl","power_kw":null,"drivetrain":"","steering":"right","region":"Europe","from":"1957-01","to":"1957-09","source":"https://www.bimmerarchive.org/code/st29.html"}],"plants":[],"photos":[{"slug":"176-25-bmw-isetta-300","title":"BMW Isetta 300"},{"slug":"8339-454-bmw-isetta-300","title":"BMW Isetta 300"},{"slug":"174-25-bmw-isetta-300","title":"BMW Isetta 300"},{"slug":"8340-454-bmw-isetta-300","title":"BMW Isetta 300"},{"slug":"173-25-bmw-isetta-300","title":"BMW Isetta 300"},{"slug":"175-25-bmw-isetta-300","title":"BMW Isetta 300"},{"slug":"8341-454-bmw-isetta-300","title":"BMW Isetta 300"},{"slug":"15-3-bmw-isetta-300-bmw-e102","title":"BMW Isetta 300 - BMW E102"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/102.html"}
+{
+ "code": "102",
+ "slug": "102",
+ "brand": "BMW",
+ "description": "Isetta 300",
+ "years": "1955 - 1962",
+ "year_from": 1955,
+ "year_to": 1962,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "ST27",
+   "model": "300",
+   "body": "Sedan",
+   "engine": "1-Zyl",
+   "power_kw": null,
+   "drivetrain": "",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1955-01",
+   "to": "1962-09",
+   "source": "https://www.bimmerarchive.org/code/st27.html",
+   "engine_slug": null
+  },
+  {
+   "code": "ST28",
+   "model": "300",
+   "body": "Sedan",
+   "engine": "1-Zyl",
+   "power_kw": null,
+   "drivetrain": "",
+   "steering": "left",
+   "region": "USA",
+   "from": "1956-01",
+   "to": "1958-09",
+   "source": "https://www.bimmerarchive.org/code/st28.html",
+   "engine_slug": null
+  },
+  {
+   "code": "ST29",
+   "model": "300",
+   "body": "Sedan",
+   "engine": "1-Zyl",
+   "power_kw": null,
+   "drivetrain": "",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1957-01",
+   "to": "1957-09",
+   "source": "https://www.bimmerarchive.org/code/st29.html",
+   "engine_slug": null
+  }
+ ],
+ "plants": [],
+ "photos": [
+  {
+   "slug": "176-25-bmw-isetta-300",
+   "title": "BMW Isetta 300"
+  },
+  {
+   "slug": "8339-454-bmw-isetta-300",
+   "title": "BMW Isetta 300"
+  },
+  {
+   "slug": "174-25-bmw-isetta-300",
+   "title": "BMW Isetta 300"
+  },
+  {
+   "slug": "8340-454-bmw-isetta-300",
+   "title": "BMW Isetta 300"
+  },
+  {
+   "slug": "173-25-bmw-isetta-300",
+   "title": "BMW Isetta 300"
+  },
+  {
+   "slug": "175-25-bmw-isetta-300",
+   "title": "BMW Isetta 300"
+  },
+  {
+   "slug": "8341-454-bmw-isetta-300",
+   "title": "BMW Isetta 300"
+  },
+  {
+   "slug": "15-3-bmw-isetta-300-bmw-e102",
+   "title": "BMW Isetta 300 - BMW E102"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/102.html"
+}

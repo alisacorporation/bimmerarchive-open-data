@@ -1,0 +1,23 @@
+{
+ "code": "M20B25",
+ "slug": "m20b25",
+ "family": "M20",
+ "years": "1985 - 1992",
+ "year_from": 1985,
+ "year_to": 1992,
+ "displacement_cc": 2494,
+ "power_kw": 125,
+ "power_ps": 170,
+ "power_rpm": "5800",
+ "torque_nm": 222,
+ "torque_rpm": "4300",
+ "has_detail": false,
+ "construction": "6 Cylinder, 12 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 12,
+ "compression_ratio": "8.8:1",
+ "bore_mm": 84.0,
+ "stroke_mm": 75.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m20b25.html"
+}

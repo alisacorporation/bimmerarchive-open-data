@@ -1,1 +1,305 @@
-{"code":"F46","slug":"f46","brand":"BMW","description":"BMW 2 Series Gran Tourer","years":"2015 - 2022","year_from":2015,"year_to":2022,"type":"Serie","production_code_count":16,"has_detail":true,"production_codes":[{"code":"2E11","model":"214d","body":"","engine":"B37K","power_kw":70,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2e11.html"},{"code":"2E12","model":"214d","body":"","engine":"B37K","power_kw":70,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2e12.html"},{"code":"2E31","model":"216d","body":"","engine":"B37C15U0","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2e31.html"},{"code":"2E32","model":"216d","body":"","engine":"B37C15U0","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2e32.html"},{"code":"2D91","model":"216i","body":"","engine":"B38U","power_kw":75,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2d91.html"},{"code":"2D92","model":"216i","body":"","engine":"B38U","power_kw":75,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2d92.html"},{"code":"2E51","model":"218d","body":"","engine":"B47C20U0","power_kw":110,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2e51.html"},{"code":"2E52","model":"218d","body":"","engine":"B47C20U0","power_kw":110,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2e52.html"},{"code":"2D31","model":"218i","body":"","engine":"B38A15M0","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2d31.html"},{"code":"2D32","model":"218i","body":"","engine":"B38A15M0","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2d32.html"},{"code":"2E71","model":"220d","body":"","engine":"B47D20O0","power_kw":140,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2e71.html"},{"code":"2E72","model":"220d","body":"","engine":"B47D20O0","power_kw":140,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2e72.html"},{"code":"2D71","model":"220d xDrive","body":"","engine":"B47D20O0","power_kw":140,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2d71.html"},{"code":"2D72","model":"220d xDrive","body":"","engine":"B47D20O0","power_kw":140,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2d72.html"},{"code":"2D51","model":"220i","body":"","engine":"B48A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2d51.html"},{"code":"2D52","model":"220i","body":"","engine":"B48A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2d52.html"}],"plants":[{"slug":"bmw-plant-regensburg","name":"Bmw Plant Regensburg"},{"slug":"bmw-plant-leipzig","name":"BMW Group Plant Leipzig"}],"photos":[{"slug":"5568-349-bmw-2-series-gran-tourer","title":"BMW 2 Series Gran Tourer"},{"slug":"8957-475-bmw-220d-gran-tourer","title":"BMW 220d Gran Tourer"},{"slug":"5563-349-bmw-220d-xdrive-gran-tourer","title":"BMW 220d xDrive Gran Tourer"},{"slug":"8977-475-bmw-2-series-active-tourer-and-gran-tourer","title":"BMW 2 Series - Highlights"},{"slug":"5570-349-bmw-2-series-gran-tourer","title":"BMW 2 Series Gran Tourer"},{"slug":"8945-475-bmw-220d-gran-tourer","title":"BMW 220d Gran Tourer"},{"slug":"8951-475-bmw-220d-gran-tourer","title":"BMW 220d Gran Tourer"},{"slug":"5555-349-bmw-220i-gran-tourer","title":"BMW 220i Gran Tourer"},{"slug":"8959-475-bmw-220d-gran-tourer","title":"BMW 220d Gran Tourer"},{"slug":"5569-349-bmw-2-series-gran-tourer","title":"BMW 2 Series Gran Tourer"},{"slug":"5559-349-bmw-220d-xdrive-gran-tourer","title":"BMW 220d xDrive Gran Tourer"},{"slug":"8975-475-bmw-2-series-active-tourer-and-gran-tourer","title":"BMW 2 Series - Highlights"}],"articles":[{"slug":"2018-01-10-the-new-bmw-2-series-active-tourer-and-gran-tourer","title":"The new BMW 2 Series Active Tourer and Gran Tourer (2018-01-10)"}],"source":"https://www.bimmerarchive.org/e-code/f46.html"}
+{
+ "code": "F46",
+ "slug": "f46",
+ "brand": "BMW",
+ "description": "BMW 2 Series Gran Tourer",
+ "years": "2015 - 2022",
+ "year_from": 2015,
+ "year_to": 2022,
+ "type": "Serie",
+ "production_code_count": 16,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "2E11",
+   "model": "214d",
+   "body": "",
+   "engine": "B37K",
+   "power_kw": 70,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2e11.html",
+   "engine_slug": "b37c15k0"
+  },
+  {
+   "code": "2E12",
+   "model": "214d",
+   "body": "",
+   "engine": "B37K",
+   "power_kw": 70,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2e12.html",
+   "engine_slug": "b37c15k0"
+  },
+  {
+   "code": "2E31",
+   "model": "216d",
+   "body": "",
+   "engine": "B37C15U0",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2e31.html",
+   "engine_slug": "b37c15u0"
+  },
+  {
+   "code": "2E32",
+   "model": "216d",
+   "body": "",
+   "engine": "B37C15U0",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2e32.html",
+   "engine_slug": "b37c15u0"
+  },
+  {
+   "code": "2D91",
+   "model": "216i",
+   "body": "",
+   "engine": "B38U",
+   "power_kw": 75,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2d91.html",
+   "engine_slug": "b38b15m0"
+  },
+  {
+   "code": "2D92",
+   "model": "216i",
+   "body": "",
+   "engine": "B38U",
+   "power_kw": 75,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2d92.html",
+   "engine_slug": "b38b15m0"
+  },
+  {
+   "code": "2E51",
+   "model": "218d",
+   "body": "",
+   "engine": "B47C20U0",
+   "power_kw": 110,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2e51.html",
+   "engine_slug": "b47c20u0"
+  },
+  {
+   "code": "2E52",
+   "model": "218d",
+   "body": "",
+   "engine": "B47C20U0",
+   "power_kw": 110,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2e52.html",
+   "engine_slug": "b47c20u0"
+  },
+  {
+   "code": "2D31",
+   "model": "218i",
+   "body": "",
+   "engine": "B38A15M0",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2d31.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "2D32",
+   "model": "218i",
+   "body": "",
+   "engine": "B38A15M0",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2d32.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "2E71",
+   "model": "220d",
+   "body": "",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2e71.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "2E72",
+   "model": "220d",
+   "body": "",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2e72.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "2D71",
+   "model": "220d xDrive",
+   "body": "",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2d71.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "2D72",
+   "model": "220d xDrive",
+   "body": "",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2d72.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "2D51",
+   "model": "220i",
+   "body": "",
+   "engine": "B48A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2d51.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "2D52",
+   "model": "220i",
+   "body": "",
+   "engine": "B48A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2d52.html",
+   "engine_slug": "b48a20m0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-regensburg",
+   "name": "Bmw Plant Regensburg"
+  },
+  {
+   "slug": "bmw-plant-leipzig",
+   "name": "BMW Group Plant Leipzig"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "5568-349-bmw-2-series-gran-tourer",
+   "title": "BMW 2 Series Gran Tourer"
+  },
+  {
+   "slug": "8957-475-bmw-220d-gran-tourer",
+   "title": "BMW 220d Gran Tourer"
+  },
+  {
+   "slug": "5563-349-bmw-220d-xdrive-gran-tourer",
+   "title": "BMW 220d xDrive Gran Tourer"
+  },
+  {
+   "slug": "8977-475-bmw-2-series-active-tourer-and-gran-tourer",
+   "title": "BMW 2 Series - Highlights"
+  },
+  {
+   "slug": "5570-349-bmw-2-series-gran-tourer",
+   "title": "BMW 2 Series Gran Tourer"
+  },
+  {
+   "slug": "8945-475-bmw-220d-gran-tourer",
+   "title": "BMW 220d Gran Tourer"
+  },
+  {
+   "slug": "8951-475-bmw-220d-gran-tourer",
+   "title": "BMW 220d Gran Tourer"
+  },
+  {
+   "slug": "5555-349-bmw-220i-gran-tourer",
+   "title": "BMW 220i Gran Tourer"
+  },
+  {
+   "slug": "8959-475-bmw-220d-gran-tourer",
+   "title": "BMW 220d Gran Tourer"
+  },
+  {
+   "slug": "5569-349-bmw-2-series-gran-tourer",
+   "title": "BMW 2 Series Gran Tourer"
+  },
+  {
+   "slug": "5559-349-bmw-220d-xdrive-gran-tourer",
+   "title": "BMW 220d xDrive Gran Tourer"
+  },
+  {
+   "slug": "8975-475-bmw-2-series-active-tourer-and-gran-tourer",
+   "title": "BMW 2 Series - Highlights"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2018-01-10-the-new-bmw-2-series-active-tourer-and-gran-tourer",
+   "title": "The new BMW 2 Series Active Tourer and Gran Tourer (2018-01-10)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f46.html"
+}

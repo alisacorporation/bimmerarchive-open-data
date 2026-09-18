@@ -1,1 +1,24 @@
-{"code":"MH32","count":1,"results":[{"code":"MH32","model":"Mini One","body":"Hatchback","engine":"N12","power_kw":70,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":"2008-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/mh32.html","chassis":"R55","chassis_slug":"r55","brand":"MINI","chassis_description":"MINI Clubman"}]}
+{
+ "code": "MH32",
+ "count": 1,
+ "results": [
+  {
+   "code": "MH32",
+   "model": "Mini One",
+   "body": "Hatchback",
+   "engine": "N12",
+   "power_kw": 70,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/mh32.html",
+   "chassis": "R55",
+   "chassis_slug": "r55",
+   "brand": "MINI",
+   "chassis_description": "MINI Clubman",
+   "engine_slug": "n12b16"
+  }
+ ]
+}

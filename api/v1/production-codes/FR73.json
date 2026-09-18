@@ -1,1 +1,24 @@
-{"code":"FR73","count":1,"results":[{"code":"FR73","model":"535i","body":"Sedan","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2009-01","to":"2009-11","source":"https://www.bimmerarchive.org/code/fr73.html","chassis":"F10","chassis_slug":"f10","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "FR73",
+ "count": 1,
+ "results": [
+  {
+   "code": "FR73",
+   "model": "535i",
+   "body": "Sedan",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2009-01",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/fr73.html",
+   "chassis": "F10",
+   "chassis_slug": "f10",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "n55b30m0"
+  }
+ ]
+}

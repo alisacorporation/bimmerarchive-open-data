@@ -1,1 +1,24 @@
-{"code":"5M61","count":1,"results":[{"code":"5M61","model":"550i","body":"Gran Turismo","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/5m61.html","chassis":"F07 (MUE)","chassis_slug":"f07-lci","brand":"BMW","chassis_description":"BMW 5 Series Gran Turismo - LCI"}]}
+{
+ "code": "5M61",
+ "count": 1,
+ "results": [
+  {
+   "code": "5M61",
+   "model": "550i",
+   "body": "Gran Turismo",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/5m61.html",
+   "chassis": "F07 (MUE)",
+   "chassis_slug": "f07-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Gran Turismo - LCI",
+   "engine_slug": "n63b44o1"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"YA01","count":1,"results":[{"code":"YA01","model":"ActiveHybrid 7","body":"Sedan","engine":"N55B30O0","power_kw":235,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ya01.html","chassis":"F01 (MUE)","chassis_slug":"f01-lci","brand":"BMW","chassis_description":"BMW 7 Series Sedan - LCI"}]}
+{
+ "code": "YA01",
+ "count": 1,
+ "results": [
+  {
+   "code": "YA01",
+   "model": "ActiveHybrid 7",
+   "body": "Sedan",
+   "engine": "N55B30O0",
+   "power_kw": 235,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ya01.html",
+   "chassis": "F01 (MUE)",
+   "chassis_slug": "f01-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan - LCI",
+   "engine_slug": "n55b30o0-f22"
+  }
+ ]
+}

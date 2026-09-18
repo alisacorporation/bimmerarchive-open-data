@@ -1,1 +1,24 @@
-{"code":"NM71","count":1,"results":[{"code":"NM71","model":"530xd","body":"Sedan","engine":"M57D30O2","power_kw":170,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"2005-02","to":"2007-02","source":"https://www.bimmerarchive.org/code/nm71.html","chassis":"E60","chassis_slug":"e60","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "NM71",
+ "count": 1,
+ "results": [
+  {
+   "code": "NM71",
+   "model": "530xd",
+   "body": "Sedan",
+   "engine": "M57D30O2",
+   "power_kw": 170,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2005-02",
+   "to": "2007-02",
+   "source": "https://www.bimmerarchive.org/code/nm71.html",
+   "chassis": "E60",
+   "chassis_slug": "e60",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m57d30o2-e7x"
+  }
+ ]
+}

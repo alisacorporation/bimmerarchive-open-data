@@ -1,1 +1,74 @@
-{"code":"RR1","slug":"rr1","brand":"Rolls-Royce","description":"Rolls-Royce Phantom","years":"2003 - 2017","year_from":2003,"year_to":2017,"type":"Serie","production_code_count":4,"has_detail":true,"production_codes":[{"code":"FK61","model":"Phantom","body":"Sedan","engine":"N73B68O0","power_kw":338,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2002-08","to":"2010-01","source":"https://www.bimmerarchive.org/code/fk61.html"},{"code":"FK62","model":"Phantom","body":"Sedan","engine":"N73B68O0","power_kw":338,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2002-07","to":"2009-12","source":"https://www.bimmerarchive.org/code/fk62.html"},{"code":"FK63","model":"Phantom","body":"Sedan","engine":"N73B68O0","power_kw":338,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2002-09","to":"2009-12","source":"https://www.bimmerarchive.org/code/fk63.html"},{"code":"1S68","model":"R-royce","body":"Sedan","engine":"N73","power_kw":338,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1s68.html"}],"plants":[],"photos":[],"articles":[],"source":"https://www.bimmerarchive.org/e-code/rr1.html"}
+{
+ "code": "RR1",
+ "slug": "rr1",
+ "brand": "Rolls-Royce",
+ "description": "Rolls-Royce Phantom",
+ "years": "2003 - 2017",
+ "year_from": 2003,
+ "year_to": 2017,
+ "type": "Serie",
+ "production_code_count": 4,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "FK61",
+   "model": "Phantom",
+   "body": "Sedan",
+   "engine": "N73B68O0",
+   "power_kw": 338,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2002-08",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/fk61.html",
+   "engine_slug": "n73b68o0"
+  },
+  {
+   "code": "FK62",
+   "model": "Phantom",
+   "body": "Sedan",
+   "engine": "N73B68O0",
+   "power_kw": 338,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2002-07",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/fk62.html",
+   "engine_slug": "n73b68o0"
+  },
+  {
+   "code": "FK63",
+   "model": "Phantom",
+   "body": "Sedan",
+   "engine": "N73B68O0",
+   "power_kw": 338,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2002-09",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/fk63.html",
+   "engine_slug": "n73b68o0"
+  },
+  {
+   "code": "1S68",
+   "model": "R-royce",
+   "body": "Sedan",
+   "engine": "N73",
+   "power_kw": 338,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1s68.html",
+   "engine_slug": "n73b60o0"
+  }
+ ],
+ "plants": [],
+ "photos": [],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/rr1.html"
+}

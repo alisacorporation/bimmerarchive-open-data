@@ -1,1 +1,24 @@
-{"code":"EN52","count":1,"results":[{"code":"EN52","model":"330I","body":"Touring","engine":"M54","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2001-05","to":"2005-06","source":"https://www.bimmerarchive.org/code/en52.html","chassis":"E46 (3FL)","chassis_slug":"e46-3-lci","brand":"BMW","chassis_description":"BMW 3 Series Touring - LCI"}]}
+{
+ "code": "EN52",
+ "count": 1,
+ "results": [
+  {
+   "code": "EN52",
+   "model": "330I",
+   "body": "Touring",
+   "engine": "M54",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2001-05",
+   "to": "2005-06",
+   "source": "https://www.bimmerarchive.org/code/en52.html",
+   "chassis": "E46 (3FL)",
+   "chassis_slug": "e46-3-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring - LCI",
+   "engine_slug": "m54b30"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"PC75","count":1,"results":[{"code":"PC75","model":"X3 2.5si","body":"Sports Activity Vehicle","engine":"N52B25O1","power_kw":160,"drivetrain":"All Wheel-Drive","steering":"right","region":"Thailand","from":"2006-09","to":"2009-01","source":"https://www.bimmerarchive.org/code/pc75.html","chassis":"E83 (MUE)","chassis_slug":"e83n","brand":"BMW","chassis_description":"BMW X3 - Sports Activity Vehicle - LCI"}]}
+{
+ "code": "PC75",
+ "count": 1,
+ "results": [
+  {
+   "code": "PC75",
+   "model": "X3 2.5si",
+   "body": "Sports Activity Vehicle",
+   "engine": "N52B25O1",
+   "power_kw": 160,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Thailand",
+   "from": "2006-09",
+   "to": "2009-01",
+   "source": "https://www.bimmerarchive.org/code/pc75.html",
+   "chassis": "E83 (MUE)",
+   "chassis_slug": "e83n",
+   "brand": "BMW",
+   "chassis_description": "BMW X3 - Sports Activity Vehicle - LCI",
+   "engine_slug": "n52b25o1-150"
+  }
+ ]
+}

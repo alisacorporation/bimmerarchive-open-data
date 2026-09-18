@@ -1,1 +1,24 @@
-{"code":"FF03","count":1,"results":[{"code":"FF03","model":"X5 3.0sd","body":"Sports Activity Vehicle","engine":"M57D30T2","power_kw":210,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":"2008-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/ff03.html","chassis":"E70","chassis_slug":"e70","brand":"BMW","chassis_description":"BMW X5 - Sports Activity Vehicle"}]}
+{
+ "code": "FF03",
+ "count": 1,
+ "results": [
+  {
+   "code": "FF03",
+   "model": "X5 3.0sd",
+   "body": "Sports Activity Vehicle",
+   "engine": "M57D30T2",
+   "power_kw": 210,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ff03.html",
+   "chassis": "E70",
+   "chassis_slug": "e70",
+   "brand": "BMW",
+   "chassis_description": "BMW X5 - Sports Activity Vehicle",
+   "engine_slug": "m57d30t2"
+  }
+ ]
+}

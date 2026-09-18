@@ -1,0 +1,23 @@
+{
+ "code": "W10B16",
+ "slug": "w10b16",
+ "family": "W10",
+ "years": "2001 - 2006",
+ "year_from": 2001,
+ "year_to": 2006,
+ "displacement_cc": 1598,
+ "power_kw": 66,
+ "power_ps": 90,
+ "power_rpm": "5500",
+ "torque_nm": 140,
+ "torque_rpm": "3000",
+ "has_detail": false,
+ "construction": "4 Cylinder, 16 Valves, Reihe",
+ "cylinders": 4,
+ "valves": 16,
+ "compression_ratio": "10.6:1",
+ "bore_mm": 77.0,
+ "stroke_mm": 85.8,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/w10b16.html"
+}

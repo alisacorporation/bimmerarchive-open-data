@@ -1,0 +1,23 @@
+{
+ "code": "M20B20",
+ "slug": "m20b20",
+ "family": "M20",
+ "years": "1977 - 1992",
+ "year_from": 1977,
+ "year_to": 1992,
+ "displacement_cc": 1991,
+ "power_kw": 95,
+ "power_ps": 129,
+ "power_rpm": "6000",
+ "torque_nm": 174,
+ "torque_rpm": "4000",
+ "has_detail": false,
+ "construction": "6 Cylinder, 12 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 12,
+ "compression_ratio": "9.0:1",
+ "bore_mm": 80.0,
+ "stroke_mm": 66.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m20b20.html"
+}

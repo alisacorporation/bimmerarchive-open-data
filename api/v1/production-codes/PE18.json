@@ -1,1 +1,24 @@
-{"code":"PE18","count":1,"results":[{"code":"PE18","model":"X3 2.0d","body":"Sports Activity Vehicle","engine":"N47D20O0","power_kw":130,"drivetrain":"All Wheel-Drive","steering":"left","region":"Russia","from":"2009-01","to":"2009-12","source":"https://www.bimmerarchive.org/code/pe18.html","chassis":"E83 (MUE)","chassis_slug":"e83n","brand":"BMW","chassis_description":"BMW X3 - Sports Activity Vehicle - LCI"}]}
+{
+ "code": "PE18",
+ "count": 1,
+ "results": [
+  {
+   "code": "PE18",
+   "model": "X3 2.0d",
+   "body": "Sports Activity Vehicle",
+   "engine": "N47D20O0",
+   "power_kw": 130,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Russia",
+   "from": "2009-01",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/pe18.html",
+   "chassis": "E83 (MUE)",
+   "chassis_slug": "e83n",
+   "brand": "BMW",
+   "chassis_description": "BMW X3 - Sports Activity Vehicle - LCI",
+   "engine_slug": "n47d20o0"
+  }
+ ]
+}

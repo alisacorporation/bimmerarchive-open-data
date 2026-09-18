@@ -1,1 +1,412 @@
-{"code":"E87 (MUE)","slug":"e87n","brand":"BMW","description":"BMW 1 Series 5-door Sports Hatch - LCI","years":"2006 - 2011","year_from":2006,"year_to":2011,"type":"Serie","production_code_count":24,"has_detail":true,"production_codes":[{"code":"UH51","model":"116d","body":"Sports Hatch","engine":"N47D20K0","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-10","to":"2010-02","source":"https://www.bimmerarchive.org/code/uh51.html"},{"code":"UH52","model":"116d","body":"Sports Hatch","engine":"N47D20K0","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-12","to":"2010-02","source":"https://www.bimmerarchive.org/code/uh52.html"},{"code":"UE11","model":"116i","body":"Sports Hatch","engine":"N45B16O2","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ue11.html"},{"code":"UE12","model":"116i","body":"Sports Hatch","engine":"N45B16O2","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ue12.html"},{"code":"UE31","model":"116i","body":"Sports Hatch","engine":"N43B16O0","power_kw":90,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ue31.html"},{"code":"UE32","model":"116i","body":"Sports Hatch","engine":"N43B16O0","power_kw":90,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ue32.html"},{"code":"UH31","model":"116i","body":"Sports Hatch","engine":"N43B20K0","power_kw":90,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-10","to":"2010-02","source":"https://www.bimmerarchive.org/code/uh31.html"},{"code":"UH32","model":"116i","body":"Sports Hatch","engine":"N43B20K0","power_kw":90,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-10","to":"2010-02","source":"https://www.bimmerarchive.org/code/uh32.html"},{"code":"UD71","model":"118d","body":"Sports Hatch","engine":"N47D20U0","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/ud71.html"},{"code":"UD72","model":"118d","body":"Sports Hatch","engine":"N47D20U0","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/ud72.html"},{"code":"UE51","model":"118i","body":"Sports Hatch","engine":"N43B20U0","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-02","to":"2010-02","source":"https://www.bimmerarchive.org/code/ue51.html"},{"code":"UE52","model":"118i","body":"Sports Hatch","engine":"N43B20U0","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-10","to":"2010-02","source":"https://www.bimmerarchive.org/code/ue52.html"},{"code":"UE71","model":"118i","body":"Sports Hatch","engine":"N46B20U2","power_kw":100,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-10","to":"2010-02","source":"https://www.bimmerarchive.org/code/ue71.html"},{"code":"UE72","model":"118i","body":"Sports Hatch","engine":"N46B20U2","power_kw":100,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-11","to":"2010-02","source":"https://www.bimmerarchive.org/code/ue72.html"},{"code":"UD91","model":"120d","body":"Sports Hatch","engine":"N47D20O0","power_kw":130,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-02","to":"2010-02","source":"https://www.bimmerarchive.org/code/ud91.html"},{"code":"UD92","model":"120d","body":"Sports Hatch","engine":"N47D20O0","power_kw":130,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/ud92.html"},{"code":"UD11","model":"120i","body":"Sports Hatch","engine":"N43B20O0","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-02","to":"2010-02","source":"https://www.bimmerarchive.org/code/ud11.html"},{"code":"UD12","model":"120i","body":"Sports Hatch","engine":"N43B20O0","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-10","to":"2010-02","source":"https://www.bimmerarchive.org/code/ud12.html"},{"code":"UD31","model":"120i","body":"Sports Hatch","engine":"N46B20O2","power_kw":115,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/ud31.html"},{"code":"UD32","model":"120i","body":"Sports Hatch","engine":"N46B20O2","power_kw":115,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-10","to":"2010-02","source":"https://www.bimmerarchive.org/code/ud32.html"},{"code":"UH11","model":"123d","body":"Sports Hatch","engine":"N47D20T0","power_kw":150,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2007-03","to":"2010-02","source":"https://www.bimmerarchive.org/code/uh11.html"},{"code":"UH12","model":"123d","body":"Sports Hatch","engine":"N47D20T0","power_kw":150,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-04","to":"2010-02","source":"https://www.bimmerarchive.org/code/uh12.html"},{"code":"UD51","model":"130i","body":"Sports Hatch","engine":"N52B30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/ud51.html"},{"code":"UD52","model":"130i","body":"Sports Hatch","engine":"N52B30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-10","to":"2010-01","source":"https://www.bimmerarchive.org/code/ud52.html"}],"plants":[{"slug":"bmw-plant-regensburg","name":"Bmw Plant Regensburg"},{"slug":"bmw-plant-leipzig","name":"BMW Group Plant Leipzig"}],"photos":[{"slug":"1429-135-die-bmw-1er-reihe","title":"Die BMW 1er Reihe"},{"slug":"9234-36-bmw-1-series","title":"BMW 120d"},{"slug":"300-36-bmw-120i-5-tuerer","title":"BMW 120i - 5-Türer - Modellpflege 2007"},{"slug":"1433-135-die-bmw-1er-reihe","title":"Die BMW 1er Reihe"},{"slug":"282-36-bmw-120d-5-tuerer","title":"BMW 120d - Modellpflege 2007"},{"slug":"281-36-bmw-120d-5-tuerer","title":"BMW 120d - Modellpflege 2007"},{"slug":"298-36-bmw-120i-5-tuerer","title":"BMW 120i - 5-Türer - Modellpflege 2007"},{"slug":"9236-36-bmw-1-series","title":"BMW 120d"},{"slug":"9230-36-bmw-1-series","title":"BMW 120d"},{"slug":"283-36-bmw-120d-5-tuerer","title":"BMW 120d - Modellpflege 2007"},{"slug":"284-36-bmw-120d-5-tuerer","title":"BMW 120d - Modellpflege 2007"},{"slug":"9233-36-bmw-1-series","title":"BMW 120d"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e87n.html"}
+{
+ "code": "E87 (MUE)",
+ "slug": "e87n",
+ "brand": "BMW",
+ "description": "BMW 1 Series 5-door Sports Hatch - LCI",
+ "years": "2006 - 2011",
+ "year_from": 2006,
+ "year_to": 2011,
+ "type": "Serie",
+ "production_code_count": 24,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "UH51",
+   "model": "116d",
+   "body": "Sports Hatch",
+   "engine": "N47D20K0",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-10",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uh51.html",
+   "engine_slug": "n47d20k0"
+  },
+  {
+   "code": "UH52",
+   "model": "116d",
+   "body": "Sports Hatch",
+   "engine": "N47D20K0",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-12",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uh52.html",
+   "engine_slug": "n47d20k0"
+  },
+  {
+   "code": "UE11",
+   "model": "116i",
+   "body": "Sports Hatch",
+   "engine": "N45B16O2",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ue11.html",
+   "engine_slug": "n45b16o2"
+  },
+  {
+   "code": "UE12",
+   "model": "116i",
+   "body": "Sports Hatch",
+   "engine": "N45B16O2",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ue12.html",
+   "engine_slug": "n45b16o2"
+  },
+  {
+   "code": "UE31",
+   "model": "116i",
+   "body": "Sports Hatch",
+   "engine": "N43B16O0",
+   "power_kw": 90,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ue31.html",
+   "engine_slug": "n43b16o0"
+  },
+  {
+   "code": "UE32",
+   "model": "116i",
+   "body": "Sports Hatch",
+   "engine": "N43B16O0",
+   "power_kw": 90,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ue32.html",
+   "engine_slug": "n43b16o0"
+  },
+  {
+   "code": "UH31",
+   "model": "116i",
+   "body": "Sports Hatch",
+   "engine": "N43B20K0",
+   "power_kw": 90,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-10",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uh31.html",
+   "engine_slug": "n43b20k0"
+  },
+  {
+   "code": "UH32",
+   "model": "116i",
+   "body": "Sports Hatch",
+   "engine": "N43B20K0",
+   "power_kw": 90,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-10",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uh32.html",
+   "engine_slug": "n43b20k0"
+  },
+  {
+   "code": "UD71",
+   "model": "118d",
+   "body": "Sports Hatch",
+   "engine": "N47D20U0",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ud71.html",
+   "engine_slug": "n47d20u0"
+  },
+  {
+   "code": "UD72",
+   "model": "118d",
+   "body": "Sports Hatch",
+   "engine": "N47D20U0",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ud72.html",
+   "engine_slug": "n47d20u0"
+  },
+  {
+   "code": "UE51",
+   "model": "118i",
+   "body": "Sports Hatch",
+   "engine": "N43B20U0",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-02",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ue51.html",
+   "engine_slug": "n43b20u0"
+  },
+  {
+   "code": "UE52",
+   "model": "118i",
+   "body": "Sports Hatch",
+   "engine": "N43B20U0",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-10",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ue52.html",
+   "engine_slug": "n43b20u0"
+  },
+  {
+   "code": "UE71",
+   "model": "118i",
+   "body": "Sports Hatch",
+   "engine": "N46B20U2",
+   "power_kw": 100,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-10",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ue71.html",
+   "engine_slug": "n46b20u2"
+  },
+  {
+   "code": "UE72",
+   "model": "118i",
+   "body": "Sports Hatch",
+   "engine": "N46B20U2",
+   "power_kw": 100,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-11",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ue72.html",
+   "engine_slug": "n46b20u2"
+  },
+  {
+   "code": "UD91",
+   "model": "120d",
+   "body": "Sports Hatch",
+   "engine": "N47D20O0",
+   "power_kw": 130,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-02",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ud91.html",
+   "engine_slug": "n47d20o0"
+  },
+  {
+   "code": "UD92",
+   "model": "120d",
+   "body": "Sports Hatch",
+   "engine": "N47D20O0",
+   "power_kw": 130,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ud92.html",
+   "engine_slug": "n47d20o0"
+  },
+  {
+   "code": "UD11",
+   "model": "120i",
+   "body": "Sports Hatch",
+   "engine": "N43B20O0",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-02",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ud11.html",
+   "engine_slug": "n43b20o0"
+  },
+  {
+   "code": "UD12",
+   "model": "120i",
+   "body": "Sports Hatch",
+   "engine": "N43B20O0",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-10",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ud12.html",
+   "engine_slug": "n43b20o0"
+  },
+  {
+   "code": "UD31",
+   "model": "120i",
+   "body": "Sports Hatch",
+   "engine": "N46B20O2",
+   "power_kw": 115,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ud31.html",
+   "engine_slug": "n46b20o2"
+  },
+  {
+   "code": "UD32",
+   "model": "120i",
+   "body": "Sports Hatch",
+   "engine": "N46B20O2",
+   "power_kw": 115,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-10",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ud32.html",
+   "engine_slug": "n46b20o2"
+  },
+  {
+   "code": "UH11",
+   "model": "123d",
+   "body": "Sports Hatch",
+   "engine": "N47D20T0",
+   "power_kw": 150,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2007-03",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uh11.html",
+   "engine_slug": "n47d20t0"
+  },
+  {
+   "code": "UH12",
+   "model": "123d",
+   "body": "Sports Hatch",
+   "engine": "N47D20T0",
+   "power_kw": 150,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-04",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/uh12.html",
+   "engine_slug": "n47d20t0"
+  },
+  {
+   "code": "UD51",
+   "model": "130i",
+   "body": "Sports Hatch",
+   "engine": "N52B30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ud51.html",
+   "engine_slug": "n52b30o1"
+  },
+  {
+   "code": "UD52",
+   "model": "130i",
+   "body": "Sports Hatch",
+   "engine": "N52B30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-10",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ud52.html",
+   "engine_slug": "n52b30o1"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-regensburg",
+   "name": "Bmw Plant Regensburg"
+  },
+  {
+   "slug": "bmw-plant-leipzig",
+   "name": "BMW Group Plant Leipzig"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "1429-135-die-bmw-1er-reihe",
+   "title": "Die BMW 1er Reihe"
+  },
+  {
+   "slug": "9234-36-bmw-1-series",
+   "title": "BMW 120d"
+  },
+  {
+   "slug": "300-36-bmw-120i-5-tuerer",
+   "title": "BMW 120i - 5-T\u00fcrer - Modellpflege 2007"
+  },
+  {
+   "slug": "1433-135-die-bmw-1er-reihe",
+   "title": "Die BMW 1er Reihe"
+  },
+  {
+   "slug": "282-36-bmw-120d-5-tuerer",
+   "title": "BMW 120d - Modellpflege 2007"
+  },
+  {
+   "slug": "281-36-bmw-120d-5-tuerer",
+   "title": "BMW 120d - Modellpflege 2007"
+  },
+  {
+   "slug": "298-36-bmw-120i-5-tuerer",
+   "title": "BMW 120i - 5-T\u00fcrer - Modellpflege 2007"
+  },
+  {
+   "slug": "9236-36-bmw-1-series",
+   "title": "BMW 120d"
+  },
+  {
+   "slug": "9230-36-bmw-1-series",
+   "title": "BMW 120d"
+  },
+  {
+   "slug": "283-36-bmw-120d-5-tuerer",
+   "title": "BMW 120d - Modellpflege 2007"
+  },
+  {
+   "slug": "284-36-bmw-120d-5-tuerer",
+   "title": "BMW 120d - Modellpflege 2007"
+  },
+  {
+   "slug": "9233-36-bmw-1-series",
+   "title": "BMW 120d"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e87n.html"
+}

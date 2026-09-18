@@ -1,1 +1,24 @@
-{"code":"HD71","count":1,"results":[{"code":"HD71","model":"525IX","body":"Sedan","engine":"M50","power_kw":141,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":"1991-05","to":"1995-11","source":"https://www.bimmerarchive.org/code/hd71.html","chassis":"E34","chassis_slug":"e34","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "HD71",
+ "count": 1,
+ "results": [
+  {
+   "code": "HD71",
+   "model": "525IX",
+   "body": "Sedan",
+   "engine": "M50",
+   "power_kw": 141,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1991-05",
+   "to": "1995-11",
+   "source": "https://www.bimmerarchive.org/code/hd71.html",
+   "chassis": "E34",
+   "chassis_slug": "e34",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m50b20"
+  }
+ ]
+}

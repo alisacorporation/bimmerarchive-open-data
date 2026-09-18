@@ -1,1 +1,24 @@
-{"code":"FP19","count":1,"results":[{"code":"FP19","model":"520Li","body":"Sedan","engine":"N52B25U2","power_kw":130,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/fp19.html","chassis":"F18","chassis_slug":"f18","brand":"BMW","chassis_description":"BMW 5 Series Sedan - Chinese Long Wheelbase"}]}
+{
+ "code": "FP19",
+ "count": 1,
+ "results": [
+  {
+   "code": "FP19",
+   "model": "520Li",
+   "body": "Sedan",
+   "engine": "N52B25U2",
+   "power_kw": 130,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/fp19.html",
+   "chassis": "F18",
+   "chassis_slug": "f18",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan - Chinese Long Wheelbase",
+   "engine_slug": "n52b25u2"
+  }
+ ]
+}

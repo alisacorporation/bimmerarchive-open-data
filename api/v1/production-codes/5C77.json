@@ -1,1 +1,24 @@
-{"code":"5C77","count":1,"results":[{"code":"5C77","model":"525d","body":"Sedan","engine":"N47D20T1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Indien","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/5c77.html","chassis":"F10 (MUE)","chassis_slug":"f10-lci","brand":"BMW","chassis_description":"BMW 5 Series Sedan - LCI"}]}
+{
+ "code": "5C77",
+ "count": 1,
+ "results": [
+  {
+   "code": "5C77",
+   "model": "525d",
+   "body": "Sedan",
+   "engine": "N47D20T1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Indien",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/5c77.html",
+   "chassis": "F10 (MUE)",
+   "chassis_slug": "f10-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan - LCI",
+   "engine_slug": "n47d20t1"
+  }
+ ]
+}

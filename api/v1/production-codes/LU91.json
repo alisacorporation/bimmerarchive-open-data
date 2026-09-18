@@ -1,1 +1,24 @@
-{"code":"LU91","count":1,"results":[{"code":"LU91","model":"One","body":"","engine":"B38U","power_kw":75,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/lu91.html","chassis":"F54","chassis_slug":"f54","brand":"MINI","chassis_description":"MINI Clubman"}]}
+{
+ "code": "LU91",
+ "count": 1,
+ "results": [
+  {
+   "code": "LU91",
+   "model": "One",
+   "body": "",
+   "engine": "B38U",
+   "power_kw": 75,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/lu91.html",
+   "chassis": "F54",
+   "chassis_slug": "f54",
+   "brand": "MINI",
+   "chassis_description": "MINI Clubman",
+   "engine_slug": "b38b15m0"
+  }
+ ]
+}

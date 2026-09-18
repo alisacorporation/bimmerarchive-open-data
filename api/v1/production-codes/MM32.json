@@ -1,1 +1,24 @@
-{"code":"MM32","count":1,"results":[{"code":"MM32","model":"COOPER S","body":"Hatchback","engine":"N14","power_kw":128,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":"2006-11","to":"2010-02","source":"https://www.bimmerarchive.org/code/mm32.html","chassis":"R55","chassis_slug":"r55","brand":"MINI","chassis_description":"MINI Clubman"}]}
+{
+ "code": "MM32",
+ "count": 1,
+ "results": [
+  {
+   "code": "MM32",
+   "model": "COOPER S",
+   "body": "Hatchback",
+   "engine": "N14",
+   "power_kw": 128,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-11",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/mm32.html",
+   "chassis": "R55",
+   "chassis_slug": "r55",
+   "brand": "MINI",
+   "chassis_description": "MINI Clubman",
+   "engine_slug": "n14b16"
+  }
+ ]
+}

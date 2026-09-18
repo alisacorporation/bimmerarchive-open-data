@@ -1,1 +1,24 @@
-{"code":"WX73","count":1,"results":[{"code":"WX73","model":"X3 xDrive35i","body":"Sports Activity Vehicle","engine":"N55B30M0","power_kw":225,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/wx73.html","chassis":"F25","chassis_slug":"f25","brand":"BMW","chassis_description":"BMW X3 - Sports Activity Vehicle"}]}
+{
+ "code": "WX73",
+ "count": 1,
+ "results": [
+  {
+   "code": "WX73",
+   "model": "X3 xDrive35i",
+   "body": "Sports Activity Vehicle",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/wx73.html",
+   "chassis": "F25",
+   "chassis_slug": "f25",
+   "brand": "BMW",
+   "chassis_description": "BMW X3 - Sports Activity Vehicle",
+   "engine_slug": "n55b30m0"
+  }
+ ]
+}

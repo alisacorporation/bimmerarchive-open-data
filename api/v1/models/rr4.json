@@ -1,1 +1,123 @@
-{"code":"RR4","slug":"rr4","brand":"Rolls-Royce","description":"Rolls-Royce Ghost","years":"2009 -","year_from":2009,"year_to":null,"type":"Serie","production_code_count":4,"has_detail":true,"production_codes":[{"code":"664","model":"Ghost","body":"Sedan","engine":"N74R","power_kw":420,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/664.html"},{"code":"FK41","model":"Ghost","body":"Sedan","engine":"N74B66U0","power_kw":420,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-08","to":"2009-12","source":"https://www.bimmerarchive.org/code/fk41.html"},{"code":"FK42","model":"Ghost","body":"Sedan","engine":"N74B66U0","power_kw":420,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-09","to":"2009-12","source":"https://www.bimmerarchive.org/code/fk42.html"},{"code":"FK43","model":"Ghost","body":"Sedan","engine":"N74B66U0","power_kw":420,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2008-08","to":"2010-01","source":"https://www.bimmerarchive.org/code/fk43.html"}],"plants":[],"photos":[{"slug":"11146-551-rolls-royce-ghost-rr4","title":"Rolls-Royce Ghost"},{"slug":"11141-551-rolls-royce-ghost-rr4","title":"Rolls-Royce Ghost"},{"slug":"2162-177-rolls-royce-ghost","title":"Rolls Royce Ghost"},{"slug":"11144-551-rolls-royce-ghost-rr4","title":"Rolls-Royce Ghost"},{"slug":"11143-551-rolls-royce-ghost-rr4","title":"Rolls-Royce Ghost"},{"slug":"11147-551-rolls-royce-ghost-rr4","title":"Rolls-Royce Ghost"},{"slug":"11140-551-rolls-royce-ghost-rr4","title":"Rolls-Royce Ghost"},{"slug":"2163-177-rolls-royce-ghost","title":"Rolls Royce Ghost"},{"slug":"8989-476-rolls-royce-ghost-black-badge","title":"Rolls-Royce Ghost Black Badge"},{"slug":"11148-551-rolls-royce-ghost-rr4","title":"Rolls-Royce Ghost"},{"slug":"11145-551-rolls-royce-ghost-rr4","title":"Rolls-Royce Ghost"},{"slug":"11142-551-rolls-royce-ghost-rr4","title":"Rolls-Royce Ghost"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/rr4.html"}
+{
+ "code": "RR4",
+ "slug": "rr4",
+ "brand": "Rolls-Royce",
+ "description": "Rolls-Royce Ghost",
+ "years": "2009 -",
+ "year_from": 2009,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 4,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "664",
+   "model": "Ghost",
+   "body": "Sedan",
+   "engine": "N74R",
+   "power_kw": 420,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/664.html",
+   "engine_slug": "n74b66u0"
+  },
+  {
+   "code": "FK41",
+   "model": "Ghost",
+   "body": "Sedan",
+   "engine": "N74B66U0",
+   "power_kw": 420,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-08",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/fk41.html",
+   "engine_slug": "n74b66u0-rr5"
+  },
+  {
+   "code": "FK42",
+   "model": "Ghost",
+   "body": "Sedan",
+   "engine": "N74B66U0",
+   "power_kw": 420,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-09",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/fk42.html",
+   "engine_slug": "n74b66u0-rr5"
+  },
+  {
+   "code": "FK43",
+   "model": "Ghost",
+   "body": "Sedan",
+   "engine": "N74B66U0",
+   "power_kw": 420,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-08",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/fk43.html",
+   "engine_slug": "n74b66u0-rr5"
+  }
+ ],
+ "plants": [],
+ "photos": [
+  {
+   "slug": "11146-551-rolls-royce-ghost-rr4",
+   "title": "Rolls-Royce Ghost"
+  },
+  {
+   "slug": "11141-551-rolls-royce-ghost-rr4",
+   "title": "Rolls-Royce Ghost"
+  },
+  {
+   "slug": "2162-177-rolls-royce-ghost",
+   "title": "Rolls Royce Ghost"
+  },
+  {
+   "slug": "11144-551-rolls-royce-ghost-rr4",
+   "title": "Rolls-Royce Ghost"
+  },
+  {
+   "slug": "11143-551-rolls-royce-ghost-rr4",
+   "title": "Rolls-Royce Ghost"
+  },
+  {
+   "slug": "11147-551-rolls-royce-ghost-rr4",
+   "title": "Rolls-Royce Ghost"
+  },
+  {
+   "slug": "11140-551-rolls-royce-ghost-rr4",
+   "title": "Rolls-Royce Ghost"
+  },
+  {
+   "slug": "2163-177-rolls-royce-ghost",
+   "title": "Rolls Royce Ghost"
+  },
+  {
+   "slug": "8989-476-rolls-royce-ghost-black-badge",
+   "title": "Rolls-Royce Ghost Black Badge"
+  },
+  {
+   "slug": "11148-551-rolls-royce-ghost-rr4",
+   "title": "Rolls-Royce Ghost"
+  },
+  {
+   "slug": "11145-551-rolls-royce-ghost-rr4",
+   "title": "Rolls-Royce Ghost"
+  },
+  {
+   "slug": "11142-551-rolls-royce-ghost-rr4",
+   "title": "Rolls-Royce Ghost"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/rr4.html"
+}

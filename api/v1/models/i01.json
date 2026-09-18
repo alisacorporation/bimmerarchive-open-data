@@ -1,1 +1,177 @@
-{"code":"I01","slug":"i01","brand":"BMW","description":"BMW i3","years":"2013 - 2024","year_from":2013,"year_to":2024,"type":"Serie","production_code_count":6,"has_detail":true,"production_codes":[{"code":"1Z21","model":"i3","body":"Hatchback","engine":"IB1","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1z21.html"},{"code":"1Z22","model":"i3","body":"Hatchback","engine":"IB1","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1z22.html"},{"code":"1Z23","model":"i3","body":"Hatchback","engine":"IB1","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1z23.html"},{"code":"1Z41","model":"i3 REX","body":"Hatchback","engine":"IB1","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1z41.html"},{"code":"1Z42","model":"i3 REX","body":"Hatchback","engine":"IB1","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1z42.html"},{"code":"1Z43","model":"i3 REX","body":"Hatchback","engine":"IB1","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1z43.html"}],"plants":[{"slug":"bmw-plant-leipzig","name":"BMW Group Plant Leipzig"}],"photos":[{"slug":"6213-376-bmw-i3-94-ah","title":"BMW i3 (94Ah)"},{"slug":"8103-451-bmw-i3-and-bmw-i3s","title":"BMW i3 and BMW i3s"},{"slug":"6207-376-bmw-i3-94-ah","title":"BMW i3 (94Ah)"},{"slug":"10410-520-bmw-i3-scavenger-hunt","title":"BMW i3 scavenger hunt"},{"slug":"4313-284-bmw-i3","title":"BMW i3"},{"slug":"4536-289-bmw-i3","title":"BMW i3"},{"slug":"4533-289-bmw-i3","title":"BMW i3"},{"slug":"4728-301-bmw-i3","title":"BMW i3"},{"slug":"8115-451-bmw-i3","title":"BMW i3"},{"slug":"8153-451-bmw-i3s","title":"BMW i3s"},{"slug":"8122-451-bmw-i3","title":"BMW i3"},{"slug":"4738-301-bmw-i3","title":"BMW i3"}],"articles":[{"slug":"2017-09-10-bmw-at-the-iaa-cars-2017-in-frankfurt","title":"BMW at the IAA Cars 2017 in Frankfurt (2017-09-10)"},{"slug":"2017-08-29-the-new-bmw-i3-the-new-bmw-i3s","title":"The new BMW i3, the new BMW i3s (2017-08-29)"},{"slug":"2013-07-29-bmw-i3-world-premiere","title":"BMW i3 world premiere in New York, London and Beijing (2013-07-29)"},{"slug":"2013-07-10-the-new-bmw-i3","title":"The New BMW i3 (2013-07-10)"},{"slug":"2013-04-19-bmw-i-innovation-days-2013","title":"BMW i Innovation Days 2013 (2013-04-19)"}],"source":"https://www.bimmerarchive.org/e-code/i01.html"}
+{
+ "code": "I01",
+ "slug": "i01",
+ "brand": "BMW",
+ "description": "BMW i3",
+ "years": "2013 - 2024",
+ "year_from": 2013,
+ "year_to": 2024,
+ "type": "Serie",
+ "production_code_count": 6,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "1Z21",
+   "model": "i3",
+   "body": "Hatchback",
+   "engine": "IB1",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1z21.html",
+   "engine_slug": null
+  },
+  {
+   "code": "1Z22",
+   "model": "i3",
+   "body": "Hatchback",
+   "engine": "IB1",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1z22.html",
+   "engine_slug": null
+  },
+  {
+   "code": "1Z23",
+   "model": "i3",
+   "body": "Hatchback",
+   "engine": "IB1",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1z23.html",
+   "engine_slug": null
+  },
+  {
+   "code": "1Z41",
+   "model": "i3 REX",
+   "body": "Hatchback",
+   "engine": "IB1",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1z41.html",
+   "engine_slug": null
+  },
+  {
+   "code": "1Z42",
+   "model": "i3 REX",
+   "body": "Hatchback",
+   "engine": "IB1",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1z42.html",
+   "engine_slug": null
+  },
+  {
+   "code": "1Z43",
+   "model": "i3 REX",
+   "body": "Hatchback",
+   "engine": "IB1",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1z43.html",
+   "engine_slug": null
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-leipzig",
+   "name": "BMW Group Plant Leipzig"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "6213-376-bmw-i3-94-ah",
+   "title": "BMW i3 (94Ah)"
+  },
+  {
+   "slug": "8103-451-bmw-i3-and-bmw-i3s",
+   "title": "BMW i3 and BMW i3s"
+  },
+  {
+   "slug": "6207-376-bmw-i3-94-ah",
+   "title": "BMW i3 (94Ah)"
+  },
+  {
+   "slug": "10410-520-bmw-i3-scavenger-hunt",
+   "title": "BMW i3 scavenger hunt"
+  },
+  {
+   "slug": "4313-284-bmw-i3",
+   "title": "BMW i3"
+  },
+  {
+   "slug": "4536-289-bmw-i3",
+   "title": "BMW i3"
+  },
+  {
+   "slug": "4533-289-bmw-i3",
+   "title": "BMW i3"
+  },
+  {
+   "slug": "4728-301-bmw-i3",
+   "title": "BMW i3"
+  },
+  {
+   "slug": "8115-451-bmw-i3",
+   "title": "BMW i3"
+  },
+  {
+   "slug": "8153-451-bmw-i3s",
+   "title": "BMW i3s"
+  },
+  {
+   "slug": "8122-451-bmw-i3",
+   "title": "BMW i3"
+  },
+  {
+   "slug": "4738-301-bmw-i3",
+   "title": "BMW i3"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2017-09-10-bmw-at-the-iaa-cars-2017-in-frankfurt",
+   "title": "BMW at the IAA Cars 2017 in Frankfurt (2017-09-10)"
+  },
+  {
+   "slug": "2017-08-29-the-new-bmw-i3-the-new-bmw-i3s",
+   "title": "The new BMW i3, the new BMW i3s (2017-08-29)"
+  },
+  {
+   "slug": "2013-07-29-bmw-i3-world-premiere",
+   "title": "BMW i3 world premiere in New York, London and Beijing (2013-07-29)"
+  },
+  {
+   "slug": "2013-07-10-the-new-bmw-i3",
+   "title": "The New BMW i3 (2013-07-10)"
+  },
+  {
+   "slug": "2013-04-19-bmw-i-innovation-days-2013",
+   "title": "BMW i Innovation Days 2013 (2013-04-19)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/i01.html"
+}

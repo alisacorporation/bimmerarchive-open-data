@@ -1,1 +1,333 @@
-{"code":"F55","slug":"f55","brand":"MINI","description":"MINI 5 door","years":"2015 - 2021","year_from":2015,"year_to":2021,"type":"Serie","production_code_count":19,"has_detail":true,"production_codes":[{"code":"XS51","model":"Cooper","body":"Sports Hatch","engine":"B38A15M0","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xs51.html"},{"code":"XS52","model":"Cooper","body":"Sports Hatch","engine":"B38A15M0","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xs52.html"},{"code":"XS53","model":"Cooper","body":"Sports Hatch","engine":"B38A15M0","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xs53.html"},{"code":"XU11","model":"Cooper","body":"Sports Hatch","engine":"B36M","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xu11.html"},{"code":"XU13","model":"cooper","body":"Sports Hatch","engine":"B36M","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xu13.html"},{"code":"XT31","model":"Cooper D","body":"Sports Hatch","engine":"B37C15U0","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xt31.html"},{"code":"XT32","model":"Cooper D","body":"Sports Hatch","engine":"B37C15U0","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xt32.html"},{"code":"XS71","model":"Cooper S","body":"Sports Hatch","engine":"B48A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xs71.html"},{"code":"XS72","model":"Cooper S","body":"Sports Hatch","engine":"B48A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xs72.html"},{"code":"XU31","model":"Cooper S","body":"Sports Hatch","engine":"B46A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xu31.html"},{"code":"XU33","model":"Cooper S","body":"Sports Hatch","engine":"B46A20M0","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xu33.html"},{"code":"XT71","model":"Cooper SD","body":"Sports Hatch","engine":"B47C20O0","power_kw":125,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xt71.html"},{"code":"XT72","model":"Cooper SD","body":"Sports Hatch","engine":"B47C20O0","power_kw":125,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xt72.html"},{"code":"XS11","model":"One","body":"Sports Hatch","engine":"B38A12U0","power_kw":75,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xs11.html"},{"code":"XS12","model":"one","body":"Sports Hatch","engine":"B38A12U0","power_kw":75,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xs12.html"},{"code":"XS91","model":"one","body":"Sports Hatch","engine":"B38A12U0","power_kw":55,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xs91.html"},{"code":"XS92","model":"one","body":"Sports Hatch","engine":"B38A12U0","power_kw":55,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xs92.html"},{"code":"XT11","model":"One D","body":"Sports Hatch","engine":"B37C15K0","power_kw":70,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xt11.html"},{"code":"XT12","model":"One D","body":"Sports Hatch","engine":"B37C15K0","power_kw":70,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xt12.html"}],"plants":[],"photos":[{"slug":"5510-348-mini-cooper-s-b48a20","title":"MINI Cooper S - B48"},{"slug":"5519-348-mini-5-door-cooper-sd","title":"MINI Cooper SD 5 door"},{"slug":"5516-348-mini-5-door-cooper-sd","title":"MINI Cooper SD 5 door"},{"slug":"5521-348-mini-5-door-cooper-sd","title":"MINI Cooper SD 5 door"},{"slug":"5511-348-mini-5-door-cooper-sd","title":"MINI Cooper SD 5 door"},{"slug":"5504-348-mini-5-door-cooper-s","title":"MINI Cooper S 5 door"},{"slug":"5520-348-mini-5-door-cooper-sd","title":"MINI Cooper SD 5 door"},{"slug":"5503-348-mini-5-door-cooper-s","title":"MINI Cooper S 5 door"},{"slug":"5507-348-mini-5-door-cooper-s","title":"MINI Cooper S 5 door"},{"slug":"5500-348-mini-5-door-cooper-s","title":"MINI Cooper S 5 door"},{"slug":"5523-348-mini-b47c20-cooper-sd","title":"MINI Cooper SD - B47"},{"slug":"5502-348-mini-5-door-cooper-s","title":"MINI Cooper S 5 door"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/f55.html"}
+{
+ "code": "F55",
+ "slug": "f55",
+ "brand": "MINI",
+ "description": "MINI 5 door",
+ "years": "2015 - 2021",
+ "year_from": 2015,
+ "year_to": 2021,
+ "type": "Serie",
+ "production_code_count": 19,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "XS51",
+   "model": "Cooper",
+   "body": "Sports Hatch",
+   "engine": "B38A15M0",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xs51.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "XS52",
+   "model": "Cooper",
+   "body": "Sports Hatch",
+   "engine": "B38A15M0",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xs52.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "XS53",
+   "model": "Cooper",
+   "body": "Sports Hatch",
+   "engine": "B38A15M0",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xs53.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "XU11",
+   "model": "Cooper",
+   "body": "Sports Hatch",
+   "engine": "B36M",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xu11.html",
+   "engine_slug": "b38b15m0"
+  },
+  {
+   "code": "XU13",
+   "model": "cooper",
+   "body": "Sports Hatch",
+   "engine": "B36M",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xu13.html",
+   "engine_slug": "b38b15m0"
+  },
+  {
+   "code": "XT31",
+   "model": "Cooper D",
+   "body": "Sports Hatch",
+   "engine": "B37C15U0",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xt31.html",
+   "engine_slug": "b37c15u0"
+  },
+  {
+   "code": "XT32",
+   "model": "Cooper D",
+   "body": "Sports Hatch",
+   "engine": "B37C15U0",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xt32.html",
+   "engine_slug": "b37c15u0"
+  },
+  {
+   "code": "XS71",
+   "model": "Cooper S",
+   "body": "Sports Hatch",
+   "engine": "B48A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xs71.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "XS72",
+   "model": "Cooper S",
+   "body": "Sports Hatch",
+   "engine": "B48A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xs72.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "XU31",
+   "model": "Cooper S",
+   "body": "Sports Hatch",
+   "engine": "B46A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xu31.html",
+   "engine_slug": null
+  },
+  {
+   "code": "XU33",
+   "model": "Cooper S",
+   "body": "Sports Hatch",
+   "engine": "B46A20M0",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xu33.html",
+   "engine_slug": null
+  },
+  {
+   "code": "XT71",
+   "model": "Cooper SD",
+   "body": "Sports Hatch",
+   "engine": "B47C20O0",
+   "power_kw": 125,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xt71.html",
+   "engine_slug": "b47c20o0-140"
+  },
+  {
+   "code": "XT72",
+   "model": "Cooper SD",
+   "body": "Sports Hatch",
+   "engine": "B47C20O0",
+   "power_kw": 125,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xt72.html",
+   "engine_slug": "b47c20o0-140"
+  },
+  {
+   "code": "XS11",
+   "model": "One",
+   "body": "Sports Hatch",
+   "engine": "B38A12U0",
+   "power_kw": 75,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xs11.html",
+   "engine_slug": "b38a12u0"
+  },
+  {
+   "code": "XS12",
+   "model": "one",
+   "body": "Sports Hatch",
+   "engine": "B38A12U0",
+   "power_kw": 75,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xs12.html",
+   "engine_slug": "b38a12u0"
+  },
+  {
+   "code": "XS91",
+   "model": "one",
+   "body": "Sports Hatch",
+   "engine": "B38A12U0",
+   "power_kw": 55,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xs91.html",
+   "engine_slug": "b38a12u0"
+  },
+  {
+   "code": "XS92",
+   "model": "one",
+   "body": "Sports Hatch",
+   "engine": "B38A12U0",
+   "power_kw": 55,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xs92.html",
+   "engine_slug": "b38a12u0"
+  },
+  {
+   "code": "XT11",
+   "model": "One D",
+   "body": "Sports Hatch",
+   "engine": "B37C15K0",
+   "power_kw": 70,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xt11.html",
+   "engine_slug": "b37c15k0"
+  },
+  {
+   "code": "XT12",
+   "model": "One D",
+   "body": "Sports Hatch",
+   "engine": "B37C15K0",
+   "power_kw": 70,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xt12.html",
+   "engine_slug": "b37c15k0"
+  }
+ ],
+ "plants": [],
+ "photos": [
+  {
+   "slug": "5510-348-mini-cooper-s-b48a20",
+   "title": "MINI Cooper S - B48"
+  },
+  {
+   "slug": "5519-348-mini-5-door-cooper-sd",
+   "title": "MINI Cooper SD 5 door"
+  },
+  {
+   "slug": "5516-348-mini-5-door-cooper-sd",
+   "title": "MINI Cooper SD 5 door"
+  },
+  {
+   "slug": "5521-348-mini-5-door-cooper-sd",
+   "title": "MINI Cooper SD 5 door"
+  },
+  {
+   "slug": "5511-348-mini-5-door-cooper-sd",
+   "title": "MINI Cooper SD 5 door"
+  },
+  {
+   "slug": "5504-348-mini-5-door-cooper-s",
+   "title": "MINI Cooper S 5 door"
+  },
+  {
+   "slug": "5520-348-mini-5-door-cooper-sd",
+   "title": "MINI Cooper SD 5 door"
+  },
+  {
+   "slug": "5503-348-mini-5-door-cooper-s",
+   "title": "MINI Cooper S 5 door"
+  },
+  {
+   "slug": "5507-348-mini-5-door-cooper-s",
+   "title": "MINI Cooper S 5 door"
+  },
+  {
+   "slug": "5500-348-mini-5-door-cooper-s",
+   "title": "MINI Cooper S 5 door"
+  },
+  {
+   "slug": "5523-348-mini-b47c20-cooper-sd",
+   "title": "MINI Cooper SD - B47"
+  },
+  {
+   "slug": "5502-348-mini-5-door-cooper-s",
+   "title": "MINI Cooper S 5 door"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/f55.html"
+}

@@ -1,0 +1,23 @@
+{
+ "code": "M54B30",
+ "slug": "m54b30",
+ "family": "M54",
+ "years": "2000 - 2006",
+ "year_from": 2000,
+ "year_to": 2006,
+ "displacement_cc": 2979,
+ "power_kw": 170,
+ "power_ps": 231,
+ "power_rpm": "5900",
+ "torque_nm": 300,
+ "torque_rpm": "3500",
+ "has_detail": false,
+ "construction": "6 Cylinder, 24 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 24,
+ "compression_ratio": "10.2:1",
+ "bore_mm": 84.0,
+ "stroke_mm": 89.6,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m54b30.html"
+}

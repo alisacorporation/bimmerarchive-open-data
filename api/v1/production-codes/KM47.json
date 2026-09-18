@@ -1,1 +1,24 @@
-{"code":"KM47","count":1,"results":[{"code":"KM47","model":"730Ld","body":"Sedan","engine":"N57D30O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Indien","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/km47.html","chassis":"F02","chassis_slug":"f02","brand":"BMW","chassis_description":"BMW 7 Series Sedan - Long Wheelbase"}]}
+{
+ "code": "KM47",
+ "count": 1,
+ "results": [
+  {
+   "code": "KM47",
+   "model": "730Ld",
+   "body": "Sedan",
+   "engine": "N57D30O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Indien",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/km47.html",
+   "chassis": "F02",
+   "chassis_slug": "f02",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan - Long Wheelbase",
+   "engine_slug": "n57d30o0-540"
+  }
+ ]
+}

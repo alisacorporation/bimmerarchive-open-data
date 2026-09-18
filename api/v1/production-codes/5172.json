@@ -1,1 +1,24 @@
-{"code":"5172","count":1,"results":[{"code":"5172","model":"628 cs","body":"Coupe","engine":"M30","power_kw":null,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/5172.html","chassis":"E24","chassis_slug":"e24","brand":"BMW","chassis_description":"BMW 6 Series Coupe"}]}
+{
+ "code": "5172",
+ "count": 1,
+ "results": [
+  {
+   "code": "5172",
+   "model": "628 cs",
+   "body": "Coupe",
+   "engine": "M30",
+   "power_kw": null,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/5172.html",
+   "chassis": "E24",
+   "chassis_slug": "e24",
+   "brand": "BMW",
+   "chassis_description": "BMW 6 Series Coupe",
+   "engine_slug": "m30b35"
+  }
+ ]
+}

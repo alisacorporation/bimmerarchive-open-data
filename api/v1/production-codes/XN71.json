@@ -1,1 +1,24 @@
-{"code":"XN71","count":1,"results":[{"code":"XN71","model":"One","body":"Hatchback","engine":"B38A12U0","power_kw":75,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xn71.html","chassis":"F56","chassis_slug":"f56","brand":"MINI","chassis_description":"MINI 3 door"}]}
+{
+ "code": "XN71",
+ "count": 1,
+ "results": [
+  {
+   "code": "XN71",
+   "model": "One",
+   "body": "Hatchback",
+   "engine": "B38A12U0",
+   "power_kw": 75,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xn71.html",
+   "chassis": "F56",
+   "chassis_slug": "f56",
+   "brand": "MINI",
+   "chassis_description": "MINI 3 door",
+   "engine_slug": "b38a12u0"
+  }
+ ]
+}

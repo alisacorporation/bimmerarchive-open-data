@@ -1,1 +1,24 @@
-{"code":"2Z23","count":1,"results":[{"code":"2Z23","model":"i8","body":"Coupe","engine":"B38K15T0","power_kw":170,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2z23.html","chassis":"I12","chassis_slug":"i12","brand":"BMW","chassis_description":"BMW i8 Coupe"}]}
+{
+ "code": "2Z23",
+ "count": 1,
+ "results": [
+  {
+   "code": "2Z23",
+   "model": "i8",
+   "body": "Coupe",
+   "engine": "B38K15T0",
+   "power_kw": 170,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2z23.html",
+   "chassis": "I12",
+   "chassis_slug": "i12",
+   "brand": "BMW",
+   "chassis_description": "BMW i8 Coupe",
+   "engine_slug": "b38k15t0"
+  }
+ ]
+}

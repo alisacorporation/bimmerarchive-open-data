@@ -1,1 +1,86 @@
-{"code":"3200 CS","slug":"3200-cs","brand":"BMW","description":"BMW 3200 CS","years":"1962 - 1965","year_from":1962,"year_to":1965,"type":"Serie","production_code_count":1,"has_detail":true,"production_codes":[{"code":"ST35","model":"3200 CS","body":"Coupe","engine":"8-Zyl","power_kw":null,"drivetrain":"","steering":"left","region":"Europe","from":"1962-01","to":"1965-09","source":"https://www.bimmerarchive.org/code/st35.html"}],"plants":[{"slug":"bmw-plant-munich","name":"BMW Group Plant Munich"}],"photos":[{"slug":"3120-243-bmw-3200-cs","title":"BMW 3200 CS"},{"slug":"12817-600-bmw-3200-cs","title":"BMW 3200 CS"},{"slug":"12818-600-bmw-3200-cs","title":"BMW 3200 CS"},{"slug":"6474-386-bmw-3200-cs","title":"BMW 3200 CS"},{"slug":"2655-3-bmw-3200-cs","title":"BMW 3200 CS"},{"slug":"6476-386-bmw-3200-cs-503-cabriolet","title":"BMW 3200 CS und 503 Cabriolet"},{"slug":"12815-600-bmw-3200-cs","title":"BMW 3200 CS"},{"slug":"12808-600-bmw-3200-cs","title":"BMW 3200 CS"},{"slug":"12816-600-bmw-3200-cs","title":"BMW 3200 CS"},{"slug":"3117-243-bmw-3200-cs-und-2000-cs","title":"BMW 3200 CS und 2000 CS"},{"slug":"2705-224-bmw-3200-cs","title":"BMW 3200 CS"},{"slug":"12813-600-bmw-3200-cs","title":"BMW 3200 CS"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/3200-cs.html"}
+{
+ "code": "3200 CS",
+ "slug": "3200-cs",
+ "brand": "BMW",
+ "description": "BMW 3200 CS",
+ "years": "1962 - 1965",
+ "year_from": 1962,
+ "year_to": 1965,
+ "type": "Serie",
+ "production_code_count": 1,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "ST35",
+   "model": "3200 CS",
+   "body": "Coupe",
+   "engine": "8-Zyl",
+   "power_kw": null,
+   "drivetrain": "",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1962-01",
+   "to": "1965-09",
+   "source": "https://www.bimmerarchive.org/code/st35.html",
+   "engine_slug": null
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-munich",
+   "name": "BMW Group Plant Munich"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "3120-243-bmw-3200-cs",
+   "title": "BMW 3200 CS"
+  },
+  {
+   "slug": "12817-600-bmw-3200-cs",
+   "title": "BMW 3200 CS"
+  },
+  {
+   "slug": "12818-600-bmw-3200-cs",
+   "title": "BMW 3200 CS"
+  },
+  {
+   "slug": "6474-386-bmw-3200-cs",
+   "title": "BMW 3200 CS"
+  },
+  {
+   "slug": "2655-3-bmw-3200-cs",
+   "title": "BMW 3200 CS"
+  },
+  {
+   "slug": "6476-386-bmw-3200-cs-503-cabriolet",
+   "title": "BMW 3200 CS und 503 Cabriolet"
+  },
+  {
+   "slug": "12815-600-bmw-3200-cs",
+   "title": "BMW 3200 CS"
+  },
+  {
+   "slug": "12808-600-bmw-3200-cs",
+   "title": "BMW 3200 CS"
+  },
+  {
+   "slug": "12816-600-bmw-3200-cs",
+   "title": "BMW 3200 CS"
+  },
+  {
+   "slug": "3117-243-bmw-3200-cs-und-2000-cs",
+   "title": "BMW 3200 CS und 2000 CS"
+  },
+  {
+   "slug": "2705-224-bmw-3200-cs",
+   "title": "BMW 3200 CS"
+  },
+  {
+   "slug": "12813-600-bmw-3200-cs",
+   "title": "BMW 3200 CS"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/3200-cs.html"
+}

@@ -1,1 +1,24 @@
-{"code":"CM93","count":1,"results":[{"code":"CM93","model":"M Coupé","body":"Coupe","engine":"S52B32","power_kw":176,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1997-10","to":"2000-07","source":"https://www.bimmerarchive.org/code/cm93.html","chassis":"E36 (7C)","chassis_slug":"e36-7c","brand":"BMW","chassis_description":"BMW Z3 Coupe and M Coupe"}]}
+{
+ "code": "CM93",
+ "count": 1,
+ "results": [
+  {
+   "code": "CM93",
+   "model": "M Coup\u00e9",
+   "body": "Coupe",
+   "engine": "S52B32",
+   "power_kw": 176,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1997-10",
+   "to": "2000-07",
+   "source": "https://www.bimmerarchive.org/code/cm93.html",
+   "chassis": "E36 (7C)",
+   "chassis_slug": "e36-7c",
+   "brand": "BMW",
+   "chassis_description": "BMW Z3 Coupe and M Coupe",
+   "engine_slug": "s52b32"
+  }
+ ]
+}

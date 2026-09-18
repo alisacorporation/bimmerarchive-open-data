@@ -1,1 +1,114 @@
-{"code":"F86","slug":"f86","brand":"BMW","description":"BMW X6 M","years":"2014 - 2020","year_from":2014,"year_to":2020,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"KW81","model":"X6 M","body":"Sports Activity Coupe","engine":"S63B44T2","power_kw":423,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kw81.html"},{"code":"KW82","model":"X6 M","body":"Sports Activity Coupe","engine":"S63B44T2","power_kw":423,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kw82.html"},{"code":"KW83","model":"X6 M","body":"Sports Activity Coupe","engine":"S63B44T2","power_kw":423,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kw83.html"}],"plants":[{"slug":"bmw-plant-spartanburg","name":"BMW Plant Spartanburg"}],"photos":[{"slug":"9463-493-bmw-x6-m","title":"BMW X6 M"},{"slug":"5372-344-bmw-x5-m-f85-and-bmw-x6-m-f86","title":"BMW X5 M and BMW X6 M"},{"slug":"5371-344-bmw-x5-m-f85-and-bmw-x6-m-f86","title":"BMW X5 M and BMW X6 M"},{"slug":"5401-344-bmw-x6-m-f86","title":"BMW X6 M"},{"slug":"5393-344-bmw-x6-m-f86","title":"BMW X6 M"},{"slug":"5398-344-bmw-x6-m-f86","title":"BMW X6 M"},{"slug":"5389-344-bmw-x6-m-f86","title":"BMW X6 M"},{"slug":"5370-343-bmw-x5-m-f85-and-bmw-x6-m-f86","title":"BMW X5 M and BMW X6 M"},{"slug":"5574-344-bmw-x6-m-f86","title":"BMW X6 M"},{"slug":"5388-344-bmw-x6-m-f86","title":"BMW X6 M"},{"slug":"5391-344-bmw-x6-m-f86","title":"BMW X6 M"},{"slug":"5400-344-bmw-x6-m-f86","title":"BMW X6 M"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/f86.html"}
+{
+ "code": "F86",
+ "slug": "f86",
+ "brand": "BMW",
+ "description": "BMW X6 M",
+ "years": "2014 - 2020",
+ "year_from": 2014,
+ "year_to": 2020,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "KW81",
+   "model": "X6 M",
+   "body": "Sports Activity Coupe",
+   "engine": "S63B44T2",
+   "power_kw": 423,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kw81.html",
+   "engine_slug": "s63b44t2"
+  },
+  {
+   "code": "KW82",
+   "model": "X6 M",
+   "body": "Sports Activity Coupe",
+   "engine": "S63B44T2",
+   "power_kw": 423,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kw82.html",
+   "engine_slug": "s63b44t2"
+  },
+  {
+   "code": "KW83",
+   "model": "X6 M",
+   "body": "Sports Activity Coupe",
+   "engine": "S63B44T2",
+   "power_kw": 423,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kw83.html",
+   "engine_slug": "s63b44t2"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-spartanburg",
+   "name": "BMW Plant Spartanburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "9463-493-bmw-x6-m",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "5372-344-bmw-x5-m-f85-and-bmw-x6-m-f86",
+   "title": "BMW X5 M and BMW X6 M"
+  },
+  {
+   "slug": "5371-344-bmw-x5-m-f85-and-bmw-x6-m-f86",
+   "title": "BMW X5 M and BMW X6 M"
+  },
+  {
+   "slug": "5401-344-bmw-x6-m-f86",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "5393-344-bmw-x6-m-f86",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "5398-344-bmw-x6-m-f86",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "5389-344-bmw-x6-m-f86",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "5370-343-bmw-x5-m-f85-and-bmw-x6-m-f86",
+   "title": "BMW X5 M and BMW X6 M"
+  },
+  {
+   "slug": "5574-344-bmw-x6-m-f86",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "5388-344-bmw-x6-m-f86",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "5391-344-bmw-x6-m-f86",
+   "title": "BMW X6 M"
+  },
+  {
+   "slug": "5400-344-bmw-x6-m-f86",
+   "title": "BMW X6 M"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/f86.html"
+}

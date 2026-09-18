@@ -1,1 +1,24 @@
-{"code":"8F31","count":1,"results":[{"code":"8F31","model":"330d","body":"Sedan","engine":"N57T","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/8f31.html","chassis":"F30 (MUE)","chassis_slug":"f30-lci","brand":"BMW","chassis_description":"BMW 3 Series Sedan - LCI"}]}
+{
+ "code": "8F31",
+ "count": 1,
+ "results": [
+  {
+   "code": "8F31",
+   "model": "330d",
+   "body": "Sedan",
+   "engine": "N57T",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/8f31.html",
+   "chassis": "F30 (MUE)",
+   "chassis_slug": "f30-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan - LCI",
+   "engine_slug": "n57d30t0"
+  }
+ ]
+}

@@ -1,1 +1,431 @@
-{"code":"G30","slug":"g30","brand":"BMW","description":"BMW 5 Series Sedan","years":"2017 - 2020","year_from":2017,"year_to":2020,"type":"Serie","production_code_count":25,"has_detail":true,"production_codes":[{"code":"JC31","model":"520d","body":"Sedan","engine":"B47D20O0","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jc31.html"},{"code":"JC32","model":"520d","body":"Sedan","engine":"B47D20O0","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jc32.html"},{"code":"JE31","model":"520d EfficientDynamics Edition","body":"Sedan","engine":"B47O","power_kw":140,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/je31.html"},{"code":"JC51","model":"520d xDrive","body":"Sedan","engine":"B47D20O0","power_kw":140,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jc51.html"},{"code":"JC52","model":"520d xDrive","body":"Sedan","engine":"B47D20O0","power_kw":140,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jc52.html"},{"code":"JC91","model":"530d","body":"Sedan","engine":"B57D30O0","power_kw":195,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jc91.html"},{"code":"JC92","model":"530d","body":"Sedan","engine":"B57D30O0","power_kw":195,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jc92.html"},{"code":"JD11","model":"530d xDrive","body":"Sedan","engine":"B57D30O0","power_kw":195,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jd11.html"},{"code":"JD12","model":"530d xDrive","body":"Sedan","engine":"B57D30O0","power_kw":195,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jd12.html"},{"code":"JA51","model":"530i","body":"Sedan","engine":"B48O","power_kw":185,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ja51.html"},{"code":"JA52","model":"530i","body":"Sedan","engine":"B48O","power_kw":185,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ja52.html"},{"code":"JA53","model":"530i","body":"Sedan","engine":"B46O","power_kw":185,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ja53.html"},{"code":"JD31","model":"530i","body":"Sedan","engine":"B46O","power_kw":185,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jd31.html"},{"code":"JA71","model":"530i xDrive","body":"Sedan","engine":"B48O","power_kw":185,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ja71.html"},{"code":"JA73","model":"530i xDrive","body":"Sedan","engine":"B46O","power_kw":185,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ja73.html"},{"code":"JD91","model":"530i xDrive","body":"Sedan","engine":"B46O","power_kw":185,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jd91.html"},{"code":"JD13","model":"540d xDrive","body":"Sedan","engine":"B57D30O0","power_kw":195,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jd13.html"},{"code":"JB31","model":"540i","body":"Sedan","engine":"B58B30M0","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jb31.html"},{"code":"JB32","model":"540i","body":"Sedan","engine":"B58B30M0","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jb32.html"},{"code":"JE53","model":"540i","body":"Sedan","engine":"B58B30M0","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/je53.html"},{"code":"JB51","model":"540i xDrive","body":"Sedan","engine":"B58B30M0","power_kw":240,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jb51.html"},{"code":"JB52","model":"540i xDrive","body":"Sedan","engine":"B58B30M0","power_kw":240,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jb52.html"},{"code":"JE73","model":"540i xDrive","body":"Sedan","engine":"B58B30M0","power_kw":240,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/je73.html"},{"code":"JB91","model":"M550i xDrive","body":"Sedan","engine":"N63R","power_kw":340,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jb91.html"},{"code":"JB93","model":"M550i xDrive","body":"Sedan","engine":"N63R","power_kw":340,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/jb93.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"},{"slug":"magna-steyr","name":"Magna Steyr Graz"}],"photos":[{"slug":"11095-550-bmw-545e-xdrive-sedan","title":"BMW 545e xDrive Sedan"},{"slug":"6591-390-bmw-540i-sedan","title":"BMW 540i, M Sport"},{"slug":"6746-399-bmw-530e-i-performance","title":"BMW 530e iPerformance"},{"slug":"11089-550-bmw-545e-xdrive-sedan","title":"BMW 545e xDrive Sedan"},{"slug":"6742-399-bmw-530e-i-performance","title":"BMW 530e iPerformance"},{"slug":"6738-399-bmw-530e-i-performance","title":"BMW 530e iPerformance"},{"slug":"6764-400-electric-now-tour-2017","title":"Electric Now Tour 2017"},{"slug":"11106-550-bmw-545e-xdrive-sedan","title":"BMW 545e xDrive Sedan"},{"slug":"11101-550-bmw-545e-xdrive-sedan","title":"BMW 545e xDrive Sedan"},{"slug":"6598-390-bmw-5er-limousine-technische-highlights","title":"BMW 5er Limousine, Technische Highlights"},{"slug":"6747-399-bmw-530e-i-performance","title":"BMW 530e iPerformance"},{"slug":"11104-550-bmw-545e-xdrive-sedan","title":"BMW 545e xDrive Sedan"}],"articles":[{"slug":"2016-10-13-the-new-bmw-5-series-sedan","title":"The new BMW 5 Series Sedan (2016-10-13)"}],"source":"https://www.bimmerarchive.org/e-code/g30.html"}
+{
+ "code": "G30",
+ "slug": "g30",
+ "brand": "BMW",
+ "description": "BMW 5 Series Sedan",
+ "years": "2017 - 2020",
+ "year_from": 2017,
+ "year_to": 2020,
+ "type": "Serie",
+ "production_code_count": 25,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "JC31",
+   "model": "520d",
+   "body": "Sedan",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jc31.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "JC32",
+   "model": "520d",
+   "body": "Sedan",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jc32.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "JE31",
+   "model": "520d EfficientDynamics Edition",
+   "body": "Sedan",
+   "engine": "B47O",
+   "power_kw": 140,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/je31.html",
+   "engine_slug": "b47d20o0"
+  },
+  {
+   "code": "JC51",
+   "model": "520d xDrive",
+   "body": "Sedan",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jc51.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "JC52",
+   "model": "520d xDrive",
+   "body": "Sedan",
+   "engine": "B47D20O0",
+   "power_kw": 140,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jc52.html",
+   "engine_slug": "b47d20o0-ee"
+  },
+  {
+   "code": "JC91",
+   "model": "530d",
+   "body": "Sedan",
+   "engine": "B57D30O0",
+   "power_kw": 195,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jc91.html",
+   "engine_slug": "b57d30o0"
+  },
+  {
+   "code": "JC92",
+   "model": "530d",
+   "body": "Sedan",
+   "engine": "B57D30O0",
+   "power_kw": 195,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jc92.html",
+   "engine_slug": "b57d30o0"
+  },
+  {
+   "code": "JD11",
+   "model": "530d xDrive",
+   "body": "Sedan",
+   "engine": "B57D30O0",
+   "power_kw": 195,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jd11.html",
+   "engine_slug": "b57d30o0"
+  },
+  {
+   "code": "JD12",
+   "model": "530d xDrive",
+   "body": "Sedan",
+   "engine": "B57D30O0",
+   "power_kw": 195,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jd12.html",
+   "engine_slug": "b57d30o0"
+  },
+  {
+   "code": "JA51",
+   "model": "530i",
+   "body": "Sedan",
+   "engine": "B48O",
+   "power_kw": 185,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ja51.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "JA52",
+   "model": "530i",
+   "body": "Sedan",
+   "engine": "B48O",
+   "power_kw": 185,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ja52.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "JA53",
+   "model": "530i",
+   "body": "Sedan",
+   "engine": "B46O",
+   "power_kw": 185,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ja53.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "JD31",
+   "model": "530i",
+   "body": "Sedan",
+   "engine": "B46O",
+   "power_kw": 185,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jd31.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "JA71",
+   "model": "530i xDrive",
+   "body": "Sedan",
+   "engine": "B48O",
+   "power_kw": 185,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ja71.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "JA73",
+   "model": "530i xDrive",
+   "body": "Sedan",
+   "engine": "B46O",
+   "power_kw": 185,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ja73.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "JD91",
+   "model": "530i xDrive",
+   "body": "Sedan",
+   "engine": "B46O",
+   "power_kw": 185,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jd91.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "JD13",
+   "model": "540d xDrive",
+   "body": "Sedan",
+   "engine": "B57D30O0",
+   "power_kw": 195,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jd13.html",
+   "engine_slug": "b57d30o0"
+  },
+  {
+   "code": "JB31",
+   "model": "540i",
+   "body": "Sedan",
+   "engine": "B58B30M0",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jb31.html",
+   "engine_slug": "b58b30m0"
+  },
+  {
+   "code": "JB32",
+   "model": "540i",
+   "body": "Sedan",
+   "engine": "B58B30M0",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jb32.html",
+   "engine_slug": "b58b30m0"
+  },
+  {
+   "code": "JE53",
+   "model": "540i",
+   "body": "Sedan",
+   "engine": "B58B30M0",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/je53.html",
+   "engine_slug": "b58b30m0"
+  },
+  {
+   "code": "JB51",
+   "model": "540i xDrive",
+   "body": "Sedan",
+   "engine": "B58B30M0",
+   "power_kw": 240,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jb51.html",
+   "engine_slug": "b58b30m0"
+  },
+  {
+   "code": "JB52",
+   "model": "540i xDrive",
+   "body": "Sedan",
+   "engine": "B58B30M0",
+   "power_kw": 240,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jb52.html",
+   "engine_slug": "b58b30m0"
+  },
+  {
+   "code": "JE73",
+   "model": "540i xDrive",
+   "body": "Sedan",
+   "engine": "B58B30M0",
+   "power_kw": 240,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/je73.html",
+   "engine_slug": "b58b30m0"
+  },
+  {
+   "code": "JB91",
+   "model": "M550i xDrive",
+   "body": "Sedan",
+   "engine": "N63R",
+   "power_kw": 340,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jb91.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "JB93",
+   "model": "M550i xDrive",
+   "body": "Sedan",
+   "engine": "N63R",
+   "power_kw": 340,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/jb93.html",
+   "engine_slug": "n63b44o1"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  },
+  {
+   "slug": "magna-steyr",
+   "name": "Magna Steyr Graz"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "11095-550-bmw-545e-xdrive-sedan",
+   "title": "BMW 545e xDrive Sedan"
+  },
+  {
+   "slug": "6591-390-bmw-540i-sedan",
+   "title": "BMW 540i, M Sport"
+  },
+  {
+   "slug": "6746-399-bmw-530e-i-performance",
+   "title": "BMW 530e iPerformance"
+  },
+  {
+   "slug": "11089-550-bmw-545e-xdrive-sedan",
+   "title": "BMW 545e xDrive Sedan"
+  },
+  {
+   "slug": "6742-399-bmw-530e-i-performance",
+   "title": "BMW 530e iPerformance"
+  },
+  {
+   "slug": "6738-399-bmw-530e-i-performance",
+   "title": "BMW 530e iPerformance"
+  },
+  {
+   "slug": "6764-400-electric-now-tour-2017",
+   "title": "Electric Now Tour 2017"
+  },
+  {
+   "slug": "11106-550-bmw-545e-xdrive-sedan",
+   "title": "BMW 545e xDrive Sedan"
+  },
+  {
+   "slug": "11101-550-bmw-545e-xdrive-sedan",
+   "title": "BMW 545e xDrive Sedan"
+  },
+  {
+   "slug": "6598-390-bmw-5er-limousine-technische-highlights",
+   "title": "BMW 5er Limousine, Technische Highlights"
+  },
+  {
+   "slug": "6747-399-bmw-530e-i-performance",
+   "title": "BMW 530e iPerformance"
+  },
+  {
+   "slug": "11104-550-bmw-545e-xdrive-sedan",
+   "title": "BMW 545e xDrive Sedan"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2016-10-13-the-new-bmw-5-series-sedan",
+   "title": "The new BMW 5 Series Sedan (2016-10-13)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/g30.html"
+}

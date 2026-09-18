@@ -1,1 +1,24 @@
-{"code":"EH93","count":1,"results":[{"code":"EH93","model":"M6","body":"Coupe","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2004-03","to":"2009-12","source":"https://www.bimmerarchive.org/code/eh93.html","chassis":"E63 (M6)","chassis_slug":"e63-m6","brand":"BMW","chassis_description":"BMW M6 Coupe"}]}
+{
+ "code": "EH93",
+ "count": 1,
+ "results": [
+  {
+   "code": "EH93",
+   "model": "M6",
+   "body": "Coupe",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2004-03",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/eh93.html",
+   "chassis": "E63 (M6)",
+   "chassis_slug": "e63-m6",
+   "brand": "BMW",
+   "chassis_description": "BMW M6 Coupe",
+   "engine_slug": "s85b50"
+  }
+ ]
+}

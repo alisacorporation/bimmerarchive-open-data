@@ -1,1 +1,24 @@
-{"code":"1J93","count":1,"results":[{"code":"1J93","model":"M235i xDrive","body":"Coupe","engine":"N55B30O0","power_kw":240,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1j93.html","chassis":"F22","chassis_slug":"f22","brand":"BMW","chassis_description":"BMW 2 Series Coupe"}]}
+{
+ "code": "1J93",
+ "count": 1,
+ "results": [
+  {
+   "code": "1J93",
+   "model": "M235i xDrive",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 240,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1j93.html",
+   "chassis": "F22",
+   "chassis_slug": "f22",
+   "brand": "BMW",
+   "chassis_description": "BMW 2 Series Coupe",
+   "engine_slug": "n55b30o0-f22"
+  }
+ ]
+}

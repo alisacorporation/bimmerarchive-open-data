@@ -1,1 +1,24 @@
-{"code":"EZ51","count":1,"results":[{"code":"EZ51","model":"316ti","body":"Compact","engine":"N46B18O0","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2003-09","to":"2004-12","source":"https://www.bimmerarchive.org/code/ez51.html","chassis":"E46 (5)","chassis_slug":"e46-5","brand":"BMW","chassis_description":"BMW 3 Series Compact"}]}
+{
+ "code": "EZ51",
+ "count": 1,
+ "results": [
+  {
+   "code": "EZ51",
+   "model": "316ti",
+   "body": "Compact",
+   "engine": "N46B18O0",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2003-09",
+   "to": "2004-12",
+   "source": "https://www.bimmerarchive.org/code/ez51.html",
+   "chassis": "E46 (5)",
+   "chassis_slug": "e46-5",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Compact",
+   "engine_slug": "n46b18o0"
+  }
+ ]
+}

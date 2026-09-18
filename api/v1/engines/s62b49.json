@@ -1,0 +1,23 @@
+{
+ "code": "S62B49",
+ "slug": "s62b49",
+ "family": "S62",
+ "years": "1998 - 2003",
+ "year_from": 1998,
+ "year_to": 2003,
+ "displacement_cc": 4941,
+ "power_kw": 294,
+ "power_ps": 400,
+ "power_rpm": "6600",
+ "torque_nm": 500,
+ "torque_rpm": "3800",
+ "has_detail": false,
+ "construction": "8 Cylinder, 32 Valves, V",
+ "cylinders": 8,
+ "valves": 32,
+ "compression_ratio": "11.0:1",
+ "bore_mm": 94.0,
+ "stroke_mm": 89.0,
+ "fuel": "Super Plus bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/s62b49.html"
+}

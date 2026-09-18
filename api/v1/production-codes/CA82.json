@@ -1,1 +1,24 @@
-{"code":"CA82","count":1,"results":[{"code":"CA82","model":"316I","body":"Sedan","engine":"M43","power_kw":75,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1993-08","to":"1998-03","source":"https://www.bimmerarchive.org/code/ca82.html","chassis":"E36 (4)","chassis_slug":"e36-4","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "CA82",
+ "count": 1,
+ "results": [
+  {
+   "code": "CA82",
+   "model": "316I",
+   "body": "Sedan",
+   "engine": "M43",
+   "power_kw": 75,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1993-08",
+   "to": "1998-03",
+   "source": "https://www.bimmerarchive.org/code/ca82.html",
+   "chassis": "E36 (4)",
+   "chassis_slug": "e36-4",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m43b18"
+  }
+ ]
+}

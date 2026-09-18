@@ -1,1 +1,24 @@
-{"code":"1C71","count":1,"results":[{"code":"1C71","model":"116d","body":"Sports Hatch","engine":"N47D20K1","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1c71.html","chassis":"F20","chassis_slug":"f20","brand":"BMW","chassis_description":"BMW 1 Series 5-door Sports Hatch"}]}
+{
+ "code": "1C71",
+ "count": 1,
+ "results": [
+  {
+   "code": "1C71",
+   "model": "116d",
+   "body": "Sports Hatch",
+   "engine": "N47D20K1",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1c71.html",
+   "chassis": "F20",
+   "chassis_slug": "f20",
+   "brand": "BMW",
+   "chassis_description": "BMW 1 Series 5-door Sports Hatch",
+   "engine_slug": "n47d20k1"
+  }
+ ]
+}

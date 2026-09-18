@@ -1,1 +1,24 @@
-{"code":"VR92","count":1,"results":[{"code":"VR92","model":"320i","body":"Touring","engine":"N43B20O0","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-05","to":"2008-07","source":"https://www.bimmerarchive.org/code/vr92.html","chassis":"E91","chassis_slug":"e91","brand":"BMW","chassis_description":"BMW 3 Series Touring"}]}
+{
+ "code": "VR92",
+ "count": 1,
+ "results": [
+  {
+   "code": "VR92",
+   "model": "320i",
+   "body": "Touring",
+   "engine": "N43B20O0",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-05",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/vr92.html",
+   "chassis": "E91",
+   "chassis_slug": "e91",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring",
+   "engine_slug": "n43b20o0"
+  }
+ ]
+}

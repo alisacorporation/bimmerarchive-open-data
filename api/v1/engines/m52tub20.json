@@ -1,0 +1,23 @@
+{
+ "code": "M52TUB20",
+ "slug": "m52tub20",
+ "family": "M52",
+ "years": "1998 - 2001",
+ "year_from": 1998,
+ "year_to": 2001,
+ "displacement_cc": 1991,
+ "power_kw": 110,
+ "power_ps": 150,
+ "power_rpm": "5900",
+ "torque_nm": 190,
+ "torque_rpm": "3500",
+ "has_detail": false,
+ "construction": "6 Cylinder, 24 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 24,
+ "compression_ratio": "11.0:1",
+ "bore_mm": 80.0,
+ "stroke_mm": 66.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m52tub20.html"
+}

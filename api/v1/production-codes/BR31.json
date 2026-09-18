@@ -1,1 +1,24 @@
-{"code":"BR31","count":1,"results":[{"code":"BR31","model":"323CI","body":"Convertible","engine":"M52/TU","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-11","to":"2000-09","source":"https://www.bimmerarchive.org/code/br31.html","chassis":"E46 (C)","chassis_slug":"e46-2c","brand":"BMW","chassis_description":"BMW 3 Series Convertible"}]}
+{
+ "code": "BR31",
+ "count": 1,
+ "results": [
+  {
+   "code": "BR31",
+   "model": "323CI",
+   "body": "Convertible",
+   "engine": "M52/TU",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-11",
+   "to": "2000-09",
+   "source": "https://www.bimmerarchive.org/code/br31.html",
+   "chassis": "E46 (C)",
+   "chassis_slug": "e46-2c",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible",
+   "engine_slug": "m52tub28"
+  }
+ ]
+}

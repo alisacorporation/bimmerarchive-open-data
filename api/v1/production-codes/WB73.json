@@ -1,1 +1,24 @@
-{"code":"WB73","count":1,"results":[{"code":"WB73","model":"335i","body":"Coupe","engine":"N54B30O0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2005-06","to":"2010-02","source":"https://www.bimmerarchive.org/code/wb73.html","chassis":"E92","chassis_slug":"e92","brand":"BMW","chassis_description":"BMW 3 Series Coupe"}]}
+{
+ "code": "WB73",
+ "count": 1,
+ "results": [
+  {
+   "code": "WB73",
+   "model": "335i",
+   "body": "Coupe",
+   "engine": "N54B30O0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2005-06",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/wb73.html",
+   "chassis": "E92",
+   "chassis_slug": "e92",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe",
+   "engine_slug": "n54b30o0"
+  }
+ ]
+}

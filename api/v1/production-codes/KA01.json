@@ -1,1 +1,24 @@
-{"code":"KA01","count":1,"results":[{"code":"KA01","model":"760i","body":"Sedan","engine":"N74B60U0","power_kw":400,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2007-09","to":"2010-01","source":"https://www.bimmerarchive.org/code/ka01.html","chassis":"F01","chassis_slug":"f01","brand":"BMW","chassis_description":"BMW 7 Series Sedan"}]}
+{
+ "code": "KA01",
+ "count": 1,
+ "results": [
+  {
+   "code": "KA01",
+   "model": "760i",
+   "body": "Sedan",
+   "engine": "N74B60U0",
+   "power_kw": 400,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2007-09",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ka01.html",
+   "chassis": "F01",
+   "chassis_slug": "f01",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan",
+   "engine_slug": "n74b60uo"
+  }
+ ]
+}

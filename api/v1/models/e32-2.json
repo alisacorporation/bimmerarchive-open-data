@@ -1,1 +1,291 @@
-{"code":"E32 (2)","slug":"e32-2","brand":"BMW","description":"BMW 7 Series Sedan Long Wheelbase","years":"1987 - 1994","year_from":1987,"year_to":1994,"type":"Serie","production_code_count":16,"has_detail":true,"production_codes":[{"code":"GC11","model":"730i","body":"Sedan","engine":"M30","power_kw":138,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1987-12","to":"1992-02","source":"https://www.bimmerarchive.org/code/gc11.html"},{"code":"GC21","model":"730IL","body":"Sedan","engine":"M30","power_kw":138,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1988-04","to":"1994-03","source":"https://www.bimmerarchive.org/code/gc21.html"},{"code":"GC22","model":"730IL","body":"Sedan","engine":"M30","power_kw":138,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1988-07","to":"1992-06","source":"https://www.bimmerarchive.org/code/gc22.html"},{"code":"GD61","model":"730IL","body":"Sedan","engine":"M60/1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1992-06","to":"1994-03","source":"https://www.bimmerarchive.org/code/gd61.html"},{"code":"GD62","model":"730IL","body":"Sedan","engine":"M60/1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1992-06","to":"1994-03","source":"https://www.bimmerarchive.org/code/gd62.html"},{"code":"GC31","model":"735IL","body":"Sedan","engine":"M30","power_kw":155,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1987-06","to":"1992-02","source":"https://www.bimmerarchive.org/code/gc31.html"},{"code":"GC41","model":"735IL","body":"Sedan","engine":"M30","power_kw":155,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1987-06","to":"1992-07","source":"https://www.bimmerarchive.org/code/gc41.html"},{"code":"GC42","model":"735IL","body":"Sedan","engine":"M30","power_kw":155,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1988-09","to":"1992-07","source":"https://www.bimmerarchive.org/code/gc42.html"},{"code":"GC43","model":"735IL","body":"Sedan","engine":"M30","power_kw":155,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1988-01","to":"1992-07","source":"https://www.bimmerarchive.org/code/gc43.html"},{"code":"GD81","model":"740IL","body":"Sedan","engine":"M60/2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1991-10","to":"1994-03","source":"https://www.bimmerarchive.org/code/gd81.html"},{"code":"GD82","model":"740IL","body":"Sedan","engine":"M60/2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1992-03","to":"1994-03","source":"https://www.bimmerarchive.org/code/gd82.html"},{"code":"GD83","model":"740IL","body":"Sedan","engine":"M60/2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1992-06","to":"1994-03","source":"https://www.bimmerarchive.org/code/gd83.html"},{"code":"GC81","model":"750iL","body":"Sedan","engine":"M70B50","power_kw":220,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1986-11","to":"1994-03","source":"https://www.bimmerarchive.org/code/gc81.html"},{"code":"GC82","model":"750iL","body":"Sedan","engine":"M70B50","power_kw":220,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1987-07","to":"1994-03","source":"https://www.bimmerarchive.org/code/gc82.html"},{"code":"GC83","model":"750iL","body":"Sedan","engine":"M70B50","power_kw":220,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1987-06","to":"1994-03","source":"https://www.bimmerarchive.org/code/gc83.html"},{"code":"GC88","model":"750iL","body":"Sedan","engine":"M70B50","power_kw":220,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"South Africa","from":"1988-01","to":"1993-11","source":"https://www.bimmerarchive.org/code/gc88.html"}],"plants":[],"photos":[{"slug":"4414-294-bmw-750il-high-security","title":"BMW 750iL High Security (1986-1994)"},{"slug":"4411-294-bmw-750il","title":"BMW 750iL"},{"slug":"6116-369-bmw-750-il","title":"BMW 750iL"},{"slug":"4399-294-bmw-750il","title":"BMW 750iL"},{"slug":"4417-294-bmw-750il-high-security","title":"BMW 750iL High Security (1986-1994)"},{"slug":"4404-294-bmw-750il","title":"BMW 750iL"},{"slug":"6117-369-bmw-750-il","title":"BMW 750iL"},{"slug":"4403-294-bmw-750il","title":"BMW 750iL"},{"slug":"4407-294-bmw-750il","title":"BMW 750iL"},{"slug":"4416-294-bmw-750il-high-security","title":"BMW 750iL High Security (1986-1994)"},{"slug":"4409-294-bmw-750il","title":"BMW 750iL"},{"slug":"4402-294-bmw-750il","title":"BMW 750iL"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e32-2.html"}
+{
+ "code": "E32 (2)",
+ "slug": "e32-2",
+ "brand": "BMW",
+ "description": "BMW 7 Series Sedan Long Wheelbase",
+ "years": "1987 - 1994",
+ "year_from": 1987,
+ "year_to": 1994,
+ "type": "Serie",
+ "production_code_count": 16,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "GC11",
+   "model": "730i",
+   "body": "Sedan",
+   "engine": "M30",
+   "power_kw": 138,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1987-12",
+   "to": "1992-02",
+   "source": "https://www.bimmerarchive.org/code/gc11.html",
+   "engine_slug": "m30b35"
+  },
+  {
+   "code": "GC21",
+   "model": "730IL",
+   "body": "Sedan",
+   "engine": "M30",
+   "power_kw": 138,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1988-04",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gc21.html",
+   "engine_slug": "m30b35"
+  },
+  {
+   "code": "GC22",
+   "model": "730IL",
+   "body": "Sedan",
+   "engine": "M30",
+   "power_kw": 138,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1988-07",
+   "to": "1992-06",
+   "source": "https://www.bimmerarchive.org/code/gc22.html",
+   "engine_slug": "m30b35"
+  },
+  {
+   "code": "GD61",
+   "model": "730IL",
+   "body": "Sedan",
+   "engine": "M60/1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1992-06",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gd61.html",
+   "engine_slug": "m60b40"
+  },
+  {
+   "code": "GD62",
+   "model": "730IL",
+   "body": "Sedan",
+   "engine": "M60/1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1992-06",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gd62.html",
+   "engine_slug": "m60b40"
+  },
+  {
+   "code": "GC31",
+   "model": "735IL",
+   "body": "Sedan",
+   "engine": "M30",
+   "power_kw": 155,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1987-06",
+   "to": "1992-02",
+   "source": "https://www.bimmerarchive.org/code/gc31.html",
+   "engine_slug": "m30b35"
+  },
+  {
+   "code": "GC41",
+   "model": "735IL",
+   "body": "Sedan",
+   "engine": "M30",
+   "power_kw": 155,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1987-06",
+   "to": "1992-07",
+   "source": "https://www.bimmerarchive.org/code/gc41.html",
+   "engine_slug": "m30b35"
+  },
+  {
+   "code": "GC42",
+   "model": "735IL",
+   "body": "Sedan",
+   "engine": "M30",
+   "power_kw": 155,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1988-09",
+   "to": "1992-07",
+   "source": "https://www.bimmerarchive.org/code/gc42.html",
+   "engine_slug": "m30b35"
+  },
+  {
+   "code": "GC43",
+   "model": "735IL",
+   "body": "Sedan",
+   "engine": "M30",
+   "power_kw": 155,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1988-01",
+   "to": "1992-07",
+   "source": "https://www.bimmerarchive.org/code/gc43.html",
+   "engine_slug": "m30b35"
+  },
+  {
+   "code": "GD81",
+   "model": "740IL",
+   "body": "Sedan",
+   "engine": "M60/2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1991-10",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gd81.html",
+   "engine_slug": "m60b40"
+  },
+  {
+   "code": "GD82",
+   "model": "740IL",
+   "body": "Sedan",
+   "engine": "M60/2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1992-03",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gd82.html",
+   "engine_slug": "m60b40"
+  },
+  {
+   "code": "GD83",
+   "model": "740IL",
+   "body": "Sedan",
+   "engine": "M60/2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1992-06",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gd83.html",
+   "engine_slug": "m60b40"
+  },
+  {
+   "code": "GC81",
+   "model": "750iL",
+   "body": "Sedan",
+   "engine": "M70B50",
+   "power_kw": 220,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1986-11",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gc81.html",
+   "engine_slug": "m70b50"
+  },
+  {
+   "code": "GC82",
+   "model": "750iL",
+   "body": "Sedan",
+   "engine": "M70B50",
+   "power_kw": 220,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1987-07",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gc82.html",
+   "engine_slug": "m70b50"
+  },
+  {
+   "code": "GC83",
+   "model": "750iL",
+   "body": "Sedan",
+   "engine": "M70B50",
+   "power_kw": 220,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1987-06",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gc83.html",
+   "engine_slug": "m70b50"
+  },
+  {
+   "code": "GC88",
+   "model": "750iL",
+   "body": "Sedan",
+   "engine": "M70B50",
+   "power_kw": 220,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "South Africa",
+   "from": "1988-01",
+   "to": "1993-11",
+   "source": "https://www.bimmerarchive.org/code/gc88.html",
+   "engine_slug": "m70b50"
+  }
+ ],
+ "plants": [],
+ "photos": [
+  {
+   "slug": "4414-294-bmw-750il-high-security",
+   "title": "BMW 750iL High Security (1986-1994)"
+  },
+  {
+   "slug": "4411-294-bmw-750il",
+   "title": "BMW 750iL"
+  },
+  {
+   "slug": "6116-369-bmw-750-il",
+   "title": "BMW 750iL"
+  },
+  {
+   "slug": "4399-294-bmw-750il",
+   "title": "BMW 750iL"
+  },
+  {
+   "slug": "4417-294-bmw-750il-high-security",
+   "title": "BMW 750iL High Security (1986-1994)"
+  },
+  {
+   "slug": "4404-294-bmw-750il",
+   "title": "BMW 750iL"
+  },
+  {
+   "slug": "6117-369-bmw-750-il",
+   "title": "BMW 750iL"
+  },
+  {
+   "slug": "4403-294-bmw-750il",
+   "title": "BMW 750iL"
+  },
+  {
+   "slug": "4407-294-bmw-750il",
+   "title": "BMW 750iL"
+  },
+  {
+   "slug": "4416-294-bmw-750il-high-security",
+   "title": "BMW 750iL High Security (1986-1994)"
+  },
+  {
+   "slug": "4409-294-bmw-750il",
+   "title": "BMW 750iL"
+  },
+  {
+   "slug": "4402-294-bmw-750il",
+   "title": "BMW 750iL"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e32-2.html"
+}

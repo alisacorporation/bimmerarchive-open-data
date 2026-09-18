@@ -1,1 +1,24 @@
-{"code":"DL02","count":1,"results":[{"code":"DL02","model":"525d","body":"Sedan","engine":"M57D25O0","power_kw":120,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2000-09","to":"2003-07","source":"https://www.bimmerarchive.org/code/dl02.html","chassis":"E39","chassis_slug":"e39","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "DL02",
+ "count": 1,
+ "results": [
+  {
+   "code": "DL02",
+   "model": "525d",
+   "body": "Sedan",
+   "engine": "M57D25O0",
+   "power_kw": 120,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2000-09",
+   "to": "2003-07",
+   "source": "https://www.bimmerarchive.org/code/dl02.html",
+   "chassis": "E39",
+   "chassis_slug": "e39",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m57d25o0"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "code": "M60B40",
+ "slug": "m60b40",
+ "family": "M60",
+ "years": "1992 - 1996",
+ "year_from": 1992,
+ "year_to": 1996,
+ "displacement_cc": 3982,
+ "power_kw": 210,
+ "power_ps": 286,
+ "power_rpm": "5800",
+ "torque_nm": 400,
+ "torque_rpm": "4500",
+ "has_detail": false,
+ "construction": "8 Cylinder, 32 Valves, V",
+ "cylinders": 8,
+ "valves": 32,
+ "compression_ratio": "10.0:1",
+ "bore_mm": 89.0,
+ "stroke_mm": 80.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m60b40.html"
+}

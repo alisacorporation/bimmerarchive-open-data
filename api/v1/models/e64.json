@@ -1,1 +1,180 @@
-{"code":"E64","slug":"e64","brand":"BMW","description":"BMW 6 Series Convertible","years":"2002 - 2007","year_from":2002,"year_to":2007,"type":"Serie","production_code_count":8,"has_detail":true,"production_codes":[{"code":"EK31","model":"630i","body":"Convertible","engine":"N52B30O0","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2004-03","to":"2007-07","source":"https://www.bimmerarchive.org/code/ek31.html"},{"code":"EK32","model":"630i","body":"Convertible","engine":"N52B30O0","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2004-04","to":"2007-07","source":"https://www.bimmerarchive.org/code/ek32.html"},{"code":"EK71","model":"645Ci","body":"Convertible","engine":"N62B44O0","power_kw":245,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2002-09","to":"2005-08","source":"https://www.bimmerarchive.org/code/ek71.html"},{"code":"EK72","model":"645Ci","body":"Convertible","engine":"N62B44O0","power_kw":245,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2002-09","to":"2005-08","source":"https://www.bimmerarchive.org/code/ek72.html"},{"code":"EK73","model":"645Ci","body":"Convertible","engine":"N62B44O0","power_kw":245,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2002-09","to":"2005-08","source":"https://www.bimmerarchive.org/code/ek73.html"},{"code":"EK11","model":"650i","body":"Convertible","engine":"N62B48O1","power_kw":270,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2005-02","to":"2007-07","source":"https://www.bimmerarchive.org/code/ek11.html"},{"code":"EK12","model":"650i","body":"Convertible","engine":"N62B48O1","power_kw":270,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2005-04","to":"2007-07","source":"https://www.bimmerarchive.org/code/ek12.html"},{"code":"EK13","model":"650i","body":"Convertible","engine":"N62B48O1","power_kw":270,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2005-02","to":"2007-07","source":"https://www.bimmerarchive.org/code/ek13.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"97-17-bmw-m6-cabrio","title":"BMW M6 Cabrio"},{"slug":"94-17-bmw-m6-cabrio","title":"BMW M6 Cabrio"},{"slug":"99-17-bmw-m6-cabrio","title":"BMW M6 Cabrio"},{"slug":"519-61-bmw-m6-cabrio","title":"BMW M6 Cabrio"},{"slug":"98-17-bmw-m6-cabrio","title":"BMW M6 Cabrio"},{"slug":"95-17-bmw-m6-cabrio","title":"BMW M6 Cabrio"},{"slug":"93-17-bmw-m6-cabrio","title":"BMW M6 Cabrio"},{"slug":"520-61-bmw-m6-cabrio","title":"BMW M6 Cabrio"},{"slug":"100-17-bmw-m6-cabrio-innenraum","title":"BMW M6 Cabrio Innenraum"},{"slug":"1228-121-ausloesen-der-pyrotechnik-des-bmw-6er-cabrios","title":"Auslösen der Pyrotechnik des BMW 6er Cabrios"},{"slug":"96-17-bmw-m6-cabrio","title":"BMW M6 Cabrio"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e64.html"}
+{
+ "code": "E64",
+ "slug": "e64",
+ "brand": "BMW",
+ "description": "BMW 6 Series Convertible",
+ "years": "2002 - 2007",
+ "year_from": 2002,
+ "year_to": 2007,
+ "type": "Serie",
+ "production_code_count": 8,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "EK31",
+   "model": "630i",
+   "body": "Convertible",
+   "engine": "N52B30O0",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2004-03",
+   "to": "2007-07",
+   "source": "https://www.bimmerarchive.org/code/ek31.html",
+   "engine_slug": "n52b30o0-195"
+  },
+  {
+   "code": "EK32",
+   "model": "630i",
+   "body": "Convertible",
+   "engine": "N52B30O0",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2004-04",
+   "to": "2007-07",
+   "source": "https://www.bimmerarchive.org/code/ek32.html",
+   "engine_slug": "n52b30o0-195"
+  },
+  {
+   "code": "EK71",
+   "model": "645Ci",
+   "body": "Convertible",
+   "engine": "N62B44O0",
+   "power_kw": 245,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2002-09",
+   "to": "2005-08",
+   "source": "https://www.bimmerarchive.org/code/ek71.html",
+   "engine_slug": "n62b44o0"
+  },
+  {
+   "code": "EK72",
+   "model": "645Ci",
+   "body": "Convertible",
+   "engine": "N62B44O0",
+   "power_kw": 245,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2002-09",
+   "to": "2005-08",
+   "source": "https://www.bimmerarchive.org/code/ek72.html",
+   "engine_slug": "n62b44o0"
+  },
+  {
+   "code": "EK73",
+   "model": "645Ci",
+   "body": "Convertible",
+   "engine": "N62B44O0",
+   "power_kw": 245,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2002-09",
+   "to": "2005-08",
+   "source": "https://www.bimmerarchive.org/code/ek73.html",
+   "engine_slug": "n62b44o0"
+  },
+  {
+   "code": "EK11",
+   "model": "650i",
+   "body": "Convertible",
+   "engine": "N62B48O1",
+   "power_kw": 270,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2005-02",
+   "to": "2007-07",
+   "source": "https://www.bimmerarchive.org/code/ek11.html",
+   "engine_slug": "n62b48o1"
+  },
+  {
+   "code": "EK12",
+   "model": "650i",
+   "body": "Convertible",
+   "engine": "N62B48O1",
+   "power_kw": 270,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2005-04",
+   "to": "2007-07",
+   "source": "https://www.bimmerarchive.org/code/ek12.html",
+   "engine_slug": "n62b48o1"
+  },
+  {
+   "code": "EK13",
+   "model": "650i",
+   "body": "Convertible",
+   "engine": "N62B48O1",
+   "power_kw": 270,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2005-02",
+   "to": "2007-07",
+   "source": "https://www.bimmerarchive.org/code/ek13.html",
+   "engine_slug": "n62b48o1"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "97-17-bmw-m6-cabrio",
+   "title": "BMW M6 Cabrio"
+  },
+  {
+   "slug": "94-17-bmw-m6-cabrio",
+   "title": "BMW M6 Cabrio"
+  },
+  {
+   "slug": "99-17-bmw-m6-cabrio",
+   "title": "BMW M6 Cabrio"
+  },
+  {
+   "slug": "519-61-bmw-m6-cabrio",
+   "title": "BMW M6 Cabrio"
+  },
+  {
+   "slug": "98-17-bmw-m6-cabrio",
+   "title": "BMW M6 Cabrio"
+  },
+  {
+   "slug": "95-17-bmw-m6-cabrio",
+   "title": "BMW M6 Cabrio"
+  },
+  {
+   "slug": "93-17-bmw-m6-cabrio",
+   "title": "BMW M6 Cabrio"
+  },
+  {
+   "slug": "520-61-bmw-m6-cabrio",
+   "title": "BMW M6 Cabrio"
+  },
+  {
+   "slug": "100-17-bmw-m6-cabrio-innenraum",
+   "title": "BMW M6 Cabrio Innenraum"
+  },
+  {
+   "slug": "1228-121-ausloesen-der-pyrotechnik-des-bmw-6er-cabrios",
+   "title": "Ausl\u00f6sen der Pyrotechnik des BMW 6er Cabrios"
+  },
+  {
+   "slug": "96-17-bmw-m6-cabrio",
+   "title": "BMW M6 Cabrio"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e64.html"
+}

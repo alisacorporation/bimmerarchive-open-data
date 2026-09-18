@@ -1,1 +1,24 @@
-{"code":"WX34","count":1,"results":[{"code":"WX34","model":"X3 xDrive20i","body":"Sports Activity Vehicle","engine":"N20B20U0","power_kw":135,"drivetrain":"All Wheel-Drive","steering":"right","region":"Thailand","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/wx34.html","chassis":"F25","chassis_slug":"f25","brand":"BMW","chassis_description":"BMW X3 - Sports Activity Vehicle"}]}
+{
+ "code": "WX34",
+ "count": 1,
+ "results": [
+  {
+   "code": "WX34",
+   "model": "X3 xDrive20i",
+   "body": "Sports Activity Vehicle",
+   "engine": "N20B20U0",
+   "power_kw": 135,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Thailand",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/wx34.html",
+   "chassis": "F25",
+   "chassis_slug": "f25",
+   "brand": "BMW",
+   "chassis_description": "BMW X3 - Sports Activity Vehicle",
+   "engine_slug": "n20b20u0-18i"
+  }
+ ]
+}

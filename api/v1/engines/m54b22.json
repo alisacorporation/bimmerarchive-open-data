@@ -1,0 +1,23 @@
+{
+ "code": "M54B22",
+ "slug": "m54b22",
+ "family": "M54",
+ "years": "2000 - 2006",
+ "year_from": 2000,
+ "year_to": 2006,
+ "displacement_cc": 2171,
+ "power_kw": 125,
+ "power_ps": 170,
+ "power_rpm": "6100",
+ "torque_nm": 210,
+ "torque_rpm": "3500",
+ "has_detail": false,
+ "construction": "6 Cylinder, 24 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 24,
+ "compression_ratio": "10.8:1",
+ "bore_mm": 80.0,
+ "stroke_mm": 72.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m54b22.html"
+}

@@ -1,1 +1,130 @@
-{"code":"F49","slug":"f49","brand":"BMW","description":"BMW X1 - Long Wheelbase","years":"2016 -","year_from":2016,"year_to":null,"type":"Serie","production_code_count":5,"has_detail":true,"production_codes":[{"code":"HZ11","model":"X1 sDrive18Li","body":"Sports Activity Vehicle","engine":"B38M","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hz11.html"},{"code":"HZ31","model":"X1 sDrive20Li","body":"Sports Activity Vehicle","engine":"B48M","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hz31.html"},{"code":"HZ51","model":"X1 xDrive20Li","body":"Sports Activity Vehicle","engine":"B48M","power_kw":141,"drivetrain":"All Wheel-Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hz51.html"},{"code":"HY11","model":"X1 xDrive23e","body":"Sports Activity Vehicle","engine":"XB2H","power_kw":170,"drivetrain":"All Wheel-Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hy11.html"},{"code":"HZ71","model":"X1 xDrive25Li","body":"Sports Activity Vehicle","engine":"B48O","power_kw":170,"drivetrain":"All Wheel-Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hz71.html"}],"plants":[{"slug":"bmw-plant-shenyang","name":"BMW Brilliance Plant Dadong"}],"photos":[{"slug":"6134-372-bmw-x1-x-drive25-li-long-wheelbase-china","title":"BMW X1 xDrive25Li"},{"slug":"6137-372-bmw-x1-x-drive25-li-long-wheelbase-china","title":"BMW X1 xDrive25Li"},{"slug":"6135-372-bmw-x1-x-drive25-li-long-wheelbase-china","title":"BMW X1 xDrive25Li"},{"slug":"11132-372-bmw-x1-lwb","title":"BMW X1"},{"slug":"11130-372-bmw-x1-xdrive25le","title":"BMW X1 xDrive25Le"},{"slug":"6138-372-bmw-x1-x-drive25-li-long-wheelbase-china","title":"BMW X1 xDrive25Li"},{"slug":"6136-372-bmw-x1-x-drive25-li-long-wheelbase-china","title":"BMW X1 xDrive25Li"},{"slug":"11131-372-bmw-x1-xdrive25le","title":"BMW X1 xDrive25Le"},{"slug":"6133-372-bmw-x1-x-drive25-li-long-wheelbase-china","title":"BMW X1 xDrive25Li"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/f49.html"}
+{
+ "code": "F49",
+ "slug": "f49",
+ "brand": "BMW",
+ "description": "BMW X1 - Long Wheelbase",
+ "years": "2016 -",
+ "year_from": 2016,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 5,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "HZ11",
+   "model": "X1 sDrive18Li",
+   "body": "Sports Activity Vehicle",
+   "engine": "B38M",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hz11.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "HZ31",
+   "model": "X1 sDrive20Li",
+   "body": "Sports Activity Vehicle",
+   "engine": "B48M",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hz31.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "HZ51",
+   "model": "X1 xDrive20Li",
+   "body": "Sports Activity Vehicle",
+   "engine": "B48M",
+   "power_kw": 141,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hz51.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "HY11",
+   "model": "X1 xDrive23e",
+   "body": "Sports Activity Vehicle",
+   "engine": "XB2H",
+   "power_kw": 170,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hy11.html",
+   "engine_slug": null
+  },
+  {
+   "code": "HZ71",
+   "model": "X1 xDrive25Li",
+   "body": "Sports Activity Vehicle",
+   "engine": "B48O",
+   "power_kw": 170,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hz71.html",
+   "engine_slug": "b48a20o0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-shenyang",
+   "name": "BMW Brilliance Plant Dadong"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "6134-372-bmw-x1-x-drive25-li-long-wheelbase-china",
+   "title": "BMW X1 xDrive25Li"
+  },
+  {
+   "slug": "6137-372-bmw-x1-x-drive25-li-long-wheelbase-china",
+   "title": "BMW X1 xDrive25Li"
+  },
+  {
+   "slug": "6135-372-bmw-x1-x-drive25-li-long-wheelbase-china",
+   "title": "BMW X1 xDrive25Li"
+  },
+  {
+   "slug": "11132-372-bmw-x1-lwb",
+   "title": "BMW X1"
+  },
+  {
+   "slug": "11130-372-bmw-x1-xdrive25le",
+   "title": "BMW X1 xDrive25Le"
+  },
+  {
+   "slug": "6138-372-bmw-x1-x-drive25-li-long-wheelbase-china",
+   "title": "BMW X1 xDrive25Li"
+  },
+  {
+   "slug": "6136-372-bmw-x1-x-drive25-li-long-wheelbase-china",
+   "title": "BMW X1 xDrive25Li"
+  },
+  {
+   "slug": "11131-372-bmw-x1-xdrive25le",
+   "title": "BMW X1 xDrive25Le"
+  },
+  {
+   "slug": "6133-372-bmw-x1-x-drive25-li-long-wheelbase-china",
+   "title": "BMW X1 xDrive25Li"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/f49.html"
+}

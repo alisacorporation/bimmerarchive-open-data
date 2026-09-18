@@ -1,1 +1,24 @@
-{"code":"PB12","count":1,"results":[{"code":"PB12","model":"X3 2.0d","body":"Sports Activity Vehicle","engine":"M47D20O2","power_kw":110,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"2003-11","to":"2006-07","source":"https://www.bimmerarchive.org/code/pb12.html","chassis":"E83","chassis_slug":"e83","brand":"BMW","chassis_description":"BMW X3 - Sports Activity Vehicle"}]}
+{
+ "code": "PB12",
+ "count": 1,
+ "results": [
+  {
+   "code": "PB12",
+   "model": "X3 2.0d",
+   "body": "Sports Activity Vehicle",
+   "engine": "M47D20O2",
+   "power_kw": 110,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2003-11",
+   "to": "2006-07",
+   "source": "https://www.bimmerarchive.org/code/pb12.html",
+   "chassis": "E83",
+   "chassis_slug": "e83",
+   "brand": "BMW",
+   "chassis_description": "BMW X3 - Sports Activity Vehicle",
+   "engine_slug": "m47d20o2-120"
+  }
+ ]
+}

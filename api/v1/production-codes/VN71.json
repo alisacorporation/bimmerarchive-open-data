@@ -1,1 +1,24 @@
-{"code":"VN71","count":1,"results":[{"code":"VN71","model":"X1 sDrive18d","body":"Sports Activity Vehicle","engine":"N47D20U1","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/vn71.html","chassis":"E84","chassis_slug":"e84","brand":"BMW","chassis_description":"BMW X1 - Sports Activity Vehicle"}]}
+{
+ "code": "VN71",
+ "count": 1,
+ "results": [
+  {
+   "code": "VN71",
+   "model": "X1 sDrive18d",
+   "body": "Sports Activity Vehicle",
+   "engine": "N47D20U1",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/vn71.html",
+   "chassis": "E84",
+   "chassis_slug": "e84",
+   "brand": "BMW",
+   "chassis_description": "BMW X1 - Sports Activity Vehicle",
+   "engine_slug": "n47d20u1"
+  }
+ ]
+}

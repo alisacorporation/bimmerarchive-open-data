@@ -1,1 +1,24 @@
-{"code":"SY53","count":1,"results":[{"code":"SY53","model":"jc","body":"Roadster","engine":"N14","power_kw":155,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sy53.html","chassis":"R59 (JCW)","chassis_slug":"r59-jcw","brand":"MINI","chassis_description":"MINI Roadster - John Cooper Works"}]}
+{
+ "code": "SY53",
+ "count": 1,
+ "results": [
+  {
+   "code": "SY53",
+   "model": "jc",
+   "body": "Roadster",
+   "engine": "N14",
+   "power_kw": 155,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sy53.html",
+   "chassis": "R59 (JCW)",
+   "chassis_slug": "r59-jcw",
+   "brand": "MINI",
+   "chassis_description": "MINI Roadster - John Cooper Works",
+   "engine_slug": "n14b16"
+  }
+ ]
+}

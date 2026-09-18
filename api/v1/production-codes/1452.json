@@ -1,1 +1,24 @@
-{"code":"1452","count":1,"results":[{"code":"1452","model":"320I","body":"Sedan","engine":"M20","power_kw":95,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1987-10","to":"1990-11","source":"https://www.bimmerarchive.org/code/1452.html","chassis":"E30","chassis_slug":"e30","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "1452",
+ "count": 1,
+ "results": [
+  {
+   "code": "1452",
+   "model": "320I",
+   "body": "Sedan",
+   "engine": "M20",
+   "power_kw": 95,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1987-10",
+   "to": "1990-11",
+   "source": "https://www.bimmerarchive.org/code/1452.html",
+   "chassis": "E30",
+   "chassis_slug": "e30",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m20b25"
+  }
+ ]
+}

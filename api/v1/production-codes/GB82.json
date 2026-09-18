@@ -1,1 +1,24 @@
-{"code":"GB82","count":1,"results":[{"code":"GB82","model":"750i","body":"Sedan","engine":"M70B50","power_kw":220,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1987-11","to":"1994-02","source":"https://www.bimmerarchive.org/code/gb82.html","chassis":"E32","chassis_slug":"e32","brand":"BMW","chassis_description":"BMW 7 Series Sedan"}]}
+{
+ "code": "GB82",
+ "count": 1,
+ "results": [
+  {
+   "code": "GB82",
+   "model": "750i",
+   "body": "Sedan",
+   "engine": "M70B50",
+   "power_kw": 220,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1987-11",
+   "to": "1994-02",
+   "source": "https://www.bimmerarchive.org/code/gb82.html",
+   "chassis": "E32",
+   "chassis_slug": "e32",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan",
+   "engine_slug": "m70b50"
+  }
+ ]
+}

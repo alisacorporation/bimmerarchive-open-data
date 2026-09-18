@@ -1,1 +1,24 @@
-{"code":"BT31","count":1,"results":[{"code":"BT31","model":"Z4 2.5i","body":"Roadster","engine":"M54","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2002-04","to":"2005-11","source":"https://www.bimmerarchive.org/code/bt31.html","chassis":"E85","chassis_slug":"e85","brand":"BMW","chassis_description":"BMW Z4 Roadster"}]}
+{
+ "code": "BT31",
+ "count": 1,
+ "results": [
+  {
+   "code": "BT31",
+   "model": "Z4 2.5i",
+   "body": "Roadster",
+   "engine": "M54",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2002-04",
+   "to": "2005-11",
+   "source": "https://www.bimmerarchive.org/code/bt31.html",
+   "chassis": "E85",
+   "chassis_slug": "e85",
+   "brand": "BMW",
+   "chassis_description": "BMW Z4 Roadster",
+   "engine_slug": "m54b30"
+  }
+ ]
+}

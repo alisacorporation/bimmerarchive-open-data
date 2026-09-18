@@ -1,1 +1,165 @@
-{"code":"F06 (M6)","slug":"f06-m6","brand":"BMW","description":"BMW M6 Gran Coupé","years":"2012 -","year_from":2012,"year_to":null,"type":"Serie","production_code_count":6,"has_detail":true,"production_codes":[{"code":"6C91","model":"M6","body":"Coupe","engine":"S63B44T0","power_kw":412,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6c91.html"},{"code":"6C92","model":"M6","body":"Coupe","engine":"S63B44T0","power_kw":412,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6c92.html"},{"code":"6C93","model":"M6","body":"Coupe","engine":"S63B44T0","power_kw":412,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6c93.html"},{"code":"6E91","model":"M6","body":"Coupe","engine":"S63B44T0","power_kw":412,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6e91.html"},{"code":"6E92","model":"M6","body":"Coupe","engine":"S63B44T0","power_kw":412,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6e92.html"},{"code":"6E93","model":"M6","body":"Coupe","engine":"S63B44T0","power_kw":412,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6e93.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"3475-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3464-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3459-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3474-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3454-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3465-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3470-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3473-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3468-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3457-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3472-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"},{"slug":"3467-257-bmw-m6-gran-coupe","title":"BMW M6 Gran Coupe"}],"articles":[{"slug":"2013-04-19-new-information-bmw-m6-gran-coupe","title":"New Information about the BMW M6 Gran Coupé (2013-04-19)"},{"slug":"2012-12-12-a-supreme-combination-of-high-performance-and-luxury-bmw-m6-gran-coupe","title":"The BMW M6 Gran Coupe (2012-12-12)"}],"source":"https://www.bimmerarchive.org/e-code/f06-m6.html"}
+{
+ "code": "F06 (M6)",
+ "slug": "f06-m6",
+ "brand": "BMW",
+ "description": "BMW M6 Gran Coup\u00e9",
+ "years": "2012 -",
+ "year_from": 2012,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 6,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "6C91",
+   "model": "M6",
+   "body": "Coupe",
+   "engine": "S63B44T0",
+   "power_kw": 412,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6c91.html",
+   "engine_slug": "s63b44t0"
+  },
+  {
+   "code": "6C92",
+   "model": "M6",
+   "body": "Coupe",
+   "engine": "S63B44T0",
+   "power_kw": 412,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6c92.html",
+   "engine_slug": "s63b44t0"
+  },
+  {
+   "code": "6C93",
+   "model": "M6",
+   "body": "Coupe",
+   "engine": "S63B44T0",
+   "power_kw": 412,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6c93.html",
+   "engine_slug": "s63b44t0"
+  },
+  {
+   "code": "6E91",
+   "model": "M6",
+   "body": "Coupe",
+   "engine": "S63B44T0",
+   "power_kw": 412,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6e91.html",
+   "engine_slug": "s63b44t0"
+  },
+  {
+   "code": "6E92",
+   "model": "M6",
+   "body": "Coupe",
+   "engine": "S63B44T0",
+   "power_kw": 412,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6e92.html",
+   "engine_slug": "s63b44t0"
+  },
+  {
+   "code": "6E93",
+   "model": "M6",
+   "body": "Coupe",
+   "engine": "S63B44T0",
+   "power_kw": 412,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6e93.html",
+   "engine_slug": "s63b44t0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "3475-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3464-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3459-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3474-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3454-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3465-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3470-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3473-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3468-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3457-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3472-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  },
+  {
+   "slug": "3467-257-bmw-m6-gran-coupe",
+   "title": "BMW M6 Gran Coupe"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2013-04-19-new-information-bmw-m6-gran-coupe",
+   "title": "New Information about the BMW M6 Gran Coup\u00e9 (2013-04-19)"
+  },
+  {
+   "slug": "2012-12-12-a-supreme-combination-of-high-performance-and-luxury-bmw-m6-gran-coupe",
+   "title": "The BMW M6 Gran Coupe (2012-12-12)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f06-m6.html"
+}

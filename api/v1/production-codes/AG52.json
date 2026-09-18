@@ -1,1 +1,24 @@
-{"code":"AG52","count":1,"results":[{"code":"AG52","model":"325I","body":"Touring","engine":"M20","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1988-01","to":"1993-04","source":"https://www.bimmerarchive.org/code/ag52.html","chassis":"E30 (5)","chassis_slug":"e30-5","brand":"BMW","chassis_description":"BMW 3 Series Touring"}]}
+{
+ "code": "AG52",
+ "count": 1,
+ "results": [
+  {
+   "code": "AG52",
+   "model": "325I",
+   "body": "Touring",
+   "engine": "M20",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1988-01",
+   "to": "1993-04",
+   "source": "https://www.bimmerarchive.org/code/ag52.html",
+   "chassis": "E30 (5)",
+   "chassis_slug": "e30-5",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring",
+   "engine_slug": "m20b25"
+  }
+ ]
+}

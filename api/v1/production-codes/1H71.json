@@ -1,1 +1,24 @@
-{"code":"1H71","count":1,"results":[{"code":"1H71","model":"225d","body":"Coupe","engine":"N47D20T1","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/1h71.html","chassis":"F22","chassis_slug":"f22","brand":"BMW","chassis_description":"BMW 2 Series Coupe"}]}
+{
+ "code": "1H71",
+ "count": 1,
+ "results": [
+  {
+   "code": "1H71",
+   "model": "225d",
+   "body": "Coupe",
+   "engine": "N47D20T1",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/1h71.html",
+   "chassis": "F22",
+   "chassis_slug": "f22",
+   "brand": "BMW",
+   "chassis_description": "BMW 2 Series Coupe",
+   "engine_slug": "n47d20t1"
+  }
+ ]
+}

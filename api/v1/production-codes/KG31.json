@@ -1,1 +1,24 @@
-{"code":"KG31","count":1,"results":[{"code":"KG31","model":"330i","body":"Coupe","engine":"N52B30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2009-09","to":"2009-12","source":"https://www.bimmerarchive.org/code/kg31.html","chassis":"E92 (MUE)","chassis_slug":"e92n","brand":"BMW","chassis_description":"BMW 3 Series Coupe - LCI"}]}
+{
+ "code": "KG31",
+ "count": 1,
+ "results": [
+  {
+   "code": "KG31",
+   "model": "330i",
+   "body": "Coupe",
+   "engine": "N52B30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2009-09",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/kg31.html",
+   "chassis": "E92 (MUE)",
+   "chassis_slug": "e92n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe - LCI",
+   "engine_slug": "n52b30o1"
+  }
+ ]
+}

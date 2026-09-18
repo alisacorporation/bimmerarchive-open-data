@@ -1,1 +1,24 @@
-{"code":"4D51","count":1,"results":[{"code":"4D51","model":"418d","body":"Coupe","engine":"N47D20U1","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/4d51.html","chassis":"F36","chassis_slug":"f36","brand":"BMW","chassis_description":"BMW 4 Series Gran Coupe"}]}
+{
+ "code": "4D51",
+ "count": 1,
+ "results": [
+  {
+   "code": "4D51",
+   "model": "418d",
+   "body": "Coupe",
+   "engine": "N47D20U1",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/4d51.html",
+   "chassis": "F36",
+   "chassis_slug": "f36",
+   "brand": "BMW",
+   "chassis_description": "BMW 4 Series Gran Coupe",
+   "engine_slug": "n47d20u1"
+  }
+ ]
+}

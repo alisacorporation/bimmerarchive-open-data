@@ -1,0 +1,23 @@
+{
+ "code": "S50B30GT",
+ "slug": "s50b30gt",
+ "family": "S50",
+ "years": "1994 - 1995",
+ "year_from": 1994,
+ "year_to": 1995,
+ "displacement_cc": 2990,
+ "power_kw": 217,
+ "power_ps": 295,
+ "power_rpm": "7000",
+ "torque_nm": 323,
+ "torque_rpm": "3900",
+ "has_detail": false,
+ "construction": "6 Cylinder, 24 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 24,
+ "compression_ratio": "10.8:1",
+ "bore_mm": 86.0,
+ "stroke_mm": 85.8,
+ "fuel": "Super Plus bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/s50b30gt.html"
+}

@@ -1,1 +1,70 @@
-{"code":"E64 (M6)","slug":"e64-m6","brand":"BMW","description":"BMW M6 Convertible","years":"2006 - 2010","year_from":2006,"year_to":2010,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"EK91","model":"M6","body":"Convertible","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2005-07","to":"2009-12","source":"https://www.bimmerarchive.org/code/ek91.html"},{"code":"EK92","model":"M6","body":"Convertible","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2005-07","to":"2009-10","source":"https://www.bimmerarchive.org/code/ek92.html"},{"code":"EK93","model":"M6","body":"Convertible","engine":"S85B50","power_kw":373,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2005-07","to":"2010-02","source":"https://www.bimmerarchive.org/code/ek93.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"871-87-bmw-m6-cabrio-und-bmw-m5-touring","title":"BMW M6 Cabrio und BMW M5 Touring"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e64-m6.html"}
+{
+ "code": "E64 (M6)",
+ "slug": "e64-m6",
+ "brand": "BMW",
+ "description": "BMW M6 Convertible",
+ "years": "2006 - 2010",
+ "year_from": 2006,
+ "year_to": 2010,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "EK91",
+   "model": "M6",
+   "body": "Convertible",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2005-07",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/ek91.html",
+   "engine_slug": "s85b50"
+  },
+  {
+   "code": "EK92",
+   "model": "M6",
+   "body": "Convertible",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2005-07",
+   "to": "2009-10",
+   "source": "https://www.bimmerarchive.org/code/ek92.html",
+   "engine_slug": "s85b50"
+  },
+  {
+   "code": "EK93",
+   "model": "M6",
+   "body": "Convertible",
+   "engine": "S85B50",
+   "power_kw": 373,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2005-07",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ek93.html",
+   "engine_slug": "s85b50"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "871-87-bmw-m6-cabrio-und-bmw-m5-touring",
+   "title": "BMW M6 Cabrio und BMW M5 Touring"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e64-m6.html"
+}

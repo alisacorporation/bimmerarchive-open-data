@@ -1,1 +1,24 @@
-{"code":"BJ22","count":1,"results":[{"code":"BJ22","model":"320i","body":"Convertible","engine":"M50","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1994-03","to":"1995-01","source":"https://www.bimmerarchive.org/code/bj22.html","chassis":"E36 (C)","chassis_slug":"e36-2c","brand":"BMW","chassis_description":"BMW 3 Series Convertible"}]}
+{
+ "code": "BJ22",
+ "count": 1,
+ "results": [
+  {
+   "code": "BJ22",
+   "model": "320i",
+   "body": "Convertible",
+   "engine": "M50",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1994-03",
+   "to": "1995-01",
+   "source": "https://www.bimmerarchive.org/code/bj22.html",
+   "chassis": "E36 (C)",
+   "chassis_slug": "e36-2c",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible",
+   "engine_slug": "m50b20"
+  }
+ ]
+}

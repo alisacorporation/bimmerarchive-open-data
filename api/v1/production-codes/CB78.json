@@ -1,1 +1,24 @@
-{"code":"CB78","count":1,"results":[{"code":"CB78","model":"323I","body":"Sedan","engine":"M52","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"South Africa","from":"1996-04","to":"1998-09","source":"https://www.bimmerarchive.org/code/cb78.html","chassis":"E36 (4)","chassis_slug":"e36-4","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "CB78",
+ "count": 1,
+ "results": [
+  {
+   "code": "CB78",
+   "model": "323I",
+   "body": "Sedan",
+   "engine": "M52",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "South Africa",
+   "from": "1996-04",
+   "to": "1998-09",
+   "source": "https://www.bimmerarchive.org/code/cb78.html",
+   "chassis": "E36 (4)",
+   "chassis_slug": "e36-4",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m52b28"
+  }
+ ]
+}

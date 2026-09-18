@@ -1,1 +1,24 @@
-{"code":"EZ72","count":1,"results":[{"code":"EZ72","model":"318ti","body":"Compact","engine":"N46","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2003-10","to":"2004-12","source":"https://www.bimmerarchive.org/code/ez72.html","chassis":"E46 (5)","chassis_slug":"e46-5","brand":"BMW","chassis_description":"BMW 3 Series Compact"}]}
+{
+ "code": "EZ72",
+ "count": 1,
+ "results": [
+  {
+   "code": "EZ72",
+   "model": "318ti",
+   "body": "Compact",
+   "engine": "N46",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2003-10",
+   "to": "2004-12",
+   "source": "https://www.bimmerarchive.org/code/ez72.html",
+   "chassis": "E46 (5)",
+   "chassis_slug": "e46-5",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Compact",
+   "engine_slug": "n46b20o1"
+  }
+ ]
+}

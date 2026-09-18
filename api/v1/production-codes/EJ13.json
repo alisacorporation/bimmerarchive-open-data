@@ -1,1 +1,24 @@
-{"code":"EJ13","count":1,"results":[{"code":"EJ13","model":"Z8","body":"Roadster","engine":"S62","power_kw":294,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1999-01","to":"2003-06","source":"https://www.bimmerarchive.org/code/ej13.html","chassis":"E52","chassis_slug":"e52","brand":"BMW","chassis_description":"BMW Z8 Roadster"}]}
+{
+ "code": "EJ13",
+ "count": 1,
+ "results": [
+  {
+   "code": "EJ13",
+   "model": "Z8",
+   "body": "Roadster",
+   "engine": "S62",
+   "power_kw": 294,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1999-01",
+   "to": "2003-06",
+   "source": "https://www.bimmerarchive.org/code/ej13.html",
+   "chassis": "E52",
+   "chassis_slug": "e52",
+   "brand": "BMW",
+   "chassis_description": "BMW Z8 Roadster",
+   "engine_slug": "s62b49"
+  }
+ ]
+}

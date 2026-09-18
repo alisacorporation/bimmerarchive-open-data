@@ -1,1 +1,24 @@
-{"code":"CK31","count":1,"results":[{"code":"CK31","model":"Z3","body":"Coupe","engine":"M52","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1997-05","to":"1998-08","source":"https://www.bimmerarchive.org/code/ck31.html","chassis":"E36 (7C)","chassis_slug":"e36-7c","brand":"BMW","chassis_description":"BMW Z3 Coupe and M Coupe"}]}
+{
+ "code": "CK31",
+ "count": 1,
+ "results": [
+  {
+   "code": "CK31",
+   "model": "Z3",
+   "body": "Coupe",
+   "engine": "M52",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1997-05",
+   "to": "1998-08",
+   "source": "https://www.bimmerarchive.org/code/ck31.html",
+   "chassis": "E36 (7C)",
+   "chassis_slug": "e36-7c",
+   "brand": "BMW",
+   "chassis_description": "BMW Z3 Coupe and M Coupe",
+   "engine_slug": "m52b28"
+  }
+ ]
+}

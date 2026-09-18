@@ -1,1 +1,389 @@
-{"code":"F48","slug":"f48","brand":"BMW","description":"BMW X1","years":"2015 - 2019","year_from":2015,"year_to":2019,"type":"Serie","production_code_count":22,"has_detail":true,"production_codes":[{"code":"HT51","model":"X1 Sdrive16d","body":"Sports Activity Vehicle","engine":"B37U","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ht51.html"},{"code":"HT52","model":"X1 Sdrive16d","body":"Sports Activity Vehicle","engine":"B37U","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ht52.html"},{"code":"HT71","model":"X1 sDrive18d","body":"Sports Activity Vehicle","engine":"B47C20U0","power_kw":110,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ht71.html"},{"code":"HT72","model":"X1 Sdrive18d","body":"Sports Activity Vehicle","engine":"B47U","power_kw":110,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ht72.html"},{"code":"HS11","model":"X1 Sdrive18i","body":"Sports Activity Vehicle","engine":"B38M","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hs11.html"},{"code":"HS12","model":"X1 Sdrive18i","body":"Sports Activity Vehicle","engine":"B38M","power_kw":100,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hs12.html"},{"code":"HU11","model":"X1 sDrive20d","body":"Sports Activity Vehicle","engine":"B47O","power_kw":140,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hu11.html"},{"code":"HU12","model":"X1 Sdrive20d","body":"Sports Activity Vehicle","engine":"B47O","power_kw":140,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hu12.html"},{"code":"HS71","model":"X1 sDrive20i","body":"Sports Activity Vehicle","engine":"B48M","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hs71.html"},{"code":"HS72","model":"X1 sDrive20i","body":"Sports Activity Vehicle","engine":"B48M","power_kw":141,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hs72.html"},{"code":"HU73","model":"X1 Sdrive28i","body":"Sports Activity Vehicle","engine":"B46O","power_kw":170,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hu73.html"},{"code":"HT91","model":"X1 Xdrive18d","body":"Sports Activity Vehicle","engine":"B47U","power_kw":110,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ht91.html"},{"code":"HT92","model":"X1 Xdrive18d","body":"Sports Activity Vehicle","engine":"B47U","power_kw":110,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ht92.html"},{"code":"HU31","model":"X1 xDrive20d","body":"Sports Activity Vehicle","engine":"B47C20O0","power_kw":140,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hu31.html"},{"code":"HU32","model":"X1 xDrive20d","body":"Sports Activity Vehicle","engine":"B47C20O0","power_kw":140,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hu32.html"},{"code":"HS91","model":"X1 xDrive20i","body":"Sports Activity Vehicle","engine":"B48M","power_kw":141,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hs91.html"},{"code":"HS92","model":"X1 xDrive20i","body":"Sports Activity Vehicle","engine":"B48M","power_kw":141,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hs92.html"},{"code":"HU51","model":"X1 Xdrive25d","body":"Sports Activity Vehicle","engine":"B47T","power_kw":170,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hu51.html"},{"code":"HU52","model":"X1 xDrive25d","body":"Sports Activity Vehicle","engine":"B47T","power_kw":170,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/hu52.html"},{"code":"HT11","model":"X1 xDrive25i","body":"Sports Activity Vehicle","engine":"B48O","power_kw":170,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ht11.html"},{"code":"HT12","model":"X1 xDrive25i","body":"Sports Activity Vehicle","engine":"B48O","power_kw":170,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ht12.html"},{"code":"HT33","model":"X1 xDrive28i","body":"Sports Activity Vehicle","engine":"B46O","power_kw":170,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ht33.html"}],"plants":[{"slug":"bmw-plant-regensburg","name":"Bmw Plant Regensburg"},{"slug":"vdl-nedcar","name":"VDL Nedcar Born"}],"photos":[{"slug":"5783-354-bmw-x1-xdrive25i-f48","title":"BMW X1 xDrive25i"},{"slug":"5775-354-bmw-x1-xdrive25i-f48","title":"BMW X1 xDrive25i"},{"slug":"5771-354-bmw-x1-xdrive25i-f48","title":"BMW X1 xDrive25i"},{"slug":"5714-354-bmw-x1-xdrive20d-f48","title":"BMW X1 xDrive20d"},{"slug":"5717-354-bmw-x1-xdrive20d-f48","title":"BMW X1 xDrive20d"},{"slug":"5716-354-bmw-x1-xdrive20d-f48","title":"BMW X1 xDrive20d"},{"slug":"5715-354-bmw-x1-xdrive20d-f48","title":"BMW X1 xDrive20d"},{"slug":"5773-354-bmw-x1-xdrive25i-f48","title":"BMW X1 xDrive25i"},{"slug":"5767-354-bmw-x1-xdrive20d-f48","title":"BMW X1 xDrive20d"},{"slug":"5764-354-bmw-x1-xdrive20d-f48","title":"BMW X1 xDrive20d"},{"slug":"5718-354-bmw-x1-xdrive20d-f48","title":"BMW X1 xDrive20d"},{"slug":"5770-354-bmw-x1-xdrive20d-f48","title":"BMW X1 xDrive20d"}],"articles":[{"slug":"2015-06-03-the-new-bmw-x1","title":"The new BMW X1 (2015-06-03)"}],"source":"https://www.bimmerarchive.org/e-code/f48.html"}
+{
+ "code": "F48",
+ "slug": "f48",
+ "brand": "BMW",
+ "description": "BMW X1",
+ "years": "2015 - 2019",
+ "year_from": 2015,
+ "year_to": 2019,
+ "type": "Serie",
+ "production_code_count": 22,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "HT51",
+   "model": "X1 Sdrive16d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B37U",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ht51.html",
+   "engine_slug": "b37c15u0"
+  },
+  {
+   "code": "HT52",
+   "model": "X1 Sdrive16d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B37U",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ht52.html",
+   "engine_slug": "b37c15u0"
+  },
+  {
+   "code": "HT71",
+   "model": "X1 sDrive18d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47C20U0",
+   "power_kw": 110,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ht71.html",
+   "engine_slug": "b47c20u0"
+  },
+  {
+   "code": "HT72",
+   "model": "X1 Sdrive18d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47U",
+   "power_kw": 110,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ht72.html",
+   "engine_slug": "b47c20u0"
+  },
+  {
+   "code": "HS11",
+   "model": "X1 Sdrive18i",
+   "body": "Sports Activity Vehicle",
+   "engine": "B38M",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hs11.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "HS12",
+   "model": "X1 Sdrive18i",
+   "body": "Sports Activity Vehicle",
+   "engine": "B38M",
+   "power_kw": 100,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hs12.html",
+   "engine_slug": "b38a15m0"
+  },
+  {
+   "code": "HU11",
+   "model": "X1 sDrive20d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47O",
+   "power_kw": 140,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hu11.html",
+   "engine_slug": "b47d20o0"
+  },
+  {
+   "code": "HU12",
+   "model": "X1 Sdrive20d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47O",
+   "power_kw": 140,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hu12.html",
+   "engine_slug": "b47d20o0"
+  },
+  {
+   "code": "HS71",
+   "model": "X1 sDrive20i",
+   "body": "Sports Activity Vehicle",
+   "engine": "B48M",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hs71.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "HS72",
+   "model": "X1 sDrive20i",
+   "body": "Sports Activity Vehicle",
+   "engine": "B48M",
+   "power_kw": 141,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hs72.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "HU73",
+   "model": "X1 Sdrive28i",
+   "body": "Sports Activity Vehicle",
+   "engine": "B46O",
+   "power_kw": 170,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hu73.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "HT91",
+   "model": "X1 Xdrive18d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47U",
+   "power_kw": 110,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ht91.html",
+   "engine_slug": "b47c20u0"
+  },
+  {
+   "code": "HT92",
+   "model": "X1 Xdrive18d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47U",
+   "power_kw": 110,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ht92.html",
+   "engine_slug": "b47c20u0"
+  },
+  {
+   "code": "HU31",
+   "model": "X1 xDrive20d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47C20O0",
+   "power_kw": 140,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hu31.html",
+   "engine_slug": "b47c20o0-140"
+  },
+  {
+   "code": "HU32",
+   "model": "X1 xDrive20d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47C20O0",
+   "power_kw": 140,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hu32.html",
+   "engine_slug": "b47c20o0-140"
+  },
+  {
+   "code": "HS91",
+   "model": "X1 xDrive20i",
+   "body": "Sports Activity Vehicle",
+   "engine": "B48M",
+   "power_kw": 141,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hs91.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "HS92",
+   "model": "X1 xDrive20i",
+   "body": "Sports Activity Vehicle",
+   "engine": "B48M",
+   "power_kw": 141,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hs92.html",
+   "engine_slug": "b48a20m0"
+  },
+  {
+   "code": "HU51",
+   "model": "X1 Xdrive25d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47T",
+   "power_kw": 170,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hu51.html",
+   "engine_slug": "b47d20t0"
+  },
+  {
+   "code": "HU52",
+   "model": "X1 xDrive25d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47T",
+   "power_kw": 170,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/hu52.html",
+   "engine_slug": "b47d20t0"
+  },
+  {
+   "code": "HT11",
+   "model": "X1 xDrive25i",
+   "body": "Sports Activity Vehicle",
+   "engine": "B48O",
+   "power_kw": 170,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ht11.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "HT12",
+   "model": "X1 xDrive25i",
+   "body": "Sports Activity Vehicle",
+   "engine": "B48O",
+   "power_kw": 170,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ht12.html",
+   "engine_slug": "b48a20o0"
+  },
+  {
+   "code": "HT33",
+   "model": "X1 xDrive28i",
+   "body": "Sports Activity Vehicle",
+   "engine": "B46O",
+   "power_kw": 170,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ht33.html",
+   "engine_slug": "b48a20o0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-regensburg",
+   "name": "Bmw Plant Regensburg"
+  },
+  {
+   "slug": "vdl-nedcar",
+   "name": "VDL Nedcar Born"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "5783-354-bmw-x1-xdrive25i-f48",
+   "title": "BMW X1 xDrive25i"
+  },
+  {
+   "slug": "5775-354-bmw-x1-xdrive25i-f48",
+   "title": "BMW X1 xDrive25i"
+  },
+  {
+   "slug": "5771-354-bmw-x1-xdrive25i-f48",
+   "title": "BMW X1 xDrive25i"
+  },
+  {
+   "slug": "5714-354-bmw-x1-xdrive20d-f48",
+   "title": "BMW X1 xDrive20d"
+  },
+  {
+   "slug": "5717-354-bmw-x1-xdrive20d-f48",
+   "title": "BMW X1 xDrive20d"
+  },
+  {
+   "slug": "5716-354-bmw-x1-xdrive20d-f48",
+   "title": "BMW X1 xDrive20d"
+  },
+  {
+   "slug": "5715-354-bmw-x1-xdrive20d-f48",
+   "title": "BMW X1 xDrive20d"
+  },
+  {
+   "slug": "5773-354-bmw-x1-xdrive25i-f48",
+   "title": "BMW X1 xDrive25i"
+  },
+  {
+   "slug": "5767-354-bmw-x1-xdrive20d-f48",
+   "title": "BMW X1 xDrive20d"
+  },
+  {
+   "slug": "5764-354-bmw-x1-xdrive20d-f48",
+   "title": "BMW X1 xDrive20d"
+  },
+  {
+   "slug": "5718-354-bmw-x1-xdrive20d-f48",
+   "title": "BMW X1 xDrive20d"
+  },
+  {
+   "slug": "5770-354-bmw-x1-xdrive20d-f48",
+   "title": "BMW X1 xDrive20d"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2015-06-03-the-new-bmw-x1",
+   "title": "The new BMW X1 (2015-06-03)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/f48.html"
+}

@@ -1,1 +1,24 @@
-{"code":"SX92","count":1,"results":[{"code":"SX92","model":"John Cooper Works","body":"Sports Activity Coupe","engine":"N18B16T0","power_kw":155,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sx92.html","chassis":"R58 (JCW)","chassis_slug":"r58-jcw","brand":"MINI","chassis_description":"MINI Coupe - John Cooper Works"}]}
+{
+ "code": "SX92",
+ "count": 1,
+ "results": [
+  {
+   "code": "SX92",
+   "model": "John Cooper Works",
+   "body": "Sports Activity Coupe",
+   "engine": "N18B16T0",
+   "power_kw": 155,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sx92.html",
+   "chassis": "R58 (JCW)",
+   "chassis_slug": "r58-jcw",
+   "brand": "MINI",
+   "chassis_description": "MINI Coupe - John Cooper Works",
+   "engine_slug": "n18b16t0-160"
+  }
+ ]
+}

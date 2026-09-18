@@ -1,1 +1,24 @@
-{"code":"HM21","count":1,"results":[{"code":"HM21","model":"730d","body":"Sedan","engine":"M57D30O2","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2004-07","to":"2008-07","source":"https://www.bimmerarchive.org/code/hm21.html","chassis":"E65","chassis_slug":"e65","brand":"BMW","chassis_description":"BMW 7 Series Sedan"}]}
+{
+ "code": "HM21",
+ "count": 1,
+ "results": [
+  {
+   "code": "HM21",
+   "model": "730d",
+   "body": "Sedan",
+   "engine": "M57D30O2",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2004-07",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/hm21.html",
+   "chassis": "E65",
+   "chassis_slug": "e65",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan",
+   "engine_slug": "m57d30o2-e7x"
+  }
+ ]
+}

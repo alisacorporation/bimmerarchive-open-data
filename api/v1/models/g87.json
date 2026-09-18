@@ -1,1 +1,119 @@
-{"code":"G87","slug":"g87","brand":"BMW","description":"BMW M2","years":"2022 - 2024","year_from":2022,"year_to":2024,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"11DM","model":"M2","body":"Coupe","engine":"S58B30T0","power_kw":338,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/11dm.html"},{"code":"12DM","model":"M2","body":"Coupe","engine":"S58B30T0","power_kw":338,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/12dm.html"},{"code":"13DM","model":"M2","body":"Coupe","engine":"S58B30T0","power_kw":338,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/13dm.html"}],"plants":[{"slug":"bmw-plant-san-luis-potosi","name":"BMW Group Plant San Luis Potosí"}],"photos":[{"slug":"12650-595-bmw-m2","title":"BMW M2 - Highlights"},{"slug":"15197-664-bmw-m2-cs","title":"BMW M2 CS"},{"slug":"15411-670-bmw-m2-m-xdrive","title":"BMW M2 mit M xDrive"},{"slug":"15422-670-bmw-m2-m-xdrive","title":"BMW M2 mit M xDrive"},{"slug":"15243-664-bmw-m2-cs","title":"BMW M2 CS - Highlights"},{"slug":"12638-595-bmw-m2","title":"BMW M2"},{"slug":"15223-664-bmw-m2-cs","title":"BMW M2 CS"},{"slug":"12635-595-bmw-m2","title":"BMW M2"},{"slug":"15227-664-bmw-m2-cs","title":"BMW M2 CS"},{"slug":"12609-595-bmw-m2","title":"BMW M2"},{"slug":"15406-670-bmw-m2-m-xdrive","title":"BMW M2 mit M xDrive"},{"slug":"15199-664-bmw-m2-cs","title":"BMW M2 CS"}],"articles":[{"slug":"2022-10-12-the-all-new-bmw-m2","title":"The all-new BMW M2 (2022-10-12)"}],"source":"https://www.bimmerarchive.org/e-code/g87.html"}
+{
+ "code": "G87",
+ "slug": "g87",
+ "brand": "BMW",
+ "description": "BMW M2",
+ "years": "2022 - 2024",
+ "year_from": 2022,
+ "year_to": 2024,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "11DM",
+   "model": "M2",
+   "body": "Coupe",
+   "engine": "S58B30T0",
+   "power_kw": 338,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/11dm.html",
+   "engine_slug": "s58b30t0-405"
+  },
+  {
+   "code": "12DM",
+   "model": "M2",
+   "body": "Coupe",
+   "engine": "S58B30T0",
+   "power_kw": 338,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/12dm.html",
+   "engine_slug": "s58b30t0-405"
+  },
+  {
+   "code": "13DM",
+   "model": "M2",
+   "body": "Coupe",
+   "engine": "S58B30T0",
+   "power_kw": 338,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/13dm.html",
+   "engine_slug": "s58b30t0-405"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-san-luis-potosi",
+   "name": "BMW Group Plant San Luis Potos\u00ed"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "12650-595-bmw-m2",
+   "title": "BMW M2 - Highlights"
+  },
+  {
+   "slug": "15197-664-bmw-m2-cs",
+   "title": "BMW M2 CS"
+  },
+  {
+   "slug": "15411-670-bmw-m2-m-xdrive",
+   "title": "BMW M2 mit M xDrive"
+  },
+  {
+   "slug": "15422-670-bmw-m2-m-xdrive",
+   "title": "BMW M2 mit M xDrive"
+  },
+  {
+   "slug": "15243-664-bmw-m2-cs",
+   "title": "BMW M2 CS - Highlights"
+  },
+  {
+   "slug": "12638-595-bmw-m2",
+   "title": "BMW M2"
+  },
+  {
+   "slug": "15223-664-bmw-m2-cs",
+   "title": "BMW M2 CS"
+  },
+  {
+   "slug": "12635-595-bmw-m2",
+   "title": "BMW M2"
+  },
+  {
+   "slug": "15227-664-bmw-m2-cs",
+   "title": "BMW M2 CS"
+  },
+  {
+   "slug": "12609-595-bmw-m2",
+   "title": "BMW M2"
+  },
+  {
+   "slug": "15406-670-bmw-m2-m-xdrive",
+   "title": "BMW M2 mit M xDrive"
+  },
+  {
+   "slug": "15199-664-bmw-m2-cs",
+   "title": "BMW M2 CS"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2022-10-12-the-all-new-bmw-m2",
+   "title": "The all-new BMW M2 (2022-10-12)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/g87.html"
+}

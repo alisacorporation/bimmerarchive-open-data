@@ -1,1 +1,24 @@
-{"code":"SN02","count":1,"results":[{"code":"SN02","model":"550i","body":"Gran Turismo","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/sn02.html","chassis":"F07","chassis_slug":"f07","brand":"BMW","chassis_description":"BMW 5 Series Gran Turismo"}]}
+{
+ "code": "SN02",
+ "count": 1,
+ "results": [
+  {
+   "code": "SN02",
+   "model": "550i",
+   "body": "Gran Turismo",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/sn02.html",
+   "chassis": "F07",
+   "chassis_slug": "f07",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Gran Turismo",
+   "engine_slug": "n63b44o1"
+  }
+ ]
+}

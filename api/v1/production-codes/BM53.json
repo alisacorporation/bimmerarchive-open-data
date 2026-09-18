@@ -1,1 +1,24 @@
-{"code":"BM53","count":1,"results":[{"code":"BM53","model":"328CI","body":"Coupe","engine":"M52/TU","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1998-11","to":"2000-05","source":"https://www.bimmerarchive.org/code/bm53.html","chassis":"E46 (2)","chassis_slug":"e46-2","brand":"BMW","chassis_description":"BMW 3 Series Coupe"}]}
+{
+ "code": "BM53",
+ "count": 1,
+ "results": [
+  {
+   "code": "BM53",
+   "model": "328CI",
+   "body": "Coupe",
+   "engine": "M52/TU",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1998-11",
+   "to": "2000-05",
+   "source": "https://www.bimmerarchive.org/code/bm53.html",
+   "chassis": "E46 (2)",
+   "chassis_slug": "e46-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe",
+   "engine_slug": "m52tub28"
+  }
+ ]
+}

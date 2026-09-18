@@ -1,1 +1,24 @@
-{"code":"EF51","count":1,"results":[{"code":"EF51","model":"840I","body":"Coupe","engine":"M60/2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1993-07","to":"1996-02","source":"https://www.bimmerarchive.org/code/ef51.html","chassis":"E31","chassis_slug":"e31","brand":"BMW","chassis_description":"BMW 8 Series Coupe"}]}
+{
+ "code": "EF51",
+ "count": 1,
+ "results": [
+  {
+   "code": "EF51",
+   "model": "840I",
+   "body": "Coupe",
+   "engine": "M60/2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1993-07",
+   "to": "1996-02",
+   "source": "https://www.bimmerarchive.org/code/ef51.html",
+   "chassis": "E31",
+   "chassis_slug": "e31",
+   "brand": "BMW",
+   "chassis_description": "BMW 8 Series Coupe",
+   "engine_slug": "m60b40"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"AM51","count":1,"results":[{"code":"AM51","model":"328I","body":"Sedan","engine":"M52/TU","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1997-04","to":"2000-05","source":"https://www.bimmerarchive.org/code/am51.html","chassis":"E46 (4)","chassis_slug":"e46-4","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "AM51",
+ "count": 1,
+ "results": [
+  {
+   "code": "AM51",
+   "model": "328I",
+   "body": "Sedan",
+   "engine": "M52/TU",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1997-04",
+   "to": "2000-05",
+   "source": "https://www.bimmerarchive.org/code/am51.html",
+   "chassis": "E46 (4)",
+   "chassis_slug": "e46-4",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m52tub28"
+  }
+ ]
+}

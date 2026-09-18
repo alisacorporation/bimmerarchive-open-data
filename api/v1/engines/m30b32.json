@@ -1,0 +1,23 @@
+{
+ "code": "M30B32",
+ "slug": "m30b32",
+ "family": "M30",
+ "years": "1973 - 1986",
+ "year_from": 1973,
+ "year_to": 1986,
+ "displacement_cc": 3210,
+ "power_kw": 147,
+ "power_ps": 200,
+ "power_rpm": "5500",
+ "torque_nm": 285,
+ "torque_rpm": "4300",
+ "has_detail": false,
+ "construction": "6 Cylinder, 12 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 12,
+ "compression_ratio": "9.0:1",
+ "bore_mm": 89.0,
+ "stroke_mm": 86.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m30b32.html"
+}

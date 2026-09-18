@@ -1,1 +1,24 @@
-{"code":"RC32","count":1,"results":[{"code":"RC32","model":"COOPER","body":"Coupe","engine":"W10","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"right","region":"Europe","from":"2000-09","to":"2006-11","source":"https://www.bimmerarchive.org/code/rc32.html","chassis":"R50 (2)","chassis_slug":"r50-2","brand":"MINI","chassis_description":"MINI Cooper"}]}
+{
+ "code": "RC32",
+ "count": 1,
+ "results": [
+  {
+   "code": "RC32",
+   "model": "COOPER",
+   "body": "Coupe",
+   "engine": "W10",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2000-09",
+   "to": "2006-11",
+   "source": "https://www.bimmerarchive.org/code/rc32.html",
+   "chassis": "R50 (2)",
+   "chassis_slug": "r50-2",
+   "brand": "MINI",
+   "chassis_description": "MINI Cooper",
+   "engine_slug": "w10b16"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"UA12","count":1,"results":[{"code":"UA12","model":"116i","body":"Hatch Coupe","engine":"N45B16O2","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ua12.html","chassis":"E81","chassis_slug":"e81","brand":"BMW","chassis_description":"BMW 1 Series 3-door Sports Hatch"}]}
+{
+ "code": "UA12",
+ "count": 1,
+ "results": [
+  {
+   "code": "UA12",
+   "model": "116i",
+   "body": "Hatch Coupe",
+   "engine": "N45B16O2",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ua12.html",
+   "chassis": "E81",
+   "chassis_slug": "e81",
+   "brand": "BMW",
+   "chassis_description": "BMW 1 Series 3-door Sports Hatch",
+   "engine_slug": "n45b16o2"
+  }
+ ]
+}

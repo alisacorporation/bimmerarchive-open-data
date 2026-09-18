@@ -1,1 +1,198 @@
-{"code":"E63 (MUE)","slug":"e63n","brand":"BMW","description":"BMW 6 Series Coupe - LCI","years":"2006 - 2011","year_from":2006,"year_to":2011,"type":"Serie","production_code_count":9,"has_detail":true,"production_codes":[{"code":"EA11","model":"630i","body":"Coupe","engine":"N52B30O1","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-05","to":"2010-01","source":"https://www.bimmerarchive.org/code/ea11.html"},{"code":"EA12","model":"630i","body":"Coupe","engine":"N52B30O1","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-03","to":"2010-01","source":"https://www.bimmerarchive.org/code/ea12.html"},{"code":"EA31","model":"630i","body":"Coupe","engine":"N53B30O0","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-04","to":"2010-01","source":"https://www.bimmerarchive.org/code/ea31.html"},{"code":"EA32","model":"630i","body":"Coupe","engine":"N53B30O0","power_kw":200,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-11","to":"2010-01","source":"https://www.bimmerarchive.org/code/ea32.html"},{"code":"EA71","model":"635d","body":"Coupe","engine":"M57D30T2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-05","to":"2010-01","source":"https://www.bimmerarchive.org/code/ea71.html"},{"code":"EA72","model":"635d","body":"Coupe","engine":"M57D30T2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-04","to":"2010-01","source":"https://www.bimmerarchive.org/code/ea72.html"},{"code":"EA51","model":"650i","body":"Coupe","engine":"N62B48O1","power_kw":270,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2006-04","to":"2010-01","source":"https://www.bimmerarchive.org/code/ea51.html"},{"code":"EA52","model":"650i","body":"Coupe","engine":"N62B48O1","power_kw":270,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-03","to":"2010-01","source":"https://www.bimmerarchive.org/code/ea52.html"},{"code":"EA53","model":"650i","body":"Coupe","engine":"N62B48O1","power_kw":270,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2006-04","to":"2010-02","source":"https://www.bimmerarchive.org/code/ea53.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"1391-132-bmw-6er-mit-sportpaket","title":"BMW 6er mit Sportpaket"},{"slug":"652-70-das-neue-bmw-6er-coupe","title":"Das neue BMW 6er Coupé"},{"slug":"647-70-das-neue-bmw-6er-coupe","title":"Das neue BMW 6er Coupé"},{"slug":"653-70-das-neue-bmw-6er-coupe","title":"Das neue BMW 6er Coupé"},{"slug":"1394-132-bmw-6er-mit-sportpaket","title":"BMW 6er mit Sportpaket"},{"slug":"1390-132-bmw-6er-mit-sportpaket","title":"BMW 6er mit Sportpaket"},{"slug":"655-70-das-neue-bmw-6er-coupe","title":"Das neue BMW 6er Coupé"},{"slug":"645-70-das-neue-bmw-6er-coupe","title":"Das neue BMW 6er Coupé"},{"slug":"2120-177-bmw-635d-coupe","title":"BMW 635d Coupé"},{"slug":"898-87-bmw-6er-individual-virtuoso","title":"BMW 6er Individual Virtuoso"},{"slug":"644-70-das-neue-bmw-6er-coupe-und-bmw-6er-cabrio","title":"Das neue BMW 6er Coupé und 6er Cabrio"},{"slug":"646-70-das-neue-bmw-6er-coupe","title":"Das neue BMW 6er Coupé"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e63n.html"}
+{
+ "code": "E63 (MUE)",
+ "slug": "e63n",
+ "brand": "BMW",
+ "description": "BMW 6 Series Coupe - LCI",
+ "years": "2006 - 2011",
+ "year_from": 2006,
+ "year_to": 2011,
+ "type": "Serie",
+ "production_code_count": 9,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "EA11",
+   "model": "630i",
+   "body": "Coupe",
+   "engine": "N52B30O1",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-05",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ea11.html",
+   "engine_slug": "n52b30o1"
+  },
+  {
+   "code": "EA12",
+   "model": "630i",
+   "body": "Coupe",
+   "engine": "N52B30O1",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-03",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ea12.html",
+   "engine_slug": "n52b30o1"
+  },
+  {
+   "code": "EA31",
+   "model": "630i",
+   "body": "Coupe",
+   "engine": "N53B30O0",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-04",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ea31.html",
+   "engine_slug": "n53b30o0"
+  },
+  {
+   "code": "EA32",
+   "model": "630i",
+   "body": "Coupe",
+   "engine": "N53B30O0",
+   "power_kw": 200,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-11",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ea32.html",
+   "engine_slug": "n53b30o0"
+  },
+  {
+   "code": "EA71",
+   "model": "635d",
+   "body": "Coupe",
+   "engine": "M57D30T2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-05",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ea71.html",
+   "engine_slug": "m57d30t2"
+  },
+  {
+   "code": "EA72",
+   "model": "635d",
+   "body": "Coupe",
+   "engine": "M57D30T2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-04",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ea72.html",
+   "engine_slug": "m57d30t2"
+  },
+  {
+   "code": "EA51",
+   "model": "650i",
+   "body": "Coupe",
+   "engine": "N62B48O1",
+   "power_kw": 270,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2006-04",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ea51.html",
+   "engine_slug": "n62b48o1"
+  },
+  {
+   "code": "EA52",
+   "model": "650i",
+   "body": "Coupe",
+   "engine": "N62B48O1",
+   "power_kw": 270,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-03",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/ea52.html",
+   "engine_slug": "n62b48o1"
+  },
+  {
+   "code": "EA53",
+   "model": "650i",
+   "body": "Coupe",
+   "engine": "N62B48O1",
+   "power_kw": 270,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2006-04",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/ea53.html",
+   "engine_slug": "n62b48o1"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "1391-132-bmw-6er-mit-sportpaket",
+   "title": "BMW 6er mit Sportpaket"
+  },
+  {
+   "slug": "652-70-das-neue-bmw-6er-coupe",
+   "title": "Das neue BMW 6er Coup\u00e9"
+  },
+  {
+   "slug": "647-70-das-neue-bmw-6er-coupe",
+   "title": "Das neue BMW 6er Coup\u00e9"
+  },
+  {
+   "slug": "653-70-das-neue-bmw-6er-coupe",
+   "title": "Das neue BMW 6er Coup\u00e9"
+  },
+  {
+   "slug": "1394-132-bmw-6er-mit-sportpaket",
+   "title": "BMW 6er mit Sportpaket"
+  },
+  {
+   "slug": "1390-132-bmw-6er-mit-sportpaket",
+   "title": "BMW 6er mit Sportpaket"
+  },
+  {
+   "slug": "655-70-das-neue-bmw-6er-coupe",
+   "title": "Das neue BMW 6er Coup\u00e9"
+  },
+  {
+   "slug": "645-70-das-neue-bmw-6er-coupe",
+   "title": "Das neue BMW 6er Coup\u00e9"
+  },
+  {
+   "slug": "2120-177-bmw-635d-coupe",
+   "title": "BMW 635d Coup\u00e9"
+  },
+  {
+   "slug": "898-87-bmw-6er-individual-virtuoso",
+   "title": "BMW 6er Individual Virtuoso"
+  },
+  {
+   "slug": "644-70-das-neue-bmw-6er-coupe-und-bmw-6er-cabrio",
+   "title": "Das neue BMW 6er Coup\u00e9 und 6er Cabrio"
+  },
+  {
+   "slug": "646-70-das-neue-bmw-6er-coupe",
+   "title": "Das neue BMW 6er Coup\u00e9"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e63n.html"
+}

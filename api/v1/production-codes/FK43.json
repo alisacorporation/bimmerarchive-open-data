@@ -1,1 +1,24 @@
-{"code":"FK43","count":1,"results":[{"code":"FK43","model":"Ghost","body":"Sedan","engine":"N74B66U0","power_kw":420,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2008-08","to":"2010-01","source":"https://www.bimmerarchive.org/code/fk43.html","chassis":"RR4","chassis_slug":"rr4","brand":"Rolls-Royce","chassis_description":"Rolls-Royce Ghost"}]}
+{
+ "code": "FK43",
+ "count": 1,
+ "results": [
+  {
+   "code": "FK43",
+   "model": "Ghost",
+   "body": "Sedan",
+   "engine": "N74B66U0",
+   "power_kw": 420,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-08",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/fk43.html",
+   "chassis": "RR4",
+   "chassis_slug": "rr4",
+   "brand": "Rolls-Royce",
+   "chassis_description": "Rolls-Royce Ghost",
+   "engine_slug": "n74b66u0-rr5"
+  }
+ ]
+}

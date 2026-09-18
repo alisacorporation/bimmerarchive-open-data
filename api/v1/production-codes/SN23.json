@@ -1,1 +1,24 @@
-{"code":"SN23","count":1,"results":[{"code":"SN23","model":"535i","body":"Gran Turismo","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2008-09","to":"2009-11","source":"https://www.bimmerarchive.org/code/sn23.html","chassis":"F07","chassis_slug":"f07","brand":"BMW","chassis_description":"BMW 5 Series Gran Turismo"}]}
+{
+ "code": "SN23",
+ "count": 1,
+ "results": [
+  {
+   "code": "SN23",
+   "model": "535i",
+   "body": "Gran Turismo",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-09",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/sn23.html",
+   "chassis": "F07",
+   "chassis_slug": "f07",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Gran Turismo",
+   "engine_slug": "n55b30m0"
+  }
+ ]
+}

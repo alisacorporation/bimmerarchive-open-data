@@ -1,1 +1,24 @@
-{"code":"CL93","count":1,"results":[{"code":"CL93","model":"M Roadster","body":"Roadster","engine":"S54B32","power_kw":239,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2000-02","to":"2002-05","source":"https://www.bimmerarchive.org/code/cl93.html","chassis":"E36 (7)","chassis_slug":"e36-7","brand":"BMW","chassis_description":"BMW Z3 Roadster and M Roadster"}]}
+{
+ "code": "CL93",
+ "count": 1,
+ "results": [
+  {
+   "code": "CL93",
+   "model": "M Roadster",
+   "body": "Roadster",
+   "engine": "S54B32",
+   "power_kw": 239,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2000-02",
+   "to": "2002-05",
+   "source": "https://www.bimmerarchive.org/code/cl93.html",
+   "chassis": "E36 (7)",
+   "chassis_slug": "e36-7",
+   "brand": "BMW",
+   "chassis_description": "BMW Z3 Roadster and M Roadster",
+   "engine_slug": "s54b32"
+  }
+ ]
+}

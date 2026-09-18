@@ -1,1 +1,24 @@
-{"code":"FB32","count":1,"results":[{"code":"FB32","model":"X5 4.4I","body":"Sports Activity Vehicle","engine":"M62/TU","power_kw":210,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":"1999-11","to":"2003-09","source":"https://www.bimmerarchive.org/code/fb32.html","chassis":"E53","chassis_slug":"e53","brand":"BMW","chassis_description":"BMW X5 - Sports Activity Vehicle"}]}
+{
+ "code": "FB32",
+ "count": 1,
+ "results": [
+  {
+   "code": "FB32",
+   "model": "X5 4.4I",
+   "body": "Sports Activity Vehicle",
+   "engine": "M62/TU",
+   "power_kw": 210,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1999-11",
+   "to": "2003-09",
+   "source": "https://www.bimmerarchive.org/code/fb32.html",
+   "chassis": "E53",
+   "chassis_slug": "e53",
+   "brand": "BMW",
+   "chassis_description": "BMW X5 - Sports Activity Vehicle",
+   "engine_slug": "m62b44-tu"
+  }
+ ]
+}

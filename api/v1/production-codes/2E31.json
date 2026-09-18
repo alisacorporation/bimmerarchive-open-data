@@ -1,1 +1,24 @@
-{"code":"2E31","count":1,"results":[{"code":"2E31","model":"216d","body":"","engine":"B37C15U0","power_kw":85,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/2e31.html","chassis":"F46","chassis_slug":"f46","brand":"BMW","chassis_description":"BMW 2 Series Gran Tourer"}]}
+{
+ "code": "2E31",
+ "count": 1,
+ "results": [
+  {
+   "code": "2E31",
+   "model": "216d",
+   "body": "",
+   "engine": "B37C15U0",
+   "power_kw": 85,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/2e31.html",
+   "chassis": "F46",
+   "chassis_slug": "f46",
+   "brand": "BMW",
+   "chassis_description": "BMW 2 Series Gran Tourer",
+   "engine_slug": "b37c15u0"
+  }
+ ]
+}

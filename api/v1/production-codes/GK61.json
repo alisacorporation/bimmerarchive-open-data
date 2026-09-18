@@ -1,1 +1,24 @@
-{"code":"GK61","count":1,"results":[{"code":"GK61","model":"L7","body":"Sedan","engine":"M73B54","power_kw":240,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1996-07","to":"1998-07","source":"https://www.bimmerarchive.org/code/gk61.html","chassis":"E38 (L7)","chassis_slug":"e38-l7","brand":"BMW","chassis_description":"BMW L7"}]}
+{
+ "code": "GK61",
+ "count": 1,
+ "results": [
+  {
+   "code": "GK61",
+   "model": "L7",
+   "body": "Sedan",
+   "engine": "M73B54",
+   "power_kw": 240,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1996-07",
+   "to": "1998-07",
+   "source": "https://www.bimmerarchive.org/code/gk61.html",
+   "chassis": "E38 (L7)",
+   "chassis_slug": "e38-l7",
+   "brand": "BMW",
+   "chassis_description": "BMW L7",
+   "engine_slug": "m73b54"
+  }
+ ]
+}

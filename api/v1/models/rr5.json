@@ -1,1 +1,74 @@
-{"code":"RR5","slug":"rr5","brand":"Rolls-Royce","description":"Rolls-Royce Wraith","years":"2013 -","year_from":2013,"year_to":null,"type":"Serie","production_code_count":4,"has_detail":true,"production_codes":[{"code":"6653","model":"Wraith","body":"Coupe","engine":"N74R","power_kw":420,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6653.html"},{"code":"XZ01","model":"Wraith","body":"Coupe","engine":"N74B66U0","power_kw":465,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xz01.html"},{"code":"XZ02","model":"Wraith","body":"Coupe","engine":"N74B66U0","power_kw":465,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xz02.html"},{"code":"XZ03","model":"Wraith","body":"Coupe","engine":"N74B66U0","power_kw":465,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/xz03.html"}],"plants":[],"photos":[],"articles":[],"source":"https://www.bimmerarchive.org/e-code/rr5.html"}
+{
+ "code": "RR5",
+ "slug": "rr5",
+ "brand": "Rolls-Royce",
+ "description": "Rolls-Royce Wraith",
+ "years": "2013 -",
+ "year_from": 2013,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 4,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "6653",
+   "model": "Wraith",
+   "body": "Coupe",
+   "engine": "N74R",
+   "power_kw": 420,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6653.html",
+   "engine_slug": "n74b66u0"
+  },
+  {
+   "code": "XZ01",
+   "model": "Wraith",
+   "body": "Coupe",
+   "engine": "N74B66U0",
+   "power_kw": 465,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xz01.html",
+   "engine_slug": "n74b66u0-rr5"
+  },
+  {
+   "code": "XZ02",
+   "model": "Wraith",
+   "body": "Coupe",
+   "engine": "N74B66U0",
+   "power_kw": 465,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xz02.html",
+   "engine_slug": "n74b66u0-rr5"
+  },
+  {
+   "code": "XZ03",
+   "model": "Wraith",
+   "body": "Coupe",
+   "engine": "N74B66U0",
+   "power_kw": 465,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/xz03.html",
+   "engine_slug": "n74b66u0-rr5"
+  }
+ ],
+ "plants": [],
+ "photos": [],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/rr5.html"
+}

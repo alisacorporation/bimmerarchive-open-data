@@ -1,1 +1,119 @@
-{"code":"G09","slug":"g09","brand":"BMW","description":"BMW XM","years":"2022 -","year_from":2022,"year_to":null,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"21CS","model":"XM","body":"Sports Activity Vehicle","engine":"XB1","power_kw":480,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/21cs.html"},{"code":"22CS","model":"XM","body":"Sports Activity Vehicle","engine":"XB1","power_kw":480,"drivetrain":"All Wheel-Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/22cs.html"},{"code":"23CS","model":"XM","body":"Sports Activity Vehicle","engine":"XB1","power_kw":480,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/23cs.html"}],"plants":[{"slug":"bmw-plant-spartanburg","name":"BMW Plant Spartanburg"}],"photos":[{"slug":"12591-593-bmw-xm","title":"BMW XM"},{"slug":"13270-613-bmw-xm-label-red","title":"BMW XM Label Red"},{"slug":"12560-593-bmw-xm","title":"BMW XM - Highlights"},{"slug":"13273-613-bmw-xm-label-red","title":"BMW XM Label Red"},{"slug":"12577-593-bmw-xm","title":"BMW XM"},{"slug":"12598-593-bmw-xm","title":"BMW XM"},{"slug":"12601-593-bmw-xm","title":"BMW XM"},{"slug":"12597-593-bmw-xm","title":"BMW XM"},{"slug":"12589-593-bmw-xm","title":"BMW XM"},{"slug":"12549-593-bmw-xm","title":"BMW XM"},{"slug":"13275-613-bmw-xm-label-red","title":"BMW XM Label Red"},{"slug":"12546-593-bmw-xm","title":"BMW XM"}],"articles":[{"slug":"2022-09-27-the-new-bmw-xm","title":"The first-ever BMW XM (2022-09-27)"}],"source":"https://www.bimmerarchive.org/e-code/g09.html"}
+{
+ "code": "G09",
+ "slug": "g09",
+ "brand": "BMW",
+ "description": "BMW XM",
+ "years": "2022 -",
+ "year_from": 2022,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "21CS",
+   "model": "XM",
+   "body": "Sports Activity Vehicle",
+   "engine": "XB1",
+   "power_kw": 480,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/21cs.html",
+   "engine_slug": null
+  },
+  {
+   "code": "22CS",
+   "model": "XM",
+   "body": "Sports Activity Vehicle",
+   "engine": "XB1",
+   "power_kw": 480,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/22cs.html",
+   "engine_slug": null
+  },
+  {
+   "code": "23CS",
+   "model": "XM",
+   "body": "Sports Activity Vehicle",
+   "engine": "XB1",
+   "power_kw": 480,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/23cs.html",
+   "engine_slug": null
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-spartanburg",
+   "name": "BMW Plant Spartanburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "12591-593-bmw-xm",
+   "title": "BMW XM"
+  },
+  {
+   "slug": "13270-613-bmw-xm-label-red",
+   "title": "BMW XM Label Red"
+  },
+  {
+   "slug": "12560-593-bmw-xm",
+   "title": "BMW XM - Highlights"
+  },
+  {
+   "slug": "13273-613-bmw-xm-label-red",
+   "title": "BMW XM Label Red"
+  },
+  {
+   "slug": "12577-593-bmw-xm",
+   "title": "BMW XM"
+  },
+  {
+   "slug": "12598-593-bmw-xm",
+   "title": "BMW XM"
+  },
+  {
+   "slug": "12601-593-bmw-xm",
+   "title": "BMW XM"
+  },
+  {
+   "slug": "12597-593-bmw-xm",
+   "title": "BMW XM"
+  },
+  {
+   "slug": "12589-593-bmw-xm",
+   "title": "BMW XM"
+  },
+  {
+   "slug": "12549-593-bmw-xm",
+   "title": "BMW XM"
+  },
+  {
+   "slug": "13275-613-bmw-xm-label-red",
+   "title": "BMW XM Label Red"
+  },
+  {
+   "slug": "12546-593-bmw-xm",
+   "title": "BMW XM"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2022-09-27-the-new-bmw-xm",
+   "title": "The first-ever BMW XM (2022-09-27)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/g09.html"
+}

@@ -1,1 +1,24 @@
-{"code":"23CS","count":1,"results":[{"code":"23CS","model":"XM","body":"Sports Activity Vehicle","engine":"XB1","power_kw":480,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/23cs.html","chassis":"G09","chassis_slug":"g09","brand":"BMW","chassis_description":"BMW XM"}]}
+{
+ "code": "23CS",
+ "count": 1,
+ "results": [
+  {
+   "code": "23CS",
+   "model": "XM",
+   "body": "Sports Activity Vehicle",
+   "engine": "XB1",
+   "power_kw": 480,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/23cs.html",
+   "chassis": "G09",
+   "chassis_slug": "g09",
+   "brand": "BMW",
+   "chassis_description": "BMW XM",
+   "engine_slug": null
+  }
+ ]
+}

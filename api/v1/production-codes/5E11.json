@@ -1,1 +1,24 @@
-{"code":"5E11","count":1,"results":[{"code":"5E11","model":"535i","body":"Sedan","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/5e11.html","chassis":"F10 (MUE)","chassis_slug":"f10-lci","brand":"BMW","chassis_description":"BMW 5 Series Sedan - LCI"}]}
+{
+ "code": "5E11",
+ "count": 1,
+ "results": [
+  {
+   "code": "5E11",
+   "model": "535i",
+   "body": "Sedan",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/5e11.html",
+   "chassis": "F10 (MUE)",
+   "chassis_slug": "f10-lci",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan - LCI",
+   "engine_slug": "n55b30m0"
+  }
+ ]
+}

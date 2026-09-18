@@ -1,1 +1,24 @@
-{"code":"CL32","count":1,"results":[{"code":"CL32","model":"Z3 2.0","body":"Roadster","engine":"M52/TU","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-09","to":"2000-10","source":"https://www.bimmerarchive.org/code/cl32.html","chassis":"E36 (7)","chassis_slug":"e36-7","brand":"BMW","chassis_description":"BMW Z3 Roadster and M Roadster"}]}
+{
+ "code": "CL32",
+ "count": 1,
+ "results": [
+  {
+   "code": "CL32",
+   "model": "Z3 2.0",
+   "body": "Roadster",
+   "engine": "M52/TU",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-09",
+   "to": "2000-10",
+   "source": "https://www.bimmerarchive.org/code/cl32.html",
+   "chassis": "E36 (7)",
+   "chassis_slug": "e36-7",
+   "brand": "BMW",
+   "chassis_description": "BMW Z3 Roadster and M Roadster",
+   "engine_slug": "m52tub28"
+  }
+ ]
+}

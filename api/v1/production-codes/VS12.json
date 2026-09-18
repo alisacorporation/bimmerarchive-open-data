@@ -1,1 +1,24 @@
-{"code":"VS12","count":1,"results":[{"code":"VS12","model":"325i","body":"Touring","engine":"N52B25O0","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2004-12","to":"2007-08","source":"https://www.bimmerarchive.org/code/vs12.html","chassis":"E91","chassis_slug":"e91","brand":"BMW","chassis_description":"BMW 3 Series Touring"}]}
+{
+ "code": "VS12",
+ "count": 1,
+ "results": [
+  {
+   "code": "VS12",
+   "model": "325i",
+   "body": "Touring",
+   "engine": "N52B25O0",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2004-12",
+   "to": "2007-08",
+   "source": "https://www.bimmerarchive.org/code/vs12.html",
+   "chassis": "E91",
+   "chassis_slug": "e91",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring",
+   "engine_slug": "n52b25o0"
+  }
+ ]
+}

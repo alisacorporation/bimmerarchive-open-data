@@ -1,1 +1,24 @@
-{"code":"VR31","count":1,"results":[{"code":"VR31","model":"318i","body":"Touring","engine":"N43B20U0","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2007-05","to":"2008-08","source":"https://www.bimmerarchive.org/code/vr31.html","chassis":"E91","chassis_slug":"e91","brand":"BMW","chassis_description":"BMW 3 Series Touring"}]}
+{
+ "code": "VR31",
+ "count": 1,
+ "results": [
+  {
+   "code": "VR31",
+   "model": "318i",
+   "body": "Touring",
+   "engine": "N43B20U0",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2007-05",
+   "to": "2008-08",
+   "source": "https://www.bimmerarchive.org/code/vr31.html",
+   "chassis": "E91",
+   "chassis_slug": "e91",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring",
+   "engine_slug": "n43b20u0"
+  }
+ ]
+}

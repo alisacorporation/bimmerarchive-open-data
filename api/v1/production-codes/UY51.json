@@ -1,1 +1,24 @@
-{"code":"UY51","count":1,"results":[{"code":"UY51","model":"316d","body":"Touring","engine":"N47D20K1","power_kw":85,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2009-09","to":"2009-10","source":"https://www.bimmerarchive.org/code/uy51.html","chassis":"E91 (MUE)","chassis_slug":"e91n","brand":"BMW","chassis_description":"BMW 3 Series Touring - LCI"}]}
+{
+ "code": "UY51",
+ "count": 1,
+ "results": [
+  {
+   "code": "UY51",
+   "model": "316d",
+   "body": "Touring",
+   "engine": "N47D20K1",
+   "power_kw": 85,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2009-09",
+   "to": "2009-10",
+   "source": "https://www.bimmerarchive.org/code/uy51.html",
+   "chassis": "E91 (MUE)",
+   "chassis_slug": "e91n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring - LCI",
+   "engine_slug": "n47d20k1"
+  }
+ ]
+}

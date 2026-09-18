@@ -1,1 +1,24 @@
-{"code":"DF71","count":1,"results":[{"code":"DF71","model":"525tds","body":"Sedan","engine":"M51D25TÜ","power_kw":105,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1995-04","to":"2000-03","source":"https://www.bimmerarchive.org/code/df71.html","chassis":"E39","chassis_slug":"e39","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "DF71",
+ "count": 1,
+ "results": [
+  {
+   "code": "DF71",
+   "model": "525tds",
+   "body": "Sedan",
+   "engine": "M51D25T\u00dc",
+   "power_kw": 105,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1995-04",
+   "to": "2000-03",
+   "source": "https://www.bimmerarchive.org/code/df71.html",
+   "chassis": "E39",
+   "chassis_slug": "e39",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m51d25-tu-ul"
+  }
+ ]
+}

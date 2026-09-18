@@ -1,1 +1,329 @@
-{"code":"E89","slug":"e89","brand":"BMW","description":"BMW Z4 Roadster","years":"2009 - 2016","year_from":2009,"year_to":2016,"type":"Serie","production_code_count":18,"has_detail":true,"production_codes":[{"code":"LL11","model":"Z4 sDrive18i","body":"Roadster","engine":"N20B20U0","power_kw":115,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ll11.html"},{"code":"LL12","model":"Z4 sDrive18i","body":"Roadster","engine":"N20B20U0","power_kw":115,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ll12.html"},{"code":"LL31","model":"Z4 sDrive20i","body":"Roadster","engine":"N20B20U0","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ll31.html"},{"code":"LL32","model":"Z4 sDrive20i","body":"Roadster","engine":"N20B20U0","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ll32.html"},{"code":"LM31","model":"Z4 sDrive23i","body":"Roadster","engine":"N52B25O1","power_kw":150,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/lm31.html"},{"code":"LM32","model":"Z4 sDrive23i","body":"Roadster","engine":"N52B25O1","power_kw":150,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/lm32.html"},{"code":"LL51","model":"Z4 sDrive28i","body":"Roadster","engine":"N20B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ll51.html"},{"code":"LL52","model":"Z4 sDrive28i","body":"Roadster","engine":"N20B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ll52.html"},{"code":"LL53","model":"Z4 sDrive28i","body":"Roadster","engine":"N20B20O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ll53.html"},{"code":"LM51","model":"Z4 sDrive30i","body":"Roadster","engine":"N52B30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/lm51.html"},{"code":"LM52","model":"Z4 sDrive30i","body":"Roadster","engine":"N52B30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-09","to":"2010-02","source":"https://www.bimmerarchive.org/code/lm52.html"},{"code":"LM53","model":"Z4 sDrive30i","body":"Roadster","engine":"N52B30O1","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2008-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/lm53.html"},{"code":"LM11","model":"Z4 sDrive35i","body":"Roadster","engine":"N54B30T0","power_kw":250,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2009-09","to":"2009-12","source":"https://www.bimmerarchive.org/code/lm11.html"},{"code":"LM12","model":"Z4 sDrive35i","body":"Roadster","engine":"N54B30T0","power_kw":250,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2009-09","to":"2009-11","source":"https://www.bimmerarchive.org/code/lm12.html"},{"code":"LM13","model":"Z4 sDrive35i","body":"Roadster","engine":"N54B30T0","power_kw":250,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2009-09","to":"2009-11","source":"https://www.bimmerarchive.org/code/lm13.html"},{"code":"LM71","model":"Z4 sDrive35i","body":"Roadster","engine":"N54B30O0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/lm71.html"},{"code":"LM72","model":"Z4 sDrive35i","body":"Roadster","engine":"N54B30O0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2008-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/lm72.html"},{"code":"LM73","model":"Z4 sDrive35i","body":"Roadster","engine":"N54B30O0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2008-01","to":"2010-02","source":"https://www.bimmerarchive.org/code/lm73.html"}],"plants":[{"slug":"bmw-plant-regensburg","name":"Bmw Plant Regensburg"}],"photos":[{"slug":"3444-256-bmw-z4-e89-lci-2013","title":"BMW Z4 sDrive 35is"},{"slug":"4570-289-bmw-z4-sdrive-28i","title":"BMW Z4 sDrive 28i"},{"slug":"1611-150-der-neue-bmw-z4-sdrive35i","title":"Der neue BMW Z4 sDrive35i"},{"slug":"3442-256-bmw-z4-e89-lci-2013","title":"BMW Z4 sDrive 35is"},{"slug":"3215-249-bmw-z4-sdrive-20i","title":"BMW Z4 sDrive20i"},{"slug":"1609-150-der-neue-bmw-z4-sdrive35i","title":"Der neue BMW Z4 sDrive35i"},{"slug":"1629-150-der-neue-bmw-z4-sdrive35i","title":"Der neue BMW Z4 sDrive35i - Innenraum"},{"slug":"1601-150-der-neue-bmw-z4-sdrive35i","title":"Der neue BMW Z4 sDrive35i"},{"slug":"1623-150-der-neue-bmw-z4-sdrive35i","title":"Der neue BMW Z4 sDrive35i"},{"slug":"1599-150-der-neue-bmw-z4-sdrive35i","title":"Der neue BMW Z4 sDrive35i"},{"slug":"1598-150-der-neue-bmw-z4-sdrive35i","title":"Der neue BMW Z4 sDrive35i"},{"slug":"1622-150-der-neue-bmw-z4-sdrive35i","title":"Der neue BMW Z4 sDrive35i"}],"articles":[{"slug":"2013-04-19-the-new-bmw-z4-2013","title":"The new BMW Z4 (2013-04-19)"}],"source":"https://www.bimmerarchive.org/e-code/e89.html"}
+{
+ "code": "E89",
+ "slug": "e89",
+ "brand": "BMW",
+ "description": "BMW Z4 Roadster",
+ "years": "2009 - 2016",
+ "year_from": 2009,
+ "year_to": 2016,
+ "type": "Serie",
+ "production_code_count": 18,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "LL11",
+   "model": "Z4 sDrive18i",
+   "body": "Roadster",
+   "engine": "N20B20U0",
+   "power_kw": 115,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ll11.html",
+   "engine_slug": "n20b20u0-18i"
+  },
+  {
+   "code": "LL12",
+   "model": "Z4 sDrive18i",
+   "body": "Roadster",
+   "engine": "N20B20U0",
+   "power_kw": 115,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ll12.html",
+   "engine_slug": "n20b20u0-18i"
+  },
+  {
+   "code": "LL31",
+   "model": "Z4 sDrive20i",
+   "body": "Roadster",
+   "engine": "N20B20U0",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ll31.html",
+   "engine_slug": "n20b20u0-18i"
+  },
+  {
+   "code": "LL32",
+   "model": "Z4 sDrive20i",
+   "body": "Roadster",
+   "engine": "N20B20U0",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ll32.html",
+   "engine_slug": "n20b20u0-18i"
+  },
+  {
+   "code": "LM31",
+   "model": "Z4 sDrive23i",
+   "body": "Roadster",
+   "engine": "N52B25O1",
+   "power_kw": 150,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/lm31.html",
+   "engine_slug": "n52b25o1-150"
+  },
+  {
+   "code": "LM32",
+   "model": "Z4 sDrive23i",
+   "body": "Roadster",
+   "engine": "N52B25O1",
+   "power_kw": 150,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/lm32.html",
+   "engine_slug": "n52b25o1-150"
+  },
+  {
+   "code": "LL51",
+   "model": "Z4 sDrive28i",
+   "body": "Roadster",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ll51.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "LL52",
+   "model": "Z4 sDrive28i",
+   "body": "Roadster",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ll52.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "LL53",
+   "model": "Z4 sDrive28i",
+   "body": "Roadster",
+   "engine": "N20B20O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ll53.html",
+   "engine_slug": "n20b20o0"
+  },
+  {
+   "code": "LM51",
+   "model": "Z4 sDrive30i",
+   "body": "Roadster",
+   "engine": "N52B30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/lm51.html",
+   "engine_slug": "n52b30o1"
+  },
+  {
+   "code": "LM52",
+   "model": "Z4 sDrive30i",
+   "body": "Roadster",
+   "engine": "N52B30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-09",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/lm52.html",
+   "engine_slug": "n52b30o1"
+  },
+  {
+   "code": "LM53",
+   "model": "Z4 sDrive30i",
+   "body": "Roadster",
+   "engine": "N52B30O1",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/lm53.html",
+   "engine_slug": "n52b30o1"
+  },
+  {
+   "code": "LM11",
+   "model": "Z4 sDrive35i",
+   "body": "Roadster",
+   "engine": "N54B30T0",
+   "power_kw": 250,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2009-09",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/lm11.html",
+   "engine_slug": "n54b30to"
+  },
+  {
+   "code": "LM12",
+   "model": "Z4 sDrive35i",
+   "body": "Roadster",
+   "engine": "N54B30T0",
+   "power_kw": 250,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2009-09",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/lm12.html",
+   "engine_slug": "n54b30to"
+  },
+  {
+   "code": "LM13",
+   "model": "Z4 sDrive35i",
+   "body": "Roadster",
+   "engine": "N54B30T0",
+   "power_kw": 250,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2009-09",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/lm13.html",
+   "engine_slug": "n54b30to"
+  },
+  {
+   "code": "LM71",
+   "model": "Z4 sDrive35i",
+   "body": "Roadster",
+   "engine": "N54B30O0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/lm71.html",
+   "engine_slug": "n54b30o0"
+  },
+  {
+   "code": "LM72",
+   "model": "Z4 sDrive35i",
+   "body": "Roadster",
+   "engine": "N54B30O0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2008-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/lm72.html",
+   "engine_slug": "n54b30o0"
+  },
+  {
+   "code": "LM73",
+   "model": "Z4 sDrive35i",
+   "body": "Roadster",
+   "engine": "N54B30O0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-01",
+   "to": "2010-02",
+   "source": "https://www.bimmerarchive.org/code/lm73.html",
+   "engine_slug": "n54b30o0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-regensburg",
+   "name": "Bmw Plant Regensburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "3444-256-bmw-z4-e89-lci-2013",
+   "title": "BMW Z4 sDrive 35is"
+  },
+  {
+   "slug": "4570-289-bmw-z4-sdrive-28i",
+   "title": "BMW Z4 sDrive 28i"
+  },
+  {
+   "slug": "1611-150-der-neue-bmw-z4-sdrive35i",
+   "title": "Der neue BMW Z4 sDrive35i"
+  },
+  {
+   "slug": "3442-256-bmw-z4-e89-lci-2013",
+   "title": "BMW Z4 sDrive 35is"
+  },
+  {
+   "slug": "3215-249-bmw-z4-sdrive-20i",
+   "title": "BMW Z4 sDrive20i"
+  },
+  {
+   "slug": "1609-150-der-neue-bmw-z4-sdrive35i",
+   "title": "Der neue BMW Z4 sDrive35i"
+  },
+  {
+   "slug": "1629-150-der-neue-bmw-z4-sdrive35i",
+   "title": "Der neue BMW Z4 sDrive35i - Innenraum"
+  },
+  {
+   "slug": "1601-150-der-neue-bmw-z4-sdrive35i",
+   "title": "Der neue BMW Z4 sDrive35i"
+  },
+  {
+   "slug": "1623-150-der-neue-bmw-z4-sdrive35i",
+   "title": "Der neue BMW Z4 sDrive35i"
+  },
+  {
+   "slug": "1599-150-der-neue-bmw-z4-sdrive35i",
+   "title": "Der neue BMW Z4 sDrive35i"
+  },
+  {
+   "slug": "1598-150-der-neue-bmw-z4-sdrive35i",
+   "title": "Der neue BMW Z4 sDrive35i"
+  },
+  {
+   "slug": "1622-150-der-neue-bmw-z4-sdrive35i",
+   "title": "Der neue BMW Z4 sDrive35i"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2013-04-19-the-new-bmw-z4-2013",
+   "title": "The new BMW Z4 (2013-04-19)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/e89.html"
+}

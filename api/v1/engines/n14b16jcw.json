@@ -1,0 +1,23 @@
+{
+ "code": "N14B16-JCW",
+ "slug": "n14b16jcw",
+ "family": "N14",
+ "years": "2008 - 2010",
+ "year_from": 2008,
+ "year_to": 2010,
+ "displacement_cc": 1598,
+ "power_kw": 155,
+ "power_ps": 211,
+ "power_rpm": "6000",
+ "torque_nm": 260,
+ "torque_rpm": "1850",
+ "has_detail": false,
+ "construction": "4 Cylinder, 16 Valves, Reihe, Turbo",
+ "cylinders": 4,
+ "valves": 16,
+ "compression_ratio": "10.5:1",
+ "bore_mm": 77.0,
+ "stroke_mm": 85.8,
+ "fuel": "Super Plus bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/n14b16jcw.html"
+}

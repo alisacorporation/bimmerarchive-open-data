@@ -1,1 +1,24 @@
-{"code":"KW81","count":1,"results":[{"code":"KW81","model":"X6 M","body":"Sports Activity Coupe","engine":"S63B44T2","power_kw":423,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kw81.html","chassis":"F86","chassis_slug":"f86","brand":"BMW","chassis_description":"BMW X6 M"}]}
+{
+ "code": "KW81",
+ "count": 1,
+ "results": [
+  {
+   "code": "KW81",
+   "model": "X6 M",
+   "body": "Sports Activity Coupe",
+   "engine": "S63B44T2",
+   "power_kw": 423,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kw81.html",
+   "chassis": "F86",
+   "chassis_slug": "f86",
+   "brand": "BMW",
+   "chassis_description": "BMW X6 M",
+   "engine_slug": "s63b44t2"
+  }
+ ]
+}

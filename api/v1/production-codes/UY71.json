@@ -1,1 +1,24 @@
-{"code":"UY71","count":1,"results":[{"code":"UY71","model":"320d EfficientDynamics Edition","body":"Touring","engine":"N47D20O1","power_kw":120,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/uy71.html","chassis":"E91 (MUE)","chassis_slug":"e91n","brand":"BMW","chassis_description":"BMW 3 Series Touring - LCI"}]}
+{
+ "code": "UY71",
+ "count": 1,
+ "results": [
+  {
+   "code": "UY71",
+   "model": "320d EfficientDynamics Edition",
+   "body": "Touring",
+   "engine": "N47D20O1",
+   "power_kw": 120,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/uy71.html",
+   "chassis": "E91 (MUE)",
+   "chassis_slug": "e91n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Touring - LCI",
+   "engine_slug": "n47d20o1-18d"
+  }
+ ]
+}

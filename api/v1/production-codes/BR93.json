@@ -1,1 +1,24 @@
-{"code":"BR93","count":1,"results":[{"code":"BR93","model":"M3","body":"Convertible","engine":"S54","power_kw":252,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2000-05","to":"2006-08","source":"https://www.bimmerarchive.org/code/br93.html","chassis":"E46 (C)","chassis_slug":"e46-2c","brand":"BMW","chassis_description":"BMW 3 Series Convertible"}]}
+{
+ "code": "BR93",
+ "count": 1,
+ "results": [
+  {
+   "code": "BR93",
+   "model": "M3",
+   "body": "Convertible",
+   "engine": "S54",
+   "power_kw": 252,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2000-05",
+   "to": "2006-08",
+   "source": "https://www.bimmerarchive.org/code/br93.html",
+   "chassis": "E46 (C)",
+   "chassis_slug": "e46-2c",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible",
+   "engine_slug": "s54b32-z3"
+  }
+ ]
+}

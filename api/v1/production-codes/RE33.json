@@ -1,1 +1,24 @@
-{"code":"RE33","count":1,"results":[{"code":"RE33","model":"COOPER S","body":"Coupe","engine":"W11","power_kw":125,"drivetrain":"Front-Wheel Drive","steering":"left","region":"USA","from":"2000-09","to":"2006-11","source":"https://www.bimmerarchive.org/code/re33.html","chassis":"R53","chassis_slug":"r53","brand":"MINI","chassis_description":"MINI Cooper S, MINI Cooper S JCW GP"}]}
+{
+ "code": "RE33",
+ "count": 1,
+ "results": [
+  {
+   "code": "RE33",
+   "model": "COOPER S",
+   "body": "Coupe",
+   "engine": "W11",
+   "power_kw": 125,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2000-09",
+   "to": "2006-11",
+   "source": "https://www.bimmerarchive.org/code/re33.html",
+   "chassis": "R53",
+   "chassis_slug": "r53",
+   "brand": "MINI",
+   "chassis_description": "MINI Cooper S, MINI Cooper S JCW GP",
+   "engine_slug": "w11b16"
+  }
+ ]
+}

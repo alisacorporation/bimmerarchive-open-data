@@ -1,1 +1,24 @@
-{"code":"DM66","count":1,"results":[{"code":"DM66","model":"528i","body":"Sedan","engine":"M52/TU","power_kw":142,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Indonesia","from":"2000-03","to":"2000-07","source":"https://www.bimmerarchive.org/code/dm66.html","chassis":"E39","chassis_slug":"e39","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "DM66",
+ "count": 1,
+ "results": [
+  {
+   "code": "DM66",
+   "model": "528i",
+   "body": "Sedan",
+   "engine": "M52/TU",
+   "power_kw": 142,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Indonesia",
+   "from": "2000-03",
+   "to": "2000-07",
+   "source": "https://www.bimmerarchive.org/code/dm66.html",
+   "chassis": "E39",
+   "chassis_slug": "e39",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m52tub28"
+  }
+ ]
+}

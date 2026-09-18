@@ -1,1 +1,268 @@
-{"code":"F06","slug":"f06","brand":"BMW","description":"BMW 6 Series Gran Coupé","years":"2011 -","year_from":2011,"year_to":null,"type":"Serie","production_code_count":14,"has_detail":true,"production_codes":[{"code":"6A61","model":"640d","body":"Coupe","engine":"N57D30T1","power_kw":230,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6a61.html"},{"code":"6A62","model":"640d","body":"Coupe","engine":"N57D30T1","power_kw":230,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6a62.html"},{"code":"6A81","model":"640d xDrive","body":"Coupe","engine":"N57D30T1","power_kw":230,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6a81.html"},{"code":"6A01","model":"640i","body":"Coupe","engine":"N55B30O0","power_kw":235,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6a01.html"},{"code":"6A02","model":"640i","body":"Coupe","engine":"N55B30O0","power_kw":235,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6a02.html"},{"code":"6A03","model":"640i","body":"Coupe","engine":"N55B30O0","power_kw":235,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6a03.html"},{"code":"6B81","model":"640i xDrive","body":"Coupe","engine":"N55B30O0","power_kw":235,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6b81.html"},{"code":"6B83","model":"640i xDrive","body":"Coupe","engine":"N55B30O0","power_kw":235,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6b83.html"},{"code":"6B21","model":"650i","body":"Coupe","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6b21.html"},{"code":"6B22","model":"650i","body":"Coupe","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6b22.html"},{"code":"6B23","model":"650i","body":"Coupe","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6b23.html"},{"code":"6B41","model":"650i xDrive","body":"Coupe","engine":"N63B44O1","power_kw":330,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6b41.html"},{"code":"6B43","model":"650i xDrive","body":"Coupe","engine":"N63B44O1","power_kw":330,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6b43.html"},{"code":"6B61","model":"650i xDrive","body":"Coupe","engine":"N63T","power_kw":300,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/6b61.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"5472-346-bmw-650i-gran-coupe","title":"BMW 650i Gran Coupe"},{"slug":"2990-235-bmw-640i-6-series-f06-gran-coupe","title":"BMW 640i Gran Coupe - Interieur"},{"slug":"5479-346-bmw-650i-gran-coupe","title":"BMW 650i Gran Coupe"},{"slug":"4962-312-bmw-alpina-b6-biturbo-gran-coupe","title":"BMW Alpina B6 Bi-Turbo Gran Coupe"},{"slug":"2985-235-bmw-640i-6-series-f06-gran-coupe","title":"BMW 640i Gran Coupe"},{"slug":"3204-249-bmw-640d-gran-coupe","title":"BMW 640d Gran Coupé"},{"slug":"5474-346-bmw-650i-gran-coupe","title":"BMW 650i Gran Coupe"},{"slug":"2981-235-bmw-640i-6-series-f06-gran-coupe","title":"BMW 640i Gran Coupe"},{"slug":"2983-235-bmw-640i-6-series-f06-gran-coupe","title":"BMW 640i Gran Coupe"},{"slug":"4961-312-bmw-alpina-b6-biturbo-gran-coupe","title":"BMW Alpina B6 Bi-Turbo Gran Coupe"},{"slug":"3201-249-bmw-640d-gran-coupe","title":"BMW 640d Gran Coupé"},{"slug":"2982-235-bmw-640i-6-series-f06-gran-coupe","title":"BMW 640i Gran Coupe"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/f06.html"}
+{
+ "code": "F06",
+ "slug": "f06",
+ "brand": "BMW",
+ "description": "BMW 6 Series Gran Coup\u00e9",
+ "years": "2011 -",
+ "year_from": 2011,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 14,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "6A61",
+   "model": "640d",
+   "body": "Coupe",
+   "engine": "N57D30T1",
+   "power_kw": 230,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6a61.html",
+   "engine_slug": "n57d30t1"
+  },
+  {
+   "code": "6A62",
+   "model": "640d",
+   "body": "Coupe",
+   "engine": "N57D30T1",
+   "power_kw": 230,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6a62.html",
+   "engine_slug": "n57d30t1"
+  },
+  {
+   "code": "6A81",
+   "model": "640d xDrive",
+   "body": "Coupe",
+   "engine": "N57D30T1",
+   "power_kw": 230,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6a81.html",
+   "engine_slug": "n57d30t1"
+  },
+  {
+   "code": "6A01",
+   "model": "640i",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 235,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6a01.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "6A02",
+   "model": "640i",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 235,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6a02.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "6A03",
+   "model": "640i",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 235,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6a03.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "6B81",
+   "model": "640i xDrive",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 235,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6b81.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "6B83",
+   "model": "640i xDrive",
+   "body": "Coupe",
+   "engine": "N55B30O0",
+   "power_kw": 235,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6b83.html",
+   "engine_slug": "n55b30o0-f22"
+  },
+  {
+   "code": "6B21",
+   "model": "650i",
+   "body": "Coupe",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6b21.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "6B22",
+   "model": "650i",
+   "body": "Coupe",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6b22.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "6B23",
+   "model": "650i",
+   "body": "Coupe",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6b23.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "6B41",
+   "model": "650i xDrive",
+   "body": "Coupe",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6b41.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "6B43",
+   "model": "650i xDrive",
+   "body": "Coupe",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6b43.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "6B61",
+   "model": "650i xDrive",
+   "body": "Coupe",
+   "engine": "N63T",
+   "power_kw": 300,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/6b61.html",
+   "engine_slug": "n63b44o2"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "5472-346-bmw-650i-gran-coupe",
+   "title": "BMW 650i Gran Coupe"
+  },
+  {
+   "slug": "2990-235-bmw-640i-6-series-f06-gran-coupe",
+   "title": "BMW 640i Gran Coupe - Interieur"
+  },
+  {
+   "slug": "5479-346-bmw-650i-gran-coupe",
+   "title": "BMW 650i Gran Coupe"
+  },
+  {
+   "slug": "4962-312-bmw-alpina-b6-biturbo-gran-coupe",
+   "title": "BMW Alpina B6 Bi-Turbo Gran Coupe"
+  },
+  {
+   "slug": "2985-235-bmw-640i-6-series-f06-gran-coupe",
+   "title": "BMW 640i Gran Coupe"
+  },
+  {
+   "slug": "3204-249-bmw-640d-gran-coupe",
+   "title": "BMW 640d Gran Coup\u00e9"
+  },
+  {
+   "slug": "5474-346-bmw-650i-gran-coupe",
+   "title": "BMW 650i Gran Coupe"
+  },
+  {
+   "slug": "2981-235-bmw-640i-6-series-f06-gran-coupe",
+   "title": "BMW 640i Gran Coupe"
+  },
+  {
+   "slug": "2983-235-bmw-640i-6-series-f06-gran-coupe",
+   "title": "BMW 640i Gran Coupe"
+  },
+  {
+   "slug": "4961-312-bmw-alpina-b6-biturbo-gran-coupe",
+   "title": "BMW Alpina B6 Bi-Turbo Gran Coupe"
+  },
+  {
+   "slug": "3201-249-bmw-640d-gran-coupe",
+   "title": "BMW 640d Gran Coup\u00e9"
+  },
+  {
+   "slug": "2982-235-bmw-640i-6-series-f06-gran-coupe",
+   "title": "BMW 640i Gran Coupe"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/f06.html"
+}

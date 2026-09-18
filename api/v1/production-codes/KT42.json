@@ -1,1 +1,24 @@
-{"code":"KT42","count":1,"results":[{"code":"KT42","model":"X5 sDrive25d","body":"Sports Activity Vehicle","engine":"B47D20T0","power_kw":170,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kt42.html","chassis":"F15","chassis_slug":"f15","brand":"BMW","chassis_description":"BMW X5 - Sports Activity Vehicle"}]}
+{
+ "code": "KT42",
+ "count": 1,
+ "results": [
+  {
+   "code": "KT42",
+   "model": "X5 sDrive25d",
+   "body": "Sports Activity Vehicle",
+   "engine": "B47D20T0",
+   "power_kw": 170,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kt42.html",
+   "chassis": "F15",
+   "chassis_slug": "f15",
+   "brand": "BMW",
+   "chassis_description": "BMW X5 - Sports Activity Vehicle",
+   "engine_slug": "b47d20t0-f15"
+  }
+ ]
+}

@@ -1,1 +1,135 @@
-{"code":"F18","slug":"f18","brand":"BMW","description":"BMW 5 Series Sedan - Chinese Long Wheelbase","years":"2010 -","year_from":2010,"year_to":null,"type":"Serie","production_code_count":8,"has_detail":true,"production_codes":[{"code":"CU11","model":"520Li","body":"Sedan","engine":"N20B20U0","power_kw":135,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/cu11.html"},{"code":"FP19","model":"520Li","body":"Sedan","engine":"N52B25U2","power_kw":130,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/fp19.html"},{"code":"FP39","model":"523Li","body":"Sedan","engine":"N52B25O2","power_kw":150,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/fp39.html"},{"code":"CU31","model":"525Li","body":"Sedan","engine":"N20B20M0","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/cu31.html"},{"code":"FR19","model":"528Li","body":"Sedan","engine":"N52B30O2","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/fr19.html"},{"code":"CU51","model":"530Li","body":"Sedan","engine":"N52B30O2","power_kw":190,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/cu51.html"},{"code":"CU71","model":"535Li","body":"Sedan","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/cu71.html"},{"code":"FR79","model":"535Li","body":"Sedan","engine":"N55B30M0","power_kw":225,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/fr79.html"}],"plants":[{"slug":"bmw-plant-shenyang","name":"BMW Brilliance Plant Dadong"}],"photos":[],"articles":[],"source":"https://www.bimmerarchive.org/e-code/f18.html"}
+{
+ "code": "F18",
+ "slug": "f18",
+ "brand": "BMW",
+ "description": "BMW 5 Series Sedan - Chinese Long Wheelbase",
+ "years": "2010 -",
+ "year_from": 2010,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 8,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "CU11",
+   "model": "520Li",
+   "body": "Sedan",
+   "engine": "N20B20U0",
+   "power_kw": 135,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/cu11.html",
+   "engine_slug": "n20b20u0-18i"
+  },
+  {
+   "code": "FP19",
+   "model": "520Li",
+   "body": "Sedan",
+   "engine": "N52B25U2",
+   "power_kw": 130,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/fp19.html",
+   "engine_slug": "n52b25u2"
+  },
+  {
+   "code": "FP39",
+   "model": "523Li",
+   "body": "Sedan",
+   "engine": "N52B25O2",
+   "power_kw": 150,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/fp39.html",
+   "engine_slug": "n52b25o2"
+  },
+  {
+   "code": "CU31",
+   "model": "525Li",
+   "body": "Sedan",
+   "engine": "N20B20M0",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/cu31.html",
+   "engine_slug": "n20b20m0"
+  },
+  {
+   "code": "FR19",
+   "model": "528Li",
+   "body": "Sedan",
+   "engine": "N52B30O2",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/fr19.html",
+   "engine_slug": "n52b30o2"
+  },
+  {
+   "code": "CU51",
+   "model": "530Li",
+   "body": "Sedan",
+   "engine": "N52B30O2",
+   "power_kw": 190,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/cu51.html",
+   "engine_slug": "n52b30o2"
+  },
+  {
+   "code": "CU71",
+   "model": "535Li",
+   "body": "Sedan",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/cu71.html",
+   "engine_slug": "n55b30m0"
+  },
+  {
+   "code": "FR79",
+   "model": "535Li",
+   "body": "Sedan",
+   "engine": "N55B30M0",
+   "power_kw": 225,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/fr79.html",
+   "engine_slug": "n55b30m0"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-shenyang",
+   "name": "BMW Brilliance Plant Dadong"
+  }
+ ],
+ "photos": [],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/f18.html"
+}

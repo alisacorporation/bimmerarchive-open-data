@@ -1,1 +1,24 @@
-{"code":"AV33","count":1,"results":[{"code":"AV33","model":"325I","body":"Sedan","engine":"M54","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2000-01","to":"2001-08","source":"https://www.bimmerarchive.org/code/av33.html","chassis":"E46 (4)","chassis_slug":"e46-4","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "AV33",
+ "count": 1,
+ "results": [
+  {
+   "code": "AV33",
+   "model": "325I",
+   "body": "Sedan",
+   "engine": "M54",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2000-01",
+   "to": "2001-08",
+   "source": "https://www.bimmerarchive.org/code/av33.html",
+   "chassis": "E46 (4)",
+   "chassis_slug": "e46-4",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m54b30"
+  }
+ ]
+}

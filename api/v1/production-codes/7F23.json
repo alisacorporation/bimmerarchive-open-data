@@ -1,1 +1,24 @@
-{"code":"7F23","count":1,"results":[{"code":"7F23","model":"750Li xDrive","body":"Sedan","engine":"N63B44O2","power_kw":330,"drivetrain":"All Wheel-Drive","steering":"left","region":"USA","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7f23.html","chassis":"G12","chassis_slug":"g12","brand":"BMW","chassis_description":"BMW 7 Series Sedan - Long Wheelbase"}]}
+{
+ "code": "7F23",
+ "count": 1,
+ "results": [
+  {
+   "code": "7F23",
+   "model": "750Li xDrive",
+   "body": "Sedan",
+   "engine": "N63B44O2",
+   "power_kw": 330,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7f23.html",
+   "chassis": "G12",
+   "chassis_slug": "g12",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan - Long Wheelbase",
+   "engine_slug": "n63b44o2"
+  }
+ ]
+}

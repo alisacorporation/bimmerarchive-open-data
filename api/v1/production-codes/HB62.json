@@ -1,1 +1,24 @@
-{"code":"HB62","count":1,"results":[{"code":"HB62","model":"520I","body":"Sedan","engine":"M50","power_kw":110,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1990-02","to":"1995-12","source":"https://www.bimmerarchive.org/code/hb62.html","chassis":"E34","chassis_slug":"e34","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "HB62",
+ "count": 1,
+ "results": [
+  {
+   "code": "HB62",
+   "model": "520I",
+   "body": "Sedan",
+   "engine": "M50",
+   "power_kw": 110,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1990-02",
+   "to": "1995-12",
+   "source": "https://www.bimmerarchive.org/code/hb62.html",
+   "chassis": "E34",
+   "chassis_slug": "e34",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m50b20"
+  }
+ ]
+}

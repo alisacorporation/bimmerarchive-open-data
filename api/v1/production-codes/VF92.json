@@ -1,1 +1,24 @@
-{"code":"VF92","count":1,"results":[{"code":"VF92","model":"320i","body":"Sedan","engine":"N43B20O0","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-03","to":"2008-07","source":"https://www.bimmerarchive.org/code/vf92.html","chassis":"E90","chassis_slug":"e90","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "VF92",
+ "count": 1,
+ "results": [
+  {
+   "code": "VF92",
+   "model": "320i",
+   "body": "Sedan",
+   "engine": "N43B20O0",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-03",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/vf92.html",
+   "chassis": "E90",
+   "chassis_slug": "e90",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "n43b20o0"
+  }
+ ]
+}

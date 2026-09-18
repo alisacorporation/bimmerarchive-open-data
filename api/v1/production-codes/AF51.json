@@ -1,1 +1,24 @@
-{"code":"AF51","count":1,"results":[{"code":"AF51","model":"318I","body":"Sedan","engine":"M40","power_kw":83,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1987-04","to":"1991-04","source":"https://www.bimmerarchive.org/code/af51.html","chassis":"E30","chassis_slug":"e30","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "AF51",
+ "count": 1,
+ "results": [
+  {
+   "code": "AF51",
+   "model": "318I",
+   "body": "Sedan",
+   "engine": "M40",
+   "power_kw": 83,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1987-04",
+   "to": "1991-04",
+   "source": "https://www.bimmerarchive.org/code/af51.html",
+   "chassis": "E30",
+   "chassis_slug": "e30",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m40b18"
+  }
+ ]
+}

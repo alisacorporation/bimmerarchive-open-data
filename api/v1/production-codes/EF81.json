@@ -1,1 +1,24 @@
-{"code":"EF81","count":1,"results":[{"code":"EF81","model":"840I","body":"Coupe","engine":"M62","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1994-12","to":"1999-05","source":"https://www.bimmerarchive.org/code/ef81.html","chassis":"E31","chassis_slug":"e31","brand":"BMW","chassis_description":"BMW 8 Series Coupe"}]}
+{
+ "code": "EF81",
+ "count": 1,
+ "results": [
+  {
+   "code": "EF81",
+   "model": "840I",
+   "body": "Coupe",
+   "engine": "M62",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1994-12",
+   "to": "1999-05",
+   "source": "https://www.bimmerarchive.org/code/ef81.html",
+   "chassis": "E31",
+   "chassis_slug": "e31",
+   "brand": "BMW",
+   "chassis_description": "BMW 8 Series Coupe",
+   "engine_slug": "m62b44-tu"
+  }
+ ]
+}

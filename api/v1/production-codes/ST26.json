@@ -1,1 +1,24 @@
-{"code":"ST26","count":1,"results":[{"code":"ST26","model":"250","body":"Sedan","engine":"1-Zyl","power_kw":null,"drivetrain":"","steering":"left","region":"Europe","from":"1955-01","to":"1962-09","source":"https://www.bimmerarchive.org/code/st26.html","chassis":"101","chassis_slug":"101","brand":"BMW","chassis_description":"Isetta 250"}]}
+{
+ "code": "ST26",
+ "count": 1,
+ "results": [
+  {
+   "code": "ST26",
+   "model": "250",
+   "body": "Sedan",
+   "engine": "1-Zyl",
+   "power_kw": null,
+   "drivetrain": "",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1955-01",
+   "to": "1962-09",
+   "source": "https://www.bimmerarchive.org/code/st26.html",
+   "chassis": "101",
+   "chassis_slug": "101",
+   "brand": "BMW",
+   "chassis_description": "Isetta 250",
+   "engine_slug": null
+  }
+ ]
+}

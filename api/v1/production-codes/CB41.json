@@ -1,1 +1,24 @@
-{"code":"CB41","count":1,"results":[{"code":"CB41","model":"325I","body":"Sedan","engine":"M50","power_kw":141,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1989-12","to":"1995-07","source":"https://www.bimmerarchive.org/code/cb41.html","chassis":"E36 (4)","chassis_slug":"e36-4","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "CB41",
+ "count": 1,
+ "results": [
+  {
+   "code": "CB41",
+   "model": "325I",
+   "body": "Sedan",
+   "engine": "M50",
+   "power_kw": 141,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1989-12",
+   "to": "1995-07",
+   "source": "https://www.bimmerarchive.org/code/cb41.html",
+   "chassis": "E36 (4)",
+   "chassis_slug": "e36-4",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "m50b20"
+  }
+ ]
+}

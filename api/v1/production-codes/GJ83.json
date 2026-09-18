@@ -1,1 +1,24 @@
-{"code":"GJ83","count":1,"results":[{"code":"GJ83","model":"740IL","body":"Sedan","engine":"M62","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1995-05","to":"1998-08","source":"https://www.bimmerarchive.org/code/gj83.html","chassis":"E38 (2)","chassis_slug":"e38-2","brand":"BMW","chassis_description":"BMW 7 Series Sedan Long Wheelbase"}]}
+{
+ "code": "GJ83",
+ "count": 1,
+ "results": [
+  {
+   "code": "GJ83",
+   "model": "740IL",
+   "body": "Sedan",
+   "engine": "M62",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1995-05",
+   "to": "1998-08",
+   "source": "https://www.bimmerarchive.org/code/gj83.html",
+   "chassis": "E38 (2)",
+   "chassis_slug": "e38-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan Long Wheelbase",
+   "engine_slug": "m62b44-tu"
+  }
+ ]
+}

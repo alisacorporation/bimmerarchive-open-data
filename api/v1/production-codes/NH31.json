@@ -1,1 +1,24 @@
-{"code":"NH31","count":1,"results":[{"code":"NH31","model":"545i","body":"Touring","engine":"N62B44O0","power_kw":245,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2002-11","to":"2005-08","source":"https://www.bimmerarchive.org/code/nh31.html","chassis":"E61","chassis_slug":"e61","brand":"BMW","chassis_description":"BMW 5 Series Touring"}]}
+{
+ "code": "NH31",
+ "count": 1,
+ "results": [
+  {
+   "code": "NH31",
+   "model": "545i",
+   "body": "Touring",
+   "engine": "N62B44O0",
+   "power_kw": 245,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2002-11",
+   "to": "2005-08",
+   "source": "https://www.bimmerarchive.org/code/nh31.html",
+   "chassis": "E61",
+   "chassis_slug": "e61",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Touring",
+   "engine_slug": "n62b44o0"
+  }
+ ]
+}

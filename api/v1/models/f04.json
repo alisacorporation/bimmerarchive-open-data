@@ -1,1 +1,128 @@
-{"code":"F04","slug":"f04","brand":"BMW","description":"BMW 7 Series Sedan - ActiveHybrid","years":"2010 - 2012","year_from":2010,"year_to":2012,"type":"Serie","production_code_count":4,"has_detail":true,"production_codes":[{"code":"KX61","model":"ActiveHybrid 7","body":"Sedan","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-11","to":"2009-12","source":"https://www.bimmerarchive.org/code/kx61.html"},{"code":"KX63","model":"ActiveHybrid 7","body":"Sedan","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2008-10","to":"2009-12","source":"https://www.bimmerarchive.org/code/kx63.html"},{"code":"KX81","model":"ActiveHybrid 7L","body":"Sedan","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2008-11","to":"2009-11","source":"https://www.bimmerarchive.org/code/kx81.html"},{"code":"KX83","model":"ActiveHybrid 7L","body":"Sedan","engine":"N63B44O1","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2008-10","to":"2009-12","source":"https://www.bimmerarchive.org/code/kx83.html"}],"plants":[{"slug":"bmw-plant-dingolfing","name":"Bmw Plant Dingolfing"}],"photos":[{"slug":"2050-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"},{"slug":"2042-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"},{"slug":"2048-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"},{"slug":"2046-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"},{"slug":"2299-196-bmw-active-hybrid-x6-7","title":"BMW Active Hybrid X6 und 7"},{"slug":"2049-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"},{"slug":"2039-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"},{"slug":"2051-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"},{"slug":"2044-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"},{"slug":"2045-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"},{"slug":"2041-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"},{"slug":"2040-180-bmw-active-hybrid-7","title":"BMW ActiveHybrid 7"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/f04.html"}
+{
+ "code": "F04",
+ "slug": "f04",
+ "brand": "BMW",
+ "description": "BMW 7 Series Sedan - ActiveHybrid",
+ "years": "2010 - 2012",
+ "year_from": 2010,
+ "year_to": 2012,
+ "type": "Serie",
+ "production_code_count": 4,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "KX61",
+   "model": "ActiveHybrid 7",
+   "body": "Sedan",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-11",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/kx61.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "KX63",
+   "model": "ActiveHybrid 7",
+   "body": "Sedan",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-10",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/kx63.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "KX81",
+   "model": "ActiveHybrid 7L",
+   "body": "Sedan",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2008-11",
+   "to": "2009-11",
+   "source": "https://www.bimmerarchive.org/code/kx81.html",
+   "engine_slug": "n63b44o1"
+  },
+  {
+   "code": "KX83",
+   "model": "ActiveHybrid 7L",
+   "body": "Sedan",
+   "engine": "N63B44O1",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2008-10",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/kx83.html",
+   "engine_slug": "n63b44o1"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-dingolfing",
+   "name": "Bmw Plant Dingolfing"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "2050-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  },
+  {
+   "slug": "2042-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  },
+  {
+   "slug": "2048-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  },
+  {
+   "slug": "2046-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  },
+  {
+   "slug": "2299-196-bmw-active-hybrid-x6-7",
+   "title": "BMW Active Hybrid X6 und 7"
+  },
+  {
+   "slug": "2049-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  },
+  {
+   "slug": "2039-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  },
+  {
+   "slug": "2051-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  },
+  {
+   "slug": "2044-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  },
+  {
+   "slug": "2045-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  },
+  {
+   "slug": "2041-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  },
+  {
+   "slug": "2040-180-bmw-active-hybrid-7",
+   "title": "BMW ActiveHybrid 7"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/f04.html"
+}

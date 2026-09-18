@@ -1,1 +1,24 @@
-{"code":"GE81","count":1,"results":[{"code":"GE81","model":"740D","body":"Sedan","engine":"M67D40O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-07","to":"2001-07","source":"https://www.bimmerarchive.org/code/ge81.html","chassis":"E38","chassis_slug":"e38","brand":"BMW","chassis_description":"BMW 7 Series Sedan"}]}
+{
+ "code": "GE81",
+ "count": 1,
+ "results": [
+  {
+   "code": "GE81",
+   "model": "740D",
+   "body": "Sedan",
+   "engine": "M67D40O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-07",
+   "to": "2001-07",
+   "source": "https://www.bimmerarchive.org/code/ge81.html",
+   "chassis": "E38",
+   "chassis_slug": "e38",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan",
+   "engine_slug": "m67d40o0-e65"
+  }
+ ]
+}

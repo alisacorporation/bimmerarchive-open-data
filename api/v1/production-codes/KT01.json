@@ -1,1 +1,24 @@
-{"code":"KT01","count":1,"results":[{"code":"KT01","model":"x5 xdrive40e","body":"Sports Activity Vehicle","engine":"N20","power_kw":230,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/kt01.html","chassis":"F15","chassis_slug":"f15","brand":"BMW","chassis_description":"BMW X5 - Sports Activity Vehicle"}]}
+{
+ "code": "KT01",
+ "count": 1,
+ "results": [
+  {
+   "code": "KT01",
+   "model": "x5 xdrive40e",
+   "body": "Sports Activity Vehicle",
+   "engine": "N20",
+   "power_kw": 230,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/kt01.html",
+   "chassis": "F15",
+   "chassis_slug": "f15",
+   "brand": "BMW",
+   "chassis_description": "BMW X5 - Sports Activity Vehicle",
+   "engine_slug": "n20b20m0"
+  }
+ ]
+}

@@ -1,1 +1,86 @@
-{"code":"E30 (Z)","slug":"e30-z1","brand":"BMW","description":"BMW Z1 Roadster","years":"1988 - 1991","year_from":1988,"year_to":1991,"type":"Serie","production_code_count":1,"has_detail":true,"production_codes":[{"code":"BA91","model":"Z1","body":"Roadster","engine":"M20","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1988-07","to":"1991-06","source":"https://www.bimmerarchive.org/code/ba91.html"}],"plants":[{"slug":"bmw-plant-munich","name":"BMW Group Plant Munich"}],"photos":[{"slug":"4421-112-bmw-z1-roadster","title":"BMW Z1 roadster"},{"slug":"6527-386-bmw-z1","title":"BMW Z1"},{"slug":"1161-112-bmw-z1-roadster","title":"BMW Z1 roadster"},{"slug":"6525-386-bmw-z1","title":"BMW Z1"},{"slug":"4422-112-bmw-z1-roadster","title":"BMW Z1 roadster"},{"slug":"6524-386-bmw-z1","title":"BMW Z1"},{"slug":"1157-112-bmw-z1-roadster","title":"BMW Z1 roadster"},{"slug":"2688-224-bmw-z1-roadster","title":"BMW Z1 roadster"},{"slug":"6526-386-bmw-z1","title":"BMW Z1"},{"slug":"1155-112-bmw-z1-roadster","title":"BMW Z1 roadster"},{"slug":"8361-454-bmw-z1","title":"BMW Z1"},{"slug":"1156-112-bmw-z1-roadster","title":"BMW Z1 roadster"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e30-z1.html"}
+{
+ "code": "E30 (Z)",
+ "slug": "e30-z1",
+ "brand": "BMW",
+ "description": "BMW Z1 Roadster",
+ "years": "1988 - 1991",
+ "year_from": 1988,
+ "year_to": 1991,
+ "type": "Serie",
+ "production_code_count": 1,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "BA91",
+   "model": "Z1",
+   "body": "Roadster",
+   "engine": "M20",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1988-07",
+   "to": "1991-06",
+   "source": "https://www.bimmerarchive.org/code/ba91.html",
+   "engine_slug": "m20b25"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-munich",
+   "name": "BMW Group Plant Munich"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "4421-112-bmw-z1-roadster",
+   "title": "BMW Z1 roadster"
+  },
+  {
+   "slug": "6527-386-bmw-z1",
+   "title": "BMW Z1"
+  },
+  {
+   "slug": "1161-112-bmw-z1-roadster",
+   "title": "BMW Z1 roadster"
+  },
+  {
+   "slug": "6525-386-bmw-z1",
+   "title": "BMW Z1"
+  },
+  {
+   "slug": "4422-112-bmw-z1-roadster",
+   "title": "BMW Z1 roadster"
+  },
+  {
+   "slug": "6524-386-bmw-z1",
+   "title": "BMW Z1"
+  },
+  {
+   "slug": "1157-112-bmw-z1-roadster",
+   "title": "BMW Z1 roadster"
+  },
+  {
+   "slug": "2688-224-bmw-z1-roadster",
+   "title": "BMW Z1 roadster"
+  },
+  {
+   "slug": "6526-386-bmw-z1",
+   "title": "BMW Z1"
+  },
+  {
+   "slug": "1155-112-bmw-z1-roadster",
+   "title": "BMW Z1 roadster"
+  },
+  {
+   "slug": "8361-454-bmw-z1",
+   "title": "BMW Z1"
+  },
+  {
+   "slug": "1156-112-bmw-z1-roadster",
+   "title": "BMW Z1 roadster"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e30-z1.html"
+}

@@ -1,1 +1,24 @@
-{"code":"DL91","count":1,"results":[{"code":"DL91","model":"525d","body":"Sedan","engine":"M57D25O0","power_kw":120,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1999-06","to":"2003-07","source":"https://www.bimmerarchive.org/code/dl91.html","chassis":"E39","chassis_slug":"e39","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "DL91",
+ "count": 1,
+ "results": [
+  {
+   "code": "DL91",
+   "model": "525d",
+   "body": "Sedan",
+   "engine": "M57D25O0",
+   "power_kw": 120,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1999-06",
+   "to": "2003-07",
+   "source": "https://www.bimmerarchive.org/code/dl91.html",
+   "chassis": "E39",
+   "chassis_slug": "e39",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m57d25o0"
+  }
+ ]
+}

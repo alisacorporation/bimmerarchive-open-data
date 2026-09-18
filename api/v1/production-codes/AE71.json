@@ -1,1 +1,24 @@
-{"code":"AE71","count":1,"results":[{"code":"AE71","model":"325ix","body":"Sedan","engine":"M20","power_kw":126,"drivetrain":"All Wheel-Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ae71.html","chassis":"E30 (16)","chassis_slug":"e30-16","brand":"BMW","chassis_description":"BMW 3 Series Sedan with All-Wheel Drive"}]}
+{
+ "code": "AE71",
+ "count": 1,
+ "results": [
+  {
+   "code": "AE71",
+   "model": "325ix",
+   "body": "Sedan",
+   "engine": "M20",
+   "power_kw": 126,
+   "drivetrain": "All Wheel-Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ae71.html",
+   "chassis": "E30 (16)",
+   "chassis_slug": "e30-16",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan with All-Wheel Drive",
+   "engine_slug": "m20b25"
+  }
+ ]
+}

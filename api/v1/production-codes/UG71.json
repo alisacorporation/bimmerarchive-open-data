@@ -1,1 +1,24 @@
-{"code":"UG71","count":1,"results":[{"code":"UG71","model":"X1 sDrive18i","body":"Sports Activity Vehicle","engine":"N20B20U0","power_kw":115,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"China","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ug71.html","chassis":"E84","chassis_slug":"e84","brand":"BMW","chassis_description":"BMW X1 - Sports Activity Vehicle"}]}
+{
+ "code": "UG71",
+ "count": 1,
+ "results": [
+  {
+   "code": "UG71",
+   "model": "X1 sDrive18i",
+   "body": "Sports Activity Vehicle",
+   "engine": "N20B20U0",
+   "power_kw": 115,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "China",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ug71.html",
+   "chassis": "E84",
+   "chassis_slug": "e84",
+   "brand": "BMW",
+   "chassis_description": "BMW X1 - Sports Activity Vehicle",
+   "engine_slug": "n20b20u0-18i"
+  }
+ ]
+}

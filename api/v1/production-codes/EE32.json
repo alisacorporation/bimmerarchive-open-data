@@ -1,1 +1,24 @@
-{"code":"EE32","count":1,"results":[{"code":"EE32","model":"635 Csi","body":"Coupe","engine":"S38","power_kw":null,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/ee32.html","chassis":"E24","chassis_slug":"e24","brand":"BMW","chassis_description":"BMW 6 Series Coupe"}]}
+{
+ "code": "EE32",
+ "count": 1,
+ "results": [
+  {
+   "code": "EE32",
+   "model": "635 Csi",
+   "body": "Coupe",
+   "engine": "S38",
+   "power_kw": null,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/ee32.html",
+   "chassis": "E24",
+   "chassis_slug": "e24",
+   "brand": "BMW",
+   "chassis_description": "BMW 6 Series Coupe",
+   "engine_slug": "s38b38"
+  }
+ ]
+}

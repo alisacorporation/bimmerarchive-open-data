@@ -1,1 +1,105 @@
-{"code":"G08 (MUE)","slug":"g08-lci","brand":"BMW","description":"BMW X3 - Sports Activity Vehicle - Long Wheelbase - LCI","years":"2021 -","year_from":2021,"year_to":null,"type":"Serie","production_code_count":2,"has_detail":true,"production_codes":[{"code":"41DU","model":"iX3","body":"Sports Activity Vehicle","engine":"HA0001N0","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/41du.html"},{"code":"42DU","model":"iX3","body":"Sports Activity Vehicle","engine":"HA0001N0","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/42du.html"}],"plants":[{"slug":"bmw-plant-shenyang","name":"BMW Brilliance Plant Dadong"}],"photos":[{"slug":"11916-572-bmw-ix3-g08-lci","title":"BMW iX3"},{"slug":"11919-572-bmw-ix3-g08-lci","title":"BMW iX3"},{"slug":"11913-572-bmw-ix3-g08-lci","title":"BMW iX3"},{"slug":"11926-572-bmw-ix3-g08-lci","title":"BMW iX3"},{"slug":"11932-572-bmw-ix3-g08-lci","title":"BMW iX3 - Highlights"},{"slug":"11925-572-bmw-ix3-g08-lci","title":"BMW iX3"},{"slug":"11922-572-bmw-ix3-g08-lci","title":"BMW iX3"},{"slug":"11915-572-bmw-ix3-g08-lci","title":"BMW iX3"},{"slug":"11931-572-bmw-ix3-g08-lci","title":"BMW iX3 - Highlights"},{"slug":"11910-572-bmw-ix3-g08-lci","title":"BMW iX3"},{"slug":"11928-572-bmw-ix3-g08-lci","title":"BMW iX3"},{"slug":"11911-572-bmw-ix3-g08-lci","title":"BMW iX3"}],"articles":[{"slug":"2021-08-11-the-new-bmw-ix3","title":"The new BMW iX3 (2021-08-11)"}],"source":"https://www.bimmerarchive.org/e-code/g08-lci.html"}
+{
+ "code": "G08 (MUE)",
+ "slug": "g08-lci",
+ "brand": "BMW",
+ "description": "BMW X3 - Sports Activity Vehicle - Long Wheelbase - LCI",
+ "years": "2021 -",
+ "year_from": 2021,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 2,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "41DU",
+   "model": "iX3",
+   "body": "Sports Activity Vehicle",
+   "engine": "HA0001N0",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/41du.html",
+   "engine_slug": "ha0001n0-g26"
+  },
+  {
+   "code": "42DU",
+   "model": "iX3",
+   "body": "Sports Activity Vehicle",
+   "engine": "HA0001N0",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/42du.html",
+   "engine_slug": "ha0001n0-g26"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-shenyang",
+   "name": "BMW Brilliance Plant Dadong"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "11916-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3"
+  },
+  {
+   "slug": "11919-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3"
+  },
+  {
+   "slug": "11913-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3"
+  },
+  {
+   "slug": "11926-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3"
+  },
+  {
+   "slug": "11932-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3 - Highlights"
+  },
+  {
+   "slug": "11925-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3"
+  },
+  {
+   "slug": "11922-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3"
+  },
+  {
+   "slug": "11915-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3"
+  },
+  {
+   "slug": "11931-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3 - Highlights"
+  },
+  {
+   "slug": "11910-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3"
+  },
+  {
+   "slug": "11928-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3"
+  },
+  {
+   "slug": "11911-572-bmw-ix3-g08-lci",
+   "title": "BMW iX3"
+  }
+ ],
+ "articles": [
+  {
+   "slug": "2021-08-11-the-new-bmw-ix3",
+   "title": "The new BMW iX3 (2021-08-11)"
+  }
+ ],
+ "source": "https://www.bimmerarchive.org/e-code/g08-lci.html"
+}

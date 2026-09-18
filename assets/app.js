@@ -27,7 +27,7 @@ function codeTable(rows, opts = {}) {
       ${opts.chassis ? `<td><a href="#/model/${esc(r.chassis_slug)}">${esc(r.chassis)}</a></td>` : ''}
       <td>${dash(r.model)}</td>
       <td>${dash(r.body)}</td>
-      <td>${dash(r.engine)}</td>
+      <td>${r.engine_slug ? `<a href="#/engine/${esc(r.engine_slug)}">${esc(r.engine)}</a>` : dash(r.engine)}</td>
       <td>${r.power_kw ? esc(r.power_kw) + ' kW' : '<span class="muted">—</span>'}</td>
       <td>${dash(r.drivetrain)}</td>
       <td>${dash(r.steering)}</td>
@@ -156,6 +156,29 @@ async function viewEngines() {
 async function viewEngine(slug) {
   const e = await get(`engines/${slug}.json`);
   const bore = e.bore_mm ? `${e.bore_mm} mm × ${e.stroke_mm} mm` : null;
+  // Find production codes that use this engine (via engine_slug)
+  let usedIn = '';
+  try {
+    const pcs = await get('production-codes.json');
+    const matches = pcs.results.filter(r => r.engine_slug === slug);
+    if (matches.length) {
+      // Group by chassis for compact display
+      const byChassis = {};
+      for (const m of matches) {
+        const key = m.chassis || '?';
+        if (!byChassis[key]) byChassis[key] = { slug: m.chassis_slug, codes: [] };
+        byChassis[key].codes.push(m.code);
+      }
+      const rows = Object.entries(byChassis).map(([ch, v]) =>
+        `<tr><td><a href="#/model/${esc(v.slug)}">${esc(ch)}</a></td>` +
+        `<td>${v.codes.map(c => `<a href="#/code/${encodeURIComponent(c)}">${esc(c)}</a>`).join(', ')}</td>` +
+        `<td>${v.codes.length}</td></tr>`).join('');
+      usedIn = `<h3>Used in (${matches.length} production codes)</h3>
+        <div class="tablewrap"><table>
+        <thead><tr><th>Chassis</th><th>Codes</th><th>Count</th></tr></thead>
+        <tbody>${rows}</tbody></table></div>`;
+    }
+  } catch { /* production-codes.json too large or missing — skip */ }
   return `<div class="wrap"><section>
     <a class="back" href="#/engines">← all engines</a>
     <h2>${esc(e.code)}</h2>
@@ -170,7 +193,7 @@ async function viewEngine(slug) {
       <dt>Bore × stroke</dt><dd>${dash(bore)}</dd>
       <dt>Fuel</dt><dd>${dash(e.fuel)}</dd>
       <dt>API</dt><dd><code>${API}/engines/${esc(e.slug)}.json</code></dd>
-    </dl></div></section></div>`;
+    </dl></div>${usedIn}</section></div>`;
 }
 
 async function viewCode(code) {

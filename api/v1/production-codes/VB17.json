@@ -1,1 +1,24 @@
-{"code":"VB17","count":1,"results":[{"code":"VB17","model":"325i","body":"Sedan","engine":"N52B30U0","power_kw":160,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2004-09","to":"2006-07","source":"https://www.bimmerarchive.org/code/vb17.html","chassis":"E90","chassis_slug":"e90","brand":"BMW","chassis_description":"BMW 3 Series Sedan"}]}
+{
+ "code": "VB17",
+ "count": 1,
+ "results": [
+  {
+   "code": "VB17",
+   "model": "325i",
+   "body": "Sedan",
+   "engine": "N52B30U0",
+   "power_kw": 160,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2004-09",
+   "to": "2006-07",
+   "source": "https://www.bimmerarchive.org/code/vb17.html",
+   "chassis": "E90",
+   "chassis_slug": "e90",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Sedan",
+   "engine_slug": "n52b30u0"
+  }
+ ]
+}

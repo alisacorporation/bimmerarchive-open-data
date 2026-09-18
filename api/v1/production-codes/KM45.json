@@ -1,1 +1,24 @@
-{"code":"KM45","count":1,"results":[{"code":"KM45","model":"730Ld","body":"Sedan","engine":"N57D30O0","power_kw":180,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Thailand","from":"2009-04","to":"2009-12","source":"https://www.bimmerarchive.org/code/km45.html","chassis":"F02","chassis_slug":"f02","brand":"BMW","chassis_description":"BMW 7 Series Sedan - Long Wheelbase"}]}
+{
+ "code": "KM45",
+ "count": 1,
+ "results": [
+  {
+   "code": "KM45",
+   "model": "730Ld",
+   "body": "Sedan",
+   "engine": "N57D30O0",
+   "power_kw": 180,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Thailand",
+   "from": "2009-04",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/km45.html",
+   "chassis": "F02",
+   "chassis_slug": "f02",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan - Long Wheelbase",
+   "engine_slug": "n57d30o0-540"
+  }
+ ]
+}

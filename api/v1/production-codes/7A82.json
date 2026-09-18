@@ -1,1 +1,24 @@
-{"code":"7A82","count":1,"results":[{"code":"7A82","model":"750i","body":"Sedan","engine":"N63B44O2","power_kw":330,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/7a82.html","chassis":"G11","chassis_slug":"g11","brand":"BMW","chassis_description":"BMW 7 Series Sedan"}]}
+{
+ "code": "7A82",
+ "count": 1,
+ "results": [
+  {
+   "code": "7A82",
+   "model": "750i",
+   "body": "Sedan",
+   "engine": "N63B44O2",
+   "power_kw": 330,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/7a82.html",
+   "chassis": "G11",
+   "chassis_slug": "g11",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan",
+   "engine_slug": "n63b44o2"
+  }
+ ]
+}

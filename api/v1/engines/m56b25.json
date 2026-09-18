@@ -1,0 +1,23 @@
+{
+ "code": "M56B25",
+ "slug": "m56b25",
+ "family": "M56",
+ "years": "2002 - 2006",
+ "year_from": 2002,
+ "year_to": 2006,
+ "displacement_cc": 2494,
+ "power_kw": 135,
+ "power_ps": 184,
+ "power_rpm": "6000",
+ "torque_nm": 237,
+ "torque_rpm": "3500",
+ "has_detail": false,
+ "construction": "6 Cylinder, 24 Valves, Reihe",
+ "cylinders": 6,
+ "valves": 24,
+ "compression_ratio": "10.5:1",
+ "bore_mm": 84.0,
+ "stroke_mm": 75.0,
+ "fuel": "Super bleifrei",
+ "source": "https://www.bimmerarchive.org/m-code/m56b25.html"
+}

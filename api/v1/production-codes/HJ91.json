@@ -1,1 +1,24 @@
-{"code":"HJ91","count":1,"results":[{"code":"HJ91","model":"M5","body":"Touring","engine":"S38","power_kw":255,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1992-03","to":"1995-08","source":"https://www.bimmerarchive.org/code/hj91.html","chassis":"E34 (2)","chassis_slug":"e34-2","brand":"BMW","chassis_description":"BMW 5 Series Touring"}]}
+{
+ "code": "HJ91",
+ "count": 1,
+ "results": [
+  {
+   "code": "HJ91",
+   "model": "M5",
+   "body": "Touring",
+   "engine": "S38",
+   "power_kw": 255,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1992-03",
+   "to": "1995-08",
+   "source": "https://www.bimmerarchive.org/code/hj91.html",
+   "chassis": "E34 (2)",
+   "chassis_slug": "e34-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Touring",
+   "engine_slug": "s38b38"
+  }
+ ]
+}

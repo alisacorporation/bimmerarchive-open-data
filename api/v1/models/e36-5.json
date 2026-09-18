@@ -1,1 +1,450 @@
-{"code":"E36 (5)","slug":"e36-5","brand":"BMW","description":"BMW 3 Series Compact","years":"1994 - 1998","year_from":1994,"year_to":1998,"type":"Serie","production_code_count":27,"has_detail":true,"production_codes":[{"code":"CH11","model":"316G","body":"Compact","engine":"M43","power_kw":65,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1995-05","to":"2000-06","source":"https://www.bimmerarchive.org/code/ch11.html"},{"code":"CG11","model":"316i","body":"Compact","engine":"M43","power_kw":75,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1993-06","to":"2000-07","source":"https://www.bimmerarchive.org/code/cg11.html"},{"code":"CG12","model":"316I","body":"Compact","engine":"M43","power_kw":75,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1994-03","to":"1998-12","source":"https://www.bimmerarchive.org/code/cg12.html"},{"code":"CG21","model":"316I","body":"Compact","engine":"M43","power_kw":75,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1993-08","to":"2000-07","source":"https://www.bimmerarchive.org/code/cg21.html"},{"code":"CG22","model":"316I","body":"Compact","engine":"M43","power_kw":75,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1994-05","to":"1998-12","source":"https://www.bimmerarchive.org/code/cg22.html"},{"code":"CS11","model":"316I","body":"Compact","engine":"M43/TU","power_kw":77,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-04","to":"2000-08","source":"https://www.bimmerarchive.org/code/cs11.html"},{"code":"CS12","model":"316I","body":"Compact","engine":"M43/TU","power_kw":77,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-05","to":"2000-08","source":"https://www.bimmerarchive.org/code/cs12.html"},{"code":"CS21","model":"316I","body":"Compact","engine":"M43/TU","power_kw":77,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-04","to":"2000-08","source":"https://www.bimmerarchive.org/code/cs21.html"},{"code":"CS22","model":"316I","body":"Compact","engine":"M43/TU","power_kw":77,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1998-11","to":"2000-08","source":"https://www.bimmerarchive.org/code/cs22.html"},{"code":"CJ51","model":"318TDS","body":"Compact","engine":"M41","power_kw":66,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1994-03","to":"2000-08","source":"https://www.bimmerarchive.org/code/cj51.html"},{"code":"CJ52","model":"318TDS","body":"Compact","engine":"M41","power_kw":66,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1994-06","to":"2000-08","source":"https://www.bimmerarchive.org/code/cj52.html"},{"code":"CG51","model":"318TI","body":"Compact","engine":"M42","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1994-03","to":"1996-01","source":"https://www.bimmerarchive.org/code/cg51.html"},{"code":"CG52","model":"318TI","body":"Compact","engine":"M42","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1994-04","to":"1996-01","source":"https://www.bimmerarchive.org/code/cg52.html"},{"code":"CG53","model":"318TI","body":"Compact","engine":"M42","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1994-05","to":"1995-11","source":"https://www.bimmerarchive.org/code/cg53.html"},{"code":"CG61","model":"318TI","body":"Compact","engine":"M42","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1994-04","to":"1996-01","source":"https://www.bimmerarchive.org/code/cg61.html"},{"code":"CG62","model":"318TI","body":"Compact","engine":"M42","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1994-06","to":"1995-12","source":"https://www.bimmerarchive.org/code/cg62.html"},{"code":"CG63","model":"318TI","body":"Compact","engine":"M42","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1994-06","to":"1995-11","source":"https://www.bimmerarchive.org/code/cg63.html"},{"code":"CG71","model":"318TI","body":"Compact","engine":"M44","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1995-02","to":"1998-12","source":"https://www.bimmerarchive.org/code/cg71.html"},{"code":"CG72","model":"318TI","body":"Compact","engine":"M44","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1995-07","to":"2000-08","source":"https://www.bimmerarchive.org/code/cg72.html"},{"code":"CG73","model":"318TI","body":"Compact","engine":"M44","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1995-05","to":"1999-07","source":"https://www.bimmerarchive.org/code/cg73.html"},{"code":"CG81","model":"318TI","body":"Compact","engine":"M44","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1995-01","to":"1998-12","source":"https://www.bimmerarchive.org/code/cg81.html"},{"code":"CG82","model":"318TI","body":"Compact","engine":"M44","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1995-07","to":"2000-08","source":"https://www.bimmerarchive.org/code/cg82.html"},{"code":"CG83","model":"318TI","body":"Compact","engine":"M44","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1995-05","to":"1999-07","source":"https://www.bimmerarchive.org/code/cg83.html"},{"code":"CG31","model":"323TI","body":"Compact","engine":"M52","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1997-01","to":"1998-12","source":"https://www.bimmerarchive.org/code/cg31.html"},{"code":"CG41","model":"323TI","body":"Compact","engine":"M52","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1997-02","to":"1998-12","source":"https://www.bimmerarchive.org/code/cg41.html"},{"code":"CT31","model":"323TI","body":"Compact","engine":"M52/TU","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-05","to":"2000-08","source":"https://www.bimmerarchive.org/code/ct31.html"},{"code":"CT41","model":"323TI","body":"Compact","engine":"M52/TU","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1998-04","to":"2000-08","source":"https://www.bimmerarchive.org/code/ct41.html"}],"plants":[{"slug":"bmw-plant-munich","name":"BMW Group Plant Munich"}],"photos":[{"slug":"5175-114-bmw-323-ti-compact","title":"BMW 323ti compact"},{"slug":"1181-114-bmw-316i-compact-e36-5","title":"BMW 316i compact"},{"slug":"1182-114-bmw-323ti-compact-e36-5","title":"BMW 323ti compact"},{"slug":"1491-114-bmw-318ti-compact","title":"BMW 318ti compact"},{"slug":"5178-114-bmw-323-ti-compact","title":"BMW 323ti compact"},{"slug":"1492-114-bmw-3er-compact","title":"BMW 3er compact"},{"slug":"2701-224-bmw-323ti-compact","title":"BMW 323ti compact"},{"slug":"1169-114-bmw-318ti-compact-e36-5","title":"BMW 318ti compact"},{"slug":"5173-114-bmw-323-ti-compact","title":"BMW 323ti compact"},{"slug":"5171-114-bmw-323-ti-compact","title":"BMW 323ti compact"},{"slug":"5176-114-bmw-323-ti-compact","title":"BMW 323ti compact"},{"slug":"1493-114-bmw-3er-compact","title":"BMW 3er compact"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e36-5.html"}
+{
+ "code": "E36 (5)",
+ "slug": "e36-5",
+ "brand": "BMW",
+ "description": "BMW 3 Series Compact",
+ "years": "1994 - 1998",
+ "year_from": 1994,
+ "year_to": 1998,
+ "type": "Serie",
+ "production_code_count": 27,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "CH11",
+   "model": "316G",
+   "body": "Compact",
+   "engine": "M43",
+   "power_kw": 65,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1995-05",
+   "to": "2000-06",
+   "source": "https://www.bimmerarchive.org/code/ch11.html",
+   "engine_slug": "m43b18"
+  },
+  {
+   "code": "CG11",
+   "model": "316i",
+   "body": "Compact",
+   "engine": "M43",
+   "power_kw": 75,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1993-06",
+   "to": "2000-07",
+   "source": "https://www.bimmerarchive.org/code/cg11.html",
+   "engine_slug": "m43b18"
+  },
+  {
+   "code": "CG12",
+   "model": "316I",
+   "body": "Compact",
+   "engine": "M43",
+   "power_kw": 75,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1994-03",
+   "to": "1998-12",
+   "source": "https://www.bimmerarchive.org/code/cg12.html",
+   "engine_slug": "m43b18"
+  },
+  {
+   "code": "CG21",
+   "model": "316I",
+   "body": "Compact",
+   "engine": "M43",
+   "power_kw": 75,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1993-08",
+   "to": "2000-07",
+   "source": "https://www.bimmerarchive.org/code/cg21.html",
+   "engine_slug": "m43b18"
+  },
+  {
+   "code": "CG22",
+   "model": "316I",
+   "body": "Compact",
+   "engine": "M43",
+   "power_kw": 75,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1994-05",
+   "to": "1998-12",
+   "source": "https://www.bimmerarchive.org/code/cg22.html",
+   "engine_slug": "m43b18"
+  },
+  {
+   "code": "CS11",
+   "model": "316I",
+   "body": "Compact",
+   "engine": "M43/TU",
+   "power_kw": 77,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-04",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/cs11.html",
+   "engine_slug": "m43b19-tu-ol"
+  },
+  {
+   "code": "CS12",
+   "model": "316I",
+   "body": "Compact",
+   "engine": "M43/TU",
+   "power_kw": 77,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-05",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/cs12.html",
+   "engine_slug": "m43b19-tu-ol"
+  },
+  {
+   "code": "CS21",
+   "model": "316I",
+   "body": "Compact",
+   "engine": "M43/TU",
+   "power_kw": 77,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-04",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/cs21.html",
+   "engine_slug": "m43b19-tu-ol"
+  },
+  {
+   "code": "CS22",
+   "model": "316I",
+   "body": "Compact",
+   "engine": "M43/TU",
+   "power_kw": 77,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1998-11",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/cs22.html",
+   "engine_slug": "m43b19-tu-ol"
+  },
+  {
+   "code": "CJ51",
+   "model": "318TDS",
+   "body": "Compact",
+   "engine": "M41",
+   "power_kw": 66,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1994-03",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/cj51.html",
+   "engine_slug": "m41d17"
+  },
+  {
+   "code": "CJ52",
+   "model": "318TDS",
+   "body": "Compact",
+   "engine": "M41",
+   "power_kw": 66,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1994-06",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/cj52.html",
+   "engine_slug": "m41d17"
+  },
+  {
+   "code": "CG51",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M42",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1994-03",
+   "to": "1996-01",
+   "source": "https://www.bimmerarchive.org/code/cg51.html",
+   "engine_slug": "m42b18"
+  },
+  {
+   "code": "CG52",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M42",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1994-04",
+   "to": "1996-01",
+   "source": "https://www.bimmerarchive.org/code/cg52.html",
+   "engine_slug": "m42b18"
+  },
+  {
+   "code": "CG53",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M42",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1994-05",
+   "to": "1995-11",
+   "source": "https://www.bimmerarchive.org/code/cg53.html",
+   "engine_slug": "m42b18"
+  },
+  {
+   "code": "CG61",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M42",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1994-04",
+   "to": "1996-01",
+   "source": "https://www.bimmerarchive.org/code/cg61.html",
+   "engine_slug": "m42b18"
+  },
+  {
+   "code": "CG62",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M42",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1994-06",
+   "to": "1995-12",
+   "source": "https://www.bimmerarchive.org/code/cg62.html",
+   "engine_slug": "m42b18"
+  },
+  {
+   "code": "CG63",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M42",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1994-06",
+   "to": "1995-11",
+   "source": "https://www.bimmerarchive.org/code/cg63.html",
+   "engine_slug": "m42b18"
+  },
+  {
+   "code": "CG71",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M44",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1995-02",
+   "to": "1998-12",
+   "source": "https://www.bimmerarchive.org/code/cg71.html",
+   "engine_slug": "m44b19"
+  },
+  {
+   "code": "CG72",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M44",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1995-07",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/cg72.html",
+   "engine_slug": "m44b19"
+  },
+  {
+   "code": "CG73",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M44",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1995-05",
+   "to": "1999-07",
+   "source": "https://www.bimmerarchive.org/code/cg73.html",
+   "engine_slug": "m44b19"
+  },
+  {
+   "code": "CG81",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M44",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1995-01",
+   "to": "1998-12",
+   "source": "https://www.bimmerarchive.org/code/cg81.html",
+   "engine_slug": "m44b19"
+  },
+  {
+   "code": "CG82",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M44",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1995-07",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/cg82.html",
+   "engine_slug": "m44b19"
+  },
+  {
+   "code": "CG83",
+   "model": "318TI",
+   "body": "Compact",
+   "engine": "M44",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1995-05",
+   "to": "1999-07",
+   "source": "https://www.bimmerarchive.org/code/cg83.html",
+   "engine_slug": "m44b19"
+  },
+  {
+   "code": "CG31",
+   "model": "323TI",
+   "body": "Compact",
+   "engine": "M52",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1997-01",
+   "to": "1998-12",
+   "source": "https://www.bimmerarchive.org/code/cg31.html",
+   "engine_slug": "m52b28"
+  },
+  {
+   "code": "CG41",
+   "model": "323TI",
+   "body": "Compact",
+   "engine": "M52",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1997-02",
+   "to": "1998-12",
+   "source": "https://www.bimmerarchive.org/code/cg41.html",
+   "engine_slug": "m52b28"
+  },
+  {
+   "code": "CT31",
+   "model": "323TI",
+   "body": "Compact",
+   "engine": "M52/TU",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-05",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/ct31.html",
+   "engine_slug": "m52tub28"
+  },
+  {
+   "code": "CT41",
+   "model": "323TI",
+   "body": "Compact",
+   "engine": "M52/TU",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1998-04",
+   "to": "2000-08",
+   "source": "https://www.bimmerarchive.org/code/ct41.html",
+   "engine_slug": "m52tub28"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-munich",
+   "name": "BMW Group Plant Munich"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "5175-114-bmw-323-ti-compact",
+   "title": "BMW 323ti compact"
+  },
+  {
+   "slug": "1181-114-bmw-316i-compact-e36-5",
+   "title": "BMW 316i compact"
+  },
+  {
+   "slug": "1182-114-bmw-323ti-compact-e36-5",
+   "title": "BMW 323ti compact"
+  },
+  {
+   "slug": "1491-114-bmw-318ti-compact",
+   "title": "BMW 318ti compact"
+  },
+  {
+   "slug": "5178-114-bmw-323-ti-compact",
+   "title": "BMW 323ti compact"
+  },
+  {
+   "slug": "1492-114-bmw-3er-compact",
+   "title": "BMW 3er compact"
+  },
+  {
+   "slug": "2701-224-bmw-323ti-compact",
+   "title": "BMW 323ti compact"
+  },
+  {
+   "slug": "1169-114-bmw-318ti-compact-e36-5",
+   "title": "BMW 318ti compact"
+  },
+  {
+   "slug": "5173-114-bmw-323-ti-compact",
+   "title": "BMW 323ti compact"
+  },
+  {
+   "slug": "5171-114-bmw-323-ti-compact",
+   "title": "BMW 323ti compact"
+  },
+  {
+   "slug": "5176-114-bmw-323-ti-compact",
+   "title": "BMW 323ti compact"
+  },
+  {
+   "slug": "1493-114-bmw-3er-compact",
+   "title": "BMW 3er compact"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e36-5.html"
+}

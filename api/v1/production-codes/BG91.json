@@ -1,1 +1,24 @@
-{"code":"BG91","count":1,"results":[{"code":"BG91","model":"M3","body":"Coupe","engine":"S50","power_kw":236,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1995-03","to":"1998-12","source":"https://www.bimmerarchive.org/code/bg91.html","chassis":"E36 (2)","chassis_slug":"e36-2","brand":"BMW","chassis_description":"BMW 3 Series Coupe"}]}
+{
+ "code": "BG91",
+ "count": 1,
+ "results": [
+  {
+   "code": "BG91",
+   "model": "M3",
+   "body": "Coupe",
+   "engine": "S50",
+   "power_kw": 236,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1995-03",
+   "to": "1998-12",
+   "source": "https://www.bimmerarchive.org/code/bg91.html",
+   "chassis": "E36 (2)",
+   "chassis_slug": "e36-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe",
+   "engine_slug": "s50b32"
+  }
+ ]
+}

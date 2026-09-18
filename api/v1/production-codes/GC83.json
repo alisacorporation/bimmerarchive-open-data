@@ -1,1 +1,24 @@
-{"code":"GC83","count":1,"results":[{"code":"GC83","model":"750iL","body":"Sedan","engine":"M70B50","power_kw":220,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"1987-06","to":"1994-03","source":"https://www.bimmerarchive.org/code/gc83.html","chassis":"E32 (2)","chassis_slug":"e32-2","brand":"BMW","chassis_description":"BMW 7 Series Sedan Long Wheelbase"}]}
+{
+ "code": "GC83",
+ "count": 1,
+ "results": [
+  {
+   "code": "GC83",
+   "model": "750iL",
+   "body": "Sedan",
+   "engine": "M70B50",
+   "power_kw": 220,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "1987-06",
+   "to": "1994-03",
+   "source": "https://www.bimmerarchive.org/code/gc83.html",
+   "chassis": "E32 (2)",
+   "chassis_slug": "e32-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Sedan Long Wheelbase",
+   "engine_slug": "m70b50"
+  }
+ ]
+}

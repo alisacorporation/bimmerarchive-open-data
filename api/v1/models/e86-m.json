@@ -1,1 +1,114 @@
-{"code":"E86 (M)","slug":"e86-m","brand":"BMW","description":"BMW Z4 M Coupe","years":"-","year_from":null,"year_to":null,"type":"Serie","production_code_count":3,"has_detail":true,"production_codes":[{"code":"DU91","model":"Z4 M Coupé","body":"Coupe","engine":"S54","power_kw":252,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2005-10","to":"2008-07","source":"https://www.bimmerarchive.org/code/du91.html"},{"code":"DU92","model":"Z4 M Coupé","body":"Coupe","engine":"S54","power_kw":252,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2006-02","to":"2008-06","source":"https://www.bimmerarchive.org/code/du92.html"},{"code":"DU93","model":"Z4 M Coupé","body":"Coupe","engine":"S54","power_kw":246,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"USA","from":"2005-10","to":"2008-08","source":"https://www.bimmerarchive.org/code/du93.html"}],"plants":[{"slug":"bmw-plant-spartanburg","name":"BMW Plant Spartanburg"}],"photos":[{"slug":"502-61-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"77-11-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"75-11-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"501-61-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"84-13-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"78-11-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"73-11-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"872-87-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"83-13-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"503-61-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"74-11-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"},{"slug":"76-11-bmw-z4-m-coupe","title":"BMW Z4 M Coupé"}],"articles":[],"source":"https://www.bimmerarchive.org/e-code/e86-m.html"}
+{
+ "code": "E86 (M)",
+ "slug": "e86-m",
+ "brand": "BMW",
+ "description": "BMW Z4 M Coupe",
+ "years": "-",
+ "year_from": null,
+ "year_to": null,
+ "type": "Serie",
+ "production_code_count": 3,
+ "has_detail": true,
+ "production_codes": [
+  {
+   "code": "DU91",
+   "model": "Z4 M Coup\u00e9",
+   "body": "Coupe",
+   "engine": "S54",
+   "power_kw": 252,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2005-10",
+   "to": "2008-07",
+   "source": "https://www.bimmerarchive.org/code/du91.html",
+   "engine_slug": "s54b32-z3"
+  },
+  {
+   "code": "DU92",
+   "model": "Z4 M Coup\u00e9",
+   "body": "Coupe",
+   "engine": "S54",
+   "power_kw": 252,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2006-02",
+   "to": "2008-06",
+   "source": "https://www.bimmerarchive.org/code/du92.html",
+   "engine_slug": "s54b32-z3"
+  },
+  {
+   "code": "DU93",
+   "model": "Z4 M Coup\u00e9",
+   "body": "Coupe",
+   "engine": "S54",
+   "power_kw": 246,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "USA",
+   "from": "2005-10",
+   "to": "2008-08",
+   "source": "https://www.bimmerarchive.org/code/du93.html",
+   "engine_slug": "s54b32-z3"
+  }
+ ],
+ "plants": [
+  {
+   "slug": "bmw-plant-spartanburg",
+   "name": "BMW Plant Spartanburg"
+  }
+ ],
+ "photos": [
+  {
+   "slug": "502-61-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "77-11-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "75-11-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "501-61-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "84-13-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "78-11-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "73-11-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "872-87-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "83-13-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "503-61-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "74-11-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  },
+  {
+   "slug": "76-11-bmw-z4-m-coupe",
+   "title": "BMW Z4 M Coup\u00e9"
+  }
+ ],
+ "articles": [],
+ "source": "https://www.bimmerarchive.org/e-code/e86-m.html"
+}

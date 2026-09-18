@@ -1,1 +1,24 @@
-{"code":"WD72","count":1,"results":[{"code":"WD72","model":"335d","body":"Coupe","engine":"M57D30T2","power_kw":210,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2005-05","to":"2010-01","source":"https://www.bimmerarchive.org/code/wd72.html","chassis":"E92","chassis_slug":"e92","brand":"BMW","chassis_description":"BMW 3 Series Coupe"}]}
+{
+ "code": "WD72",
+ "count": 1,
+ "results": [
+  {
+   "code": "WD72",
+   "model": "335d",
+   "body": "Coupe",
+   "engine": "M57D30T2",
+   "power_kw": 210,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2005-05",
+   "to": "2010-01",
+   "source": "https://www.bimmerarchive.org/code/wd72.html",
+   "chassis": "E92",
+   "chassis_slug": "e92",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe",
+   "engine_slug": "m57d30t2"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"GX81","count":1,"results":[{"code":"GX81","model":"Hydrogen7","body":"Sedan","engine":"N73H60O0","power_kw":191,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2005-03","to":"2007-07","source":"https://www.bimmerarchive.org/code/gx81.html","chassis":"E68","chassis_slug":"e68","brand":"BMW","chassis_description":"BMW 7 Series Hydrogen 7"}]}
+{
+ "code": "GX81",
+ "count": 1,
+ "results": [
+  {
+   "code": "GX81",
+   "model": "Hydrogen7",
+   "body": "Sedan",
+   "engine": "N73H60O0",
+   "power_kw": 191,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2005-03",
+   "to": "2007-07",
+   "source": "https://www.bimmerarchive.org/code/gx81.html",
+   "chassis": "E68",
+   "chassis_slug": "e68",
+   "brand": "BMW",
+   "chassis_description": "BMW 7 Series Hydrogen 7",
+   "engine_slug": "n73h60o0"
+  }
+ ]
+}

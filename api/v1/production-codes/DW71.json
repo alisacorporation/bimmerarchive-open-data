@@ -1,1 +1,24 @@
-{"code":"DW71","count":1,"results":[{"code":"DW71","model":"328I KOR","body":"Convertible","engine":"N51B30M1","power_kw":172,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"2009-12","to":"2009-12","source":"https://www.bimmerarchive.org/code/dw71.html","chassis":"E93 (MUE)","chassis_slug":"e93n","brand":"BMW","chassis_description":"BMW 3 Series Convertible - LCI"}]}
+{
+ "code": "DW71",
+ "count": 1,
+ "results": [
+  {
+   "code": "DW71",
+   "model": "328I KOR",
+   "body": "Convertible",
+   "engine": "N51B30M1",
+   "power_kw": 172,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "2009-12",
+   "to": "2009-12",
+   "source": "https://www.bimmerarchive.org/code/dw71.html",
+   "chassis": "E93 (MUE)",
+   "chassis_slug": "e93n",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Convertible - LCI",
+   "engine_slug": "n51b30m1"
+  }
+ ]
+}

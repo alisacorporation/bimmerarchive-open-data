@@ -1,1 +1,24 @@
-{"code":"BE82","count":1,"results":[{"code":"BE82","model":"318IS","body":"Coupe","engine":"M44","power_kw":103,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"1995-07","to":"1999-04","source":"https://www.bimmerarchive.org/code/be82.html","chassis":"E36 (2)","chassis_slug":"e36-2","brand":"BMW","chassis_description":"BMW 3 Series Coupe"}]}
+{
+ "code": "BE82",
+ "count": 1,
+ "results": [
+  {
+   "code": "BE82",
+   "model": "318IS",
+   "body": "Coupe",
+   "engine": "M44",
+   "power_kw": 103,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "1995-07",
+   "to": "1999-04",
+   "source": "https://www.bimmerarchive.org/code/be82.html",
+   "chassis": "E36 (2)",
+   "chassis_slug": "e36-2",
+   "brand": "BMW",
+   "chassis_description": "BMW 3 Series Coupe",
+   "engine_slug": "m44b19"
+  }
+ ]
+}

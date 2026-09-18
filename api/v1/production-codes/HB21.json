@@ -1,1 +1,24 @@
-{"code":"HB21","count":1,"results":[{"code":"HB21","model":"520I","body":"Sedan","engine":"M20","power_kw":95,"drivetrain":"Rear-Wheel Drive","steering":"left","region":"Europe","from":"1987-06","to":"1990-08","source":"https://www.bimmerarchive.org/code/hb21.html","chassis":"E34","chassis_slug":"e34","brand":"BMW","chassis_description":"BMW 5 Series Sedan"}]}
+{
+ "code": "HB21",
+ "count": 1,
+ "results": [
+  {
+   "code": "HB21",
+   "model": "520I",
+   "body": "Sedan",
+   "engine": "M20",
+   "power_kw": 95,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": "1987-06",
+   "to": "1990-08",
+   "source": "https://www.bimmerarchive.org/code/hb21.html",
+   "chassis": "E34",
+   "chassis_slug": "e34",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan",
+   "engine_slug": "m20b25"
+  }
+ ]
+}

@@ -1,1 +1,24 @@
-{"code":"NT32","count":1,"results":[{"code":"NT32","model":"520i","body":"Sedan","engine":"N43B20O0","power_kw":125,"drivetrain":"Rear-Wheel Drive","steering":"right","region":"Europe","from":"2007-09","to":"2009-10","source":"https://www.bimmerarchive.org/code/nt32.html","chassis":"E60 (MUE)","chassis_slug":"e60n","brand":"BMW","chassis_description":"BMW 5 Series Sedan - LCI"}]}
+{
+ "code": "NT32",
+ "count": 1,
+ "results": [
+  {
+   "code": "NT32",
+   "model": "520i",
+   "body": "Sedan",
+   "engine": "N43B20O0",
+   "power_kw": 125,
+   "drivetrain": "Rear-Wheel Drive",
+   "steering": "right",
+   "region": "Europe",
+   "from": "2007-09",
+   "to": "2009-10",
+   "source": "https://www.bimmerarchive.org/code/nt32.html",
+   "chassis": "E60 (MUE)",
+   "chassis_slug": "e60n",
+   "brand": "BMW",
+   "chassis_description": "BMW 5 Series Sedan - LCI",
+   "engine_slug": "n43b20o0"
+  }
+ ]
+}

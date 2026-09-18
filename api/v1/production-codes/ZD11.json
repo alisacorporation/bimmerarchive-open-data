@@ -1,1 +1,24 @@
-{"code":"ZD11","count":1,"results":[{"code":"ZD11","model":"One D","body":"Sports Activity Vehicle","engine":"N47C16K1","power_kw":66,"drivetrain":"Front-Wheel Drive","steering":"left","region":"Europe","from":null,"to":null,"source":"https://www.bimmerarchive.org/code/zd11.html","chassis":"R60","chassis_slug":"r60","brand":"MINI","chassis_description":"MINI Countryman"}]}
+{
+ "code": "ZD11",
+ "count": 1,
+ "results": [
+  {
+   "code": "ZD11",
+   "model": "One D",
+   "body": "Sports Activity Vehicle",
+   "engine": "N47C16K1",
+   "power_kw": 66,
+   "drivetrain": "Front-Wheel Drive",
+   "steering": "left",
+   "region": "Europe",
+   "from": null,
+   "to": null,
+   "source": "https://www.bimmerarchive.org/code/zd11.html",
+   "chassis": "R60",
+   "chassis_slug": "r60",
+   "brand": "MINI",
+   "chassis_description": "MINI Countryman",
+   "engine_slug": "n47c16k1"
+  }
+ ]
+}
